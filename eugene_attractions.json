@@ -1,0 +1,1230 @@
+{
+  "title": "Eugene, OR Area Tourist Attractions",
+  "generated": "2026-05-05",
+  "total_attractions": 64,
+  "regions_covered": [
+    "UO Campus",
+    "Downtown Eugene",
+    "Whiteaker",
+    "South Eugene / Fairmount",
+    "West Eugene"
+  ],
+  "attractions": [
+    {
+      "name": "Eugene Emeralds Baseball Club",
+      "category": "Entertainment",
+      "description": "The Eugene Emeralds are a professional Minor League Baseball team and the High-A affiliate of the San Francisco Giants. Known affectionately as the \"Ems,\" they play their home games at the state-of-the-art PK Park and are famous for their unique \"Sasquatch\" branding and creative \"Exploding Whales\" promotional identity. MiLB Official Site, Wikipedia",
+      "address": "2760 Martin Luther King Jr Blvd (Ticket Office) / 2800 Martin Luther King Jr Blvd (PK Park)",
+      "city": "Eugene",
+      "region": "UO Campus",
+      "hours": "Ticket Office: Mon-Fri 9:00 am - 5:00 pm. Gamedays: 9:00 am - the 3rd inning. Weekend Gamedays: Opens at Noon. Gates open one hour before first pitch. MiLB Ticket Info",
+      "days_open": "Monday-Friday (Ticket Office); Game days (Stadium)",
+      "admission": "Single game tickets typically range from $13 to $25 depending on seat location and game demand. Group rates (20+ people) start at $12 per ticket for 20-99 people and $11 per ticket for 100+ people. Parking is $6 per car. MiLB Tickets, SeatGeek",
+      "website": "https://www.milb.com/eugene",
+      "phone": "(541) 342-5367",
+      "image_url": "https://upload.wikimedia.org/wikipedia/en/2/22/Eugene_Emeralds.PNG",
+      "highlights": [
+        "'State-of-the-art PK Park facility with a 4,000-person capacity and high-definition video board. [MiLB PK Park', 'High-A affiliate of the San Francisco Giants, featuring rising professional talent. Wikipedia', 'Award-winning promotional nights including \"Exploding Whales,\" \"Monarcas de Eugene,\" and \"Pranksters\" themes. MiLB Single Game Tickets', \"Family-friendly entertainment including Sluggo's Fun Zone with inflatables and a slide. MiLB A-Z Guide\", 'Post-game activities like \"Kids Run the Bases\" on Sundays and frequent firework displays. MiLB Promotions', 'Unique team merchandise and official \"Sasquatch\" gear available at the on-site Team Store. Eugene Emeralds Shop']"
+      ],
+      "tips": "PK Park is a cashless venue, so ensure you bring a card for all purchases. Adhere to the clear bag policy (bags must be clear and not exceed 12” x 6” x 12”). Arrive at least an hour early to secure parking in the Autzen Stadium lot and catch pre-game festivities. MiLB Ticket Info",
+      "nearby": "Autzen Stadium, Alton Baker Park, Science Factory (Eugene Science Center), University of Oregon Campus. Tripadvisor, MiLB PK Park"
+    },
+    {
+      "name": "Hayward Field",
+      "category": "Track and Field Stadium / Landmark / University Facility",
+      "description": "Hayward Field is a world-class track and field stadium located on the University of Oregon campus, widely regarded as the 'Theater for Track.' Rebuilt in 2020, it features a unique wood-ribbed roof, a nine-story landmark tower, and the interactive Hayward Hall museum. It is one of only three World Athletics Class 1 Facilities in the United States and serves as a premier venue for global competitions like the World Athletics Championships.",
+      "address": "1530 Agate Street",
+      "city": "Eugene",
+      "region": "UO Campus",
+      "hours": "Tuesday-Friday: 10 a.m. - 4 p.m. (Hayward Hall hours); Open until 6 p.m. on select Fridays before home football games.",
+      "days_open": "Tuesday - Friday (Hayward Hall)",
+      "admission": "Hayward Hall (museum) is free; Event ticket prices vary by competition (e.g., NCAA Championships, Prefontaine Classic) and seating tier.",
+      "website": "https://hayward.uoregon.edu",
+      "phone": "(541) 346-1000 (General), (541) 346-8281 (Ticket Office)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/The_New_Hayward_Field.jpg",
+      "highlights": [
+        "['World Athletics Class 1 Facility rating, the highest global standard for track venues.', 'Nine-story landmark tower inspired by the Olympic Torch with an observation deck.', \"Hayward Hall, a 4,000-square-foot interactive museum dedicated to Oregon's track and field history.\", 'Innovative wood-ribbed roof structure designed to maximize acoustics and natural light.', 'Unobstructed sight lines with the first row of seats sitting just feet from the track level.', 'The largest permanent video screen for a track and field stadium in the U.S. (160 feet wide).']"
+      ],
+      "tips": "Visit Hayward Hall during its Tuesday-Friday operating hours for a free museum experience; check the official event schedule before visiting as the stadium bowl may be closed during private team practices; campus parking is limited, so consider using public transportation or nearby paid lots.",
+      "nearby": "Autzen Stadium, Jordan Schnitzer Museum of Art, Museum of Natural and Cultural History, Matthew Knight Arena."
+    },
+    {
+      "name": "Jordan Schnitzer Museum of Art JSMA Visit Page",
+      "category": "Museum JSMA Visit Page",
+      "description": "The Jordan Schnitzer Museum of Art (JSMA) is the only academic art museum in Oregon accredited by the American Alliance of Museums. It features engaging exhibitions, significant collections of historic and contemporary art from the Americas, Asia, and Europe, and educational programs that support the university's mission and the community. JSMA Visit Page, Oregon Encyclopedia",
+      "address": "1430 Johnson Lane, Eugene, OR 97403-1223 JSMA Visit Page",
+      "city": "Eugene JSMA Visit Page",
+      "region": "UO Campus",
+      "hours": "Monday: Closed; Tuesday: Closed; Wednesday: 11:00 am - 8:00 pm; Thursday: 11:00 am - 5:00 pm; Friday: 11:00 am - 5:00 pm; Saturday: 11:00 am - 5:00 pm; Sunday: 11:00 am - 5:00 pm JSMA Visit Page",
+      "days_open": "Wednesday - Sunday JSMA Visit Page",
+      "admission": "Adults: $5; Seniors (62+): $3; Children (under 18), College Students, Museum Members, and UO Faculty/Staff: FREE. Pay-As-You-Wish: Wednesdays 5:00 pm - 8:00 pm. Free admission on the first Friday of every month. JSMA Visit Page",
+      "website": "https://jsma.uoregon.edu/visit",
+      "phone": "541-346-3027 JSMA Visit Page",
+      "image_url": "https://commons.wikimedia.org/wiki/File:UO_JSMA_MainEntrance.jpg",
+      "highlights": [
+        "'Accredited by the American Alliance of Museums [JSMA Visit Page', 'Significant collections of Chinese, Japanese, and Korean art Oregon Encyclopedia', 'Extensive collection of Russian icons and lacquer boxes Oregon Encyclopedia', 'Historic building designed by Ellis F. Lawrence, listed on the National Register of Historic Places Wikipedia', 'Over 18,000 objects in the permanent collection JSMA Galleries Page']"
+      ],
+      "tips": "Visit on the first Friday of the month for free admission or on Wednesday evenings for pay-as-you-wish pricing. Free public parking is available on weekends in Lot 16A at 14th Ave. and Kincaid St. Wheelchairs are available for loan free of charge at the security entrance. JSMA Visit Page",
+      "nearby": "Knight Library, Museum of Natural and Cultural History, Hendricks Park, University of Oregon Pioneer Cemetery, Alton Baker Park Wikipedia, Tripadvisor"
+    },
+    {
+      "name": "Matthew Knight Arena University of Oregon Athletics",
+      "category": "Entertainment / Arena University of Oregon Athletics",
+      "description": "Matthew Knight Arena is a state-of-the-art multi-purpose venue on the University of Oregon campus that serves as the home for Ducks basketball and volleyball. Opened in 2011, it is famous for its unique \"Deep in the Woods\" floor design and its massive high-definition scoreboard, one of the largest in any NCAA arena Wikipedia, Architecture of the University of Oregon",
+      "address": "1390 Villard Street University of Oregon Athletics",
+      "city": "Eugene University of Oregon Athletics",
+      "region": "UO Campus",
+      "hours": "Box Office: Opens at least 1 hour prior to each ticketed event. Main Athletic Ticket Office (Moshofsky Center): 9:00 AM – 5:00 PM, Monday through Friday University of Oregon Athletics",
+      "days_open": "Monday – Friday (Ticket Office); Event-based (Arena) University of Oregon Athletics",
+      "admission": "Prices vary by event; tickets typically start around $10 with average prices near $31. Premium seating tiers include the Founders Club, McArthur Club, and general Club Level Vivid Seats, Event Tickets Center",
+      "website": "https://goducks.com/sports/matthew-knight-arena",
+      "phone": "(541) 346-4461 or 1-800-WEB-FOOT University of Oregon Athletics",
+      "image_url": "https://commons.wikimedia.org/wiki/File:Matt_Knight_Arena_(Eugene,_Oregon",
+      "highlights": [
+        "'Unique \"Deep in the Woods\" basketball floor design [University of Oregon Athletics', 'Largest Jumbotron-style scoreboard in an NCAA arena Eugene Cascades & Coast', 'LEED Gold certified facility for sustainable design Eugene Cascades & Coast', '12,364-seat capacity with optimal sightlines Wikipedia', 'Interactive art installations including Jason Bruges Studio’s sculpture University of Oregon Athletics', \"Home to Oregon Ducks men's and women's basketball and volleyball teams Wikipedia\"]"
+      ],
+      "tips": "Arrive 60-90 minutes before event start times and strictly follow the venue's Clear Bag Policy. Event parking is available in nearby campus garages for approximately $10, though public transportation (LTD bus) and cycling are recommended due to limited street parking Vivid Seats, University of Oregon Athletics",
+      "nearby": "Museum of Natural and Cultural History, Hayward Field, University of Oregon campus, Fairmount Park, Autzen Stadium TripAdvisor"
+    },
+    {
+      "name": "Oregon Bach Festival (OBF)",
+      "category": "Entertainment / Music Festival",
+      "description": "Oregon Bach Festival (OBF) is an annual Grammy Award-winning celebration of the works of J.S. Bach and his musical legacy. For over five decades, the festival has presented a diverse slate of choral-orchestral masterworks, guest artist performances, and innovative educational programs across Eugene and the state of Oregon. Official Website, Wikipedia",
+      "address": "975 East 18th Avenue, Eugene, OR 97403 (Administrative Office: Berwick Hall)",
+      "city": "Eugene",
+      "region": "UO Campus",
+      "hours": "Ticket Office: Tue–Fri, 12:00 PM – 5:00 PM; Sat, 12:00 PM – 3:00 PM; Closed Sun–Mon. Festival performances typically occur daily/nightly during the season. Official Website",
+      "days_open": "Annual Festival: June 27 – July 12, 2026 Official Website",
+      "admission": "Single tickets start at $20; Students $5; OBF+ Package $655 (Sold Out); Packages starting at $105; Choose What You Pay options available (minimum $5). Official Website",
+      "website": "https://oregonbachfestival.org",
+      "phone": "541.346.5666 (Administration), 541.682.5000 (Tickets) Official Website",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/HultCenterPerformingArts.jpg",
+      "highlights": [
+        "'Grammy Award-winning choral and orchestral performances [Official Website', 'Stangeland Family Youth Choral Academy and Organ Institute Official Website', 'Berwick Academy for Historically Informed Performance Official Website', '\"On the House\" series of free community concerts and events Official Website', '\"Choose What You Pay\" ticket sections to promote accessibility Official Website', 'World-class venues including the Hult Center and Beall Concert Hall Official Website']"
+      ],
+      "tips": "Attend the free \"On the House\" and \"Let’s Talk\" sessions for a deeper festival experience. Utilize the \"Choose What You Pay\" ticket options for affordable access to main stage events. Arrive early for pre-concert lectures to learn about the music and history. Reddit Tips, Official Website",
+      "nearby": "Hult Center for the Performing Arts, University of Oregon campus, Jordan Schnitzer Museum of Art, Museum of Natural and Cultural History, Alton Baker Park. Travel Lane County"
+    },
+    {
+      "name": "University of Oregon",
+      "category": "University",
+      "description": "Founded in 1876, the University of Oregon is a prestigious public research university known for its high research activity and membership in the Association of American Universities. The 295-acre campus is nestled along the Willamette River and features a lush arboretum with over 3,000 trees alongside a mix of historic 19th-century buildings and modern sustainable architecture. University of Oregon Wikipedia",
+      "address": "1585 East 13th Avenue",
+      "city": "Eugene",
+      "region": "UO Campus",
+      "hours": "Student Welcome Center: Mon-Fri 8:00 AM - 5:00 PM, Sat 8:30 AM - 12:30 PM, Sun Closed. UO Visit. General campus grounds are accessible 24/7, though building access varies.",
+      "days_open": "Monday - Saturday (Visitor Services); Campus grounds open daily.",
+      "admission": "Campus Entry: Free. Guided Tours: Free (registration required). UO Visit. Jordan Schnitzer Museum of Art: $5 Adults, $3 Seniors (62+), Free for UO students/faculty/staff and children under 18. JSMA. Museum of Natural and Cultural History: $7 General, $5 Seniors/Youth (3-18), Free for children under 2 and UO community. MNCH.",
+      "website": "https://www.uoregon.edu",
+      "phone": "541-346-1000",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Lillis_Complex_%28University_of_Oregon%29.jpg",
+      "highlights": [
+        "'Jordan Schnitzer Museum of Art with its extensive Asian and American collections. [JSMA', 'Museum of Natural and Cultural History, home to the world’s oldest pair of shoes. MNCH', 'Hayward Field, a world-class track and field stadium and host to international championships. GoDucks', \"The sustainable Lillis Business Complex, featuring an iconic glass 'O' design. UO News\", 'Historic Deady and Villard Halls, which are designated National Historic Landmarks. UO Wikipedia', 'The Erb Memorial Union (EMU), the vibrant center of campus life and student activity. UO EMU']"
+      ],
+      "tips": "Schedule guided tours 2-4 weeks in advance for the best experience. Visitor parking permits can be purchased at the kiosk on 13th Ave and Agate St. Be sure to visit The Duck Store for official university gear and explore the many public art installations scattered throughout the grounds. UO Visit FAQ, Eugene, Cascades & Coast",
+      "nearby": "Autzen Stadium, Alton Baker Park, Willamette River trails, Hendricks Park, Skinner Butte Park, and the 5th Street Public Market. Tripadvisor"
+    },
+    {
+      "name": "University of Oregon Museum of Natural and Cultural History",
+      "category": "Museum",
+      "description": "The Museum of Natural and Cultural History at the University of Oregon is a world-class institution dedicated to enhancing knowledge of Earth's environments and cultures. It features exhibits tracing 300 million years of natural history and 15,000 years of cultural history, housed in a building inspired by Northwest Coast longhouses. Official Website, Eugene Cascades & Coast",
+      "address": "1680 East 15th Avenue, Eugene, OR 97403",
+      "city": "Eugene",
+      "region": "UO Campus",
+      "hours": "Wednesday: 10:00 a.m. – 5:00 p.m.; Thursday: 10:00 a.m. – 8:00 p.m.; Friday: 10:00 a.m. – 5:00 p.m.; Saturday: 10:00 a.m. – 5:00 p.m.; Sunday: 10:00 a.m. – 5:00 p.m.; Monday: Closed; Tuesday: Closed. Official Website",
+      "days_open": "Wednesday through Sunday",
+      "admission": "General: $7; Seniors (62+): $5; Youths (3-18): $5; Families (up to 2 adults and 4 youths): $14; Children (2 and under): Free; UO/LCC students, faculty, staff: Free (with ID); MNCH members: Free; Veterans and active-duty military: Free; Oregon Trail/EBT card holders: $1 (Individual) or $5 (Family); Free admission on the first Friday of each month. Official Website, Eugene Cascades & Coast",
+      "website": "https://mnch.uoregon.edu",
+      "phone": "541-346-3024 Official Website",
+      "image_url": "https://mnch.uoregon.edu/sites/default/files/File0380-edit.jpg",
+      "highlights": [
+        "[\"'Oregon—Where Past is Present' exhibit featuring archaeology of the First Americans and today's Tribes.\", \"'Explore Oregon' exhibit showcasing dynamic forces, giant spike-tooth salmon, and Ice Age fossils.\", \"The Glenn Starlin Native Plant Courtyard, a living research collection of Oregon's native plants.\", \"World's oldest shoes, which are part of the museum's extensive archaeological collections.\", 'Ongoing contemporary artist features, such as the 2026 featured artist Shirod Younker.', 'The Museum Store, featuring items by local and Native artists and science-themed gear.']"
+      ],
+      "tips": "Visit on the first Friday of any month for free admission. Lockers are available near the front desk for large bags and backpacks as they are not allowed in the galleries. On weekends without sporting events, university parking lots are available free of charge. Official Website, Travel Oregon",
+      "nearby": "Jordan Schnitzer Museum of Art, Matthew Knight Arena, Hayward Field, Alton Baker Park, University of Oregon Campus. Tripadvisor, Eugene Area Attractions"
+    },
+    {
+      "name": "5th Street Public Market",
+      "category": "Shopping, Dining, and Entertainment (Official Website)",
+      "description": "The 5th Street Public Market is Eugene's premier shopping and dining destination, featuring a collection of local boutiques, enchanting stores, and diverse eateries. Situated in the heart of downtown Eugene, it serves as a social hub and a must-visit destination that showcases the city's unique character and community spirit (Official Website, Emerald Palate).",
+      "address": "296 E 5th Ave, Eugene, OR 97401 (Official Website)",
+      "city": "Eugene (Official Website)",
+      "region": "Downtown Eugene",
+      "hours": "General Market: Monday-Saturday 10 AM - 7 PM, Sunday 11 AM - 6 PM; Eateries & Bar: 11 AM - 7 PM Daily; Marché & Le Bar: Monday-Thursday 12 PM - 9 PM, Friday 12 PM - 11 PM, Saturday 10 AM - 11 PM, Sunday 10 AM - 9 PM (Official Website)",
+      "days_open": "Open 7 days a week (Official Website)",
+      "admission": "Free (Emerald Palate, Wikipedia)",
+      "website": "https://www.5stmarket.com",
+      "phone": "(541) 484-0383 (Official Website)",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/5e5538b04f9803767f41a57b/1582644290144-HSS460UWCSQLFOEPZ46P/5thSt_Public_Market_Logo_2019.png?format=1500w",
+      "highlights": [
+        "'Historic marketplace originally built as a poultry plant in 1929 ([Official Website)', 'Home to fine dining at Marché and unique local boutiques like Swahili Modern (Emerald Palate)', 'Features a beautiful courtyard with an iconic brick fountain and rooster mascot (Official Website)', 'Includes the new Market Alley with additional shops, wine tasting, and local treats (Official Website)', 'Offers luxury boutique lodging at the Inn at the 5th and The Gordon Hotel (Official Website)', 'Host to regular community events, live music, and holiday celebrations (Official Website)']"
+      ],
+      "tips": "Visit on Saturdays to experience the adjacent Lane County Farmers Market, and check the event calendar for live music and workshops. Many shops offer free samples, and the courtyard is a great spot for people-watching (Official Website, Emerald Palate).",
+      "nearby": "Hult Center for the Performing Arts, Shelton McMurphey Johnson House, Willamette River bike trail, and Skinner Butte Park (Tripadvisor, Inn at the 5th)"
+    },
+    {
+      "name": "Alesong Brewing & Blending",
+      "category": "Restaurant, Bar, Brewery",
+      "description": "Alesong Brewing & Blending is an award-winning artisan brewery and blendery specializing in barrel-aged and Belgian-style beers. Located in the scenic Willamette Valley, it offers a unique experience where 100% of production is matured in oak barrels to create complex and balanced flavors. Alesong Official Website, Eugene, Cascades & Coast",
+      "address": "80848 Territorial Hwy, Eugene, OR 97405-9715",
+      "city": "Eugene",
+      "region": "Downtown Eugene",
+      "hours": "Thursday: 1:00 PM - 8:00 PM; Friday: 1:00 PM - 8:00 PM; Saturday: 1:00 PM - 8:00 PM; Sunday: 1:00 PM - 8:00 PM; Monday - Wednesday: Closed (Hot Kitchen closes at 7:30 PM) Alesong Official Website",
+      "days_open": "Thursday, Friday, Saturday, Sunday",
+      "admission": "Free entry; Tasting flights and guided experiences available for purchase (e.g., Belgian Beer & Cheese Tasting for $25.00) Alesong Store, Tripadvisor",
+      "website": "https://alesongbrewing.com",
+      "phone": "541-844-9925",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/62324d7344b7ce3f5a65c933/b567d3fd-086c-4ef9-acc0-dbd29791265f/alesong-logo-01.png?format=1500w",
+      "highlights": [
+        "'Specializes in 100% barrel-aged and blended beers, wines, and ciders [Alesong Story', 'Named 2024 Great American Beer Festival Brewery of the Year Alesong Official Website', 'On-site scratch kitchen serving seasonal burgers, salads, and shareables Alesong Countryside Brewery', 'Scenic outdoor patio with panoramic views of Willamette Valley vineyards Tripadvisor', 'Family-friendly atmosphere with lawn games like cornhole and giant Jenga Yelp', 'Barrel cellar tours and guided tasting experiences available Alesong Countryside Brewery']"
+      ],
+      "tips": "Reservations are not required for parties under 12; larger groups should inquire via the private events page. Well-behaved dogs on leashes are welcome in the outdoor areas. Outside food and beverages are not permitted as there is a full kitchen on-site. Dress for the weather as many tables are outdoors and uncovered. Alesong Countryside Brewery FAQs",
+      "nearby": "King Estate Winery, Chateau Lorane, Siuslaw Falls, Silvan Ridge Winery, Sweet Cheeks Winery Tripadvisor"
+    },
+    {
+      "name": "Alton Baker Park",
+      "category": "Park",
+      "description": "Alton Baker Park is Eugene’s largest developed park, featuring a mix of recreational facilities and natural spaces. Spanning over 370 acres, it includes the developed West Alton Baker Park and the expansive Whilamut Natural Area, providing diverse opportunities for outdoor activities along the Willamette River (City of Eugene).",
+      "address": "200 Day Island Rd, Eugene, OR 97401",
+      "city": "Eugene",
+      "region": "Downtown Eugene",
+      "hours": "6:00 AM - 11:00 PM (Daily) (City of Eugene Flyer)",
+      "days_open": "Monday - Sunday (Pacer)",
+      "admission": "Free (City of Eugene)",
+      "website": "https://www.eugene-or.gov/facilities/facility/details/Alton-Baker-Park-29",
+      "phone": "541-682-4800 (City of Eugene)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/AltonBakerPond.JPG",
+      "highlights": [
+        "\"Pre's Trail, a famous 4-mile running path ([Wikipedia)\", 'Cuthbert Amphitheater for outdoor performances (City of Eugene)', 'Nobel Peace Laureate Park (Wikipedia)', '18-hole disc golf course (Travel Oregon)', 'Dog park and BMX track (City of Eugene)', 'Boat launch for canoes and kayaks (City of Eugene)']"
+      ],
+      "tips": "Visit the duck ponds for a relaxing view, or explore the Whilamut Natural Area for a more rustic experience. The park is especially popular during University of Oregon home games, so check parking availability in advance (City of Eugene).",
+      "nearby": "Autzen Stadium, Eugene Science Center, Skinner Butte Park, University of Oregon (Wikipedia)"
+    },
+    {
+      "name": "Autzen Stadium",
+      "category": "Entertainment (Outdoor Football Stadium)",
+      "description": "Autzen Stadium is an iconic outdoor football stadium in Eugene, Oregon, serving as the home field for the University of Oregon Ducks. Opened in 1967 and significantly renovated in 2002, it is renowned for its intense atmosphere and is consistently ranked as one of the loudest venues in college football. The stadium features a FieldTurf playing surface and a massive \"DuckVision\" LED scoreboard. (Wikipedia, GoDucks.com)",
+      "address": "2727 Leo Harris Parkway",
+      "city": "Eugene",
+      "region": "Downtown Eugene",
+      "hours": "Ticket Office: 9:00 AM – 5:00 PM (Monday – Friday). Gameday: Gates typically open 3 hours prior to kickoff (GoDucks.com, GoDucks.com).",
+      "days_open": "Monday - Friday (Ticket Office); Game days (Stadium events) (GoDucks.com)",
+      "admission": "Prices vary by event and seating tier; 2025 single-game tickets range from approximately $22.50 to $1,701, with average prices around $117–$294 (eugenestadium.com). Season tickets for the 2025 season start at $692 (eugenestadium.com).",
+      "website": "https://goducks.com/sports/2011/6/21/205174790",
+      "phone": "1-800-WEBFOOT (800-932-3668) or 541-346-4461 (GoDucks.com)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Autzen_Stadium_at_night.jpg",
+      "highlights": [
+        "'Consistently ranked among the top 10 loudest college football stadiums in the nation ([GoDucks.com).', 'Home of the \"It never rains at Autzen Stadium\" tradition and the \"DuckVision\" mega-screen (Wikipedia).', 'Features the Moshofsky Center, a massive indoor practice facility that hosts popular pre-game festivities (Eugene Cascades & Coast).', 'Famous game-day entrance featuring the Oregon Duck mascot leading the team on a motorcycle (Wikipedia).', 'Includes premium hospitality options like Sky Suites, the Charter Box, and the 10,000-square-foot OCCU Club (GoDucks.com).', 'Site of \"The Pick,\" the legendary 1994 interception by Kenny Wheaton often credited with turning around the program\\'s history (Wikipedia).']"
+      ],
+      "tips": "Use the Autzen Express Shuttle for easy transport or park at the Eugene Science Center lot nearby. Arrive early to experience the pre-game atmosphere in the Moshofsky Center, and walk the Autzen Footbridge from the UO campus for a scenic route. (GoDucks.com, Reddit)",
+      "nearby": "Alton Baker Park, PK Park (baseball), Eugene Science Center, Cuthbert Amphitheater, and the University of Oregon campus (GoDucks.com, Lane County Homes)."
+    },
+    {
+      "name": "Clear Lake Resort (McKenzie River Headwaters)",
+      "category": "Park / Landmark / Resort",
+      "description": "Clear Lake is a pristine mountain lake formed 3,000 years ago by volcanic activity that dammed the McKenzie River, creating a unique underwater ecosystem. It is world-renowned for its exceptionally clear, 43-degree water that preserves a prehistoric sunken forest visible up to 100 feet below the surface. The area serves as the headwaters of the McKenzie River and offers a year-round retreat for hiking, fishing, and non-motorized boating. Linn County Parks, Travel Oregon",
+      "address": "60700 Hwy 126 (Clear Lake Resort) or NF-775 (Forest Service Road) Linn County Parks, US Forest Service",
+      "city": "Sisters",
+      "region": "Downtown Eugene",
+      "hours": "Lodge: 8:00 AM - 5:00 PM Daily; Restaurant: Mon-Thu 11:00 AM - 3:00 PM, Fri-Sun 8:00 AM - 5:00 PM; Day Use Area: 6:00 AM - 10:00 PM Linn County Parks, US Forest Service",
+      "days_open": "Daily (Open Year-Round) Linn County Parks",
+      "admission": "Day Use Parking: $9/day; Cabins and Yurts: Vary by season and type; Entry to the lake area is generally free Linn County Parks, US Forest Service",
+      "website": "https://www.linncountyor.gov/parksrec/park/clear-lake-resort",
+      "phone": "541-967-3917 Linn County Parks",
+      "image_url": "https://www.linncountyor.gov/sites/g/files/vyhlif14341/files/styles/full_node_primary/public/media/parksrec/image/44006/img-6037-1024x768.jpg",
+      "highlights": [
+        "['Sunken 3,000-year-old preserved forest visible through the water', 'Headwaters of the McKenzie River', '5-mile Clear Lake Loop Trail for hiking and mountain biking', 'Non-motorized boating with rowboat and kayak rentals available', 'Year-round resort accommodations including rustic cabins and yurts', 'Exceptional freshwater scuba diving amongst the sunken trees']"
+      ],
+      "tips": "Swimming is not recommended due to the near-freezing 43°F water temperatures year-round. All motorized watercraft are strictly prohibited on the lake to maintain its clarity. Reservations for cabins and yurts are highly recommended, especially during peak seasons. Linn County Parks, Eugene Cascades & Coast",
+      "nearby": "Sahalie and Koosah Falls, McKenzie River Trail, Hoodoo Ski Area, Belknap Hot Springs, Black Butte Ranch Linn County Parks"
+    },
+    {
+      "name": "ColdFire Brewing",
+      "category": "Brewery & Restaurant (ColdFire Brewing)",
+      "description": "Founded in 2015 by brothers Dan and Stephen Hughes, ColdFire Brewing is an award-winning artisan brewery that blends traditional European brewing techniques with Pacific Northwest creativity. The establishment features a public house offering wood-fired fare, fermented foods, and a diverse selection of beers ranging from classic lagers to barrel-aged specialties (ColdFire Brewing).",
+      "address": "260 Ferry Street, Eugene, OR 97401 (ColdFire Brewing)",
+      "city": "Eugene (ColdFire Brewing)",
+      "region": "Downtown Eugene",
+      "hours": "Monday - Sunday: 11:30 AM - 9:00 PM (ColdFire Brewing)",
+      "days_open": "Daily (ColdFire Brewing)",
+      "admission": "Free entry (ColdFire Brewing)",
+      "website": "https://coldfirebrewing.com",
+      "phone": "(541) 762-2221 (ColdFire Brewing)",
+      "image_url": "https://cdn.sanity.io/images/0z776y9q/production/3499dd91b7e543858b179659f4cac17a454830f2-800x597.jpg",
+      "highlights": [
+        "\"Awarded Oregon's Medium-Sized Brewery of the Year in 2025 ([ColdFire Brewing)\", 'Extensive beer list featuring GABF and World Beer Cup medal-winning brews like their Czech Pils (ColdFire Brewing)', 'Wood-fired kitchen serving burgers, smoked meats, and seasonal farm-to-table dishes (ColdFire Brewing)', \"Family-friendly environment with a dedicated kids' menu and snacks (ColdFire Brewing)\", 'Weekly specials including Taco Tuesdays and Thursday Burger and Brew nights (ColdFire Brewing)', 'Vibrant community space with outdoor seating and proximity to the Willamette River (ColdFire Brewing)']"
+      ],
+      "tips": "Visit during Happy Hour (Monday-Friday, 3-5 PM) for discounts on select drafts, cocktails, and snacks like beer cheese nachos. It is also a popular pre-game destination for those heading to Autzen Stadium, as it's within walking distance via the pedestrian bridge (ColdFire Brewing, Yelp).",
+      "nearby": "Autzen Stadium, Willamette River bike trail, Shelton McMurphey Johnson House, Hult Center for the Performing Arts, Eugene Saturday Market (Tripadvisor)"
+    },
+    {
+      "name": "Dorris Ranch",
+      "category": "Museum, Park, and National Historic Site",
+      "description": "Dorris Ranch is a historic 268-acre park and working commercial filbert orchard that serves as a living museum of Oregon's agricultural heritage. Established in 1892, it is recognized as the first commercial filbert orchard in the United States and is listed on the National Register of Historic Places. Visitors can explore miles of scenic trails, a historical living history village, and the 'Fast Forest,' which commemorates record-breaking track and field athletes. Willamalane Park and Recreation District",
+      "address": "205 Dorris Street, Springfield, OR 97477-5426",
+      "city": "Springfield",
+      "region": "Downtown Eugene",
+      "hours": "Monday: Dawn to Dusk; Tuesday: Dawn to Dusk; Wednesday: Dawn to Dusk; Thursday: Dawn to Dusk; Friday: Dawn to Dusk; Saturday: Dawn to Dusk; Sunday: Dawn to Dusk Willamalane Park and Recreation District",
+      "days_open": "7 days a week Travel Oregon",
+      "admission": "Free (fees apply for specific educational programs and private event rentals) Willamalane Park and Recreation District, Travel Oregon",
+      "website": "https://www.willamalane.org/places/dorris-ranch",
+      "phone": "(541) 736-4544 Willamalane Park and Recreation District",
+      "image_url": "https://www.willamalane.org/sites/default/files/2024-11/1N4A8017-2%20%283%29.jpg",
+      "highlights": [
+        "'Oldest commercial filbert (hazelnut) orchard in the United States [Travel Oregon', 'Living History Village featuring replicas of a Native American plank house and a pioneer log cabin Willamalane Park and Recreation District', 'Fast Forest, a collection of trees honoring athletes who have run sub-4 minute miles Willamalane Park and Recreation District', 'Over 250 acres of hiking trails through orchards, woodlands, and along the Willamette River Oregon Outdoor Family', 'Western trailhead for the 4-mile paved Middle Fork Path Tripadvisor']"
+      ],
+      "tips": "Dogs are welcome but must be kept on a leash; visit during the fall harvest season to see the farm in active operation; and check the official website for notifications regarding controlled burns or orchard treatment closures. Oregon Outdoor Family, Willamalane Park and Recreation District",
+      "nearby": "Clearwater Park, Springfield History Museum, The Official Simpsons Mural, Willamette River, and Cascades Raptor Center Tripadvisor"
+    },
+    {
+      "name": "Downtown Eugene",
+      "category": "Entertainment, Shopping, and Arts District",
+      "description": "Downtown Eugene is the social, economic, and cultural heart of the community, offering a vibrant urban atmosphere with a mix of local boutiques, art galleries, and diverse dining options. It is home to major cultural institutions such as the Hult Center for the Performing Arts and the historic McDonald Theatre, as well as the popular Eugene Saturday Market. The district is characterized by its extensive street art, historic landmarks like Kesey Square, and its central role as a hub for both the local transit system and community gatherings.",
+      "address": "Broadway & Willamette St (Center), Eugene, OR 97401",
+      "city": "Eugene",
+      "region": "Downtown Eugene",
+      "hours": "District: Open 24/7; Visitor Information Center: Mon-Sat 10:00 AM - 7:00 PM, Sun 10:00 AM - 6:00 PM",
+      "days_open": "Daily",
+      "admission": "Free",
+      "website": "https://www.downtowneugene.com/",
+      "phone": "541-484-5307 (Visitor Center)",
+      "image_url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,q_75,w_1200/v1/crm/lanecounty/AdobeStock_212173436_E9002722-E0EB-43D5-9F3BA0B586F0335D_8cc1d38d-7279-4673-bb1c560d847af833.jpg",
+      "highlights": [
+        "['Hult Center for the Performing Arts: A premier venue for concerts, theater, and dance performances.', 'Eugene Saturday Market: The oldest continuously operating weekly open-air marketplace in the U.S., featuring local artisans and food.', '5th Street Public Market: A historic shopping destination with unique boutiques, eateries, and the Market Alley.', '20x21 Mural Project: An international collection of outdoor murals that transform downtown walls into a public art gallery.', 'Kesey Square: A central community plaza named after local author Ken Kesey, featuring a commemorative statue.', 'Lane County Farmers Market: A bountiful market offering fresh, local produce and goods in the heart of downtown.']"
+      ],
+      "tips": "Enjoy free parking in city garages (Parcade and Overpark) after 6 PM on weekdays and all day on weekends. The area is highly walkable and bike-friendly; consider using the PeaceHealth Rides bike-share program for easy transit. Don't miss the self-guided mural tour to see the city's impressive collection of street art.",
+      "nearby": "5th Street Public Market, Skinner Butte Park, Alton Baker Park, University of Oregon, Whiteaker Neighborhood"
+    },
+    {
+      "name": "Downtown Springfield, Oregon (Main Street District)",
+      "category": "Landmark / Historic District / Shopping & Dining District",
+      "description": "Downtown Springfield is a vibrant historic commercial center and the heart of the community, featuring a diverse array of shopping, dining, and cultural opportunities. Known as the real-life inspiration for the town in \"The Simpsons,\" the district blends its rich pioneer and industrial history with a modern, flourishing arts scene. Visitors can explore unique boutiques, award-winning breweries, and stunning street art throughout the 16-block walkable area. Eugene, Cascades & Coast, Discover Downtown Springfield",
+      "address": "Main Street (centered between Mill St and 8th St), Springfield, OR 97477",
+      "city": "Springfield",
+      "region": "Downtown Eugene",
+      "hours": "District: Accessible 24/7 (Business hours vary); Springfield History Museum: Thu-Sat 11am-4pm; Emerald Art Center: Tue-Sat 11am-4pm Discover Downtown Springfield, Springfield Museum",
+      "days_open": "Daily Discover Downtown Springfield",
+      "admission": "Free (Public district; Museum and Art Center also offer free admission) Eugene, Cascades & Coast, Discover Downtown Springfield",
+      "website": "https://www.discoverdowntownspringfield.org",
+      "phone": "541.726.3700 (City of Springfield) Discover Downtown Springfield",
+      "image_url": "https://www.discoverdowntownspringfield.org/wp-content/uploads/2018/06/Header-Home2.jpg",
+      "highlights": [
+        "\"Official Simpsons Mural: A 15’ x 30’ mural designed by Julius Preite and unveiled in 2014 to celebrate the town's connection to the show. [KLCC\", \"Springfield History Museum: Features exhibits on the city's pioneer, lumber, and craft brewing roots. Springfield Museum\", 'Emerald Art Center: A hub for local artists offering rotating exhibitions and art classes. Emerald Art Center', 'PublicHouse: A dynamic food and drink scene housed in a beautifully converted historic church space. Eugene, Cascades & Coast', 'Richard E. Wildish Community Theater: A premier performing arts venue hosting dance, opera, and film. Wildish Theater', 'Antique Shopping: Home to several unique shops like Trash n Treasures and Antique Peddlers. Eugene Magazine']"
+      ],
+      "tips": "Visit during the Second Friday Art Walk for special gallery openings and community events. Be sure to check out the 'Unofficial Simpsons Tour' map for more photo ops throughout the city. Free parking is available throughout the downtown area. Eugene, Cascades & Coast, Discover Downtown Springfield",
+      "nearby": "Dorris Ranch, Willamette River paths, University of Oregon, Autzen Stadium, Shoppes at Gateway Eugene, Cascades & Coast"
+    },
+    {
+      "name": "Eugene Celebration",
+      "category": "Entertainment / Community Festival Wikipedia",
+      "description": "The Eugene Celebration was a three-day annual community festival and civic event that showcased the playful and creative heart of Eugene. It featured a diverse lineup of live music, the coronation of the SLUG Queen, and a vibrant parade through the downtown streets Wikipedia, Lookout Eugene-Springfield",
+      "address": "Olive St & 10th St, Eugene, OR 97401 Songkick, SeatGeek",
+      "city": "Eugene Wikipedia",
+      "region": "Downtown Eugene",
+      "hours": "Historically: Friday (5:00 PM – 10:00 PM), Saturday (10:00 AM – 10:00 PM), Sunday (10:00 AM – 6:00 PM) Eugene Weekly, Market Fest",
+      "days_open": "Friday, Saturday, Sunday (Historically held in late August or early September) Wikipedia, Eugene Weekly",
+      "admission": "Historically $5–$15 for multi-day wristbands; specific events like Cuthbert concerts were $5 Eugene Weekly, Lane Music History",
+      "website": "https://en.wikipedia.org/wiki/Eugene_Celebration",
+      "phone": "541-682-6347 (City of Eugene Community & Cultural Affairs) Eugene, OR Website",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Topless_at_the_Eugene_Celebrations.jpg/1024px-Topless_at_the_Eugene_Celebrations.jpg",
+      "highlights": [
+        "['Coronation of the SLUG (Society for the Legitimization of the Ubiquitous Gastropod) Queen', 'The Eugene Celebration Parade featuring colorful floats and local organizations', 'Sustainability Village focused on environmental responsibility and green living', 'Live music performances across multiple downtown stages showcasing Pacific Northwest talent', 'Community Causeway featuring local non-profit and advocacy groups', 'The Show ‘n’ Shine Classic Car Show and quirky events like bed races']"
+      ],
+      "tips": "Use Lane Transit District (LTD) buses to avoid downtown parking congestion. Arrive early on Saturday morning to secure a good spot for the parade. Check for spiritual successors like the Eugene Bright Parade or Market Fest for current community events Lookout Eugene-Springfield, Market Fest",
+      "nearby": "Hult Center for the Performing Arts, 5th Street Public Market, Saturday Market, Farmers Market Pavilion Wikipedia, Eugene, OR Website"
+    },
+    {
+      "name": "Eugene Saturday Market",
+      "category": "Shopping, Entertainment, Craft Market Eugene Saturday Market, Wikipedia",
+      "description": "The Eugene Saturday Market is a vibrant weekly open-air craft market in Eugene, Oregon, known as the oldest continuously operating weekly open-air crafts festival in the United States. It features over 200 local artisans selling handmade goods, an international food court, and live musical performances in a festive community atmosphere. Eugene Saturday Market, Wikipedia",
+      "address": "126 E. 8th Avenue, Eugene, OR 97401 Eugene Saturday Market, Wikipedia",
+      "city": "Eugene Eugene Saturday Market",
+      "region": "Downtown Eugene",
+      "hours": "Monday: Closed; Tuesday: Closed; Wednesday: Closed; Thursday: Closed; Friday: Closed; Saturday: 10:00 AM - 4:00 PM; Sunday: Closed Eugene Saturday Market, Tripadvisor",
+      "days_open": "Saturdays (April through mid-November) Eugene Saturday Market FAQ",
+      "admission": "Free Eugene Saturday Market FAQ, Tripadvisor",
+      "website": "https://eugenesaturdaymarket.org/",
+      "phone": "(541) 686-8885 Eugene Saturday Market",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Eugene_Saturday_Market_craft_booths.jpg",
+      "highlights": [
+        "'Over 200 local artisans selling exclusively handmade goods [Eugene, Cascades & Coast', 'International food court featuring diverse global cuisines Wikipedia', 'Live musical performances on the main stage and strolling entertainers Eugene Saturday Market', 'Oldest weekly open-air crafts festival in the United States, established in 1970 Wikipedia', 'Coincides with the Lane County Farmers Market located across the street Eugene Saturday Market']"
+      ],
+      "tips": "Arrive early (around 10 AM) for the best selection of artisan goods and produce. Bring both cash and cards, as some vendors may prefer cash for smaller transactions. Consider taking public transit to Eugene Station to avoid downtown parking challenges. Airial Travel, Tripadvisor",
+      "nearby": "Lane County Farmers Market, Hult Center for the Performing Arts, Eugene Public Library, 5th Street Public Market Eugene Saturday Market, Tripadvisor"
+    },
+    {
+      "name": "Falling Sky Brewing",
+      "category": "Brewpub / Restaurant",
+      "description": "Falling Sky Brewing is a flagship Eugene brewpub established in 2012 that specializes in handcrafting nearly everything it serves, including award-winning craft beers and seasonal food. The brewery serves as a community hub with a dog-friendly atmosphere, offering a collaborative experience of makers, brewers, and foodies in a welcoming downtown space. Falling Sky Brewing, Tripadvisor",
+      "address": "1334 Oak Alley, Eugene, OR 97401",
+      "city": "Eugene",
+      "region": "Downtown Eugene",
+      "hours": "Monday: Closed; Tuesday: 11:00 AM - 9:00 PM; Wednesday: 11:00 AM - 9:00 PM; Thursday: 11:00 AM - 9:00 PM; Friday: 11:00 AM - 9:00 PM; Saturday: 11:00 AM - 9:00 PM; Sunday: 11:00 AM - 8:00 PM Falling Sky Brewing",
+      "days_open": "Tuesday - Sunday",
+      "admission": "Free (No admission fee for entry; beer and food for purchase) Falling Sky Brewing",
+      "website": "https://www.fallingskybrewing.com",
+      "phone": "(541) 505-7096",
+      "image_url": "https://static.wixstatic.com/media/852e5d_dc0983987873436590215597f970e874~mv2.png/v1/crop/x_0,y_321,w_3001,h_2393/fill/w_147,h_118,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Falling%20Sky%20Logo%2010_25_21-02.png",
+      "highlights": [
+        "'On-site brewery producing a wide variety of craft beers including IPAs, Lagers, and Sours [Falling Sky Brewing', 'House-made food menu featuring burgers, poutine, and seasonal dishes Falling Sky Brewing', 'Outdoor seating area that is dog-friendly Tripadvisor', 'Weekly \"Burger & a Brew\" special every Thursday Falling Sky Brewing', 'Regular community events and a welcoming atmosphere for students and locals alike Falling Sky Brewing', 'Curated beer flights available to sample multiple house styles Falling Sky Brewing']"
+      ],
+      "tips": "Visit on a Thursday to take advantage of the 'Burger & a Brew' special for a $1 pint with a burger purchase. Order a 4-beer flight to sample their diverse range of styles, from German lagers to tart sours. The brewpub is dog-friendly, making it a great spot to bring your pet. Falling Sky Brewing, Falling Sky Brewing",
+      "nearby": "Hult Center for the Performing Arts, The Barn Light, 5th Street Public Market Tripadvisor"
+    },
+    {
+      "name": "Heceta Head Lighthouse State Scenic Viewpoint",
+      "category": "Landmark, Park",
+      "description": "Heceta Head Lighthouse State Scenic Viewpoint features an iconic 56-foot lighthouse perched 206 feet above the Pacific Ocean, emitting the strongest light on the Oregon Coast visible for 21 miles. The park encompasses a historic lightkeeper's house now serving as a bed and breakfast, a sheltered beach at Cape Cove, and scenic hiking trails that connect to the Oregon Coast Trail. Visitors can explore the first floor of the lighthouse tower while enjoying premier vantage points for whale watching and sea bird observation (Oregon State Parks, Wikipedia).",
+      "address": "92072 US-101",
+      "city": "Yachats",
+      "region": "Downtown Eugene",
+      "hours": "Park: Daylight to Sunset Daily. Lighthouse (1st Floor): 11:00 AM - 3:00 PM (March - October); 11:00 AM - 2:00 PM (November - February) (Oregon State Parks)",
+      "days_open": "Daily (weather and staffing permitting) (Oregon State Parks)",
+      "admission": "Free for lighthouse tours; Daily parking fee is $10 for Oregon residents and $12 for non-residents (Oregon State Parks, Oregon State Parks News)",
+      "website": "https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=86",
+      "phone": "541-547-3416",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Heceta_Head_Lighthouse_01.jpg",
+      "highlights": [
+        "['Iconic 56-foot lighthouse tower first illuminated in 1894', 'Strongest light on the Oregon Coast, visible 21 miles out to sea', \"Historic Assistant Lightkeeper's House, now a Bed & Breakfast\", 'Premier location for whale watching and spotting sea lions and sea birds', 'Direct access to the 7-mile Heceta Lighthouse Trail network', 'Scenic views of the Pacific Ocean and the historic Cape Creek Bridge']"
+      ],
+      "tips": "Dress in layers as coastal weather is unpredictable, and wear sturdy walking shoes for the half-mile trail from the parking lot to the lighthouse. Arrive early during the summer months to ensure parking availability, as it is one of the most-visited lighthouses in the country (Oregon State Parks, LighthouseFriends).",
+      "nearby": "Sea Lion Caves, Cape Perpetua Scenic Area, Hobbit Trail, Washburne Memorial State Park, and Historic Old Town Florence (Tripadvisor)"
+    },
+    {
+      "name": "Historic Old Town Florence",
+      "category": "Historic District / Landmark",
+      "description": "Historic Old Town Florence is a charming 1900s fishing village nestled along the scenic Siuslaw River, offering a walkable blend of boutique shopping, waterfront dining, and historic architecture. Visitors can stroll the riverfront boardwalk, admire the iconic Siuslaw River Bridge, and explore a variety of art galleries and antique shops in a quaint coastal setting.",
+      "address": "Bay Street (running east from Highway 101)",
+      "city": "Florence",
+      "region": "Downtown Eugene",
+      "hours": "Daily, typically 10:00 AM – 5:00 PM (Individual shop and restaurant hours vary; many open at 10:00 AM)",
+      "days_open": "Daily",
+      "admission": "Free (area access); Individual attractions like Siuslaw Pioneer Museum have small fees (~$5-$7)",
+      "website": "https://florencechamber.com/historic-old-town/",
+      "phone": "541-997-3128 (Chamber of Commerce)",
+      "image_url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,f_avif,h_777,q_65,w_1920/v1/clients/florenceor/Old_Town_from_Best_Western_Dina_Pavlis_155957c9-8ede-46ee-b3b6-717bac79de2a.jpg",
+      "highlights": [
+        "['Scenic riverfront boardwalk with views of the Siuslaw River Bridge and local wildlife like sea lions', 'A diverse collection of boutique shops, art galleries, and antique stores along Bay Street', 'Waterfront dining featuring fresh coastal seafood and local favorites like saltwater taffy and clam chowder', \"Siuslaw Pioneer Museum, documenting the region's history from indigenous peoples to pioneer logging and fishing\", 'Gazebo Park and riverfront green spaces perfect for picnics and people-watching', 'Annual community events including the Rhododendron Festival and monthly Second Saturday Art Walks']"
+      ],
+      "tips": "The area is highly walkable, so park once and explore on foot. Shops and restaurants may close earlier than in larger cities, so plan for an early dinner. Check the local events calendar for festivals like the 'Rhody Days' in May.",
+      "nearby": "Siuslaw River Bridge, Oregon Dunes National Recreation Area, Heceta Head Lighthouse, Sea Lion Caves, Jessie M. Honeyman Memorial State Park"
+    },
+    {
+      "name": "Hop Valley Brewing Company Tripadvisor",
+      "category": "Restaurant, Bar, Brewery Tripadvisor",
+      "description": "Founded in 2009, Hop Valley Brewing is a cornerstone of the Lane County craft beer scene, known for its innovative use of Cryo Hops and refreshingly different brews. The Springfield location is the brewery's original flagship, offering a laid-back atmosphere with a full kitchen, extensive tap list, and a spacious pet-friendly patio. Hop Valley Brewing Co., Origlio Beverage",
+      "address": "980 Kruse Way, Springfield, OR 97477 Hop Valley Brewing Co.",
+      "city": "Springfield Hop Valley Brewing Co.",
+      "region": "Downtown Eugene",
+      "hours": "Monday - Sunday: 11:30 AM - 11:00 PM Tripadvisor, Eugene, Cascades & Coast",
+      "days_open": "Open Daily Tripadvisor",
+      "admission": "Free Tripadvisor",
+      "website": "https://www.hopvalleybrewing.com/",
+      "phone": "(541) 744-3330 Hop Valley Brewing Co.",
+      "image_url": "https://www.hopvalleybrewing.com/pubs/springfield/",
+      "highlights": [
+        "'Signature IPAs brewed with concentrated Cryo Hops [J.J. Taylor', 'Spacious and pet-friendly outdoor patio Hop Valley Brewing Co.', 'Full menu featuring unique dishes like Beer Cheese Soup and Banh Mi Yelp', 'Private event space available in the dedicated Barrel Room Hop Valley Brewing Co.', 'Family-friendly environment with games and house-made root beer Yelp', 'Weekly \"Grilled Cheese Experience\" specials supporting local food security Hop Valley Brewing Co.']"
+      ],
+      "tips": "Try the legendary bacon beer cheese soup and the giant pretzel with beer cheese. Happy hour is offered daily except for Fridays. If visiting during peak hours or on sunny days, arrive early to secure a spot on the popular outdoor deck. Yelp, Tripadvisor",
+      "nearby": "Gateway Mall, PublicHouse, The Simpsons Murals, Dorris Ranch, Splash! Indoor Waterpark Eugene, Cascades & Coast"
+    },
+    {
+      "name": "Hult Center for the Performing Arts",
+      "category": "Entertainment / Performing Arts Center",
+      "description": "The Hult Center for the Performing Arts is a spacious and elegant regional venue located in the heart of downtown Eugene. Since its grand opening in 1982, it has been a cornerstone of the local arts scene, featuring stunning architectural and acoustical features like its soaring glass lobby and basket-weave ceiling in the Silva Concert Hall. (Hult Center)",
+      "address": "One Eugene Center, Eugene, OR 97401",
+      "city": "Eugene",
+      "region": "Downtown Eugene",
+      "hours": "Ticket Office: Tuesday – Friday, Noon – 5 pm; Saturday, Noon – 3 pm. Administration: Tuesday – Friday, Noon – 4 pm. (Hult Center)",
+      "days_open": "Tuesday - Saturday (Ticket Office); Online sales 24/7. (Hult Center)",
+      "admission": "Ticket prices vary by event; orders are subject to service fees. (Hult Center)",
+      "website": "https://hultcenter.org",
+      "phone": "541-682-5000",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/HultCenterPerformingArts.jpg/800px-HultCenterPerformingArts.jpg",
+      "highlights": [
+        "['Silva Concert Hall with 2,448 seats', 'Soreng Theater with 495 seats', 'Home to seven resident companies including Eugene Symphony and Eugene Ballet', 'The Studio, a versatile space for receptions and intimate performances', 'Extensive collection of public art throughout the lobby and facilities', 'Adjacent to the Graduate Eugene hotel and conference center']"
+      ],
+      "tips": "Complimentary coat check is available; purchase tickets in advance online to avoid lines; the First Friday Art Walk is a great time to visit the area. (Hult Center)",
+      "nearby": "Graduate Eugene, 5th Street Public Market, Travel Lane County office, downtown art galleries, and various restaurants. (Hult Center)"
+    },
+    {
+      "name": "Iris Vineyards (Official Website)",
+      "category": "Winery & Vineyard (Oregon Wine Board)",
+      "description": "Founded in 1992, Iris Vineyards is a historic producer and one of Oregon’s first 100 wineries, known for crafting elegant, dry-farmed wines. The winery focuses on Pinot Noir, Pinot Gris, and Chardonnay that reflect the unique cool-climate terroir of the Southern Willamette Valley (Official Website).",
+      "address": "82110 Territorial Highway (Eugene Chamber of Commerce)",
+      "city": "Eugene (Rose Hill B&B)",
+      "region": "Downtown Eugene",
+      "hours": "Curbside pickup at the Cottage Grove winery is available by appointment; the previous Springfield wine bar location has transitioned to new ownership as of early 2026 (Official Website, Lookout Eugene-Springfield)",
+      "days_open": "By appointment for winery services (Official Website)",
+      "admission": "Tasting fees typically range from $15 to $20, often waived with a bottle purchase; curbside pickup is available by appointment (Tripadvisor, Official Website)",
+      "website": "https://irisvineyards.com",
+      "phone": "(805) 423-7809 (Official Website), (541) 242-6588 (Eugene Chamber of Commerce)",
+      "image_url": "https://irisvineyards.com/wp-content/uploads/2024/05/Iris-Vineyards-Logo.png",
+      "highlights": [
+        "'Specializes in cool-climate Pinot Noir, Pinot Gris, and Chardonnay ([Official Website)', 'Utilizes dry-farming techniques to ensure purity and depth in every bottle (Official Website)', 'Led by renowned winemaker Nicole Walsh, with over 29 vintages of experience (Official Website)', 'Features wines from the 1,000-acre Chalice Estate Vineyard in the Lorane Valley (Rose Hill B&B)', 'Consistently earns 90+ scores from top wine critics (Official Website)', 'Offers a variety of sparkling wines and wine-based cocktails (Oregon Wine Board)']"
+      ],
+      "tips": "Verify current tasting availability before visiting, as the downtown Springfield location closed in late 2025 and the estate vineyard primarily hosts private events and weddings (Lookout Eugene-Springfield, Wedding Spot).",
+      "nearby": "King Estate Winery, Territorial Highway scenic drive, Dorris Ranch, and the Springfield History Museum (Tripadvisor)"
+    },
+    {
+      "name": "Lane County Farmers Market",
+      "category": "Shopping / Farmers Market",
+      "description": "The Lane County Farmers Market is Eugene's largest farmers market, featuring over 100 local farmers and food artisans. Operating primarily from the state-of-the-art Farmers Market Pavilion and Plaza, it provides a vibrant community space for purchasing fresh, in-season Oregon-grown produce and handcrafted food products. (Lane County Farmers Market) (Wikipedia)",
+      "address": "85 E 8th Ave, Eugene, OR 97401",
+      "city": "Eugene",
+      "region": "Downtown Eugene",
+      "hours": "Saturday: 9:00 AM - 2:00 PM (Year-round); Tuesday: 9:00 AM - 2:00 PM (May 5th - October 27th) (Lane County Farmers Market)",
+      "days_open": "Saturdays (Year-round), Tuesdays (May - October) (Lane County Farmers Market)",
+      "admission": "Free (Lane County Farmers Market)",
+      "website": "https://www.lanecountyfarmersmarket.org/",
+      "phone": "(541) 431-4923 (Lane County Farmers Market)",
+      "image_url": "https://www.lanecountyfarmersmarket.org/wp-content/uploads/2021/11/LCFM_logo_full-color.png",
+      "highlights": [
+        "'Over 100 local vendors providing fresh produce, meats, and artisan foods ([Lane County Farmers Market)', 'State-of-the-art Farmers Market Pavilion featuring cross-laminated timber and indoor/outdoor space (City of Eugene)', 'Accepts multiple currencies including SNAP/EBT, WIC checks, and Double Up Food Bucks (Lane County Farmers Market)', 'Year-round Saturday market operations in the heart of downtown Eugene (Lane County Farmers Market)', 'A community hub for live music, food demonstrations, and local networking (Lane County Farmers Market)', 'Strict \"Grown or Made in Oregon\" standard for all items sold (Lane County Farmers Market)']"
+      ],
+      "tips": "Park in the nearby Parcade or Overpark garages where the first hour is free on weekdays and all day is free on weekends. Bring reusable bags, though the market accepts various currencies including SNAP. Note that pets other than service animals are not permitted within the market area. (Lane County Farmers Market) (City of Eugene)",
+      "nearby": "Eugene Saturday Market, Voodoo Doughnut, Eugene Public Library, 5th Street Public Market, Hult Center for the Performing Arts (Lane County Farmers Market) (Yelp)"
+    },
+    {
+      "name": "Marché Restaurant Official Website",
+      "category": "Restaurant Official Website",
+      "description": "Marché is a French-based restaurant located in Eugene's 5th Street Public Market that celebrates the bountiful locally grown and gathered foods of the Pacific Northwest. The menu is ingredient-driven and simply presented, focusing on seasonal, regional, and sustainable practices from field to kitchen to table. Official Website",
+      "address": "296 East Fifth Avenue, Eugene, Oregon 97401 Official Website",
+      "city": "Eugene Official Website",
+      "region": "Downtown Eugene",
+      "hours": "Monday-Thursday: 12 PM - 9 PM; Friday: 12 PM - 11 PM; Saturday: 10 AM - 11 PM; Sunday: 10 AM - 9 PM. Happy Hour: Monday-Friday 3 PM - 5 PM. Brunch: Saturday & Sunday 10 AM - 2 PM. Official Website",
+      "days_open": "Daily Official Website",
+      "admission": "Free entry; menu prices typically range from $11-$22 for starters and $24-$48 for main plates Official Website",
+      "website": "https://marcherestaurant.com",
+      "phone": "(541) 342-3612 Official Website",
+      "image_url": "https://marcherestaurant.com/wp-content/uploads/2019/05/marche-logo-300x108.png",
+      "highlights": [
+        "'Farm-to-table French cuisine with a focus on Pacific Northwest ingredients [Official Website', 'James Beard Foundation Award Semifinalist for Outstanding Restaurant 2019 Official Website', 'Located in the heart of the historic 5th Street Public Market Official Website', 'Features an open kitchen and wood-fired oven for a vibrant dining atmosphere Official Website', 'Offers a range of experiences from casual bar bites at Le Bar to elegant dining in the main room Official Website', \"Seasonal menus that evolve with the region's agricultural bounty Official Website\"]"
+      ],
+      "tips": "Reservations are highly recommended for dinner and weekend brunch. Visit the adjacent Provisions Market Hall for local specialty goods and casual bites. Check out the weekday Happy Hour from 3-5 PM for excellent deals on snacks and cocktails. Official Website, Emerald Palate",
+      "nearby": "5th Street Public Market, Skinner Butte Park, Alton Baker Park, Shelton McMurphey Johnson House, and the Hult Center for the Performing Arts. Eugene Cascades & Coast"
+    },
+    {
+      "name": "McKenzie River Scenic Byway (Highway 126)",
+      "category": "Park / Scenic Byway",
+      "description": "The McKenzie River Scenic Byway (Hwy 126) is an 80-mile route east of Eugene that follows the pristine McKenzie River through the Willamette National Forest. It showcases a diverse landscape of lush Douglas fir forests, dramatic waterfalls, and ancient lava fields as it climbs toward the Cascade Mountains. Visitors can explore iconic sites like Sahalie and Koosah Falls, the iridescent Tamolitch Blue Pool, and the volcanic summit of McKenzie Pass. U.S. Forest Service, Y Travel Blog",
+      "address": "57600 McKenzie Highway, McKenzie Bridge, OR 97413 U.S. Forest Service",
+      "city": "McKenzie Bridge (and Eugene area) U.S. Forest Service",
+      "region": "Downtown Eugene",
+      "hours": "General Byway: Open 24/7 (Highway 242 detour is seasonal: June-Oct). McKenzie River Ranger Station: Monday-Friday, 10:00 a.m. - 4:30 p.m. U.S. Forest Service Offices",
+      "days_open": "Daily (General Access); Ranger Station: Monday-Friday U.S. Forest Service Offices",
+      "admission": "Free for general access; $5 for National Forest Day Pass (valid at developed trailheads); $30 for Annual Northwest Forest Pass; $80 for Interagency Annual Pass U.S. Forest Service Passes",
+      "website": "https://www.fs.usda.gov/r06/willamette/recreation/mckenzie-river-scenic-byway",
+      "phone": "(541) 822-3381 U.S. Forest Service Offices",
+      "image_url": "https://www.fs.usda.gov/sites/default/files/styles/extra_large/public/2023-03/Sahalie_Falls.jpg",
+      "highlights": [
+        "'Sahalie and Koosah Falls: Stunning 100-foot and 70-foot waterfalls accessible via a short loop trail. [Rose Campau', 'Tamolitch Blue Pool: A famous iridescent blue pool where the river emerges from a lava tube. Y Travel Blog', 'Clear Lake: The headwaters of the McKenzie River, featuring preserved 3,000-year-old underwater trees. Y Travel Blog', 'McKenzie River Trail: A 26.5-mile trail popular for world-class mountain biking and hiking. Willamette Valley', 'Dee Wright Observatory: A stone structure at McKenzie Pass offering 360-degree views of Cascade peaks. U.S. Forest Service', 'Belknap Hot Springs: Relaxing mineral springs located along the river corridor. Travel with Wildly North']"
+      ],
+      "tips": "Get to popular trailheads like Tamolitch Blue Pool before 10:00 a.m. to avoid crowds and parking issues. Note that Highway 242 (McKenzie Pass) is typically closed from November to July due to snow. Y Travel Blog",
+      "nearby": "Dee Wright Observatory, Proxy Falls, Clear Lake, Belknap Hot Springs, and the city of Eugene. U.S. Forest Service, Travel Oregon"
+    },
+    {
+      "name": "Mount Pisgah Arboretum",
+      "category": "Arboretum, Botanical Garden, Nature Preserve",
+      "description": "Mount Pisgah Arboretum is a 209-acre nature education facility and botanical garden that features seven miles of all-weather trails winding through diverse native habitats, including riparian woods, meadows, and evergreen forests. The site serves as a \"living tree museum\" where visitors can explore the ecology of the Southern Willamette Valley through interactive learning and seasonal festivals. (Mount Pisgah Arboretum, Wikipedia)",
+      "address": "34901 Frank Parrish Road, Eugene, OR 97405",
+      "city": "Eugene",
+      "region": "Downtown Eugene",
+      "hours": "Arboretum: Dawn to dusk, every day of the year; Administrative Office: Mon – Fri, 9 AM – 3 PM (Mount Pisgah Arboretum)",
+      "days_open": "Every day of the year (Mount Pisgah Arboretum)",
+      "admission": "Free (No entry fee); $5 parking fee per vehicle (Mount Pisgah Arboretum)",
+      "website": "https://mountpisgaharboretum.org",
+      "phone": "(541) 747-3817",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Mt_Pisgah_sign.jpg",
+      "highlights": [
+        "'Seven miles of all-weather trails with 23 bridges through diverse ecosystems ([Wikipedia)', 'Annual Wildflower & Music Festival in May and Mushroom Festival in October (Travel Lane County)', 'Extensive nature education programs for all ages and interactive interpretive exhibits (Mount Pisgah Arboretum)', 'Water garden featuring native species such as bullfrogs and turtles (Travel Lane County)', 'A popular venue for weddings and community events (Mount Pisgah Arboretum)']"
+      ],
+      "tips": "Groups larger than 10 should contact the office in advance and are encouraged to donate $1 per person. Bicycles can park for free, while vehicles must pay a $5 daily parking fee via onsite machines or the Passport Parking App. (Mount Pisgah Arboretum, Lane County Parks)",
+      "nearby": "Howard Buford Recreation Area, Coast Fork of the Willamette River, Cascades Raptor Center (Mount Pisgah Arboretum, Wikipedia)"
+    },
+    {
+      "name": "Oakridge Mountain Biking Trails",
+      "category": "Park (Mountain Biking Destination)",
+      "description": "Oakridge is celebrated as the \"Mountain Biking Capital of the Northwest,\" offering an expansive network of over 300 miles of world-class singletrack trails. Nestled in the Willamette National Forest, the area provides a diverse range of riding experiences, from flowy, scenic river-side paths to challenging, high-alpine descents with stunning Cascade Mountain views. (Travel Lane County)",
+      "address": "46375 Highway 58, Westfir, OR 97492 (Middle Fork Ranger Station)",
+      "city": "Oakridge / Westfir",
+      "region": "Downtown Eugene",
+      "hours": "Trails: Open 24 hours daily (subject to seasonal snow); Middle Fork Ranger Station (Office): Monday - Friday, 10:00 AM - 4:30 PM (U.S. Forest Service)",
+      "days_open": "Daily (City of Oakridge)",
+      "admission": "Free (parking at many trailheads requires a Northwest Forest Pass: $5 per day or $30 annually) (Discover NW)",
+      "website": "https://www.ci.oakridge.or.us/recreation/page/mountain-biking-oakridge-area",
+      "phone": "(541) 782-2283 (Middle Fork Ranger Station) (U.S. Forest Service)",
+      "image_url": "https://www.ci.oakridge.or.us/sites/g/files/vyhlif13431/files/styles/convert_image_to_webp/public/styles/full_node_primary_extra_wide/public/media/recreation/image/22081/oakridge_mountain_biking_best.jpg.webp",
+      "highlights": [
+        "'Over 300 miles of world-class singletrack trails ([Travel Lane County)', 'Designated as an IMBA Gold-Level Ride Center (City of Oakridge)', \"The Alpine Trail, known as the 'Crown Jewel' of Oakridge (Travel Lane County)\", 'Professional shuttle services providing access to long downhill runs (Cog Wild)', 'Diamond View Park featuring a bicycle skills park for all ages (City of Oakridge)', 'Scenic routes through old-growth forests and along the Willamette River (Travel Oregon)']"
+      ],
+      "tips": "Check trail conditions with the Middle Fork Ranger District before riding, especially during the wet season. Practice trail etiquette by yielding to hikers and equestrians, and prepare for remote backcountry conditions by carrying sufficient water and tools. (Travel Lane County)",
+      "nearby": "Salt Creek Falls, Willamette Pass Resort, Waldo Lake, 3 Legged Crane Pub and Brewhouse, Salmon Creek Falls (Travel Lane County)"
+    },
+    {
+      "name": "Oregon Coastal Tour – Eugene to Florence to Yachats",
+      "category": "Entertainment / Guided Tour",
+      "description": "The Oregon Coastal Tour from Eugene to Florence to Yachats is a full-day guided excursion showcasing the dramatic scenery of the Central Oregon Coast. Traveling in a Mercedes Sprinter van, visitors explore iconic landmarks including the Sea Lion Caves, Heceta Head Lighthouse, and the rugged Cape Perpetua Scenic Area.",
+      "address": "5th Street Public Market (Stop #3), Eugene, OR 97401 (Pickup location); or 91560 Highway 101, Florence, OR 97439 (Sea Lion Caves office)",
+      "city": "Eugene",
+      "region": "Downtown Eugene",
+      "hours": "8:30 AM – 5:30 PM (Pickup starting at 8:00 AM)",
+      "days_open": "Wednesday, Friday (Public tours); Daily by appointment (Private tours)",
+      "admission": "Public Tour: $140.00 per person. Private Tour: $1,500 (1 person), $750 (2), $500 (3), $375 (4), $300 (5), $250 (6+). Includes admission fees and water.",
+      "website": "https://eugenehubtours.com/oregon-coastal-tour/",
+      "phone": "(541) 797-1535 or (800) 637-3110",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Heceta_Head_Lighthouse_01.jpg",
+      "highlights": [
+        "[\"Sea Lion Caves: Descent into America's largest sea cave and year-round home of Steller sea lions.\", \"Heceta Head Lighthouse: Visit to the 205-foot-tall working lighthouse and historic keeper's home.\", \"Cape Perpetua Scenic Area: Exploration of natural wonders like Thor's Well, Devil's Churn, and Cook's Chasm.\", 'Historic Old Town Florence: Shopping and sightseeing in a charming district on the Siuslaw River.', 'Coastal Towns: Discovery of the cliffside village of Yachats and its local galleries and boutiques.']"
+      ],
+      "tips": "Tours require a minimum of 4 people to operate; confirm status two weeks in advance. Bring extra layers for unpredictable coastal weather and comfortable shoes for the 1/2 mile hike to the lighthouse. Lunch is not included, but several dining options are provided in Yachats.",
+      "nearby": "Fern Ridge Reservoir, Siuslaw National Forest, Oregon Dunes National Recreation Area, Sweet Creek Falls."
+    },
+    {
+      "name": "Oregon Dunes National Recreation Area",
+      "category": "National Recreation Area / Park",
+      "description": "The Oregon Dunes National Recreation Area is one of the largest expanses of temperate coastal sand dunes in the world, stretching 40 miles along the central Oregon coast. This unique landscape features wind-sculpted sand dunes towering up to 500 feet above the ocean, interspersed with 'tree islands,' wetlands, and lush forests. It offers a diverse range of activities from high-adrenaline off-highway vehicle (OHV) riding to serene hiking and birdwatching in a striking desert-meets-ocean environment. Forest Service, Travel Oregon",
+      "address": "855 Highway 101 (Visitor Center)",
+      "city": "Reedsport",
+      "region": "Downtown Eugene",
+      "hours": "Recreation area is open daily (some areas have a midnight curfew for vehicles); Visitor Center is open Monday–Friday, 8:00 a.m. – 4:00 p.m. (Closed on federal holidays) Forest Service, Oregon's Adventure Coast",
+      "days_open": "Daily Forest Service",
+      "admission": "$5 per vehicle per day (Recreation Pass required for most day-use sites; Free with valid Northwest Forest Pass or Interagency Pass) Forest Service",
+      "website": "https://www.fs.usda.gov/r06/siuslaw/about-area/oregon-dunes-national-recreation-area",
+      "phone": "(541) 271-6000 Forest Service",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Oregon_Dunes_%28Florence%2C_Oregon%2C_USA%29_1.jpg",
+      "highlights": [
+        "'World-class off-highway vehicle (OHV) riding across expansive sand drifts.', 'Sandboarding and sand sledding on massive dunes near Florence.', 'Hiking trails through diverse ecosystems, including the Oregon Dunes Loop and Siltcoos Lake Trail.', 'Wildlife viewing opportunities for the Western Snowy Plover and Roosevelt Elk.', 'Scenic beachcombing and picnicking along 40 miles of pristine coastline.', \"Photography of rare 'tree islands' and dramatic sunset views over the Pacific. [Forest Service\"]"
+      ],
+      "tips": "Purchase your digital recreation pass online via Recreation.gov in advance, as cell service is spotty and many sites do not accept cash. Be aware of seasonal beach restrictions from March 15 to September 15 to protect the nesting Western Snowy Plover. Bring plenty of water and sun protection when hiking, as the open dunes offer no shade and the sand can be difficult to navigate. Forest Service, Eugene Cascades & Coast",
+      "nearby": "Sweet Creek Falls, Dean Creek Elk Viewing Area, Heceta Head Lighthouse, Old Town Florence, Sand Master Park Travel Oregon"
+    },
+    {
+      "name": "Osteria DOP",
+      "category": "Restaurant",
+      "description": "Osteria DOP is a regional Italian restaurant in downtown Eugene specializing in authentic southern Italian cuisine, particularly the flavors of Naples. Founded by award-winning Chef Rocky Maselli, the eatery features a family-style dining experience centered around a wood-burning pizza oven imported from Italy and handmade traditional pastas. (Lookout Eugene-Springfield), (Eugene Magazine)",
+      "address": "1122 Oak St, Eugene, OR 97401",
+      "city": "Eugene",
+      "region": "Downtown Eugene",
+      "hours": "Sunday: Closed; Monday: Closed; Tuesday: 5:00 PM – 10:00 PM; Wednesday: 5:00 PM – 10:00 PM; Thursday: 5:00 PM – 10:00 PM; Friday: 5:00 PM – 10:00 PM; Saturday: 5:00 PM – 10:00 PM (Official Website)",
+      "days_open": "Tuesday - Saturday",
+      "admission": "Free Entry; Menu items range from approximately $4 to $20 (Official Website).",
+      "website": "https://osteriadop.com",
+      "phone": "(541) 913-6460",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/5f0f3c5b8e967a57a5e88e8b/1673397984852-5Z0G9S6S6S6S6S6S6S6S/OsteriaDOP_Exterior.jpg",
+      "highlights": [
+        "'Authentic wood-fired Neapolitan pizza cooked in 60-90 seconds in an oven imported from Naples. ([Lookout Eugene-Springfield)', 'Handmade pastas including popular dishes like Bucatini Cacio e Pepe and Ricotta Gnocchi with oxtail sugo. (Official Website)', 'Extensive beverage program featuring Italian cocktails, regional wines, and a deep selection of amari flights. (Official Website)', 'Interactive \"chef\\'s table\" seating that allows guests to watch the culinary team at work. (Yelp)', 'Casual \"osteria\" or tavern-style environment with an efficient QR-code ordering system. (Eugene Weekly)', 'Walk-in only seating model, maintaining a first-come, first-served neighborhood vibe. (Official Website)']"
+      ],
+      "tips": "Arrive at least 30 minutes before opening (4:30 PM) to secure a table, as lines frequently form before the doors open. Since they are walk-in only, if there is a wait, you can add your name to the list and visit a nearby business while you wait. Be aware that popular menu items often sell out early in the evening. (Official Website), (Yelp)",
+      "nearby": "Level Up Arcade, Hult Center for the Performing Arts, Kesey Square, and various downtown boutique shops. (Yelp)"
+    },
+    {
+      "name": "Park Blocks (Eugene Park Blocks)",
+      "category": "Park / Urban Plaza",
+      "description": "The Park Blocks serve as a vibrant urban plaza and the cultural heart of downtown Eugene, functioning as a central gathering point for the community. The area is best known as the longtime home of the Eugene Saturday Market and the Lane County Farmers Market, offering a space for local artisans, food vendors, and performers. (City of Eugene, Komoot)",
+      "address": "E 8th Ave and Oak St, Eugene, OR 97401",
+      "city": "Eugene",
+      "region": "Downtown Eugene",
+      "hours": "6:00 AM - 11:00 PM Daily (Standard Eugene City Park Hours) (City of Eugene)",
+      "days_open": "Daily (City of Eugene)",
+      "admission": "Free (Eugene Saturday Market)",
+      "website": "https://www.eugene-or.gov/5221/Park-Blocks",
+      "phone": "541-682-2690 (City of Eugene)",
+      "image_url": "https://www.eugene-or.gov/ImageRepository/Document?documentID=46560",
+      "highlights": [
+        "'Home to the Eugene Saturday Market, the oldest weekly open-air crafts market in the U.S. ([Eugene Saturday Market)', 'Features the Farmers Market Pavilion, a permanent home for the Lane County Farmers Market (Lane County Farmers Market)', \"Contains notable public art, including Tom Hardy’s untitled fountain (1952) and Jan Zach’s 'Three Standing Forms' (1959) (Wikipedia))\", 'Serves as a buzzing urban plaza with picnic tables and performance spaces (City of Eugene)', 'Underwent a significant 1959 redevelopment designed by architects Wilmsen & Endicott and landscape architect Lloyd Bond (Docomomo Oregon)']"
+      ],
+      "tips": "Visit on Saturdays between April and November to experience the full Saturday Market and Farmers Market. The first hour of parking is free in the nearby Overpark and Parcade garages (Eugene Saturday Market, City of Eugene).",
+      "nearby": "Hult Center for the Performing Arts, Kesey Square, Lane County Courthouse, Wayne Morse Free Speech Plaza (City of Eugene, Eugene, Cascades & Coast)"
+    },
+    {
+      "name": "Pre's Trail (City of Eugene)",
+      "category": "Park (City of Eugene)",
+      "description": "Pre's Trail is a legendary 4-mile wood-chipped running and walking path located within Alton Baker Park. Inspired by Olympic runner Steve Prefontaine and modeled after European cross-country courses, the trail offers a soft, bark-covered surface designed to be easy on the legs. It winds through scenic riparian areas, grasslands, and woods, serving as a historic landmark and a pilgrimage site for running enthusiasts in \"Tracktown USA.\" (Wikipedia, City of Eugene)",
+      "address": "200 Day Island Rd. (City of Eugene)",
+      "city": "Eugene (City of Eugene)",
+      "region": "Downtown Eugene",
+      "hours": "Monday - Sunday: 6:00 AM - 11:00 PM (City of Eugene)",
+      "days_open": "Open daily (Airial Travel)",
+      "admission": "Free (City of Eugene)",
+      "website": "https://www.eugene-or.gov/Facilities/Facility/Details/Alton-Baker-Park-29",
+      "phone": "541-682-4800 (City of Eugene)",
+      "image_url": "https://commons.wikimedia.org/wiki/File:PresTrail.jpg",
+      "highlights": [
+        "'Signature soft wood-chip surface ideal for low-impact running ([Airial Travel)', 'Dedicated to local running legend Steve Prefontaine (Wikipedia)', 'Comprised of multiple loops (Red, Yellow, Green) totaling approximately 4 miles (City of Eugene)', 'Designated as a Eugene Historic Landmark in 2019 (Eugene, Cascades & Coast)', 'Seamlessly connects to the University of Oregon campus via the Frohnmayer Bike Bridge (City of Eugene)', 'Traverses diverse natural scenery including duck ponds and the Willamette River bank (Wikipedia)']"
+      ],
+      "tips": "The soft surface is excellent for recovery runs and training. It is recommended to carry your own water as fountains are not located directly on the trail loops. For the best photography and a peaceful experience, visit during the \"golden hour\" shortly after sunrise or before sunset. (Airial Travel)",
+      "nearby": "Autzen Stadium, University of Oregon, Eugene Science Center, Cuthbert Amphitheater, Nobel Peace Laureate Project (City of Eugene, Tripadvisor)"
+    },
+    {
+      "name": "Ruth Bascom Riverbank Path System City of Eugene",
+      "category": "Park / Trail System City of Eugene",
+      "description": "The Ruth Bascom Riverbank Path System is a 12-mile network of interconnected paved multi-use paths that follow the banks of the Willamette River. Named after Eugene's first female mayor, the system provides a scenic and car-free transportation corridor connecting Eugene and Springfield. It is a popular destination for cycling, running, and walking, winding through several major city parks and offering diverse riverfront views. City of Eugene, Eugene, Cascades & Coast/981/)",
+      "address": "100 Day Island Rd, Eugene, OR 97401 (Alton Baker Park trailhead) City of Eugene",
+      "city": "Eugene City of Eugene",
+      "region": "Downtown Eugene",
+      "hours": "Daily: 6:00 AM - 11:00 PM (Standard Eugene park hours; specific segments may vary by dawn/dusk) City of Eugene, Airial Travel",
+      "days_open": "Daily Eugene, Cascades & Coast/981/)",
+      "admission": "Free Eugene, Cascades & Coast/981/)",
+      "website": "https://www.eugene-or.gov/324/Park-and-Trail-Maps",
+      "phone": "541-682-4800 (Eugene Parks and Open Space) City of Eugene",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Willamette_River_at_Alton_Baker_Park.jpg/1280px-Willamette_River_at_Alton_Baker_Park.jpg",
+      "highlights": [
+        "'Five dedicated bicycle and pedestrian bridges providing multiple loop options [City of Eugene', 'Connectivity between the cities of Eugene and Springfield Eugene, Cascades & Coast/981/)', 'Passes through major parks like Alton Baker Park and Skinner Butte Park TrailLink', 'Fully paved, level paths accessible for users of all ages and abilities That Oregon Life', 'Access to local landmarks including the Owen Rose Garden and Delta Ponds Yelp']"
+      ],
+      "tips": "Rent a bike through the local PeaceHealth Rides share program to explore the full loop efficiently. Look for the 'Kalapuya Talking Stones' along the trail to learn about local indigenous history. Be aware that some riverbank sections may flood during heavy rains in winter. Eugene, Cascades & Coast/981/), TrailLink",
+      "nearby": "Alton Baker Park, Skinner Butte Park, University of Oregon, Owen Rose Garden, Valley River Center TrailLink"
+    },
+    {
+      "name": "Sahalie and Koosah Falls",
+      "category": "Landmark / Park",
+      "description": "Sahalie and Koosah Falls are two spectacular waterfalls on the McKenzie River, formed 3,000 years ago by basaltic lava flows that dammed Clear Lake. Sahalie Falls is a 100-foot plunge over a natural lava dam, while Koosah Falls drops approximately 70 feet into a deep pool. The two falls are connected by a scenic 2.6-mile loop trail that meanders through an ancient old-growth conifer forest. (Willamette National Forest, Eugene, Cascades & Coast)",
+      "address": "Hwy 126, McKenzie Bridge, OR 97413",
+      "city": "McKenzie Bridge",
+      "region": "Downtown Eugene",
+      "hours": "Monday - Sunday: Dawn to Dusk (Access is year-round but winter conditions may limit parking and trail visibility) (Willamette National Forest)",
+      "days_open": "Monday - Sunday (Willamette National Forest)",
+      "admission": "Free (Eugene, Cascades & Coast)",
+      "website": "https://www.fs.usda.gov/r06/willamette/recreation/sahalie-and-koosah-falls",
+      "phone": "(541) 822-3381 (McKenzie River Ranger Station) (Willamette National Forest)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Sahalie_Falls.jpg",
+      "highlights": [
+        "['100-foot Sahalie Falls plunge over a lava dam', '70-foot Koosah Falls dropping into a deep pool', '2.6-mile Waterfalls Loop Trail connecting both sites', 'Ancient old-growth conifer forest with Douglas fir and cedar', 'Connection to the McKenzie River National Recreation Trail', 'Geological interpretive panels explaining the 3,000-year-old lava flows']"
+      ],
+      "tips": "Visit in late spring (April-June) for the most powerful water flow; the Sahalie Falls observation deck is wheelchair accessible, but the full loop trail includes stairs; Koosah Falls parking is often less crowded than the main Sahalie Falls lot. (Eugene, Cascades & Coast)",
+      "nearby": "Clear Lake, Blue Pool (Tamolitch Falls), Carmen Reservoir, Ice Cap Campground, McKenzie River National Recreation Trail (Willamette National Forest)"
+    },
+    {
+      "name": "Silvan Ridge Winery Travel Oregon",
+      "category": "Winery / Tasting Room Travel Oregon",
+      "description": "Silvan Ridge Winery is maintained in the tradition of a small European winery, offering a laid-back tasting room experience just fifteen miles southwest of downtown Eugene. The family-owned estate is known for its diverse and food-friendly wines, providing a picturesque backdrop of rolling hills and vines for picnics and evening events. Travel Oregon, Silvan Ridge Winery",
+      "address": "27012 Briggs Hill Road, Eugene, Oregon 97405 Travel Oregon",
+      "city": "Eugene Travel Oregon",
+      "region": "Downtown Eugene",
+      "hours": "Monday - Sunday: 12:00 PM – 5:00 PM Travel Oregon, Tasting Room Tourist",
+      "days_open": "Open Daily Travel Oregon",
+      "admission": "Free (Complimentary tasting of 2-3 award-winning wines); Limited-production wines available for $2 per taste (refundable with 2-bottle purchase) Travel Oregon, Tasting Room Tourist",
+      "website": "https://traveloregon.com/things-to-do/eat-drink/wine-wineries/silvan-ridge-winery/",
+      "phone": "(541) 345-1945 Travel Oregon",
+      "image_url": "https://traveloregon.com/things-to-do/eat-drink/wine-wineries/silvan-ridge-winery/",
+      "highlights": [
+        "'Established in 1979 as Eugene’s first bonded winery [SoilAir Selection', 'Features a heritage of hospitality with three generations of female leadership SoilAir Selection', 'Expansive outdoor patio and picnic area with panoramic vineyard views Travel Oregon', 'Produces a wide variety of wines including Pinot Gris, Pinot Noir, Malbec, and Early Muscat SoilAir Selection, Tasting Room Tourist', 'Hosts popular community events such as summer concerts and live music series CASA Lane County', 'Offers both indoor fireside seating and elegant event spaces like the Fountain Terrace Travel Oregon, Eugene, Cascades & Coast']"
+      ],
+      "tips": "Visitors are encouraged to bring their own snacks or a picnic to enjoy on the patio. Large groups should call ahead for reservations. Dogs are welcome in the outdoor areas provided they are on a leash. Tasting Room Tourist, Travel Oregon",
+      "nearby": "Sweet Cheeks Winery, King Estate Winery, Sarver Winery, Noble Estate Vineyard & Winery Destimap"
+    },
+    {
+      "name": "Sweet Cheeks Winery & Vineyard",
+      "category": "Winery & Vineyard",
+      "description": "Sweet Cheeks Winery & Vineyard is a family-owned estate that captures the \"DIY spirit\" of founder Dan Smith, who first planted vines on its rolling hillsides in the 1980s. The winery offers a relaxed yet elegant atmosphere with a focus on handcrafted wines and exceptional hospitality in the heart of the Southern Willamette Valley. Sweet Cheeks Winery",
+      "address": "27007 Briggs Hill Rd, Eugene, OR 97405",
+      "city": "Eugene",
+      "region": "Downtown Eugene",
+      "hours": "Monday: 11:00 AM – 5:00 PM, Tuesday: 11:00 AM – 5:00 PM, Wednesday: 11:00 AM – 5:00 PM, Thursday: 11:00 AM – 5:00 PM, Friday: 11:00 AM – 5:00 PM, Saturday: 11:00 AM – 5:00 PM, Sunday: 11:00 AM – 5:00 PM (Last seating at 4:15 PM) Sweet Cheeks Winery",
+      "days_open": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
+      "admission": "Tasting flights are typically $15 (waived with a 3-bottle purchase), with glass prices ranging from $6 to $12. Yelp",
+      "website": "https://sweetcheekswinery.com",
+      "phone": "541-349-9463",
+      "image_url": "https://sweetcheekswinery.com/wp-content/uploads/2022/10/our_place_5050_top_right.jpg",
+      "highlights": [
+        "['Panoramic views of the Southern Willamette Valley vineyard and rolling hills.', 'Seated tableside wine service for a curated and relaxed tasting experience.', 'Historic tasting room featuring timber trusses from a relocated Junction City building.', 'Wide selection of estate-grown varietals including Pinot Noir, Pinot Gris, and Riesling.', 'Expansive outdoor patio that is welcoming and dog-friendly.', 'Sustainable farming practices prioritized to enhance fruit complexity and depth.']"
+      ],
+      "tips": "Reservations are highly encouraged as all experiences are hosted tableside and limited to two hours. Guests may bring their own food to the patio, but outside alcohol is prohibited. Last wine service ends at 4:30 p.m. Sweet Cheeks Winery FAQ",
+      "nearby": "King Estate Winery, Cascades Raptor Center, Spencer Butte Park, Silvan Ridge Winery"
+    },
+    {
+      "name": "Territorial Wine Trail (Territorial Highway Wine Country)",
+      "category": "Entertainment / Wine Trail",
+      "description": "The Territorial Wine Trail is a scenic 40-mile route through the South Willamette Valley, following Territorial Highway near Eugene, Oregon. This picturesque corridor features over a dozen award-winning wineries, rolling pastoral hills, and historic covered bridges. Visitors can enjoy intimate tasting experiences at family-owned vineyards or grand estates, paired with the region's renowned Pinot Noir and Pinot Gris. Willamette Valley Visitors Association, Travel Lane County",
+      "address": "Territorial Highway (OR-200), stretching from Junction City to Cottage Grove",
+      "city": "Eugene",
+      "region": "Downtown Eugene",
+      "hours": "Monday: 11:00 AM - 5:00 PM, Tuesday: 11:00 AM - 5:00 PM, Wednesday: 11:00 AM - 5:00 PM, Thursday: 11:00 AM - 5:00 PM, Friday: 11:00 AM - 8:00 PM, Saturday: 11:00 AM - 6:00 PM, Sunday: 11:00 AM - 5:00 PM (Hours are representative; individual wineries vary) South Willamette Wineries",
+      "days_open": "Daily (individual winery hours vary)",
+      "admission": "Free to explore the trail; wine tasting fees at individual wineries typically range from $15 to $25. Eugene, Cascades & Coast",
+      "website": "https://www.eugenecascadescoast.org/food-drink/wine/",
+      "phone": "541-484-5307 (Visitor Information) Travel Lane County",
+      "image_url": "https://assets.simpleviewinc.com/simpleview/image/upload/v1/clients/lanecounty/Wineries_06f1d1e4-3d02-4f65-8f6a-04655f058097.jpg",
+      "highlights": [
+        "['More than a dozen award-winning boutique and estate wineries along a 40-mile corridor.', 'Stunning views of the South Willamette Valley and Coast Range foothills.', 'Renowned cool-climate varietals, specifically world-class Pinot Noir and Pinot Gris.', \"Historic landmarks including the 'Covered Bridge Capital of the West' in Cottage Grove.\", 'Farm-to-table dining at estate restaurants and local bakeries like Creswell Bakery.', 'Opportunities for scenic cycling, horseback riding, and photography along rural byways.']"
+      ],
+      "tips": "Advance reservations are highly recommended, especially for weekend tastings at popular estates like King Estate. Consider booking a chauffeured tour or designating a driver to safely navigate the rural highway between stops. Travel Lane County",
+      "nearby": "Fern Ridge Lake, Cascades Raptor Center, Mount Pisgah Arboretum, Cottage Grove Covered Bridges, West Eugene Wetlands Eugene, Cascades & Coast"
+    },
+    {
+      "name": "The McDonald Theatre",
+      "category": "Entertainment / Performing Arts Venue",
+      "description": "The McDonald Theatre is a historic performing arts venue and former movie palace located in the heart of downtown Eugene. Originally opened in 1925, the theatre now hosts a diverse array of live performances, including nationally touring bands, comedians, and community events under the management of Kesey Enterprises (McDonald Theatre, KMTR).",
+      "address": "1010 Willamette Street, Eugene, OR 97401",
+      "city": "Eugene",
+      "region": "Downtown Eugene",
+      "hours": "Box Office typically opens at 5:30 PM on concert days; doors generally open one hour prior to performance time (McDonald Theatre)",
+      "days_open": "Varies by event schedule (McDonald Theatre)",
+      "admission": "Varies by event; typically ranges from approximately $37.00 for General Admission to $157.50+ for VIP packages (Etix, McDonald Theatre)",
+      "website": "https://mcdonaldtheatre.com",
+      "phone": "(541) 345-4442",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/McDonald_Theatre.jpg",
+      "highlights": [
+        "'Listed on the National Register of Historic Places ([National Park Service)', 'Recently restored iconic 1938 neon marquee and blade sign (KMTR)', 'Owned and operated by the Kesey family of Kesey Enterprises (McDonald Theatre)', 'Features a mix of standing-room-only general admission floor and reserved balcony seating (McDonald Theatre)', 'Home to three distinct service areas: a Snack Bar, a 21+ Lounge, and a Sky Bar (McDonald Theatre)', 'Renowned for exceptional acoustics across genres ranging from hip hop to rock and reggae (Yelp)']"
+      ],
+      "tips": "Follow the strict clear bag policy (max 14” x 18” x 6”) and arrive early for GA floor spots. Free evening parking is often available at the nearby Overpark and Parcade structures (McDonald Theatre, Visit Downtown Eugene).",
+      "nearby": "Lane Transit District (LTD) Bus Station, Hult Center for the Performing Arts, Saturday Market, Ambrosia Restaurant & Bar, Killer Burger (McDonald Theatre)"
+    },
+    {
+      "name": "Whiteaker Neighborhood (The Whit)",
+      "category": "Neighborhood / Arts & Dining District",
+      "description": "The Whiteaker, affectionately known as 'The Whit,' is Eugene's vibrant cultural and counter-culture heart, celebrated for its colorful street art, eclectic dining, and independent spirit. Originally an agricultural area, it has transformed into a premier fermentation district filled with renowned breweries, wineries, and distilleries, while remaining a stronghold for community activism and alternative lifestyles.",
+      "address": "PO Box 11692 (Official Council) / 1180 W 4th Ave (Community Market) / Blair Blvd (Neighborhood Heart)",
+      "city": "Eugene",
+      "region": "Downtown Eugene",
+      "hours": "Open 24/7 (Public neighborhood); Whiteaker Community Market: Sundays 10:00 AM - 3:00 PM (May - Oct); WCC General Meetings: 2nd Wednesday of the month 7:00 PM - 9:00 PM",
+      "days_open": "Monday - Sunday (Neighborhood access) / Sundays (Community Market, May-Oct)",
+      "admission": "Free (Public neighborhood and events)",
+      "website": "https://www.whiteakercommunitycouncil.com/",
+      "phone": "(401) 379-3235 (WCC Meeting Line), (541) 682-5010 (Eugene City Hall / Neighborhood Services)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Whiteaker_%28Eugene%2C_Oregon%29_3.jpg/1200px-Whiteaker_%28Eugene%2C_Oregon%29_3.jpg",
+      "highlights": [
+        "[\"Renowned 'Fermentation District' featuring Ninkasi Brewing, Hop Valley, and several wineries.\", 'Vibrant arts scene with numerous murals, galleries, and the eclectic Whiteaker Community Market.', \"Home to the Washington Jefferson Park, which includes America's largest covered outdoor skate park.\", 'Eclectic dining destinations ranging from upscale Japanese gastropubs to famous food carts.', 'Strong counter-culture heritage and history of community activism since the 1970s.', 'Close proximity to the Willamette River and various riverside trails.']"
+      ],
+      "tips": "Parking can be limited on residential streets, so visitors are encouraged to use the LTD bus system or bike share programs. Be sure to check out the Sunday Whiteaker Community Market during the summer months for local crafts and fresh produce. The neighborhood is best explored on foot to truly appreciate the street art and local vibe.",
+      "nearby": "Downtown Eugene, Skinner Butte Park, Willamette River, Fifth Street Public Market, University of Oregon"
+    },
+    {
+      "name": "Willamette Pass Resort",
+      "category": "Ski Resort / Entertainment",
+      "description": "Willamette Pass Resort is a premier ski area in the Cascade Range of Oregon, featuring 555 acres of skiable terrain and 29 trails. It is home to Oregon's fastest six-person chairlift and is known for having one of the steepest runs in the world (Wikipedia, Willamette Pass).",
+      "address": "Mile Marker 62, OR-58, Cascade Summit, OR 97733",
+      "city": "Cascade Summit (near Crescent Lake)",
+      "region": "Downtown Eugene",
+      "hours": "Lodge: 8:00 AM – 4:30 PM; Chairlifts: 9:00 AM – 4:00 PM; Guest Services/Rental Shop: 8:00 AM – 4:30 PM; Restaurant/Lounge: 11:00 AM – 3:00 PM (Willamette Pass).",
+      "days_open": "Typically open Wednesday through Sunday during the winter season, with daily operations during peak holiday periods (e.g., Dec 26 - Jan 4) (Willamette Pass, Willamette Pass Updates).",
+      "admission": "Lift tickets as low as $19 when booked in advance; Kids 12 and under ski FREE with Power Kids Pass; Super Seniors (75+) ski FREE; XC skiing tickets $15 at the ticket window. Daily prices vary by age and date (Willamette Pass, OnTheSnow).",
+      "website": "https://www.willamettepass.ski",
+      "phone": "(541) 345-7669",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Willamette_Pass_Ski_Area.JPG",
+      "highlights": [
+        "\"Home to the Eagle Peak Accelerator, Oregon's only high-speed six-passenger chairlift ([Willamette Pass)\", 'Features 29 downhill runs with 1,563 feet of vertical drop (Wikipedia)', 'Offers 20 km of groomed Nordic skiing and snowshoeing trails (Willamette Pass)', 'Known for \"RTS,\" one of the steepest runs in the world reaching a 52-degree pitch (Willamette Pass)', 'Kids 12 and under ski for free with a Power Kids Pass (Willamette Pass)']"
+      ],
+      "tips": "Purchase lift tickets online in advance to secure rates as low as $19, as window prices are higher and subject to availability. Check the daily snow report before heading out, as operations can be paused due to weather conditions (Willamette Pass FAQs, Willamette Pass Weather).",
+      "nearby": "Salt Creek Falls (Oregon's second-highest waterfall), Odell Lake, Crescent Lake, and Gold Lake (Eugene, Cascades & Coast, Hike Oregon)."
+    },
+    {
+      "name": "Woodmen of the World Hall (WOW Hall)",
+      "category": "Entertainment / Music Venue",
+      "description": "The WOW Hall is a historic, non-profit, all-ages music venue and community center in Eugene, Oregon. Managed by the Community Center for the Performing Arts (CCPA), it hosts a diverse array of local and national musical acts, dance classes, and workshops. The building is renowned for its unique 'floating' dance floor and its long-standing role as a cultural anchor in the community.",
+      "address": "291 West 8th Avenue",
+      "city": "Eugene",
+      "region": "Downtown Eugene",
+      "hours": "Office Hours: 1:00 pm – 5:00 pm, Monday through Friday; Performance hours vary by event (typically 8:00 pm – 11:00 pm). WOW Hall",
+      "days_open": "Office: Monday–Friday; Events: Daily based on schedule. Calendar",
+      "admission": "Varies by event (e.g., $15 advance / $20 day of show); some community events are free. WOW Hall Tickets",
+      "website": "https://wowhall.org/",
+      "phone": "(541) 687-2746",
+      "image_url": "https://wowhall.org/wp-content/uploads/2023/02/Wow-Hall-10-1536x1006.jpg",
+      "highlights": [
+        "[\"One of only three 'floating' dance floors remaining in Oregon.\", 'Historic building constructed in 1932, originally for the Woodmen of the World fraternity.', 'Non-profit, community-supported venue saved from demolition by volunteers in 1975.', 'All-ages venue hosting local, national, and international musical acts.', 'Community hub for performing arts classes, workshops, and rehearsals.', 'Features a lobby art gallery showcasing regional artists monthly.']"
+      ],
+      "tips": "Street parking is free after 6:00 pm on weekdays and all day on weekends. Alcohol is restricted to the downstairs bar and lounge area. Only purchase tickets from the official office or authorized sellers like Ticketweb to avoid fraud. Tripadvisor Tips",
+      "nearby": "Hult Center for the Performing Arts, McDonald Theatre, Saturday Market, Cuthbert Amphitheater. Tripadvisor"
+    },
+    {
+      "name": "Beergarden",
+      "category": "Restaurant / Bar / Taproom",
+      "description": "Located in the Whiteaker neighborhood of Eugene, Beergarden is a unique communal space that brings together a taproom and a collection of local food carts. It features 42 taps of craft beer, wine, cider, and kombucha, alongside a rotating selection of food vendors in a family-friendly environment with both indoor and outdoor seating. Beergarden, Eugene, Cascades & Coast",
+      "address": "777 W 6th Ave, Eugene, OR 97402 Beergarden",
+      "city": "Eugene Beergarden",
+      "region": "Whiteaker",
+      "hours": "Monday-Thursday: 11:30am - 10:00pm; Friday-Saturday: 11:30am - 11:00pm; Sunday: 11:30am - 9:00pm Beergarden",
+      "days_open": "Daily Beergarden",
+      "admission": "Free Beergarden",
+      "website": "https://www.beergardenme.com",
+      "phone": "(541) 505-9432 Beergarden",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/5cc86421755be227d4bbefc7/1651511415214-JS8TMKHBJRE2RC7BZ016/DRN-Beergarden-8-17-17+9631-44.jpg?format=1500w",
+      "highlights": [
+        "'42 taps featuring craft beer, wine, cider, and kombucha [Beergarden', 'Host to a diverse pod of local food carts including Thai, Hawaiian, and sushi Beergarden', 'Family-friendly atmosphere with minors allowed until 10 pm Beergarden', 'Outdoor garden area with fire pits and dog-friendly seating Eugene, Cascades & Coast', 'Regular events like live music, trivia, and BINGO Beergarden', 'Expansive bottle selection in addition to draft options Travel Oregon']"
+      ],
+      "tips": "Parking is limited in the small corner lot, especially before 6 pm on weekdays. Check the website for current 'fests' as food carts often offer themed specials. You can order online from all food carts at once using the Porter platform. Dogs are welcome in the outdoor garden area but not inside the taproom. Tripadvisor, Beergarden",
+      "nearby": "Gray’s Garden Center, Skinner Butte Park, Washington Jefferson Skatepark, 5th Street Public Market, Ninkasi Brewing Company Tripadvisor, Wanderboat AI"
+    },
+    {
+      "name": "Blairally Vintage Arcade",
+      "category": "Entertainment / Arcade / Bar (Yelp, Eugene Magazine)",
+      "description": "Nestled in the historic Whiteaker District, Blairally Vintage Arcade is an artist studio-turned vintage arcade and bar specializing in 1970s and 8-bit era gaming. It features over 30 meticulously maintained pinball machines, classic arcade cabinets, and unique fixtures like vintage ball bowlers, all while serving local micro-brews and a surprisingly good food menu (Eugene Magazine, Tripadvisor).",
+      "address": "245 Blair Blvd, Eugene, OR 97402 (Blairally, Tripadvisor)",
+      "city": "Eugene (Blairally)",
+      "region": "Whiteaker",
+      "hours": "Monday—Thursday: 4pm—2am; Friday—Sunday: 2pm—2am (Blairally)",
+      "days_open": "Monday through Sunday (Blairally)",
+      "admission": "General entry is free; games typically cost 25–50 cents per play. Live music and events (like Church of 80's) often have a cover charge ranging from $5 to $20 (Blairally Events, Daily Emerald).",
+      "website": "https://www.blairally.com",
+      "phone": "(541) 683-1721 (Blairally)",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/64268d7229c89c1fec1896a3/527b9bf8-8a4a-4d30-a16e-bea56d32a504/Bar1.jpg?format=1500w",
+      "highlights": [
+        "'Over 30 vintage pinball machines and classic arcade cabinets ([Tripadvisor)', '\"Free Play Friday\" where many games are set to no-cost play all day (Yelp)', 'Host to the Emerald City Pinball League and weekly tournaments (Tripadvisor)', 'Unique vintage ball bowlers and local pop art on display (Tripadvisor)', 'Full bar serving local micro-brews and a menu featuring house-made pastrami (Tripadvisor)', 'Nightly entertainment including live music, \"Church of 80\\'s\" dance nights, and karaoke (Blairally)']"
+      ],
+      "tips": "Visit on Friday for \"Free Play Friday\" to enjoy games without quarters. Minors are welcome before 9pm, but the venue becomes 21+ only for the late-night nightclub and live music hours (Eugene Magazine, Tripadvisor).",
+      "nearby": "Ninkasi Brewing (The Better Living Room), Sam Bonds Garage, Hop Valley Brewing, Sweet Life Patisserie, Oakshire Brewing (Tripadvisor)"
+    },
+    {
+      "name": "Claim 52 Brewing",
+      "category": "Restaurant, Bar, Brewery Claim 52 Brewing",
+      "description": "Claim 52 Brewing is a community-focused craft brewery and restaurant located in Eugene's vibrant Whiteaker neighborhood, renowned for its innovative Hazy IPAs and fruit-forward Smoothie Sours. The family-friendly venue at 232 Lincoln Street features a welcoming main taproom with custom walnut bars, a spacious mezzanine, and a dedicated kids' play area in the back warehouse. Through a partnership with Seasoned, the brewery offers an upscale gastropub menu that highlights fresh, regional ingredients from across the Willamette Valley. Claim 52 Brewing, Travel Oregon",
+      "address": "232 Lincoln St. Claim 52 Brewing",
+      "city": "Eugene Claim 52 Brewing",
+      "region": "Whiteaker",
+      "hours": "Sunday: 12:00 PM – 9:00 PM; Monday: 12:00 PM – 9:00 PM; Tuesday: 12:00 PM – 9:00 PM; Wednesday: 12:00 PM – 9:00 PM; Thursday: 12:00 PM – 10:00 PM; Friday: 12:00 PM – 10:00 PM; Saturday: 12:00 PM – 10:00 PM Claim 52 Brewing",
+      "days_open": "Sunday - Saturday Claim 52 Brewing",
+      "admission": "Free Tripadvisor",
+      "website": "https://www.claim52brewing.com",
+      "phone": "541-844-0152 Claim 52 Brewing",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/61131de30a0d433d1850e686/1657572008655-2ZF4TO3OAL7EWA2FYDHI/DSCF8806.jpg?format=1500w",
+      "highlights": [
+        "'Specializes in innovative Hazy IPAs and fruit-forward Smoothie Sours [Claim 52 Brewing', \"Family-friendly atmosphere with a dedicated kids' play area and games like billiards and foosball Claim 52 Brewing\", 'Culinary partnership with Seasoned offering Northwest-inspired gastropub dishes Claim 52 Brewing', 'Dog-friendly outdoor patio featuring beautiful sunset views Eugene, Cascades & Coast', 'Unique decor including custom-made Oregon walnut bartops and an octopus chandelier Claim 52 Brewing', 'Located in the heart of the Whiteaker neighborhood\\'s \"Fermentation District\" Claim 52 Brewing']"
+      ],
+      "tips": "The Lincoln Street location shares parking with neighboring businesses, but additional parking is available at the lot on 3rd and Lincoln. It is a popular spot to visit before or after events at Autzen Stadium or the Hult Center. Claim 52 Brewing",
+      "nearby": "The Wheel Apizza Pub, Oregon Wine Lab, Oakshire Brewing, Hult Center for the Performing Arts, Autzen Stadium Claim 52 Brewing"
+    },
+    {
+      "name": "Fisherman's Market",
+      "category": "Restaurant & Fish Market",
+      "description": "Fisherman's Market is a renowned \"boat-to-plate\" seafood destination in Eugene, Oregon, owned and operated by Alaskan commercial fisherman Ryan Rogers since 1988. The establishment serves as both a full-service fish market and a restaurant, offering a vast selection of fresh local seafood, including Dungeness crab, 12 varieties of fish and chips, and their famous Cajun crawfish pie. It gained national fame after being featured on Food Network’s \"Diners, Drive-Ins and Dives\" with Guy Fieri (Fisherman's Market, Travel Oregon).",
+      "address": "830 West 7th Avenue, Eugene, OR 97402-5118",
+      "city": "Eugene",
+      "region": "Whiteaker",
+      "hours": "Market Hours: Sunday–Thursday: 10:00 AM – 8:00 PM; Friday–Saturday: 10:00 AM – 9:00 PM. Kitchen Hours: Opens at 11:00 AM daily (Fisherman's Market)",
+      "days_open": "Open Daily (7 days a week) (Fisherman's Market)",
+      "admission": "Free (Special events such as Cajun Crab Boil require paid registration) (Fisherman's Market)",
+      "website": "https://www.eugenefishmarket.com",
+      "phone": "541-484-2722 (ext 3 for Mongers/Takeout) (Fisherman's Market)",
+      "image_url": "https://www.eugenefishmarket.com/wp-content/uploads/2024/12/Fishermans-market-Ryan-With-Dungeness-Crab.jpg",
+      "highlights": [
+        "'Featured on Food Network\\'s \"Diners, Drive-Ins and Dives\" ([Fisherman\\'s Market)', 'One of the largest Dungeness crab retailers in Oregon and the only live Dungeness crab restaurant in town (Tripadvisor)', \"Offers 12 different types of fish n' chips and signature Cajun crawfish pie (Fisherman's Market)\", \"Direct boat-to-plate seafood sourced by the owner's own commercial fishing experience (Fisherman's Market)\", \"Regular special events including popular Cajun Crab Boil dinners (Fisherman's Market)\", 'Provides custom smoking services and travel-ready seafood boxes (Travel Oregon)']"
+      ],
+      "tips": "The kitchen opens an hour after the market at 11:00 AM, so plan accordingly if you are visiting for a hot meal. Parking at the corner of 7th and Blair is limited, but there is an additional overflow parking lot located directly across 7th Avenue. If you are interested in their popular Cajun Crab Boil events, be sure to register in advance as they often sell out (Fisherman's Market, Tripadvisor).",
+      "nearby": "Beergarden, Owen Rose Garden, WJ Skatepark + Urban Plaza, Whiteaker Neighborhood (Tripadvisor, The Soto)"
+    },
+    {
+      "name": "Ninkasi Brewing Company Ninkasi Brewing Company, Eugene Chamber of Commerce",
+      "category": "Restaurant, Bar, Brewery Ninkasi Brewing Company, Apple Maps",
+      "description": "Ninkasi Brewing Company is a prominent craft brewery and restaurant located in Eugene's vibrant Whiteaker neighborhood. Established in 2006 by Jamie Floyd and Nikos Ridge, the brewery is dedicated to brewing high-quality beers with purpose while fueling community, creativity, and local passions. It has grown from a two-person team into a regional powerhouse known for its Northwest-style IPAs and commitment to independent brewing. Ninkasi Brewing Company, Eugene Chamber of Commerce",
+      "address": "272 Van Buren St, Eugene, OR 97402 Ninkasi Brewing Company, Eugene Chamber of Commerce",
+      "city": "Eugene Ninkasi Brewing Company, Eugene Chamber of Commerce",
+      "region": "Whiteaker",
+      "hours": "Tasting Room: Tue-Thu 2:30 PM - 9:00 PM, Fri-Sat 12:00 PM - 10:00 PM, Sun 12:00 PM - 8:00 PM, Mon Closed; Dock Sales: Mon-Fri 12:00 PM - 5:00 PM Ninkasi Brewing Company, Apple Maps",
+      "days_open": "Tuesday – Sunday (Tasting Room); Monday – Friday (Dock Sales) Ninkasi Brewing Company, Apple Maps",
+      "admission": "Free (Guided tours and tastings are free and recommended to be booked in advance) Cheapism, Travel Oregon",
+      "website": "https://ninkasibrewing.com",
+      "phone": "(541) 735-9500 (Better Living Room), (541) 344-2739 (Headquarters) Ninkasi Brewing Company, ZoomInfo",
+      "image_url": "https://ninkasibrewing.com/wp-content/uploads/2026/03/Home-page-cans-banner-desktop-March-2026_V2-1536x356.png",
+      "highlights": [
+        "'Award-winning craft beers including the flagship Total Domination NW IPA and Tricerahops Double IPA [Ninkasi Brewing Company', 'The Better Living Room, a full-service restaurant and tasting room offering beer, cocktails, and food Ninkasi Brewing Company', 'Legends of Ninkasi Series, featuring beer characters from their own Dark Horse Comic Book Ninkasi Brewing Company', 'Daily brewery tours providing an inside look at the brewing process Travel Oregon, Cheapism', 'Live music and community events held regularly at their Eugene locations Ninkasi Brewing Company']"
+      ],
+      "tips": "Reservations are recommended for dining at The Better Living Room and for brewery tours. Children under 13 are not permitted on brewery tours, but those 13-17 can join with an adult. Ninkasi Brewing Company, Cheapism",
+      "nearby": "Skinner Butte Park, Owen Rose Garden, and other local breweries in the Whiteaker neighborhood Tripadvisor, Willamette Valley"
+    },
+    {
+      "name": "Oakshire Brewing Public House",
+      "category": "Bar",
+      "description": "Oakshire Brewing is a community-inspired, small-batch brewing company founded in 2006. Its Public House in Eugene's Whiteaker neighborhood features a large covered patio, 20 taps of fresh local beer, and some of the city's best rotating food carts.",
+      "address": "207 Madison St, Eugene, OR 97402-5032",
+      "city": "Eugene",
+      "region": "Whiteaker",
+      "hours": "Monday - Wednesday: 11:00 AM - 10:00 PM; Thursday - Saturday: 11:00 AM - 11:00 PM; Sunday: 11:00 AM - 10:00 PM",
+      "days_open": "Monday - Sunday",
+      "admission": "Free",
+      "website": "https://oakbrew.com/public-house/",
+      "phone": "541-654-5520",
+      "image_url": "https://oakbrew.com/wp-content/uploads/2020/05/Oakshire-Logo-500x500.png",
+      "highlights": [
+        "['20 taps featuring Core, Pilot, and Vintage beer programs', \"Rotating selection of Eugene's best local food carts on-site\", 'Large, heated, and dog-friendly outdoor patio seating', 'Weekly community events including live music and trivia nights', 'Watershed Market for beer-to-go, keg fills, and brewery gear', 'Oakshire Inspires program donating to local non-profits every Wednesday']"
+      ],
+      "tips": "Under 21 years of age are welcome until 9:00 PM. Check the daily food cart schedule online to see which local partners are serving. Mondays feature 'Happy Hour All Day' with discounted pints. Well-behaved dogs are welcome on the patio.",
+      "nearby": "Sweet Life Patisserie, Thinking Tree Spirits, Heritage Distilling Co., Hult Center for the Performing Arts, Skinner Butte Park"
+    },
+    {
+      "name": "Sam Bond's Garage official website",
+      "category": "Bar / Music Venue official website, Wikipedia",
+      "description": "Sam Bond's Garage is a historic music venue and pub located in the heart of Eugene's Whiteaker neighborhood. Housed in a former automobile repair shop from the early 1900s, it offers a rustic and intimate atmosphere featuring locally sourced food, craft cocktails, and a diverse lineup of live entertainment ranging from Irish jams to psychedelic rock. official website, Eugene Weekly",
+      "address": "407 Blair Blvd, Eugene, OR 97402-4480 Tripadvisor",
+      "city": "Eugene official website",
+      "region": "Whiteaker",
+      "hours": "Monday-Sunday: 4:00 PM - 1:00 AM Tripadvisor, official website",
+      "days_open": "Daily official website",
+      "admission": "Free for Bingo and Jam sessions; $5-$15 for most live music shows official website, official calendar",
+      "website": "http://www.sambonds.com",
+      "phone": "(541) 431-6603 official website",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Sam_Bond%27s_Garage.jpg",
+      "highlights": [
+        "'Nightly live music featuring local, regional, and national acts [official website', 'Historic venue listed on the National Register of Historic Places Eugene Weekly', 'Weekly community events like Monday night Bingo and Sunday Irish Jams official calendar', 'Locally sourced menu featuring items like organic pizza, salmon chowder, and pesto mac & cheese Allmenus', 'Two outdoor patios, including a non-smoking area Total Happy Hour', \"Atmosphere described as 'the hub(cap) of the vibrant Whiteaker neighborhood' official website\"]"
+      ],
+      "tips": "Arrive early to secure seating as it is a small, intimate venue that fills up quickly for popular shows. Be aware that the kitchen stops serving certain items early, and minors are only allowed until 8:30 PM. Tripadvisor, Total Happy Hour",
+      "nearby": "The Better Living Room by Ninkasi Brewing, Hop Valley Brewing Company, Owen Rose Garden, Tacovore Tripadvisor"
+    },
+    {
+      "name": "Skinner Butte Park",
+      "category": "Park",
+      "description": "Skinner Butte Park is one of Eugene's oldest and most historically significant parks, encompassing 100 acres along the Willamette River. Dedicated in 1914, it is recognized as the birthplace of the city and offers a diverse range of recreational opportunities, including hiking trails, rock climbing on basalt columns, and panoramic city views from the summit of Skinner Butte. (City of Eugene, Skinners Butte)",
+      "address": "248 Cheshire Ave, Eugene, OR 97401",
+      "city": "Eugene",
+      "region": "Whiteaker",
+      "hours": "6:00 AM – 11:00 PM (Pacer, Reddit)",
+      "days_open": "Daily (Pacer)",
+      "admission": "Free (City of Eugene, TRIP.COM)",
+      "website": "https://www.eugene-or.gov/facilities/facility/details/skinner-butte-park-55",
+      "phone": "541-682-4800 (City of Eugene)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Eugene_Oregon_from_Skinner_Butte.JPG",
+      "highlights": [
+        "'Panoramic views of Eugene and the Willamette Valley from the summit ([Skinners Butte)', 'Basalt climbing columns popular for public rock climbing (City of Eugene)', 'RiverPlay Discovery Village Playground featuring a 25-foot replica of the butte (Travel Oregon)', 'Extensive hiking trails and riverside bike paths along the Willamette River (City of Eugene)', 'Historic sites including the Shelton-McMurphey-Johnson House and Lamb Cottage (City of Eugene)', 'Skinner City Farm community garden (City of Eugene)']"
+      ],
+      "tips": "The summit parking lot and road are seasonally closed to vehicles during fire season (typically June to October) to reduce wildfire risk, but remain accessible to pedestrians and cyclists via trails. Bring your own climbing hardware if using the columns, as the city does not maintain it. (City of Eugene, KLCC)",
+      "nearby": "Willamette River, 5th Street Public Market, Hult Center for the Performing Arts, Campbell Community Center (Skinners Butte, City of Eugene)"
+    },
+    {
+      "name": "Sweet Life Patisserie (Sweet Life Patisserie)",
+      "category": "Restaurant / Bakery (Tripadvisor)",
+      "description": "Sweet Life Patisserie is a premier scratch bakery in Eugene, Oregon, established in 1993 by sisters Catherine and Cheryl Reinhart (Sweet Life Patisserie). The shop offers a vast array of hand-made cakes, pastries, and savory items crafted from traditional French and classic American recipes (Eugene, Cascades & Coast). Known for its welcoming atmosphere, it is a local favorite that provides diverse options, including numerous gluten-free and vegan desserts (Eugene, Cascades & Coast).",
+      "address": "755 Monroe St, Eugene, OR 97402 (Sweet Life Patisserie)",
+      "city": "Eugene (Sweet Life Patisserie)",
+      "region": "Whiteaker",
+      "hours": "Monday-Sunday: 8:00 AM - 10:00 PM (Sweet Life Patisserie)",
+      "days_open": "Daily (except Thanksgiving and Christmas) (Sweet Life Patisserie)",
+      "admission": "Free (Sweet Life Patisserie)",
+      "website": "https://www.sweetlifedesserts.com",
+      "phone": "541-683-5676 (Sweet Life Patisserie)",
+      "image_url": "https://www.sweetlifedesserts.com/about-us",
+      "highlights": [
+        "'Wide variety of scratch-made cakes, pies, and breakfast pastries ([Sweet Life Patisserie)', 'Dedicated selection of gluten-free, egg-free, and dairy-free options (Eugene, Cascades & Coast)', 'Two locations: the original in the Whiteaker neighborhood and a Petite shop near the University (Sweet Life Patisserie)', 'Consistently voted \"Best Bakery\" in the Eugene Weekly\\'s Best of Eugene awards (Eugene Weekly)', 'Custom order services available for weddings, birthdays, and special events (Sweet Life Patisserie)', 'Skilled baristas serving locally roasted organic espresso and organic teas (Eugene, Cascades & Coast)']"
+      ],
+      "tips": "Place custom orders at least 3 days in advance, or 1 week for custom designs (Sweet Life Patisserie). Note that all phone and online orders must be picked up at the Monroe Street location (Sweet Life Patisserie). Expect lines during busy weekend nights, but pre-paid pickup options are available to save time (Sweet Life Patisserie).",
+      "nearby": "Monroe Park, Beergarden, Sam Bond's Garage, Owen Rose Garden, and the University of Oregon (Travel Oregon, Tripadvisor)"
+    },
+    {
+      "name": "Tacovore",
+      "category": "Restaurant / Taqueria Travel Oregon",
+      "description": "Located in the heart of Eugene's Whiteaker neighborhood, Tacovore is a popular taqueria that serves Mexican street food with a focus on local and sustainable ingredients. The restaurant offers a casual and hip atmosphere with house-made tortillas, an extensive tequila selection, and creative cocktails. Eugene, Cascades & Coast, Travel Oregon",
+      "address": "530 Blair Blvd, Eugene, OR 97402 Tacovore Official Site",
+      "city": "Eugene Tacovore Official Site",
+      "region": "Whiteaker",
+      "hours": "Sun-Thu: 11:00 AM - 9:00 PM; Fri-Sat: 11:00 AM - 10:00 PM Tacovore Official Site",
+      "days_open": "Daily Tacovore Official Site",
+      "admission": "Free Tacovore Menu",
+      "website": "http://tacovorepnw.com/",
+      "phone": "(541) 735-3518 Tacovore Official Site",
+      "image_url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,q_75,w_1200/v1/crm/lanecounty/Tacovore-Margaritas-2ffb0b575056b3a_2ffb0c73-5056-b3a8-49530caa078f4e30.jpg",
+      "highlights": [
+        "'Locally and sustainably sourced ingredients used in all dishes [Eugene, Cascades & Coast', 'House-made corn tortillas prepared fresh daily from scratch Tripadvisor', 'Extensive tequila and house-made margarita menu Travel Oregon', 'Diverse menu featuring gluten-free, vegetarian, and vegan options like crispy tofu and tempeh Find Me Gluten Free', 'Casual indoor and outdoor seating areas Tripadvisor']"
+      ],
+      "tips": "Visit during happy hour (daily 3-6 PM) for discounts on tacos, margaritas, and beer. The Mole Verde taco is a highly recommended favorite, and the restaurant is dog-friendly in the outdoor area. Yelp, Tripadvisor",
+      "nearby": "Skinner Butte Trail, Ruth Bascom Riverbank Path System, Sam Bond's Garage, Izakaya Meiji Company Eugene, Cascades & Coast"
+    },
+    {
+      "name": "The Oregon Wine L.A.B. Oregon Wine L.A.B.",
+      "category": "Urban Winery and Tasting Lounge Oregon Wine L.A.B.",
+      "description": "The Oregon Wine L.A.B. (Local Artisan Brands) is Eugene's premier urban winery and tasting lounge, serving as the production home for William Rose Wines. It offers a modern, relaxed atmosphere where guests can sample wines from small, local producers who lack their own tasting rooms. The venue features a spacious, covered outdoor patio and a cozy indoor lounge, often hosting food carts and community events. Oregon Wine L.A.B., Eugene Cascades & Coast",
+      "address": "488 Lincoln St, Eugene, OR 97401-2533 Tripadvisor",
+      "city": "Eugene Oregon Wine L.A.B.",
+      "region": "Whiteaker",
+      "hours": "Tuesday – Saturday: 12:00 PM – 9:00 PM; Sunday: 12:00 PM – 5:00 PM; Monday: Closed Oregon Wine L.A.B.",
+      "days_open": "Tuesday – Sunday Oregon Wine L.A.B.",
+      "admission": "Free entry; Tasting flights typically range from $12–$15 Yelp, Tripadvisor",
+      "website": "https://www.oregonwinelab.com",
+      "phone": "(458) 201-7413 Oregon Wine L.A.B.",
+      "image_url": "https://www.oregonwinelab.com/wp-content/uploads/elementor/thumbs/Oregon_Wine_Lab_Eugene_OR_Credit_Stephanie_Urso_SU3_3094-scaled-oq8yi7px3qfeijlvweabnkd7tt3adg8f0gvidotc7k.jpg",
+      "highlights": [
+        "'Home to William Rose Wines, produced on-site from Oregon-grown grapes [Oregon Wine L.A.B.', 'Showcases \"Local Artisan Brands\" (L.A.B.) from small, independent wineries across the region Oregon Wine L.A.B.', 'Features a large, dog-friendly outdoor patio and cozy indoor \"cafe vibes\" Oregon Wine L.A.B.', 'On-site food available from the Uumami Mediterranean food cart Oregon Wine L.A.B.', 'Hosts regular events including trivia nights, live music, and \"Bubbles & Beats\" Tripadvisor', 'Offers a \"OWL’s Nest\" private function room for events and parties Oregon Wine L.A.B.']"
+      ],
+      "tips": "Reservations are highly encouraged to ensure table availability. Minors are welcome in the tasting room and patio until 9:00 PM. Check their online calendar for the food cart schedule and special events like trivia. Oregon Wine L.A.B.",
+      "nearby": "Capitello Wines, Hult Center for the Performing Arts, 5th Street Public Market, Lane County Farmers Market Tripadvisor"
+    },
+    {
+      "name": "Wandering Goat Coffee Co. (Wandering Goat Coffee)",
+      "category": "Cafe (Tripadvisor)",
+      "description": "Wandering Goat Coffee Co. is a locally owned coffee roaster and cafe located in the heart of Eugene's Whiteaker neighborhood. They specialize in light-to-medium roasts and are dedicated to sourcing 100% certified organic, shade-grown coffees produced using sustainable methods. The cafe offers a funky, offbeat vibe with a full-service menu including organic coffee, vegan food, and occasional live music events (Wandering Goat Coffee, Eugene Weekly).",
+      "address": "268 Madison St, Eugene, OR 97402-5035",
+      "city": "Eugene",
+      "region": "Whiteaker",
+      "hours": "Monday: 7:00 AM - 3:00 PM, Tuesday: 7:00 AM - 3:00 PM, Wednesday: 7:00 AM - 3:00 PM, Thursday: 7:00 AM - 3:00 PM, Friday: 7:00 AM - 3:00 PM, Saturday: 7:00 AM - 3:00 PM, Sunday: 7:00 AM - 3:00 PM (Wandering Goat Coffee)",
+      "days_open": "Daily (Wandering Goat Coffee)",
+      "admission": "Free (Tripadvisor)",
+      "website": "https://wanderinggoat.com",
+      "phone": "541-344-5161 (Eugene Weekly)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Wandering_Goat_Coffee_Company-5.jpg",
+      "highlights": [
+        "'100% certified organic and shade-grown coffee beans roasted on-site ([Wacaco)', 'Unique signature drinks like the \"Cafe Borgia,\" a mocha infused with orange zest (Yelp)', '100% vegan food menu featuring items like biscuits and gravy and house-made pastries (Wandering Goat Coffee)', 'Vibrant atmosphere that frequently hosts live music ranging from folk to punk rock (Eugene Weekly)', 'Sustainability-focused business practices, including Oregon Tilth certification (Wandering Goat Coffee)', 'Indoor and outdoor seating options in the historic Whiteaker district (Wandering Goat Coffee)']"
+      ],
+      "tips": "Try the Cafe Borgia for a unique citrus-chocolate coffee experience. If the cafe's small parking lot is full, there is additional street parking available nearby. It is a great spot for journaling or meeting friends, though be aware that it can get busy during live music events (Yelp).",
+      "nearby": "Oakshire Brewing Public House, Ninkasi Brewing Company, Washington Jefferson Park (Skatepark), Blair Boulevard Historic District (Yelp)"
+    },
+    {
+      "name": "Whiteaker Block Party (WBP)",
+      "category": "Entertainment / Music Festival / Community Festival",
+      "description": "The Whiteaker Block Party is a vibrant, community-driven street festival that celebrates the eclectic and bohemian spirit of Eugene's historic Whiteaker neighborhood. The event features multiple stages with live local music, street performers, art installations, food vendors, and a showcase of the area's famous craft breweries. Eugene Weekly, South River Structures",
+      "address": "420 Blair Blvd (primary event hub/organizer address) and multiple blocks throughout the Whiteaker neighborhood, including 3rd Ave & Blair Blvd",
+      "city": "Eugene",
+      "region": "Whiteaker",
+      "hours": "Saturday: 12:00 PM – 10:00 PM Facebook, Instagram",
+      "days_open": "Saturday (Annual Event) Facebook, Instagram",
+      "admission": "Free (some \"Unofficial\" venues/after-parties may have cover charges ranging from $5 to $17) Eugene Weekly, KVAL",
+      "website": "http://whiteakerblockparty.com",
+      "phone": "541-393-6820 (Twenty After Four Wellness Center - Organizing Hub) Leafly",
+      "image_url": "https://www.whiteakercommunitycouncil.com/s/WBP-logo.png",
+      "highlights": [
+        "'Dozens of local bands and musical performances across multiple stages [Eugene Weekly', 'Diverse selection of local food carts and street vendors KVAL', 'Live art installations, crafts, and interactive community activities Instagram', \"Showcase of neighborhood staples like Sam Bond's Garage and Ninkasi Brewery Eugene, Cascades & Coast\", 'Unique street performances including fire spinners and aerialists Facebook', 'Family-friendly Kid Zone and community history displays Eugene Weekly']"
+      ],
+      "tips": "Arrive early to explore all nine stages and avoid the largest crowds; the event is bike-friendly and often provides a bike valet. Wear comfortable walking shoes as the party spans multiple city blocks, and be sure to check the individual venue schedules for 'Unofficial' after-parties. Eugene Weekly, KVAL",
+      "nearby": "Sam Bond’s Garage, Ninkasi Brewing Company, Blairally Vintage Arcade, Washington Jefferson Park, Skinner Butte Park Eugene, Cascades & Coast, South River Structures"
+    },
+    {
+      "name": "Amazon Park",
+      "category": "Park",
+      "description": "Amazon Park is a vibrant, active community space spanning nearly 100 acres in the heart of south Eugene. It offers a diverse range of recreational opportunities, including a 5.5-mile bark running trail, Eugene's only outdoor pool, and a groundbreaking fully-inclusive playground. Eugene, OR Website, Kupi.com",
+      "address": "22 Amazon Pkwy Eugene, OR Website",
+      "city": "Eugene",
+      "region": "South Eugene / Fairmount",
+      "hours": "Park: Daily, daylight hours; Amazon Community Center: Monday-Friday, 9:00 AM – 5:00 PM; Amazon Pool: Seasonal (late May to September) with varying swim schedules. Eugene, OR Website, Kupi.com",
+      "days_open": "Daily Kupi.com",
+      "admission": "Park Admission: Free; Amazon Pool: Single visit $7 for adults (18+), $6 for youth (3-17) and seniors (60+), and $20 for families. Eugene, OR Website",
+      "website": "https://www.eugene-or.gov/facilities/Facility/Details/30",
+      "phone": "541-682-4800 (Parks), 541-682-5350 (Pool) Eugene, OR Website",
+      "image_url": "https://www.eugene-or.gov/PhotoGallery/4/Amazon_Pool_Entry.jpg",
+      "highlights": [
+        "'5.5-mile North and South Amazon Running Trail System (bark jogging path) [Eugene, OR Website', \"Eugene's first fully-inclusive playground for all ages and mobility Eugene, OR Website\", \"Amazon Pool, the city's only outdoor public pool facility Eugene, OR Website\", '3-acre dog park for all sizes and a separate 0.5-acre area for small dogs Eugene, OR Website', 'Extensive sports facilities including tennis courts, soccer fields, and a skate park Eugene, OR Website', 'Amazon Community Center offering enrichment classes and a community garden Eugene, OR Website']"
+      ],
+      "tips": "The pool is a major local attraction in the summer; arrive early as lines can be long. Runners should utilize the 5.5-mile bark trail for a low-impact surface compared to city sidewalks. Tripadvisor, Eugene, OR Website",
+      "nearby": "Spencer Butte Park, University of Oregon campus, Hilyard Community Center. Wikipedia, Great Runs"
+    },
+    {
+      "name": "Cascades Raptor Center Cascades Raptor Center",
+      "category": "Nature Center & Wildlife Hospital Cascades Raptor Center",
+      "description": "Cascades Raptor Center is a premier nature center and wildlife hospital in Eugene, Oregon, dedicated to the rehabilitation of birds of prey and public education. The facility is home to over 30 resident education raptors representing 30 native species, making it one of the largest collections of its kind in the Pacific Northwest. Cascades Raptor Center, SimpleTix",
+      "address": "32275 Fox Hollow Rd. Cascades Raptor Center",
+      "city": "Eugene Cascades Raptor Center",
+      "region": "South Eugene / Fairmount",
+      "hours": "Tuesday – Sunday: 10:00 AM – 5:00 PM. Closed Mondays (except Memorial Day), Thanksgiving Day, Christmas Eve, and Christmas Day. Cascades Raptor Center",
+      "days_open": "Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday Cascades Raptor Center",
+      "admission": "Adults: $16, Seniors (62+): $14, Students (13+): $14, Military (Veterans and Active Duty): $14, Children (4-12): $10, Children under 4: Free. Free for Members, DSPs, and EBT cardholders (up to 4 people) through Museums for All. Cascades Raptor Center, Head Start of Lane County",
+      "website": "https://cascadesraptorcenter.org",
+      "phone": "541-485-1320 Cascades Raptor Center",
+      "image_url": "https://cascadesraptorcenter.org/wp-content/uploads/2021/11/Ra-Resized-1024x410.jpg",
+      "highlights": [
+        "'Home to nearly 40 resident birds of prey including owls, eagles, and falcons [SimpleTix', 'One of the largest native raptor collections in the Pacific Northwest Cascades Raptor Center', 'The only raptor-specific wildlife clinic in Oregon, treating hundreds of patients annually Cascades Raptor Center', 'Wooded hillside setting with self-guided tours through outdoor aviaries Tripadvisor', 'Specializes in species like turkey vultures, harriers, and ospreys SimpleTix', 'Educational programs and seasonal raptor meet-and-greets Cascades Raptor Center']"
+      ],
+      "tips": "The center is entirely outdoors, so dress for the weather and wear sturdy walking shoes for gravel paths. No dogs are allowed on site, including in vehicles. Parking is limited; use the overflow lot across the street on Christensen Road if needed. Cascades Raptor Center, SimpleTix",
+      "nearby": "Ridgeline Trailhead (Christensen Road), Spencer Butte Park, Mt. Pisgah Arboretum. SimpleTix, Lincoln Chronicle"
+    },
+    {
+      "name": "Eugene Civic Alliance (Civic Park)",
+      "category": "Sports and Recreation Complex",
+      "description": "Eugene Civic Alliance is a nonprofit corporation that built and operates Civic Park, a premier sports and recreation destination on the historic Civic Stadium property. The facility serves as a hub for youth and adult sports, featuring a 40,000-square-foot fieldhouse and a FIFA regulation-size synthetic turf field to promote community health and fitness. Eugene Civic Alliance, Travel Oregon",
+      "address": "2077 Willamette Street",
+      "city": "Eugene",
+      "region": "South Eugene / Fairmount",
+      "hours": "Office: 8:30 AM - 4:30 PM (Monday - Friday); Facility: Open daily for scheduled events and programs Kidsports, Play Civic Park",
+      "days_open": "Daily (Monday - Sunday)",
+      "admission": "Free for public park use; varies for specific leagues and events Eugene Civic Alliance, Play Civic Park",
+      "website": "https://eugenecivicalliance.org",
+      "phone": "541-525-6601",
+      "image_url": "https://eugenecivicalliance.org/wp-content/uploads/2017/01/tot-soccer-2.jpg",
+      "highlights": [
+        "['Kidsports Fieldhouse with 4 hardwood multi-purpose courts and 2 outdoor courts', 'FIFA regulation-size synthetic turf field (Market of Choice Field)', '2,500-seat grandstand for professional and amateur sporting events', 'Home to Lane United Football Club and Bushnell University soccer teams', 'Community event spaces and meeting rooms available for rental', \"Pocket park and children's play area within the facility\"]"
+      ],
+      "tips": "Free parking is available in the North Parking Lot off 20th Avenue and Amazon Parkway during operating hours. Visitors should check the event calendar or rental schedule as the turf field and courts are often reserved for specific leagues and programs. Play Civic Park",
+      "nearby": "South Eugene High School, Amazon Park, Amazon Pool, University of Oregon Wikipedia), Homes.com"
+    },
+    {
+      "name": "Hendricks Park Rhododendron Garden",
+      "category": "Park",
+      "description": "Hendricks Park is Eugene's oldest city park, featuring 80 acres of diverse natural beauty including a world-renowned rhododendron garden and a native plant garden. Visitors can explore a 58-acre urban forest with 200-year-old Douglas firs and access the northern terminus of the 12-mile Ridgeline Trail (Eugene, OR Official Website, Friends of Hendricks Park).",
+      "address": "Summit Ave. and Skyline Blvd., Eugene, OR 97403",
+      "city": "Eugene",
+      "region": "South Eugene / Fairmount",
+      "hours": "6:00 a.m. - 11:00 p.m. daily (Friends of Hendricks Park, Oregon Hikers)",
+      "days_open": "Monday - Sunday (Friends of Hendricks Park)",
+      "admission": "Free (Airial Travel, Virtual Tourist)",
+      "website": "https://www.eugene-or.gov/facilities/facility/details/80",
+      "phone": "541-682-4800 (Eugene, OR Official Website)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Hendricks_Park.jpg",
+      "highlights": [
+        "'12-acre Rhododendron Garden with over 6,000 varieties of plants ([Eugene, OR Official Website)', 'Ancient Douglas fir trees, some over 200 years old (Eugene, OR Official Website)', 'Francis M. Wilkins Shelter and Moon Terrace stone deck (Eugene, OR Official Website)', 'Native Plant Garden featuring ferns and local wildflowers (Eugene, OR Official Website)', 'Steve Prefontaine Memorial near the park entrance (Airial Travel)', 'Scenic hiking and running trails connecting to the Ridgeline Trail system (Eugene, OR Official Website)']"
+      ],
+      "tips": "Visit from late April to early June to see peak rhododendron blooms. Dogs are allowed in the forest area on-leash but are strictly prohibited within the Rhododendron and Native Plant Gardens to protect the flora. Parking is available in the upper lot at 1800 Skyline Blvd or near the main entrance (Eugene, OR Official Website, Airial Travel).",
+      "nearby": "University of Oregon, Jordan Schnitzer Museum of Art, Hayward Field, Alton Baker Park, Skinner Butte Park (TripAdvisor, Reddit)"
+    },
+    {
+      "name": "Prefontaine Memorial (Pre's Rock)",
+      "category": "Landmark, Park",
+      "description": "Prefontaine Memorial Park is a 1.3-acre site located at the hairpin turn on Skyline Boulevard where legendary American distance runner Steve Prefontaine died in 1975. The site features a black granite memorial stone and has become a global pilgrimage destination for athletes who leave medals, race bibs, and shoes in tribute. City of Eugene, Atlas Obscura",
+      "address": "2425 Skyline Blvd",
+      "city": "Eugene",
+      "region": "South Eugene / Fairmount",
+      "hours": "Daily: 6:00 AM - 11:00 PM City of Eugene",
+      "days_open": "Daily City of Eugene",
+      "admission": "Free City of Eugene",
+      "website": "https://www.eugene-or.gov/Facilities.aspx?Page=detail&RID=127",
+      "phone": "541-682-4800 City of Eugene",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Pre%27s_Rock_Oly_Trials_2012.jpg",
+      "highlights": [
+        "['Site of the 1975 fatal crash of Olympic runner Steve Prefontaine', 'Black granite memorial slab with an engraved picture and tribute poem', 'Tradition of visitors leaving personal running memorabilia like medals and shoes', 'Maintained as a 1.3-acre park by the City of Eugene since 1997', 'Located on a scenic, winding road overlooking the city and near Hendricks Park']"
+      ],
+      "tips": "Parking is extremely limited and the road is narrow and winding; pedestrians should use caution and stay behind the safety rail. Visiting on foot from Hayward Field (approx. 1 mile away) is a popular tradition for runners. Eugene, Cascades & Coast",
+      "nearby": "Hendricks Park, Hayward Field, Pre's Trail (Alton Baker Park), University of Oregon TripAdvisor"
+    },
+    {
+      "name": "Spencer Butte Park",
+      "category": "Park City of Eugene",
+      "description": "Spencer Butte Park is a regional landmark and the highest point along Eugene's 2,100-acre Ridgeline Park system. Standing at 2,058 feet, its treeless summit provides stunning 360-degree views of the Willamette Valley, Cascade Mountains, and Coast Range. City of Eugene, Spencer Butte Park",
+      "address": "85397 Willamette St, Eugene, OR 97405 City of Eugene",
+      "city": "Eugene City of Eugene",
+      "region": "South Eugene / Fairmount",
+      "hours": "Daily, 6:00 a.m. – 11:00 p.m. City of Eugene/KMTR, Trip.com",
+      "days_open": "Monday-Sunday Trip.com",
+      "admission": "Free City of Eugene, Hikespeak",
+      "website": "https://www.eugene-or.gov/facilities/facility/details/spencerbuttepark-158",
+      "phone": "541-682-4800 City of Eugene",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Spencer_Butte_summit.jpg",
+      "highlights": [
+        "'2,058-foot summit with panoramic 360-degree views [City of Eugene', 'Main Summit Trail featuring artful dry-stone masonry stairways City of Eugene', 'Part of the extensive 12-mile Ridgeline Trail System Spencer Butte Park', 'Diverse ecosystem including old-growth Douglas fir forests and rare wildflowers City of Eugene', 'Volcanic bedrock core of basaltic andesite formed millions of years ago Spencer Butte Park']"
+      ],
+      "tips": "Wear sturdy hiking shoes and bring plenty of water as the trails can be steep. Stay on designated paths to protect the sensitive summit habitat and rare plants. Note that parking is free but fills up quickly on weekends, and hikers are advised not to leave valuables in their vehicles. City of Eugene, Spencer Butte Park",
+      "nearby": "Cascade Raptor Center, Ridgeline Trail System, Skinner Butte Park, Mount Pisgah Arboretum, Hendricks Park Tripadvisor, Reddit"
+    },
+    {
+      "name": "The Bier Stein Bottleshop & Pub",
+      "category": "Restaurant, Bar, Shopping",
+      "description": "The Bier Stein is a connoisseur beer store and beer hall located in Eugene, OR, featuring over 1,000 different bottles of beer from around the world and 25+ evolving taps. Originally opened in 2005, it offers a world-class beer experience paired with a menu of house specialties, sandwiches, and traditional German-style pub food.",
+      "address": "1591 Willamette Street, Eugene, OR 97401",
+      "city": "Eugene",
+      "region": "South Eugene / Fairmount",
+      "hours": "Sunday: 12:00 PM – 9:30 PM, Monday: 12:00 PM – 9:30 PM, Tuesday: 12:00 PM – 9:30 PM, Wednesday: 12:00 PM – 9:30 PM, Thursday: 12:00 PM – 11:00 PM, Friday: 12:00 PM – 11:00 PM, Saturday: 12:00 PM – 11:00 PM",
+      "days_open": "Sunday - Saturday",
+      "admission": "Free (Menu prices vary by item)",
+      "website": "https://thebierstein.com",
+      "phone": "541-485-2437",
+      "image_url": "https://thebierstein.com/wp-content/uploads/2022/02/the-bier-stein-logo.png",
+      "highlights": [
+        "['Over 1,000 different bottles of beer from around the world', '30+ evolving taps including house IPAs and lagers', 'Educated staff with Cicerone Server certifications', 'Extensive menu featuring German-style specialties like Jägerschnitzel and Bratwurst', '12,000 square feet of indoor and outdoor space with a patio', 'Regular events including Tuesday Bingo and Thursday Tasting series']"
+      ],
+      "tips": "The establishment is family-friendly until 9:00 PM. Don't miss the 'Hoppy Hour' specials from Monday to Thursday between 2:00 PM and 4:00 PM. Parking can be limited during busy times, so consider walking or parking on a nearby side street.",
+      "nearby": "University of Oregon, Hult Center for the Performing Arts, Cascades Raptor Center, Mount Pisgah, 5th Street Public Market"
+    },
+    {
+      "name": "King Estate Winery",
+      "category": "Winery, Restaurant King Estate",
+      "description": "Founded in 1991, King Estate is a premier family-owned winery located on a 1,033-acre estate southwest of Eugene, Oregon. It is recognized as the largest Biodynamic® certified vineyard in North America and is a benchmark producer of Pinot Gris. The estate features a unique culinary ecosystem including vineyards, orchards, and gardens that support its on-site gourmet restaurant King Estate, Wikipedia",
+      "address": "80854 Territorial Highway, Eugene, OR 97405 King Estate",
+      "city": "Eugene King Estate",
+      "region": "West Eugene",
+      "hours": "Monday: 12:00 PM - 4:00 PM (Wine + Food); Tuesday: 12:00 PM - 4:00 PM (Wine Tasting only); Wednesday: 12:00 PM - 4:00 PM (Wine Tasting only); Thursday: 12:00 PM - 4:00 PM (Wine + Food); Friday: 12:00 PM - 4:00 PM (Wine + Food); Saturday: 12:00 PM - 4:00 PM (Wine + Food); Sunday: 12:00 PM - 4:00 PM (Wine + Food). Note: Last reservation is at 4:00 PM King Estate",
+      "days_open": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday King Estate",
+      "admission": "Admission is free; Tasting flights and dining costs vary and require reservations Expedia, King Estate",
+      "website": "https://kingestate.com",
+      "phone": "541-942-9874 King Estate",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/King_Estate_Of_Oregon.jpg",
+      "highlights": [
+        "'Largest Biodynamic® certified vineyard in North America [King Estate', 'Renowned benchmark producer of Oregon Pinot Gris Wikipedia', '1,033-acre working farm with 470 acres under vine King Estate', 'European-style winery with stunning hilltop views of the Willamette Valley Expedia', 'On-site restaurant featuring a sustainable \"culinary ecosystem\" King Estate', 'Home to diverse wildlife including Northern Harriers and Great Horned Owls King Estate']"
+      ],
+      "tips": "Reservations are strictly required for all visits. No outside food or beverages are permitted on the estate, and pets should be left at home. A 20% service charge is automatically added to parties of five or more King Estate",
+      "nearby": "Sweet Cheeks Winery, Iris Vineyards, Silvan Ridge Winery, Pfeiffer Winery, Lorane Valley Eugene Cascades & Coast"
+    }
+  ]
+}
