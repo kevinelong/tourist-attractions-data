@@ -1,0 +1,1459 @@
+{
+  "title": "Portland, ME Tourist Attractions",
+  "generated": "2026-05-12",
+  "total_attractions": 76,
+  "regions_covered": [
+    "Old Port / Waterfront",
+    "Arts District / Downtown",
+    "East End / Munjoy Hill",
+    "West End / Deering",
+    "Cape Elizabeth / South Portland",
+    "Casco Bay Islands"
+  ],
+  "attractions": [
+    {
+      "name": "Acadia National Park",
+      "category": "Park",
+      "description": "Acadia National Park protects the natural beauty of the highest rocky headlands along the Atlantic coastline of the United States. It encompasses more than 48,000 acres, including Mount Desert Island, the Schoodic Peninsula, and Isle au Haut. Visitors enjoy a rich landscape of granite peaks, historic carriage roads, and rugged coastal views. NPS Overview",
+      "address": "25 Visitor Center Road",
+      "city": "Bar Harbor",
+      "region": "Old Port / Waterfront",
+      "hours": "Park: Open 24 hours daily. Hulls Cove Visitor Center (May 1–Oct 31): 8:30 AM – 4:30 PM. Sand Beach Entrance Station: Open 24 hours (not always manned). NPS Hours, Apple Maps",
+      "days_open": "Open year-round, seven days a week. NPS Operating Hours",
+      "admission": "Private Vehicle ($35.00), Motorcycle ($30.00), Per Person ($20.00). Note: Vehicle reservations are required for Cadillac Summit Road ($6.00). Non-US residents (16+) must pay an additional $100 fee. NPS Fees",
+      "website": "https://www.nps.gov/acad",
+      "phone": "207-288-3338",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/National_park_acadia_1.jpg/1200px-National_park_acadia_1.jpg",
+      "highlights": [
+        "'Cadillac Mountain Summit for sunrise views [NPS', '27-mile Park Loop Road scenic drive NPS', '45 miles of historic stone-bridged Carriage Roads Bar Harbor', 'Jordan Pond and its famous popovers at Jordan Pond House AllTrips', 'Thunder Hole for dramatic ocean waves NPS', 'Challenging iron-rung hikes like the Beehive and Precipice Trails Noahawaii']"
+      ],
+      "tips": "Buy your entrance pass online in advance to save time. Vehicle reservations are required for Cadillac Summit Road from late May through October. Visit during 'shoulder' seasons like late spring or early autumn for smaller crowds and vibrant foliage. NPS Planning",
+      "nearby": "Bar Harbor Village, Bass Harbor Head Lighthouse, Schoodic Peninsula, and the Wild Gardens of Acadia. Acadia Magic"
+    },
+    {
+      "name": "Austin Street Brewery, Austin Street Brewery",
+      "category": "Bar, Yelp",
+      "description": "Austin Street Brewery, founded in 2013 by Jake Austin and Will Fisher, is a staple of the Portland craft beer community known for its creative independence and high-quality brews (Maine Brewers' Guild). The brewery operates two locations, including a spacious flagship taproom in East Bayside and its original production facility on Industrial Way, offering a laid-back atmosphere for both beer enthusiasts and families (Austin Street Brewery).",
+      "address": "115 Fox St, Portland, ME 04101, Austin Street Brewery",
+      "city": "Portland, Austin Street Brewery",
+      "region": "Old Port / Waterfront",
+      "hours": "Sunday: 12:00PM - 6:00PM; Monday - Thursday: 2:00PM - 8:00PM; Friday - Saturday: 12:00PM - 8:00PM, Austin Street Brewery",
+      "days_open": "Daily, Austin Street Brewery",
+      "admission": "Free, Austin Street Brewery",
+      "website": "https://www.austinstreetbrewery.com/",
+      "phone": "(207) 358-0492, Austin Street Brewery",
+      "image_url": "https://d1w7312wesee68.cloudfront.net/YpYpe_0C-bDeMAZNmk259NSqrH_j2R2vYU_j0UPXvNs/ext:webp/quality:85/preset:xxl/c:3000:4000:ce:0:0/plain/s3://toast-sites-resources-prod/restaurantImages/998c103c-3b07-486a-a0ff-2716d2472406/ASBPaseo.png",
+      "highlights": [
+        "'Flagship Patina Pale Ale and a diverse, rotating lineup of IPAs, stouts, and sours ([Austin Street Brewery)', 'Two distinct Portland locations: the modern East Bayside taproom and the original Industrial Way space (Hop Culture)', 'Dog and family-friendly environment featuring indoor and outdoor seating and board games (Bringfido, So Much Life)', 'Daily food truck schedule featuring local Portland vendors (Tripadvisor)', 'Inclusion of non-beer options like wine, hard cider, and craft cocktails (Boozing Abroad)', \"100% independent ownership maintained by the original founders (Maine Brewers' Guild)\"]"
+      ],
+      "tips": "Visitors are encouraged to check the daily food vendor schedule on the brewery's website to see which local food trucks are on-site (Tripadvisor). The Fox Street location is particularly popular for its expansive patio and proximity to other Bayside breweries, so arriving early on weekends is recommended (WGME).",
+      "nearby": "Rising Tide Brewing Company, Lone Pine Brewing Company, Goodfire Brewing Co., and the Bayside Trail, BEER IN THE CITY, Reddit"
+    },
+    {
+      "name": "Back Cove Trail (Wikipedia)",
+      "category": "Park (Portland Trails)",
+      "description": "Back Cove Trail is a popular 3.6-mile multi-use loop in Portland, Maine, that circumnavigates the scenic Back Cove estuary (Wikipedia). The trail is primarily flat with a mix of paved and stone dust surfaces, offering panoramic views of the city skyline and connecting to other major trail systems like the Eastern Promenade (Portland Trails). It is one of the oldest and most popular trails in the city, frequently used for walking, running, and biking (Maine Trail Finder).",
+      "address": "283 Preble Street Ext (Creative Portland)",
+      "city": "Portland (City of Portland)",
+      "region": "Old Port / Waterfront",
+      "hours": "Monday–Sunday: 6AM–10PM (Wanderlog)",
+      "days_open": "Daily (Wanderlog)",
+      "admission": "Free (Komoot)",
+      "website": "https://www.trails.org/trail/back-cove-trail/",
+      "phone": "(207) 775-2411 (Portland Trails)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Back_Cove_Trail_2025.jpg/330px-Back_Cove_Trail_2025.jpg",
+      "highlights": [
+        "'3.6-mile loop trail ideal for walking, running, and biking ([Portland Trails)', 'Panoramic views of the Portland skyline and Casco Bay (Komoot)', 'Distance markers posted every quarter mile and kilometer (Maine Trail Finder)', \"Connections to Bayside and Eastern Promenade Trails under Tukey's Bridge (Wikipedia)\", 'Fully accessible for people with disabilities and strollers (Maine By Foot)', 'Dog-friendly with on-leash access and seasonal water fountains (Wanderlog)']"
+      ],
+      "tips": "Be mindful of the tides, as the cove is an estuary that can emit a strong smell at low tide (Tripadvisor). Most visitors prefer walking the loop in a clockwise direction starting from the Preble Street Extension parking lot (Wanderlog). While the trail is mostly flat, there is a slight hill on the stretch paralleling I-295 (Maine Trail Finder).",
+      "nearby": "Payson Park, Eastern Promenade, Bayside Trail, East End Beach, and the Maine Narrow Gauge Railroad Co. & Museum (Komoot, Wanderlog)"
+    },
+    {
+      "name": "Bissell Brothers Brewing Company",
+      "category": "Brewery, Taproom, and Kitchen",
+      "description": "Founded in 2013, Bissell Brothers Brewing Company is a cornerstone of Maine's craft beer culture, located in a 100-year-old former railcar repair building on Thompson's Point. They are dedicated to pushing the boundaries of craft beer while staying deeply rooted in their home state, offering style-defining ales alongside locally inspired dishes. Bissell Brothers",
+      "address": "38 Resurgam Place, Portland, ME 04102",
+      "city": "Portland",
+      "region": "Old Port / Waterfront",
+      "hours": "Mon: 11am – 5pm, Tue: 11am – 5pm, Wed: 11am – 8pm, Thu: 11am – 8pm, Fri: 11am – 8pm, Sat: 11am – 8pm, Sun: 11am – 6pm Bissell Brothers",
+      "days_open": "Monday - Sunday (Daily) Bissell Brothers",
+      "admission": "Free Bissell Brothers",
+      "website": "https://bissellbrothers.com",
+      "phone": "1 (207) 464-8624 Bissell Brothers",
+      "image_url": "https://craftpeak-cooler-images.imgix.net/bissell-brothers/BISS_History3.jpg?auto=compress%2Cformat&fit=scale&h=852&ixlib=php-3.3.1&w=1440&wpsize=medium_width_photo&s=b9c1944d8073933167dcbdf601466ee3",
+      "highlights": [
+        "'Flagship IPA \"The Substance Ale\" brewed with 100% Maine-grown grain [Bissell Brothers', 'Bustling taproom and kitchen located in a historic 100-year-old former railway building Bissell Brothers', 'Regularly released specialty beers like \"Swish\" and \"Nothing Gold\" Bissell Brothers', 'Community-focused events including trivia nights, run clubs, and live music Bissell Brothers', 'Full-service kitchen featuring seasonal sandwiches, salads, and locally sourced snacks Bissell Brothers', 'Family-friendly atmosphere with a variety of non-alcoholic options like hop water and local sodas Bissell Brothers']"
+      ],
+      "tips": "Parking on Thompson's Point is managed by a third party and requires payment via kiosks or the Passport app (Zone 1213). For a car-free visit, the brewery is a 7-minute walk from the Portland Transportation Center or accessible via the Fore River Trail and Greater Portland Metro bus service. Please note that only service animals are allowed inside the taproom or on the patio. Bissell Brothers",
+      "nearby": "Portland Transportation Center (Amtrak/Concord Trailways), Fore River Trail, Stroudwater Distillery, Thompson's Point Event Venue, Children's Museum & Theatre of Maine Tripadvisor, Bissell Brothers"
+    },
+    {
+      "name": "Browne Trading Gourmet Market",
+      "category": "Shopping / Specialty Food Market",
+      "description": "Browne Trading Gourmet Market is a premier specialty food destination located in Portland's historic Old Port. Founded by Rod Browne Mitchell, the market is a \"foodie’s paradise\" offering elite-quality seafood, one-of-a-kind caviar, and a highly curated selection of artisanal cheeses, smoked fish, and gourmet pantry items. Browne Trading Company Blog, Browne Trading Company Market Page",
+      "address": "262 Commercial Street, Merrill's Wharf",
+      "city": "Portland, ME 04101",
+      "region": "Old Port / Waterfront",
+      "hours": "Monday - Friday: 10:00 AM – 6:00 PM; Saturday - Sunday: 10:00 AM – 5:00 PM Browne Trading Company, Tripadvisor",
+      "days_open": "Daily (7 days a week) Browne Trading Company",
+      "admission": "Free Tripadvisor",
+      "website": "https://brownetrading.com/pages/portland-market",
+      "phone": "(207) 775-7560 Browne Trading Company",
+      "image_url": "https://brownetrading.com/cdn/shop/files/Photo_Nov_01_10_16_04_AM_676x1013.jpg?v=1694628861",
+      "highlights": [
+        "'Premier supplier of fine caviar, fresh seafood, and in-house smoked delicacies [Browne Trading Company', 'Largest curation of fine wines north of Boston Browne Trading Company', 'Full-service fishmonger providing custom filleting, scaling, and gutting at the counter Browne Trading Company Blog', 'Artisanal cheese and chocolate cut to order by the market team Browne Trading Company Blog', 'Daily lunch program featuring made-to-order seafood salads, rice poke bowls, and rotating soups Browne Trading Company Blog']"
+      ],
+      "tips": "Ask for a guided tour of the caviar program; employees are often available to provide tastings and explain the textures and tastes of different varieties. Visit for a quick bite from the lunch program and enjoy seafood specials with a view of the working waterfront. American Weekender, Browne Trading Company Blog",
+      "nearby": "Old Port Waterfront, Casco Bay Lines Ferry Terminal, DiMillo's Old Port Marina, Standard Baking Co., Portland Museum of Art Tripadvisor"
+    },
+    {
+      "name": "Bug Light Park",
+      "category": "Park, Landmark",
+      "description": "Bug Light Park is a scenic 8.78-acre waterfront park located at the eastern terminus of the Greenbelt Walkway, offering panoramic views of the Portland Harbor and skyline. It is most famous as the home of the Portland Breakwater Lighthouse, an elegant 1875 structure nicknamed 'Bug Light' for its diminutive size, and the Liberty Ship Memorial, which honors the 30,000 workers who built ships here during WWII. Today, the park is a popular destination for picnicking, kite flying, and salt water fishing.",
+      "address": "Madison Street (off Breakwater Way)",
+      "city": "South Portland",
+      "region": "Old Port / Waterfront",
+      "hours": "Daily: 6:00 AM – 9:00 PM",
+      "days_open": "Daily",
+      "admission": "Free (Seasonal fees required for boat launch)",
+      "website": "https://www.southportland.gov/Facilities/Facility/Details/Bug-Light-Park-12",
+      "phone": "(207) 767-7650",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Portland_ME_-_Bug_Light.jpg/1280px-Portland_ME_-_Bug_Light.jpg",
+      "highlights": [
+        "['Portland Breakwater Lighthouse (Bug Light), built in 1875 and modeled after an ancient Greek monument.', \"Liberty Ship Memorial, commemorating the site's history as a major WWII shipbuilding hub.\", 'Panoramic views of the Portland harbor, skyline, and passing cruise ships.', 'The eastern terminus of the Greenbelt Walkway, a paved path for biking and walking.', 'Expansive green space ideal for kite flying, picnicking, and seasonal events like Summer Movie Nights.', 'Public boat launch area providing direct access to Casco Bay.']"
+      ],
+      "tips": "The park is known for its sea breezes, making it one of the best spots in the area for kite flying. Parking is free and plentiful, but restrooms are only available on a seasonal basis. Dogs are welcome but must be kept under voice control and within 100 feet.",
+      "nearby": "South Portland Historical Society & Museum, Spring Point Ledge Lighthouse, Willard Beach, Portland Head Light (Cape Elizabeth)"
+    },
+    {
+      "name": "Bull Moose Music (Mill Creek)",
+      "category": "Shopping",
+      "description": "Bull Moose Music is a prominent independent and employee-owned entertainment retailer based in Maine, specializing in a wide array of new and used media (Wikipedia). Founded in 1989, the chain has become a local staple, offering everything from vinyl records and CDs to movies, books, and video games (Bull Moose). The stores are celebrated for their music-savvy staff and commitment to supporting local arts through showcases and events (Bull Moose).",
+      "address": "219 Waterman Drive",
+      "city": "South Portland",
+      "region": "Old Port / Waterfront",
+      "hours": "Monday: 9:00 AM - 10:00 PM, Tuesday: 9:00 AM - 10:00 PM, Wednesday: 9:00 AM - 10:00 PM, Thursday: 9:00 AM - 10:00 PM, Friday: 9:00 AM - 10:00 PM, Saturday: 9:00 AM - 10:00 PM, Sunday: 9:00 AM - 10:00 PM (Bull Moose)",
+      "days_open": "Daily (Bull Moose)",
+      "admission": "Free (Bull Moose)",
+      "website": "https://www.bullmoose.com",
+      "phone": "207-347-2400 (Bull Moose)",
+      "image_url": "https://cache.fieldstackintelligence.com/images/bullmoose/html-images/39a21b3b-7d0a-4b62-83c1-54435e8fd915.png",
+      "highlights": [
+        "'Extensive collection of new and used vinyl records and CDs ([Tripadvisor)', 'Wide variety of movies including DVDs, Blu-rays, and 4K Ultra HD (The US Sun)', 'Large selection of video games and consoles (The US Sun)', 'Diverse assortment of books, puzzles, board games, and gifts (Tripadvisor)', 'Active buy-back program for trading in used media (Bull Moose)', 'Employee-owned business with a strong focus on local community (Bull Moose)']"
+      ],
+      "tips": "Check the sale bins for discounted music and movies, and ask the knowledgeable staff for help tracking down hard-to-find items (Yelp). Frequent shoppers should join the loyalty program to earn points and credit toward future purchases (Bull Moose).",
+      "nearby": "Casco Bay Bridge, Mill Creek Park, Casco Bay, and the Portland Museum of Art (Tripadvisor)"
+    },
+    {
+      "name": "Camp Pennant (formerly Liquid Riot Bottling Company)",
+      "category": "Brewery, Distillery, Restaurant, Bar (Camp Pennant)",
+      "description": "Located in the heart of the Old Port, Camp Pennant (formerly Liquid Riot Bottling Company) is a waterfront brewery, distillery, and restaurant inspired by nostalgic Maine summers. The venue offers house-made craft beers and spirits alongside wood-fired Neapolitan-style pizzas and fresh local seafood in a whimsical, camp-themed setting (Camp Pennant, Portland Old Port).",
+      "address": "250 Commercial Street, Portland, Maine 04101",
+      "city": "Portland",
+      "region": "Old Port / Waterfront",
+      "hours": "Monday-Wednesday: 11:30 AM – 8:00 PM; Thursday-Saturday: 11:30 AM – 9:00 PM; Sunday: 11:30 AM – 8:00 PM (Camp Pennant)",
+      "days_open": "Open 7 days a week (Camp Pennant)",
+      "admission": "Free (Camp Pennant)",
+      "website": "https://www.camppennant.com",
+      "phone": "(207) 221-8889 (Camp Pennant)",
+      "image_url": "https://static.wixstatic.com/media/6411f3_241a16e1a22449248afd191c94f9f272~mv2.jpg",
+      "highlights": [
+        "'Waterfront views of the Old Port from an inviting outdoor deck ([The Maine Mag).', 'House-made craft beers and spirits distilled on-site by Pennant Distilling & Brewing (Camp Pennant).', 'State-of-the-art wood-fired oven producing Neapolitan-style pizzas at 900 degrees (Camp Pennant).', 'Weekly live music every Wednesday from 4:00 PM to 7:00 PM (Camp Pennant).', 'On-site \"Camp Store\" for purchasing beers and bottled spirits to go (Camp Pennant).']"
+      ],
+      "tips": "Take advantage of Happy Hour from Wednesday to Friday (3:00 PM – 5:00 PM) for 50% off food and $2 off drinks. Reservations are recommended for the waterfront deck and can be made online via Toast (Camp Pennant).",
+      "nearby": "Casco Bay Ferries, Portland Head Light, Portland Museum of Art, Historic Old Port District, Portland Observatory (Visit Portland, Polyphagic Abby)"
+    },
+    {
+      "name": "Casco Bay Lines (Casco Bay Island Transit District)",
+      "category": "Ferry / Transportation",
+      "description": "Casco Bay Lines is a ferry system that provides year-round passenger, freight, postal, and vehicle ferry service to the islands of Casco Bay from Portland, Maine. For over 150 years, its vessels have been transporting people between the mainland and seven islands, offering both essential transit and scenic specialty cruises. Casco Bay Lines About Us",
+      "address": "56 Commercial Street",
+      "city": "Portland, ME 04101",
+      "region": "Old Port / Waterfront",
+      "hours": "Ticket Office: Monday-Sunday, 5:00 AM - 10:30 PM. (Ferry departure times vary by island and season; first trips typically begin around 5:00 AM and last trips around 11:30 PM). Casco Bay Lines Contact Us",
+      "days_open": "Daily, 365 days a year Casco Bay Lines Schedules",
+      "admission": "Peak Season (Apr 18 – Oct 12, 2026): Adult $14.00, Child (5-17)/Senior (65+)/Disabled $7.00. Off-Peak (Oct 14, 2025 – Apr 17, 2026): Adult $7.20, Child/Senior/Disabled $3.60. Children under 5: Free. (All tickets are round-trip). Casco Bay Lines Rates",
+      "website": "https://www.cascobaylines.com",
+      "phone": "(207) 774-7871",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Casco_Bay_Lines_Ferry_Maquoit_II_passing_Peaks_Island%2C_2006.jpg",
+      "highlights": [
+        "'Year-round ferry service to seven islands: Peaks, Little Diamond, Great Diamond, Diamond Cove, Long Island, Chebeague, and Cliff Island. [Casco Bay Lines', 'Narrated scenic cruises including the famous 3-hour \"Mail Boat Run.\" Tripadvisor', 'Specialty excursions such as the Sunset Cruise, Moonlight Cruise, and the 2026 Cruising Casco Bay Concert Series. Casco Bay Lines Specialty Cruises', 'Pet-friendly travel (leashed dogs require a ticket; service animals travel for free). Casco Bay Lines Passenger Fares', 'Vehicle and freight transportation services to select islands. Casco Bay Lines Rates', \"Modern ferry terminal located at the historic Maine State Pier in the heart of Portland's Old Port. Casco Bay Lines Parking & Directions\"]"
+      ],
+      "tips": "Arrive at least 15-30 minutes before your scheduled departure to purchase tickets and board. There is no long-term customer parking at the terminal; use the adjacent Municipal Parking Garage or nearby lots. Tickets are round-trip and only collected when boarding in Portland. Casco Bay Lines Parking & Directions",
+      "nearby": "Old Port neighborhood, Commercial Street, Maine State Pier, Portland Museum of Art, Portland Regency Hotel & Spa, Standard Baking Co., Duckfat, Harbor Fish Market. Tripadvisor, Portland Regency Hotel"
+    },
+    {
+      "name": "Central Provisions Official Website",
+      "category": "Restaurant Tripadvisor",
+      "description": "Central Provisions is a popular, rustic restaurant in Portland's Old Port district, set in a historic 1828 storehouse. It offers a diverse and seasonal menu of small plates and craft cocktails, emphasizing locally sourced ingredients and bold flavors. Official Website, Wanderlog",
+      "address": "414 Fore Street, Portland, Maine 04101 Official Website",
+      "city": "Portland Official Website",
+      "region": "Old Port / Waterfront",
+      "hours": "Dinner: 5:00 PM - 9:30 PM (Sun-Thu), 5:00 PM - 10:00 PM (Fri-Sat); Lunch: 11:00 AM - 2:00 PM (Tue-Fri); Brunch: 11:00 AM - 2:00 PM (Sat-Mon) Official Website",
+      "days_open": "Daily Official Website",
+      "admission": "Free Yelp",
+      "website": "http://www.central-provisions.com",
+      "phone": "207-805-1085 Official Website",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/56e19bc9b6aa6041bb33d9b7/1462219065242-P95171O1JB6Q09BL5L94/thenandnow.jpg?format=1500w",
+      "highlights": [
+        "'Seasonal small plates arranged by \"Raw,\" \"Cold,\" \"Hot,\" and \"Sweets\" [Official Website', 'Housed in a historic 1828 Federal-style brick storehouse connected to the East India Trading Company Official Website', 'Features two distinct dining levels: a lively downstairs bar and a more formal upstairs dining room with an open kitchen The Maine Mag', 'Signature dishes include Suckling Pig, Bone Marrow Toast, and Tuna Crudo Yelp', 'Extensive cocktail list with pre-prohibition influences and an eclectic wine selection Yelp']"
+      ],
+      "tips": "Reservations are recommended and can be made 14 days in advance, though walk-ins are welcome at the bar. For the best experience, sit at the chef's counter to watch the open kitchen in action. Official Website, Phantom Gourmet",
+      "nearby": "Portland Waterfront and Commercial Street, Casco Bay Ferries, and the Portland Observatory Adventurous Kate"
+    },
+    {
+      "name": "Children's Museum & Theatre of Maine Official Website",
+      "category": "Museum, Entertainment Official Website",
+      "description": "The Children’s Museum & Theatre of Maine is an interactive educational center featuring over 30,000 square feet of exhibits spanning three floors and an outdoor adventure area. It offers hands-on exploration in science, arts, and culture, and is home to Maddy’s Theatre, the nation's longest-running children’s theatre Official Website, Visit Portland.",
+      "address": "250 Thompsons Point Rd, Portland, ME, 04102, United States Official Website",
+      "city": "Portland Official Website",
+      "region": "Old Port / Waterfront",
+      "hours": "Mon: 10 am - 4 pm (Member Magic Hours 9 am - 10 am); Tue: Closed; Wed: 10 am - 4 pm (Member Magic Hours 9 am - 10 am); Thu: 10 am - 4 pm (Member Magic Hours 9 am - 10 am); Fri: 10 am - 4 pm (Member Magic Hours 9 am - 10 am); Sat: 9 am - 4 pm; Sun: 9 am - 4 pm Official Website",
+      "days_open": "Monday, Wednesday, Thursday, Friday, Saturday, Sunday (Closed Tuesdays) Official Website",
+      "admission": "Babies (0-11 months): Free; Children (1-17): $20; Adults: $20; Museums for All (EBT/WIC/SNAP cardholders): $1; Theatre Tickets: $22 (Members get $5 off) Official Website",
+      "website": "https://www.kitetails.org",
+      "phone": "(207) 828-1234 Official Website",
+      "image_url": "https://commons.wikimedia.org/wiki/File:Thompson%E2%80%99s_Point,_Maine_2023_2.jpg",
+      "highlights": [
+        "'Maddy’s Theatre: The longest-running children’s theatre in the nation, featuring live performances [Official Website', 'From the Mountains to the Sea: An interactive aquarium exhibit exploring Maine’s watersheds Official Website', \"Outdoor Adventure: A space to dig, grow, and journey through Maine's outdoor landscape Official Website\", 'Go With the Flow: A water-play exhibit where children can explore fluid dynamics Official Website', 'MakerSpace: A workshop for open-ended creation, art workshops, and STEM activities Official Website', 'Our Neighborhood: A kid-scale Maine neighborhood for immersive dramatic role-play Official Website']"
+      ],
+      "tips": "Bring a change of clothes as water and art exhibits can be messy. Stroller space is limited, so baby wearing is recommended. Food is allowed only in the 1st floor atrium and outdoor areas; no eating/drinking in the theatre or on the 2nd floor Official Website.",
+      "nearby": "Bissell Brothers Brewing, The Rink at Thompson's Point, Cellardoor Winery Tasting Room, Stroudwater Distillery, Portland Transportation Center Thompson's Point, Greater Portland Landmarks"
+    },
+    {
+      "name": "Coastal Maine Botanical Gardens",
+      "category": "Museum / Botanical Garden",
+      "description": "Coastal Maine Botanical Gardens is the largest botanical garden in New England, encompassing over 300 acres of rocky coastal forest and tidal shoreline. The grounds feature 17 acres of meticulously designed ornamental gardens, woodland trails, and large-scale art installations like the \"Guardians of the Seeds\" giant trolls (Coastal Maine Botanical Gardens).",
+      "address": "105 Botanical Gardens Drive, Boothbay, ME 04537",
+      "city": "Boothbay",
+      "region": "Old Port / Waterfront",
+      "hours": "9:00 am – 5:00 pm Daily (Coastal Maine Botanical Gardens)",
+      "days_open": "Daily (Monday–Sunday) during the regular season, May 1 – October 19 (Coastal Maine Botanical Gardens)",
+      "admission": "Adults: $28, Seniors (65+) & Veterans: $24, Students (18+ with ID): $19, Children (3-17): $12, Child under 3: Free, Members: Free (Coastal Maine Botanical Gardens)",
+      "website": "https://www.mainegardens.org",
+      "phone": "(207) 633-8000",
+      "image_url": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/e8921574-3052-46cb-aef4-76d1e08fb9ff-sm-cmbg-dsc-2202.jpg",
+      "highlights": [
+        "'Lerner Garden of the Five Senses', 'Giant Trolls (\"Guardians of the Seeds\") by Thomas Dambo', \"Bibby and Harold Alfond Children's Garden\", 'Giles Rhododendron and Perennial Garden', 'Shoreland Trail with nearly a mile of tidal saltwater frontage', 'Native Butterfly and Moth House ([Coastal Maine Botanical Gardens)']"
+      ],
+      "tips": "Wear comfortable walking shoes as the garden spans hundreds of acres; advance tickets are required for entry. Complimentary EV charging is available in Lot F while the gardens are open, but note that only service animals are permitted on the grounds (Coastal Maine Botanical Gardens).",
+      "nearby": "Boothbay Harbor, Maine State Aquarium, Opera House at Boothbay Harbor, Maine Maritime Museum, Pemaquid Point Lighthouse (Evendo)"
+    },
+    {
+      "name": "Deering Oaks Park Wikipedia",
+      "category": "Park Wikipedia",
+      "description": "Deering Oaks Park is a historic 55-acre public park in Portland, Maine, established in 1879 and listed on the National Register of Historic Places. Designed by City Engineer William Goodwin based on Frederick Law Olmsted’s master plan, the park features a naturalistic landscape with a central pond, diverse recreational facilities, and iconic structures such as the Victorian \"Castle.\" It serves as a vibrant community hub, hosting major events like the seasonal Portland Farmers' Market and free summer theater. Wikipedia, Friends of Deering Oaks",
+      "address": "61 Park Ave Creative Portland",
+      "city": "Portland Wikipedia",
+      "region": "Old Port / Waterfront",
+      "hours": "Monday - Sunday: 6:30 AM - 10:00 PM City of Portland Code",
+      "days_open": "Daily City of Portland Code",
+      "admission": "Free Visit Portland",
+      "website": "https://www.deeringoaks.org",
+      "phone": "(207) 874-8300 City of Portland",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/DeeringOaksDeeringAvenue.JPG",
+      "highlights": [
+        "'The Serene Pond featuring a historic Victorian-style Duck House [Airial Travel', 'The \"Castle-in-the-Park,\" a Richardsonian Romanesque warming hut built in 1894 Wikipedia', \"Portland Farmers' Market, held on the park grounds on Wednesdays and Saturdays (seasonal) Wikipedia\", 'Free Summer Shakespeare performances by the Fenix Theatre Company Fenix Theatre', 'Modernized children’s splash pad and accessible playground Airial Travel', 'Extensive athletic facilities including tennis courts, basketball courts, and a baseball diamond Wikipedia']"
+      ],
+      "tips": "Arrive early for the Farmers' Market on Wednesdays and Saturdays to get the best selection and beat the crowds. Parking can be limited during major events, so consider exploring side streets or using public transportation. The park is especially photogenic during the fall foliage season and spring flower blooms. Airial Travel, Tripadvisor",
+      "nearby": "Hadlock Field (home of the Portland Sea Dogs), Portland Expo Center, Fitzpatrick Stadium, University of Southern Maine, and the Portland Museum of Art. Wikipedia, Backyard Road Trips"
+    },
+    {
+      "name": "Delta Dental Park at Hadlock Field",
+      "category": "Entertainment / Sports Stadium",
+      "description": "Delta Dental Park at Hadlock Field is a classic minor league baseball stadium in Portland, Maine, and the proud home of the Portland Sea Dogs, a Double-A affiliate of the Boston Red Sox. Opened in 1994, the ballpark is celebrated for its old-style architecture and unique features like the 'Maine Monster,' a 37-foot replica of Fenway Park’s Green Monster. Wikipedia, MiLB",
+      "address": "271 Park Avenue",
+      "city": "Portland, Maine",
+      "region": "Old Port / Waterfront",
+      "hours": "During Season: Monday–Friday 9:00 AM – 5:00 PM; Game Days: 9:00 AM until the 8th inning. Off-Season: Monday–Friday 9:00 AM – 5:00 PM MiLB",
+      "days_open": "Open daily during the baseball season (April–September); Monday–Friday during the off-season MiLB",
+      "admission": "Adults: $12 - $19, Kids/Seniors: $9 - $14 (prices vary by seat location and game demand; Box seats and special events may be higher) MiLB, SeatGeek",
+      "website": "https://www.milb.com/portland",
+      "phone": "(207) 879-9500",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Hadlock_Field_in_Portland%2C_Maine.jpg/1280px-Hadlock_Field_in_Portland%2C_Maine.jpg",
+      "highlights": [
+        "\"'Maine Monster' replica left-field wall standing 37 feet high [Wikipedia\", 'Miniature lighthouse that rises in center field for Sea Dogs home runs and wins MLB', 'Replica Citgo sign and giant L.L. Bean boot alluding to iconic New England landmarks Wikipedia, Backyard Road Trips', \"Named one of America's best minor league ballparks by Baseball America MiLB\", 'Field of Dreams Day where players emerge from a cornfield in center field Wikipedia']"
+      ],
+      "tips": "Parking is limited; fans are encouraged to park at the Maine Medical Center lot or the USM parking garage. Gates open 1.5 hours before first pitch, and children 16 and under can run the bases after Sunday games. MiLB Ballpark Guide, MLB",
+      "nearby": "Portland Exposition Building, Fitzpatrick Stadium, Deering Oaks Park, Thompson's Point, Portland Museum of Art MLB, Backyard Road Trips"
+    },
+    {
+      "name": "Duckfat (The Original)",
+      "category": "Restaurant",
+      "description": "Duckfat is a small, family-run European-style sandwich shop and bistro renowned for its hand-cut Belgian frites fried in duck fat. Since 2005, it has been a local institution in Portland, serving decadent comfort food like panini, poutine, and house-made milkshakes in a cozy, communal atmosphere.",
+      "address": "43 Middle St, Portland, ME 04101",
+      "city": "Portland",
+      "region": "Old Port / Waterfront",
+      "hours": "Sunday–Thursday: 11:00 AM – 9:00 PM; Friday–Saturday: 11:00 AM – 10:00 PM",
+      "days_open": "7 days a week",
+      "admission": "Free",
+      "website": "https://www.duckfat.com",
+      "phone": "(207) 774-8080",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/5ac3b9524611a0074354c047/b7594b14-2b6f-46b1-9bf4-106133d13855/duckfat_portland_maine-02.png",
+      "highlights": [
+        "['Signature Belgian frites twice-fried in duck fat and served in a simple cone', 'Duckfat Poutine featuring local Pineland Farms cheese curds and rich duck gravy', 'House-made craft sodas and milkshakes created with local Gelato Fiasco gelato', 'James Beard Award-winning chef and owner Rob Evans at the helm', 'Locally sourced Maine Norwis potatoes from Green Thumb Farms', 'Rustic and cozy interior with a friendly, communal dining experience']"
+      ],
+      "tips": "Duckfat does not accept reservations and often has long wait times; arrive early or visit during off-peak hours to secure a table. For a faster alternative, the Duckfat Frites Shack walk-up window is just a 15-minute walk away. Be sure to try the sauce flight to sample all five house-made mayos and ketchups with your frites.",
+      "nearby": "Old Port Historic District, Commercial Street Waterfront, Portland Observatory, International Cryptozoology Museum, Standard Baking Co."
+    },
+    {
+      "name": "Eventide Oyster Co.",
+      "category": "Restaurant, Oyster Bar",
+      "description": "Eventide Oyster Co. is a modern revival of the great American oyster bar, offering pristine shellfish and a fresh take on classic New England fare. Located in Portland's Old Port district, the restaurant is renowned for its Maine granite oyster display and its James Beard Award-winning menu. It is particularly famous for its unique Brown Butter Lobster Roll served on a steamed bao-style bun. Eventide Oyster Co., Big Tree Hospitality",
+      "address": "86 Middle Street",
+      "city": "Portland, ME 04101",
+      "region": "Old Port / Waterfront",
+      "hours": "Monday: 11:00 AM - 11:00 PM, Tuesday: 11:00 AM - 11:00 PM, Wednesday: 11:00 AM - 11:00 PM, Thursday: 11:00 AM - 11:00 PM, Friday: 11:00 AM - 11:00 PM, Saturday: 11:00 AM - 11:00 PM, Sunday: 11:00 AM - 11:00 PM",
+      "days_open": "Daily",
+      "admission": "Free (Restaurant)",
+      "website": "https://www.eventideoysterco.com/portland",
+      "phone": "(207) 774-8538",
+      "image_url": "https://www.eventideoysterco.com/portland#about-section/Portland.jpg",
+      "highlights": [
+        "['Pristine selection of Maine oysters from locations like Winter Point and Glidden Point', 'Famed Brown Butter Lobster Roll served on a steamed bun', 'Creative oyster accoutrements like Kimchi Ice and Horseradish Ice', 'James Beard Award-winning New England seafood classics with a modern twist', 'Unique 1,500-pound Maine granite block used as a shellfish display and bar focal point']"
+      ],
+      "tips": "The restaurant primarily operates on a first-come, first-served basis, though limited reservations are available within a two-week window. During peak hours, wait times can be significant (often 60-90 minutes), so consider visiting during off-peak times or grabbing a drink at a nearby bar while waiting for your table text. Eventide Oyster Co. Reservations, Yelp",
+      "nearby": "Hugo's Restaurant, The Honey Paw, Portland Old Port waterfront, Shipyard Brewing Company, Portland Observatory. Portland Old Port"
+    },
+    {
+      "name": "Exchange Street",
+      "category": "Shopping, Restaurant, Historic District",
+      "description": "Exchange Street is a historic commercial thoroughfare in the Old Port district of Portland, Maine, originally established in 1724. It is celebrated for its charming cobblestone streets, 19th-century brick architecture, and a dense concentration of independent boutiques, galleries, and award-winning restaurants. (Wikipedia), New England Wanderlust)",
+      "address": "Exchange Street, Portland, ME 04101",
+      "city": "Portland",
+      "region": "Old Port / Waterfront",
+      "hours": "Street: Open 24/7; Typical Business Hours: Mon-Sat 10:00 AM – 6:00 PM, Sun 11:00 AM – 5:00 PM (Portland Downtown)",
+      "days_open": "Monday - Sunday (Portland Downtown)",
+      "admission": "Free (Wikipedia))",
+      "website": "https://portlandmaine.com",
+      "phone": "(207) 772-6828 (Portland Downtown)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/1868_Portland_City_Hall.png",
+      "highlights": [
+        "\"Historic 19th-century architecture including the Italianate-style Jose Block and Printers' Exchange Block. ([Maine Preservation)\", \"Home to Sherman's Maine Coast Book Shop, billed as Maine's oldest bookstore. (Travel Bliss Now)\", 'Picturesque cobblestone streets and proximity to the scenic Wharf Street alley. (New England Wanderlust)', 'The Press Hotel, located in the historic former headquarters of the Portland Press Herald. (Portland Old Port)', \"Adjacent to urban green spaces like Tommy's Park and Post Office Park. (Wikipedia))\", 'A premier destination for local food favorites, including The Highroller Lobster Co. (Summer Feet Cycling)']"
+      ],
+      "tips": "Wear comfortable shoes suitable for uneven cobblestone surfaces. Utilize nearby parking garages like the Fore Street or Elm Street garages, as street parking is limited and strictly metered. Visit during the First Friday Art Walk for a vibrant atmosphere with live music and open galleries. (Portland by the Foot, New England Wanderlust)",
+      "nearby": "Commercial Street waterfront, Portland Observatory, Casco Bay Ferry Terminal, Victoria Mansion, and the Portland Museum of Art. (Polyphagic Abby, Visit Portland)"
+    },
+    {
+      "name": "Fore River Sanctuary",
+      "category": "Park / Nature Preserve",
+      "description": "Fore River Sanctuary is an 85-acre nature preserve that serves as a tranquil oasis within the city of Portland. It is home to Jewell Falls, the city's only natural waterfall, and features diverse habitats such as salt and freshwater marshes, meadows, and forests. Visitors can also explore historic remains of the Cumberland and Oxford Canal while enjoying over five miles of multi-use trails. (Portland Trails, Maine Trail Finder)",
+      "address": "157 Rowe Ave, Portland, ME 04102-1421",
+      "city": "Portland",
+      "region": "Old Port / Waterfront",
+      "hours": "Dawn to Dusk daily (Portland Trails, Beyond The Moments)",
+      "days_open": "Open daily (Tripadvisor, Beyond The Moments)",
+      "admission": "Free (Portland Trails, Beyond The Moments)",
+      "website": "https://www.trails.org/trail/fore-river-sanctuary/",
+      "phone": "(207) 775-2411 (Portland Trails)",
+      "image_url": "https://files.aptuitivcdn.com/l4gOa2eDBE-756/images/trails/trail-system/Jewell-Falls-visitors-by-Tom-Jewell-128.1775517317.jpg",
+      "highlights": [
+        "[\"Jewell Falls, Portland's only natural waterfall\", 'Historic Cumberland and Oxford Canal towpath and repair basin', 'Diverse birdwatching opportunities in salt and freshwater marshlands', 'Over 5.6 miles of interconnected trails for hiking and mountain biking', 'Dog-friendly trails with designated off-leash areas']"
+      ],
+      "tips": "There are no public restrooms on-site, so plan accordingly. Parking is available at several trailheads, but spaces are limited; ensure you follow all posted signs, especially at the Maine Orthopaedic Center lot. Trails can be slippery around the waterfall after rain, and it is recommended to bring water and insect repellent during the summer months. (Beyond The Moments, Maine Trail Finder)",
+      "nearby": "Tate House Museum, Stroudwater River, Thompson's Point, Portland Jetport, and the Old Port district. (Beyond The Moments, Tripadvisor)"
+    },
+    {
+      "name": "Fore Street Restaurant",
+      "category": "Restaurant",
+      "description": "Fore Street is a landmark dining destination in Portland's Old Port, known for its focus on locally sourced ingredients from Maine's farmers and fishermen (Visit Portland). The restaurant features a unique open kitchen with a brick and soapstone hearth, where seafood, meats, and vegetables are prepared over hardwood fires (Official Website). Since opening in 1996, it has earned national acclaim and multiple James Beard Award nominations (Wikipedia)).",
+      "address": "288 Fore Street, Portland, ME 04101-4109",
+      "city": "Portland",
+      "region": "Old Port / Waterfront",
+      "hours": "Monday: 4:30 PM - 10:00 PM; Tuesday: 4:30 PM - 10:00 PM; Wednesday: 4:30 PM - 10:00 PM; Thursday: 4:30 PM - 10:00 PM; Friday: 4:30 PM - 10:00 PM; Saturday: 4:30 PM - 10:00 PM; Sunday: 4:30 PM - 10:00 PM Tripadvisor",
+      "days_open": "Daily Official Website",
+      "admission": "Free (No admission fee; menu prices vary) AAA",
+      "website": "https://www.forestreet.biz",
+      "phone": "(207) 775-2717 Official Website",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/53bae253e4b013a11d6897d6/1407440979059-K9DCI5I1X2APVJ7WL02X/RFrench_ForeSt-6.jpg",
+      "highlights": [
+        "'Visible wood-burning hearth consisting of an oven, grill, and turnspit [Official Website', 'Menu changes daily based on seasonal products from local farmers and foragers AAA', 'Frequent James Beard Foundation semi-finalist for Outstanding Restaurant Official Website', 'Rustic interior located in a historic warehouse space one block from the waterfront Wikipedia)', 'Pioneering establishment in the Portland farm-to-table movement Apple Maps']"
+      ],
+      "tips": "Reservations are highly recommended and can be made up to two calendar months in advance (Official Website). Complimentary parking is available behind the restaurant at 75 Commercial Street from 5 PM to midnight (Official Website). For those without reservations, walk-in tables are distributed on a first-come, first-served basis starting at 4:30 PM daily (Official Website).",
+      "nearby": "United States Custom House, Standard Baking Company, Street & Co., Scales Restaurant, Boothby Square, Gritty McDuff’s Brewing Company Wikipedia), Tripadvisor"
+    },
+    {
+      "name": "Fort Preble",
+      "category": "Landmark, Historic Site",
+      "description": "Fort Preble is a historic military fortification built in 1808 to protect Portland Harbor from British attack during the Embargo Act and the War of 1812. The fort was active through all major U.S. wars until 1950 and now resides on the campus of Southern Maine Community College (SMCC), where its remains and scenic coastal views are accessible to the public. Southern Maine Community College, Wikipedia",
+      "address": "Bunker Lane (or 2 Fort Road)",
+      "city": "South Portland",
+      "region": "Old Port / Waterfront",
+      "hours": "6:00 AM - 9:00 PM daily South Portland Official Website",
+      "days_open": "Daily Evendo",
+      "admission": "Free Tripadvisor, Evendo",
+      "website": "https://www.smccme.edu/about/fort-preble-the-greenbelt/",
+      "phone": "207-741-5500 Southern Maine Community College",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Fort_Preble.jpg",
+      "highlights": [
+        "'Site of the only Civil War conflict in Maine, the Battle of Portland Harbor [American Battlefield Trust', 'Adjacent to the iconic Spring Point Ledge Lighthouse and its granite breakwater Tripadvisor', 'Granite ramparts and historical gun emplacements offering stunning views of Casco Bay Tripadvisor', 'Connected to the Greenbelt Walkway and Spring Point Shoreway Trail Southern Maine Community College', 'Decommissioned military buildings now repurposed for college use Tripadvisor']"
+      ],
+      "tips": "Be aware that some sections of the fort and trails may be closed or rerouted due to ongoing stabilization projects following storm damage. Parking is limited and primarily located in college lots, so visitors should check for designated guest spots. Southern Maine Community College, Press Herald",
+      "nearby": "Spring Point Ledge Lighthouse, Willard Beach, Bug Light Park, Portland Head Light, Portland Harbor Museum Tripadvisor"
+    },
+    {
+      "name": "George I. Lewis Auditorium at Cross Insurance Arena",
+      "category": "Entertainment / Multi-purpose Arena",
+      "description": "Cross Insurance Arena is a premier multi-purpose entertainment and sports facility located in the heart of downtown Portland, Maine. As the home of the ECHL’s Maine Mariners, the venue hosts a diverse array of events including professional hockey, major concerts, family shows, and trade exhibitions (Wikipedia).",
+      "address": "1 Civic Center Sq, Portland, ME 04101",
+      "city": "Portland",
+      "region": "Old Port / Waterfront",
+      "hours": "Box Office: Mon - Fri: 9:00 AM - 4:00 PM; Sat - Sun: Open only on event days with hours varying by show (Official Website)",
+      "days_open": "Monday - Friday (Box Office); Event days vary (typically includes weekends) (Official Website)",
+      "admission": "Prices vary by event; typically $25–$30+ for hockey games and $50–$200+ for major concerts. Children under 2 years old are often admitted free if they sit on a lap, though policies vary per show (Official Website).",
+      "website": "https://www.crossarenaportland.com",
+      "phone": "(207) 775-3458 (Box Office), (207) 791-2200 (General Info) (Official Website)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Cross_Insurance_Arena_exterior_view.jpg",
+      "highlights": [
+        "'Home ice for the Maine Mariners professional hockey team ([Official Website)', 'Seating capacity of up to 9,500 for concerts and 6,206 for sporting events (Wikipedia)', 'Features 34,500 square feet of floor space for trade shows and conventions (Wikipedia)', 'Renovated in 2014 to include modernized fan amenities and premium seating options (Portland Old Port)', 'Historically significant venue that hosted the first headline act ZZ Top in 1977 (Wikipedia)']"
+      ],
+      "tips": "Pre-book parking through ParkWhiz to secure a spot nearby, as arena-side parking is limited. Note that street parking in Portland is free on Sundays, and always check the venue's bag policy before arrival as security uses walk-through metal detectors (Official Website, Facebook).",
+      "nearby": "Old Port District, Portland Museum of Art, Maine Historical Society, Hadlock Field (Wikipedia, Yelp)"
+    },
+    {
+      "name": "Harbor Fish Market",
+      "category": "Shopping (Fish Market) (Wikipedia)",
+      "description": "Harbor Fish Market is a prominent and historic family-owned seafood market located in the Old Port of Portland, Maine. Established in the late 19th century and operating under its current name since 1966, it offers an astounding array of fresh local specialties like lobster, haddock, and cod alongside exotic varieties from around the globe. (Harbor Fish Market, Wikipedia)",
+      "address": "9 Custom House Wharf",
+      "city": "Portland",
+      "region": "Old Port / Waterfront",
+      "hours": "Monday: 8:30 AM - 5:30 PM; Tuesday: 8:30 AM - 5:30 PM; Wednesday: 8:30 AM - 5:30 PM; Thursday: 8:30 AM - 5:30 PM; Friday: 8:30 AM - 5:30 PM; Saturday: 8:30 AM - 5:30 PM; Sunday: 9:00 AM - 4:00 PM (Harbor Fish Market)",
+      "days_open": "Monday through Sunday (Harbor Fish Market)",
+      "admission": "Free (Harbor Fish Market)",
+      "website": "https://harborfish.com",
+      "phone": "(207) 775-0251 (Harbor Fish Market)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Harbor_Fish_Market_2025.jpg",
+      "highlights": [
+        "'Historic waterfront location on Custom House Wharf operating since the late 1800s ([Wikipedia)', 'Extensive selection of fresh Maine seafood including live lobsters and over a dozen types of oysters (Tripadvisor)', 'Professional \"pack to travel\" service with insulated boxes and gel packs for long-distance transport (Harbor Fish Market)', 'Large aerated live lobster tanks allowing visitors to see the catch brought directly off the boats (Harbor Fish Market)', 'Knowledgeable staff and on-site lobster steaming services for immediate consumption (Harbor Fish Market)', 'A local landmark that has attracted notable visitors like Julia Child and Billy Joel (Wikipedia)']"
+      ],
+      "tips": "Parking on the narrow wharf is extremely limited; visitors are advised to park in nearby Old Port garages and walk. Visit early in the morning to avoid crowds, particularly during the busy cruise ship season. (Tripadvisor)",
+      "nearby": "Old Port Historic District, Casco Bay Lines ferry terminal, Standard Baking Co., Shipyard Brewing Company (Tripadvisor)"
+    },
+    {
+      "name": "Kennebunkport (via Kennebunk-Kennebunkport-Arundel Chamber of Commerce)",
+      "category": "Landmark / Visitor Information Center",
+      "description": "Kennebunkport is a quintessential New England seaside town known for its historic shipbuilding roots, vibrant Dock Square shopping district, and as the summer home of the Bush family. The Kennebunk-Kennebunkport-Arundel Chamber of Commerce serves as the primary visitor resource, offering guides to the area's pristine beaches, world-class dining, and scenic coastal trails. Visitors can explore working fishing villages, grand historic mansions, and a variety of maritime activities along the Kennebunk River.",
+      "address": "16 Water Street, Kennebunk, ME 04043 (Chamber office); 1 Chase Hill, Lower Village, Kennebunk, ME (Information Booth)",
+      "city": "Kennebunk / Kennebunkport",
+      "region": "Old Port / Waterfront",
+      "hours": "Monday: 9:00 AM - 4:00 PM, Tuesday: 9:00 AM - 4:00 PM, Wednesday: 9:00 AM - 4:00 PM, Thursday: 9:00 AM - 4:00 PM, Friday: 9:00 AM - 4:00 PM, Saturday: Closed (Seasonal hours may vary), Sunday: Closed (Seasonal hours may vary)",
+      "days_open": "Monday - Friday (Full year); Seasonal weekends",
+      "admission": "Free (Visitor Center access)",
+      "website": "https://gokennebunks.com",
+      "phone": "207-967-0857",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Kennebunkport_Dock_Square.jpg",
+      "highlights": [
+        "['Explore the unique shops, art galleries, and restaurants in the historic Dock Square district.', \"Take a scenic drive or walk along Ocean Avenue to view Walker's Point, the Bush family compound.\", \"Visit the 'Wedding Cake House' on Summer Street, considered the most photographed home in Maine.\", \"Relax at pristine local beaches like Gooch's Beach, Mother's Beach, and Kennebunk Beach.\", 'Enjoy a lobster boat tour or a schooner sail departing from the Kennebunk River docks.', 'Discover local history at the Brick Store Museum or the First Families Kennebunkport Museum.']"
+      ],
+      "tips": "Parking in Dock Square can be very difficult during peak summer months; consider using the local trolley service or arriving early. The unofficial summer season runs from Memorial Day to Labor Day, but fall is also a popular time for foliage viewing. Be sure to try a lobster roll from the famous Clam Shack, located right on the bridge between Kennebunk and Kennebunkport.",
+      "nearby": "Rachel Carson National Wildlife Refuge, Ogunquit's Marginal Way, Portland Head Light, Seashore Trolley Museum"
+    },
+    {
+      "name": "Lucky Catch Cruises (Lucky Catch Cruises)",
+      "category": "Entertainment / Boat Tours (Lucky Catch Cruises)",
+      "description": "Lucky Catch Cruises offers authentic, hands-on Maine lobstering excursions on the waters of Casco Bay. Passengers can participate in hauling up traps, baiting, and measuring lobsters while enjoying scenic views of lighthouses, forts, and marine wildlife. (Lucky Catch Cruises)",
+      "address": "170 Commercial St, Portland, ME 04101, USA (Lucky Catch Cruises)",
+      "city": "Portland (Lucky Catch Cruises)",
+      "region": "Old Port / Waterfront",
+      "hours": "Daily: 10:30 AM (Portland Headlight), 12:15 PM (Seal Watch), 2:00 PM (Portland Headlight), 3:45 PM (Seal Watch); Whitehead Passage at 5:40 PM (July & August only) (Lucky Catch Cruises)",
+      "days_open": "Daily (First weekend of May through the last weekend of October) (Lucky Catch Cruises)",
+      "admission": "Adults: $60, Children (2-12): $45, Infants (0-1): Free (Lucky Catch Cruises)",
+      "website": "https://www.luckycatch.com",
+      "phone": "(207) 761-0941 (Lucky Catch Cruises)",
+      "image_url": "https://www.luckycatch.com/wp-content/gallery/lucky-catch-gallery-1/Sam-sitting.jpg",
+      "highlights": [
+        "'Haul up authentic Maine lobster traps and learn about the local fishing industry ([Lucky Catch Cruises)', 'Observe diverse marine life such as rock crabs, starfish, and seals in a live tank (Lucky Catch Cruises)', 'Purchase fresh-caught lobsters at wholesale prices directly from the boat (Lucky Catch Cruises)', 'Enjoy scenic views of lighthouses like Portland Head Light and historic Civil War forts (Lucky Catch Cruises)', 'Educational experience covering lobster habits, conservation efforts, and sustainability (Lucky Catch Cruises)', 'Interactive participation suitable for all ages, including baiting and banding lobster claws (Lucky Catch Cruises)']"
+      ],
+      "tips": "Reservations are highly recommended due to limited passenger numbers and high demand. Visitors are advised to arrive early as parking in the Old Port can be difficult, and sunscreen is recommended even on cloudy days. Freshly caught lobsters can be taken to the Portland Lobster Company next door to be cooked for a fee. (Lucky Catch Cruises, Tripadvisor)",
+      "nearby": "Portland Lobster Company, Long Wharf, Old Port District, Casco Bay, Portland Head Light (visible during tours) (Lucky Catch Cruises, Tripadvisor)"
+    },
+    {
+      "name": "Maine Narrow Gauge Railroad Co. & Museum Maine Narrow Gauge",
+      "category": "Museum, Entertainment Maine Narrow Gauge, GPSmyCity",
+      "description": "The Maine Narrow Gauge Railroad Co. & Museum is dedicated to preserving and operating Maine's unique two-foot gauge railway equipment. Visitors can enjoy a scenic 3-mile, 40-minute roundtrip train ride along the waterfront of Casco Bay while learning about local railroading history through onboard narration. Maine Narrow Gauge, Visit Portland",
+      "address": "65 Thames Street, Portland, ME 04101 Maine Narrow Gauge, Google Maps",
+      "city": "Portland Maine Narrow Gauge",
+      "region": "Old Port / Waterfront",
+      "hours": "10:00 AM – 5:00 PM (Departures at 10:00, 11:00, 12:00, 2:00, 3:00, 4:00, and 5:00). Station generally open 9:30 AM – 4:00 PM on operating days. Maine Narrow Gauge, Tripadvisor",
+      "days_open": "Weekends in May; Tuesdays through Sundays from Memorial Day (May 25) through October 25; plus Labor Day and select Mondays in autumn. Maine Narrow Gauge",
+      "admission": "Coach Class (Non-Events): Adult (13-64) $18.85, Seniors (65+) $16.75, Children (3-12) $14.65, Kids 2 & Under FREE. First Class (Non-Events): Adult $24.10, Seniors $22.00, Children $19.90, Kids 2 & Under FREE. Event Train prices are higher (e.g., Coach Adult $23.85). Maine Narrow Gauge Hours & Fees",
+      "website": "https://mainenarrowgauge.org/",
+      "phone": "(207) 828-0814 Maine Narrow Gauge",
+      "image_url": "https://mainenarrowgauge.org/wp-content/uploads/2023/07/IMG_4243-scaled.jpg",
+      "highlights": [
+        "'Scenic 3-mile roundtrip journey along the beautiful Casco Bay waterfront [Maine Narrow Gauge', 'Onboard narration detailing the history of narrow gauge railroading in Maine Maine Narrow Gauge', 'Extensive collection of historic two-foot gauge locomotives, passenger coaches, and cabooses Maine Narrow Gauge', 'Special seasonal event trains including the Ice Cream Train, Sunset Express, and THE POLAR EXPRESS™ Maine Narrow Gauge', 'Opportunity to ride in authentic historic cars like the Bridgton & Saco River Coach #15 \"Pondicherry\" Maine Narrow Gauge', 'Kid-friendly activities and museum exhibits located inside the station building Visit Portland']"
+      ],
+      "tips": "Trains depart exactly on time, so arrive early; the museum does not offer parking, so use nearby city street parking or paid lots. Advanced booking is recommended for special events like the Polar Express. Well-behaved dogs are allowed in open-air coach cars. Maine Narrow Gauge, Maine Narrow Gauge Parking",
+      "nearby": "Ocean Gateway Terminal, Casco Bay Lines Ferry, Eastern Promenade Park, East End Beach, Portland Observatory. Maine Narrow Gauge, Visit Portland"
+    },
+    {
+      "name": "Maine State Pier",
+      "category": "Entertainment / Music Venue / Landmark (Wikipedia)",
+      "description": "The Maine State Pier is a municipal-owned deepwater marine facility and prominent outdoor music venue located on Portland’s historic waterfront. Completed in 1924, it offers dramatic views of Casco Bay and serves as a hub for concerts, community festivals, and maritime activities (Official Site, Wikipedia).",
+      "address": "Commercial St & Franklin St (Wikipedia), 40 Commercial St (Portland Library)",
+      "city": "Portland, ME 04101",
+      "region": "Old Port / Waterfront",
+      "hours": "Public access: Daily during daylight hours; Office hours: Monday - Friday: 8:00 AM - 4:30 PM; Event hours: Typically 90-120 minutes before showtime (Official Site, Vivid Seats)",
+      "days_open": "Daily (Public access); Concerts and events are seasonal (Official Site)",
+      "admission": "Free for general public access; Concert ticket prices vary by event, typically ranging from $25 to $85+ (Songkick, State Theatre)",
+      "website": "https://www.portlandmaine.gov/1170/Maine-State-Pier",
+      "phone": "207-808-5400 (Official Site)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Maine_State_Pier_2022.jpg",
+      "highlights": [
+        "'Panoramic views of Casco Bay and the Portland waterfront ([Official Site)', 'Popular seasonal outdoor concert venue with a capacity of 3,000 (Wikipedia)', 'Historical maritime structure completed in 1924 (Wikipedia)', 'Host of the annual Portland Lobster Fest and other major community events (Wikipedia)', 'Conveniently located near cruise ship docking and ferry terminals (Visit Portland)']"
+      ],
+      "tips": "Check the seasonal concert schedule in advance as events are primarily held in summer; bring a light jacket as the waterfront can be cool and breezy even on warm days (Tripadvisor). Parking in the Old Port is limited, so consider using nearby parking garages or public transit (Visit Portland).",
+      "nearby": "Casco Bay Lines Ferry Terminal, Ocean Gateway Terminal, Old Port shopping district, Portland Harbor (Wikipedia, Visit Portland)"
+    },
+    {
+      "name": "Old Port District (Old Port Exchange)",
+      "category": "Historic District / Neighborhood",
+      "description": "The Old Port is a historic waterfront district in Portland, Maine, celebrated for its well-preserved 19th-century brick architecture and charming cobblestone streets. It serves as a vibrant cultural and commercial hub, featuring an eclectic mix of independent boutiques, award-winning restaurants, and lively bars overlooking the working fishing piers of Fore River. Visitors can enjoy a blend of maritime history and modern amenities, making it the city's premier destination for shopping, dining, and nightlife. (Wikipedia, Portland Old Port)",
+      "address": "14 Ocean Gateway Pier, Portland, ME 04101 (Visitor Information Center)",
+      "city": "Portland",
+      "region": "Old Port / Waterfront",
+      "hours": "Monday: 12:00 AM - 11:59 PM, Tuesday: 12:00 AM - 11:59 PM, Wednesday: 12:00 AM - 11:59 PM, Thursday: 12:00 AM - 11:59 PM, Friday: 12:00 AM - 11:59 PM, Saturday: 12:00 AM - 11:59 PM, Sunday: 12:00 AM - 11:59 PM (Tripadvisor)",
+      "days_open": "Monday - Sunday (Tripadvisor)",
+      "admission": "Free (Visit Portland)",
+      "website": "https://www.portlandoldport.com",
+      "phone": "207-772-5800 (Visit Portland Information Center)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Exchange_Street_from_Fore_Street.jpg",
+      "highlights": [
+        "['Historic cobblestone streets including Exchange and Fore Streets', 'Working waterfront with active fishing piers and ferry terminals', 'Extensive collection of 19th-century red brick architecture', 'Diverse culinary scene featuring fresh Maine lobster and local craft breweries', 'Eclectic local boutiques and art galleries', 'Casco Bay Lines ferry terminal for island excursions']"
+      ],
+      "tips": "Wear comfortable, sturdy walking shoes to navigate the uneven cobblestone streets. Parking in the district can be challenging; utilizing one of the several parking garages like the Fore Street Garage is recommended. Arrive early in the morning to witness the working waterfront in action as fishing boats bring in their daily catch. (Working Joe Travel, Adventurous Kate)",
+      "nearby": "Portland Head Light, Casco Bay Islands, Munjoy Hill, Portland Museum of Art, Victoria Mansion (Visit Portland, Adventurous Kate)"
+    },
+    {
+      "name": "Portland Farmers' Market",
+      "category": "Shopping",
+      "description": "The Portland Farmers' Market is a historic community staple that has been feeding the city since 1768. It features a diverse array of 100% Maine-grown products, including fresh seasonal produce, local meats, dairy, and artisanal goods across its outdoor and indoor locations. Portland Farmers' Market",
+      "address": "Deering Oaks Park, Portland, ME 04101 (Summer); 631 Stevens Ave, Portland, ME 04103 (Winter)",
+      "city": "Portland",
+      "region": "Old Port / Waterfront",
+      "hours": "Summer (late April–Nov): Wed & Sat 7:00 AM – 1:00 PM (8:00 AM start in November); Winter (Dec–April): Sat 9:00 AM – 1:00 PM Portland Farmers' Market",
+      "days_open": "Wednesday and Saturday (Summer); Saturday (Winter) Portland Farmers' Market",
+      "admission": "Free Tripadvisor",
+      "website": "https://www.portlandmainefarmersmarket.org",
+      "phone": "207-382-6007 Maine.gov",
+      "image_url": "https://static.wixstatic.com/media/64bf8b_1f639a56c3734227a2cb5d95ebd3edc6~mv2.jpg",
+      "highlights": [
+        "\"100% Maine-grown or produced farm products exclusively [Portland Farmers' Market\", \"Historic market with roots dating back to 1768 Portland Farmers' Market\", \"Wide selection including organic vegetables, fresh oysters, and local cheeses Portland Farmers' Market\", \"Accepts SNAP/EBT with Maine Harvest Bucks bonus matching Portland Farmers' Market\", 'Vibrant atmosphere with live music and local artisans Tripadvisor', \"Operates year-round with both outdoor park and indoor winter settings Portland Farmers' Market\"]"
+      ],
+      "tips": "Arrive early (around 7 AM) for the best selection of popular seasonal items. Be sure to bring cash, as not all vendors are equipped to process credit or debit cards. The Saturday market typically offers a larger selection of vendors than the Wednesday market. Portland Farmers' Market, Tripadvisor",
+      "nearby": "Hadlock Field, Portland Museum of Art, Victoria Mansion, The Holy Donut (Park Ave), Portland Expo Tripadvisor"
+    },
+    {
+      "name": "Preble Street",
+      "category": "Social Service Agency / Non-Profit Organization Preble Street",
+      "description": "Preble Street is a 501(c)(3) nonprofit organization dedicated to providing accessible, barrier-free services to empower people experiencing homelessness, hunger, and poverty. Since 1975, it has served as a vital community hub in Maine, offering everything from emergency food programs and healthcare to permanent supportive housing and advocacy for social justice. Preble Street, Preble Street History",
+      "address": "55 Portland Street, Portland, ME 04101 Preble Street",
+      "city": "Portland",
+      "region": "Old Port / Waterfront",
+      "hours": "Office Hours: 8:00 am – 4:30 pm, Monday through Friday; Teen Center Drop-In: 8:00 am – 8:00 pm daily Preble Street Contact, Preble Street Teen Center",
+      "days_open": "Monday – Friday (Main Office); Services like the Street Outreach Collaborative operate 365 days a year Preble Street, Preble Street History",
+      "admission": "Free (Services are provided as accessible, barrier-free support for those in need) Preble Street",
+      "website": "https://www.preblestreet.org",
+      "phone": "207-775-0026 Preble Street Contact",
+      "image_url": "https://www.preblestreet.org/wp-content/uploads/2020/02/collage_1.jpg",
+      "highlights": [
+        "'Provides over 1 million meals annually to families and individuals through its food programs. [Preble Street Impact', 'Operates Maine’s first and only Recuperative Care Program, offering 24/7 care for unhoused individuals post-hospitalization. Preble Street Programs', 'Pioneered \"Housing First\" in Maine with developments like Logan Place and Florence House. Preble Street History', 'Dedicated Teen Center provides drop-in services, meals, and crisis intervention for youth ages 12-24. Preble Street Teen Center', 'Anti-Trafficking Services support survivors of human trafficking across the state. Preble Street Anti-Trafficking', 'Homeless Voices for Justice initiative empowers those with lived experience to advocate for policy change. Preble Street Advocacy']"
+      ],
+      "tips": "Individuals looking to volunteer or donate items should check the official website for current needs and specific drop-off locations, such as the Food Security Hub in South Portland. Preble Street Volunteer",
+      "nearby": "Portland Public Library, Merrill Auditorium, Deering Oaks Park, Schlotterbeck and Foss Building, Old Port District Google Maps"
+    },
+    {
+      "name": "Public Market House",
+      "category": "Shopping (Food Hall / Market)",
+      "description": "Public Market House is a vibrant, two-story culinary hub in downtown Portland that hosts a diverse array of independently owned micro-businesses and local food vendors. Located in a historic 19th-century building, it offers everything from fresh Maine bakery goods to international street food like Vietnamese pho and Colombian street food.",
+      "address": "28 Monument Square, Portland, ME 04101",
+      "city": "Portland",
+      "region": "Old Port / Waterfront",
+      "hours": "Monday–Saturday: 8:00 AM – 7:00 PM; Sunday: 10:00 AM – 5:00 PM (Individual vendor hours vary)",
+      "days_open": "Daily (7 days a week)",
+      "admission": "Free entry",
+      "website": "https://www.publicmarkethouse.com/",
+      "phone": "(207) 284-1016",
+      "image_url": "https://www.publicmarkethouse.com/content/v1/5defc7caf36bb1515a72d704/1582050103567-0SMF0W8RSZKGQ1NVHNES/front-facade.jpg",
+      "highlights": [
+        "['Features a variety of local food vendors including sushi, soups, and crepes.', 'Located in the historic Emerson Clapp Building, constructed in 1871.', 'Offers a shared seating area on the second floor with views overlooking Monument Square.', 'Provides a licensed community kitchen available for rental by local food producers.', \"Serves as a central gathering place in the heart of Portland's Arts District.\"]"
+      ],
+      "tips": "Arrive early during the lunch hour to secure seating, especially on the second floor. Some vendors may be cash-only, but an ATM is available inside the building. Visit on a Friday in the summer to enjoy the additional outdoor farmers' market in the square.",
+      "nearby": "Portland Museum of Art, Wadsworth-Longfellow House, Portland Public Library, Old Port District, Merrill Auditorium"
+    },
+    {
+      "name": "Rabelais Inc. (Fine Books on Food & Drink)",
+      "category": "Shopping (Rare & Antiquarian Bookstore)",
+      "description": "Rabelais Inc. is a premier antiquarian bookstore specializing in rare and out-of-print cookbooks, manuscripts, and ephemera related to the culture of food and drink. Recognized as one of the best culinary bookstores in America, it offers a collection spanning six centuries of gastronomic history, serving collectors and institutions worldwide. While its physical retail shops in Portland and Biddeford have concluded operations as of early 2026, the business continues to thrive through its extensive online catalog and private sales. Rabelais Inc., Portland Food Map",
+      "address": "93 Washington Avenue, Unit 2 (Last physical location) / PO Box 1298 (Mailing)",
+      "city": "Portland (Last physical location) / Alfred (Mailing)",
+      "region": "Old Port / Waterfront",
+      "hours": "Closed to the public (Physical shop); Online sales available 24/7. Portland Food Map",
+      "days_open": "Daily (Online) Rabelais Inc.",
+      "admission": "Free (Online access) Rabelais Inc.",
+      "website": "https://www.rabelaisbooks.com",
+      "phone": "(207) 774-1044 Rabelais Inc. Catalog",
+      "image_url": "https://www.rabelaisbooks.com/images/custom/cochlaeus.jpg",
+      "highlights": [
+        "\"Houses one of North America's largest collections of rare culinary books and manuscripts. [The Black Box\", 'Extensive inventory of historic menus, product cookbooks, and culinary ephemera. Rabelais Inc.', 'Offers professional appraisal and consultation services for private and institutional collections. Rabelais Inc.', 'Features items dating from the early 16th century to modern culinary classics. Rabelais Inc.', 'Expertise in diverse fields including winemaking, brewing, and regional foodways. Rabelais Inc.']"
+      ],
+      "tips": "Since the physical pop-up in Portland closed in January 2026, customers should visit the official website to browse current catalogues and inventory. For specific research needs or to inquire about private sales, contact the proprietors directly via email. Rabelais Inc.",
+      "nearby": "Duckfat Fritrie, Oxbow Blending & Bottling, Hardshore Distilling Company, and other retail spaces at The Black Box on Washington Ave. Portland Press Herald"
+    },
+    {
+      "name": "Scales",
+      "category": "Restaurant",
+      "description": "Scales is a premier seafood destination located on the historic Maine Wharf, offering an elegant yet bustling atmosphere with views of Portland's working waterfront (Scales Restaurant). Part of the acclaimed restaurant group behind Fore Street and Street & Company, it specializes in fresh-caught Maine lobster, a comprehensive raw bar, and expertly prepared New American seafood dishes (Maine.com).",
+      "address": "Maine Wharf, 68 Commercial St.",
+      "city": "Portland, ME 04101",
+      "region": "Old Port / Waterfront",
+      "hours": "Sunday: 5:00 PM - 9:00 PM (Lounge/Raw Bar from 4:30 PM); Monday: 5:00 PM - 9:00 PM (Lounge/Raw Bar from 4:30 PM); Tuesday: 5:00 PM - 9:00 PM (Lounge/Raw Bar from 4:30 PM); Wednesday: 5:00 PM - 9:00 PM (Lounge/Raw Bar from 4:30 PM); Thursday: 5:00 PM - 9:00 PM (Lounge/Raw Bar from 4:30 PM); Friday: 4:30 PM - 9:30 PM (Lounge/Raw Bar from 4:00 PM); Saturday: 4:30 PM - 9:30 PM (Lounge/Raw Bar from 4:00 PM) (Scales Restaurant)",
+      "days_open": "Daily (Monday–Sunday)",
+      "admission": "Free (Menu prices vary)",
+      "website": "http://www.scalesrestaurant.com",
+      "phone": "(207) 805-0444",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/5665ae0a05f8e2df88243292/1488829864240-RP8I3O009IPKVDZ500JA/scales179_web.jpg",
+      "highlights": [
+        "'Expansive raw bar featuring a rotating selection of fresh-shucked Maine oysters ([Scales Restaurant)', 'Signature seafood entrees including Pan Roasted Lobster, Seafood Stew, and Seared Scallops (Yelp)', 'Dynamic open kitchen environment where guests can watch chefs prepare meals and shuck oysters (Tripadvisor)', 'Waterfront dining experience situated directly on the Maine Wharf in the heart of the Old Port (Scales Restaurant)', 'Convenient complimentary valet parking for dinner guests (Scales Restaurant)', 'Award-winning reputation as a member of the restaurant family that includes Fore Street and Standard Baking Co. (Heathershieldsmaine.com)']"
+      ],
+      "tips": "Reservations are highly recommended and can be made up to two calendar months in advance as prime times fill up quickly (Scales Restaurant). For a more casual experience, try arriving early to secure a spot in the lounge or at the bar, which both offer the full menu and raw bar (Tripadvisor). Don't skip the signature bread service, such as the Anadama bread or Clover rolls, which are local favorites (The Chadwick).",
+      "nearby": "The Dry Dock Restaurant, Ri Ra Irish Pub, Casco Bay Lines Ferry Terminal, Standard Baking Co., Old Port Historic District (Scales Restaurant, Tripadvisor)"
+    },
+    {
+      "name": "Silly's",
+      "category": "Restaurant",
+      "description": "Silly's is a zany and quirky casual restaurant that has been a Maine favorite since 1988, recently relocating from Portland to a cozy new home in Standish. Known for its eclectic atmosphere and inclusive menu, it offers a wide variety of \"from scratch\" dishes including wraps, sandwiches, and famous desserts like their massive chocolate cake. The restaurant prides itself on being extremely accommodating to dietary restrictions, featuring dedicated vegan and gluten-free fryers alongside meat-heavy favorites. Silly's Official Site, Portland Press Herald",
+      "address": "131 Ossipee Trail West",
+      "city": "Standish",
+      "region": "Old Port / Waterfront",
+      "hours": "Wednesday and Thursday: 4:00 p.m. to 8:00 p.m.; Friday and Saturday: 11:00 a.m. to 8:00 p.m. Silly's Official Site",
+      "days_open": "Wednesday, Thursday, Friday, Saturday Silly's Official Site",
+      "admission": "Free (Restaurant) Silly's Official Site",
+      "website": "https://www.sillys.com",
+      "phone": "(207) 772-0360 Silly's Official Site",
+      "image_url": "https://www.sillys.com",
+      "highlights": [
+        "'Eclectic menu with zany names like \"Chix Magnet\" and \"Empire Strikes Mac\" [Silly\\'s Official Site', 'Extensive vegan and gluten-free options with dedicated fryers Yelp', 'Famous for the \"SlopBucket\" and massive \"Big as a Buick\" cakes Yelp', 'Quirky decor featuring the iconic \"leg lamp\" and mismatched furniture Portland Press Herald', \"Long-standing local favorite established in 1988 Silly's Official Site\"]"
+      ],
+      "tips": "Note that Silly's only accepts cash, Mastercard, and Visa. They do not take reservations, so feel free to call and put your name on the waitlist. Portions are notably large, especially the desserts which can often feed multiple people. Yelp, Silly's Official Site",
+      "nearby": "Sebago Lake (southern end), Marrett House (1789 museum), Old Red Church (haunted historic site), Mountain Division Trail (paved rail trail) Tripadvisor, The Crazy Tourist"
+    },
+    {
+      "name": "Spring Point Ledge Lighthouse Official Website",
+      "category": "Landmark / Museum Official Website",
+      "description": "Spring Point Ledge Lighthouse is a historic \"sparkplug\" style lighthouse located at the end of a 950-foot breakwater. It was built in 1897 to mark a dangerous ledge at the entrance to Portland Harbor and remains the only caisson lighthouse in the United States that is accessible by land. Visitors can walk the breakwater and, during the summer season, take guided tours of the tower's interior and lantern room. Official Website, Maine Explored",
+      "address": "2 Fort Road Official Website",
+      "city": "South Portland Official Website",
+      "region": "Old Port / Waterfront",
+      "hours": "Grounds: Sunrise to Sunset daily; Guided Tours (July-August): Tuesday, Thursday, and every other Saturday from 11:30 AM to 2:00 PM Official Website, Tripadvisor",
+      "days_open": "Grounds: Daily; Guided Tours: Tuesday, Thursday, and every other Saturday (Seasonal) Official Website",
+      "admission": "Grounds/Breakwater: Free; Guided Tours: $10 for adults, $5 for children (16 and under); Private Tours: $150 for groups up to 10 Official Website",
+      "website": "https://springpointledgelight.org/",
+      "phone": "None listed; contact via springpointledge@gmail.com Official Website",
+      "image_url": "https://en.wikipedia.org/wiki/File:Spring_Point_Ledge_Lighthouse_Portland_Maine.jpg",
+      "highlights": [
+        "'The only caisson-style lighthouse in the U.S. that is accessible to visitors via a walkable breakwater. [Official Website', 'Listed on the National Register of Historic Places for its significance in maritime history. Official Website', 'A 950-foot granite breakwater constructed with 50,000 tons of stone connects the tower to the shore. New England Lighthouses', \"Guided tours allow visitors to climb the 54-foot tower and explore the keeper's office and living quarters. Official Website\", 'Located on the grounds of historic Fort Preble, offering a blend of military and maritime heritage. Official Website', 'Provides panoramic views of Casco Bay, Portland Harbor, and the surrounding islands. Tripadvisor']"
+      ],
+      "tips": "Wear sturdy, non-slip footwear for walking the uneven granite breakwater rocks. Check the official website or social media for weather-related tour cancellations. Parking is available in the SMCC lots near the waterfront. Official Website, Tripadvisor",
+      "nearby": "Fort Preble, Bug Light Park (Portland Breakwater Light), Willard Beach, Portland Head Light, Spring Point Shoreway Official Website"
+    },
+    {
+      "name": "Stonewall Kitchen York Company Store (Flagship)",
+      "category": "Shopping, Restaurant & Specialty Food Outlet",
+      "description": "The Stonewall Kitchen York Company Store is the brand's expansive flagship destination, serving as its corporate headquarters and primary manufacturing site. Visitors can browse a vast selection of specialty foods and home goods, watch the production line in action, and enjoy fresh local cuisine at the on-site café.",
+      "address": "2 Stonewall Lane, York, ME 03909",
+      "city": "York",
+      "region": "Old Port / Waterfront",
+      "hours": "Store: Daily 9:00 AM - 5:00 PM; Café: Mon-Sat 8:00 AM - 3:00 PM, Sun 9:00 AM - 3:00 PM (Breakfast until 10:30 AM, Lunch 11:00 AM - 4:00 PM)",
+      "days_open": "Daily",
+      "admission": "Free",
+      "website": "https://www.stonewallkitchen.com/stores/yorkcompanystore.html",
+      "phone": "207.351.2712",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Stonewall_Kitchen%2C_York_ME.jpg",
+      "highlights": [
+        "['Extensive retail space featuring the full family of Stonewall Kitchen brands and curated home goods', 'Working production facility with a viewing gallery to observe the jam-making process year-round', 'On-site café serving breakfast and lunch with indoor and seasonal outdoor seating among beautiful gardens', 'A wide variety of complimentary food samples throughout the store to help with selections', 'Demonstration kitchen frequently offering recipe ideas and gourmet food tastings']"
+      ],
+      "tips": "Arrive early to beat the crowds, especially during the busy summer and holiday seasons. Be sure to check the production schedule if you want to see the manufacturing line in action, and don't miss the outdoor Adirondack chairs for a relaxing break after shopping.",
+      "nearby": "Nubble Lighthouse (Cape Neddick Light), York's Wild Kingdom Zoo and Fun Park, Short Sands Beach, Long Sands Beach, and the Old York Historical Society."
+    },
+    {
+      "name": "Stroudwater Distillery",
+      "category": "Distillery / Bar",
+      "description": "Stroudwater Distillery is a craft spirits producer located in the historic Thompson's Point area of Portland, Maine. Housed in a renovated century-old brick train shed, it offers a vibrant tasting room where visitors can enjoy small-batch bourbon, rye, vodka, and gin. The distillery is known for its classic New England approach to spirits, focusing on simple quality and bold flavor profiles.",
+      "address": "4 Thompsons Point, Suite 104-105",
+      "city": "Portland",
+      "region": "Old Port / Waterfront",
+      "hours": "Wednesday: 12:00 PM - 8:00 PM, Thursday: 12:00 PM - 8:00 PM, Friday: 12:00 PM - 9:00 PM, Saturday: 12:00 PM - 9:00 PM, Sunday: 12:00 PM - 6:00 PM (Monday-Tuesday: Closed) Yelp, Distillery News",
+      "days_open": "Wednesday - Sunday",
+      "admission": "Free entry to tasting room; Tasting flights and cocktails available for purchase (approx. $10-$20 range) Tripadvisor, Instagram",
+      "website": "https://stroudwaterdistillery.com/",
+      "phone": "(207) 536-7811",
+      "image_url": "https://mainedistillersguild.org/wp-content/uploads/2018/08/Stroudwater-Distillery.jpg",
+      "highlights": [
+        "['Award-winning spirits including bourbon, rye, vodka, and gin.', 'Spacious and vibrant tasting room in a renovated industrial train shed.', \"Full cocktail menu featuring signature drinks like the 'Guava Girl'.\", 'Dog-friendly patio and atmosphere.', \"Located on 'booze row' alongside other local breweries and wineries.\", 'Hosts special events like trivia, live music, and food truck pop-ups.']"
+      ],
+      "tips": "Visit on a rainy day for a cozy atmosphere or before a concert at Thompson's Point. Keep an eye on their social media for special events like chocolate pairings or spirit tastings. If you enjoy espresso martinis, their coffee liqueur is a local favorite. Tripadvisor, Reddit",
+      "nearby": "Bissell Brothers Brewing, Cellardoor Winery, International Cryptozoology Museum, Thompson's Point Concert Venue, Fore River Sanctuary The Maine Mag"
+    },
+    {
+      "name": "The Honey Paw",
+      "category": "Restaurant",
+      "description": "The Honey Paw is a vibrant, 'non-denominational' noodle bar that blends Asian-inspired flavors with New England ingredients. Owned by the team behind Eventide Oyster Co., it features a communal dining experience with an eclectic menu ranging from house-made noodles to creative snacks like lobster toast and a signature honey soft serve. The Honey Paw, New York Times",
+      "address": "78 Middle Street",
+      "city": "Portland",
+      "region": "Old Port / Waterfront",
+      "hours": "Sunday-Thursday: 11:00 AM - 9:00 PM; Friday-Saturday: 11:00 AM - 10:00 PM. The Honey Paw",
+      "days_open": "Daily",
+      "admission": "Free (Restaurant)",
+      "website": "https://www.thehoneypaw.com",
+      "phone": "(207) 774-8538",
+      "image_url": "https://images.squarespace-static.com/content/v1/54b6c3f0e4b0965d91e66c9f/1429037946955-4P9O4XW4L8O6L8O6L8O6/HONEYPAW-04.12.15-0183+%281%29_CROP.jpg",
+      "highlights": [
+        "'Signature Smoked Lamb Khao Soi with house-made noodles and coconut curry. [The Honey Paw', 'Lobster Toast featuring lobster and scallop mousse on buttery toast. The Honey Paw', 'Honey Soft Serve with a chocolate shell and honeycomb candy pieces. The Honey Paw', 'Communal dining atmosphere with a large central maple island and vinyl HiFi music. Map & Menu', 'Award-winning pedigree from James Beard semifinalist chefs Andrew Taylor and Mike Wiley. Portland Press Herald']"
+      ],
+      "tips": "The restaurant primarily operates on a walk-in basis with communal seating; limited reservations are available for groups of four or more via Resy. Don't skip the signature honey soft serve for dessert, and be prepared for dishes that often have a spicy kick. The Honey Paw, Yelp",
+      "nearby": "Eventide Oyster Co., Hugo's, Old Port historic district, Duckfat, Portland Head Light (short drive). Tripadvisor, Adventurous Kate"
+    },
+    {
+      "name": "Thompson's Point",
+      "category": "Entertainment, Cultural Hub, Waterfront Event Venue",
+      "description": "Thompson’s Point is a vibrant waterfront destination and community hub located on a historic industrial peninsula in Portland, Maine. It features a diverse mix of outdoor and indoor venues, including the Depot Pavilion for summer concerts, the historic Brick South event space, and the Children's Museum & Theatre of Maine. The campus is home to local favorites like Bissell Brothers Brewing and offers seasonal activities ranging from ice skating to makers' markets and food festivals. Thompson's Point About",
+      "address": "207 Thompson’s Point Road (Depot Pavilion), 15 Resurgam Place (Brick South), Portland, ME 04102",
+      "city": "Portland",
+      "region": "Old Port / Waterfront",
+      "hours": "Campus Parking/Access: 24/7. Individual Business Hours: Vary by tenant (e.g., Bissell Brothers, Children's Museum). Concerts/Events: Typically evening hours (e.g., 5:00 PM – 11:00 PM) as scheduled. Thompson's Point FAQs, Thompson's Point Events",
+      "days_open": "Open daily (Campus access and parking); specific venue and tenant days vary by schedule. Thompson's Point",
+      "admission": "Campus access is Free; Events and concerts vary by ticket price; The Rink: $12 (ages 5+), Free (ages 4 and under); Summer Sunsets: Free; Parking: $2/hour. Thompson's Point Rink, Thompson's Point FAQs",
+      "website": "https://thompsonspoint.com",
+      "phone": "(207) 747-5288 Visit Portland",
+      "image_url": "https://thompsonspoint.com/wp-content/uploads/2025/12/IMG_7065.webp",
+      "highlights": [
+        "'Waterfront outdoor concert venue (Depot Pavilion) hosting major national acts.', 'Historic brick-and-beam indoor event spaces like Brick South and Halo at the Point.', 'Home to the Children’s Museum & Theatre of Maine and Bissell Brothers Brewing.', 'Seasonal outdoor ice skating rink with views of the Fore River.', 'Host of the Summer Sunsets series featuring free live music and food trucks.', \"Active makers' markets, craft beer festivals, and community celebrations. [Thompson's Point Highlights\"]"
+      ],
+      "tips": "Pay for parking easily using the Passport Parking app ($2/hr). The venue is a short 6-minute walk from the Portland Transportation Center, making it accessible via the Downeaster train or Concord Coach lines. Check the official social media pages for real-time updates on rink conditions and schedule changes. Thompson's Point Plan Your Visit",
+      "nearby": "Children's Museum & Theatre of Maine, Portland Transportation Center (Amtrak Downeaster), Fore River Trail, Bissell Brothers Brewing. Visit Portland"
+    },
+    {
+      "name": "University of Southern Maine - Portland Campus",
+      "category": "University",
+      "description": "The University of Southern Maine's Portland campus is a bustling urban hub located in the heart of Maine’s largest city, serving as a center for STEM, business, and nursing programs (University of Southern Maine). The campus features a mix of historic buildings and modern facilities, including the recently opened McGoldrick Center for Career & Student Success and the Portland Commons residence hall (USM News).",
+      "address": "96 Falmouth St, Portland, ME 04103",
+      "city": "Portland",
+      "region": "Old Port / Waterfront",
+      "hours": "Monday: 8:00 AM – 4:30 PM, Tuesday: 8:00 AM – 4:30 PM, Wednesday: 8:00 AM – 4:30 PM, Thursday: 8:00 AM – 4:30 PM, Friday: 8:00 AM – 4:30 PM, Saturday: Closed, Sunday: Closed (Note: Campus grounds and libraries have extended hours; attractions like the Planetarium have specific showtimes) (Admissions Office Hours)",
+      "days_open": "Monday–Friday (Offices); Daily (Campus Grounds) (USM Office Hours)",
+      "admission": "Free (Campus Grounds and Osher Map Library); Southworth Planetarium shows: $5.50–$6.50 for matinees/evenings, $11.00 for double features (Southworth Planetarium) (Osher Map Library)",
+      "website": "https://usm.maine.edu/",
+      "phone": "(207) 780-4141",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/USM_Portland_quad.jpg",
+      "highlights": [
+        "['Osher Map Library and Smith Center for Cartographic Education, housing rare maps and globes.', 'Southworth Planetarium, offering public astronomy shows and laser programs.', 'The McGoldrick Center for Career & Student Success, a LEED Gold-certified student hub.', 'Albert Brenner Glickman Family Library, providing extensive research resources and city views.', 'The Crewe Center for the Arts, a state-of-the-art performing and visual arts facility.', \"Portland Commons, the university's first large-scale residential complex in Portland.\"]"
+      ],
+      "tips": "Visitors are encouraged to park in the USM Parking Garage at 88 Bedford Street; admissions guests can receive free parking validation (USM Parking). For a flexible visit, a self-guided walking tour is available for download on the university's website (USM Tours).",
+      "nearby": "Deering Oaks Park, Back Cove Trail, The Great Lost Bear, and the Portland Museum of Art (Wikipedia)"
+    },
+    {
+      "name": "Wharf Street",
+      "category": "Landmark, Historic District",
+      "description": "Wharf Street is a historic, pedestrian-only cobblestone street located in the heart of Portland's Old Port district. Renowned for its 19th-century brick architecture and uneven quarried granite blocks, it serves as a vibrant hub for upscale seafood restaurants, rustic pubs, and lively nightlife. The street's distinctive second-story \"loading doors\" are a testament to its maritime past, when ships could sail directly up to the buildings to unload cargo before the area was expanded via landfill. (Elizabeth Smith Knits, Portland Old Port)",
+      "address": "Wharf Street, Portland, ME 04101",
+      "city": "Portland",
+      "region": "Old Port / Waterfront",
+      "hours": "Public street open 24/7; peak activity typically 11:00 AM – 1:00 AM daily (Visit Portland)",
+      "days_open": "Daily (Visit Portland)",
+      "admission": "Free (Viator)",
+      "website": "https://portlandmaine.com",
+      "phone": "(207) 772-6828 (Portland Downtown) (Portland Downtown)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Wharf_Street%2C_Portland.jpg",
+      "highlights": [
+        "'Authentic 19th-century brick architecture and historic cobblestone paving ([GPSmyCity)', 'Pedestrian-only access during high-traffic hours for a safer walking experience (LoopNet)', 'Home to iconic restaurants such as Street & Co. and Rigby Yard (AAA)', 'Historic maritime relics, including former cargo doors on upper floors (Empty Nesters Hit the Road)', 'Vibrant evening atmosphere with cafe lights and outdoor dining (Portland Old Port)']"
+      ],
+      "tips": "Wear comfortable, flat shoes as the historic cobblestones are famously uneven and wobbly. Visit in the evening to enjoy the glowing cafe lights and lively nightlife atmosphere. For popular restaurants like Street & Co., it is highly recommended to make reservations well in advance. (Tripadvisor, Travel Bliss Now)",
+      "nearby": "Commercial Street waterfront, U.S. Custom House, Casco Bay Ferry Terminal, Fore Street, and the Portland Museum of Art (Visit Portland, Portland by the Foot)"
+    },
+    {
+      "name": "555 North",
+      "category": "Restaurant",
+      "description": "555 North brings a fresh, contemporary energy to the heart of downtown Brunswick, offering a dining experience that is sophisticated yet approachable (555-north.com). The kitchen, led by Chef Steve Corry and Chef Jacob O'Neil, celebrates seasonal New England ingredients with simple, thoughtful preparation and timeless hospitality (555-north.com). Guests can enjoy a flexible menu of small plates, shareable options, and signature entrées in a reimagined 19th-century landmark (555-north.com).",
+      "address": "10 Water St.",
+      "city": "Brunswick",
+      "region": "Arts District / Downtown",
+      "hours": "Wednesday: 5:00 PM – 9:00 PM; Thursday: 5:00 PM – 9:00 PM; Friday: 5:00 PM – 9:00 PM; Saturday: 5:00 PM – 9:00 PM; Sunday: 5:00 PM – 9:00 PM; Monday: Closed; Tuesday: Closed (555-north.com)",
+      "days_open": "Wednesday - Sunday",
+      "admission": "Free",
+      "website": "https://www.555-north.com",
+      "phone": "(207) 481-4533 (555-north.com)",
+      "image_url": "https://static.wixstatic.com/media/01ef68_70d148a584094f2fb26aea98bb4f6a69~mv2.jpg/v1/fill/w_1425,h_900,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/01ef68_70d148a584094f2fb26aea98bb4f6a69~mv2.jpg",
+      "highlights": [
+        "'Signature Truffle Lobster Mac & Cheese ([555-north.com)', 'Seasonal menu featuring locally sourced New England seafood and produce (555-north.com)', 'Located inside the historic and stylish Federal hotel (555-north.com)', 'Extensive and curated wine list (Here and There)', 'Elegant private dining room accommodating up to 24 guests (555-north.com)', 'Successor to the acclaimed original Five Fifty-Five in Portland (Press Herald)']"
+      ],
+      "tips": "Reservations are highly recommended and can be made through Resy (555-north.com). The restaurant is a continuation of the original Five Fifty-Five concept from Portland and offers both casual bites at the bar and multi-course dining in the main room (555-north.com).",
+      "nearby": "Bowdoin College Museum of Art (Tripadvisor), Joshua L. Chamberlain Museum (Tripadvisor), Androscoggin Swinging Bridge (Tripadvisor)"
+    },
+    {
+      "name": "Central Park (Sanford)",
+      "category": "Park",
+      "description": "Central Park is a historic, well-kept downtown common in Sanford, Maine, serving as a central hub for community gatherings and reflection. It is notably home to a statue of local benefactor Louis B. Goodall and a memorial dedicated to all service members.",
+      "address": "Corner of School Street and Washington Street, Sanford, ME 04073",
+      "city": "Sanford",
+      "region": "Arts District / Downtown",
+      "hours": "Daily from 5:00 AM to 11:00 PM",
+      "days_open": "Daily",
+      "admission": "Free",
+      "website": "https://sanfordme.myrec.com/info/facilities/details.aspx?FacilityID=14620",
+      "phone": "(207) 324-9130",
+      "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/bc/8d/bd/me-sanford-central-park.jpg?w=1200&h=-1&s=1",
+      "highlights": [
+        "['Louis B. Goodall Statue', 'Veterans Memorial to all service people', \"Sanford Farmers' Market (Saturdays, May-October)\", 'Paved walkways for walking and exercise', 'Commemorative flagpole', 'Central location near City Hall and historic landmarks']"
+      ],
+      "tips": "Visit on Saturday mornings between May and October to experience the vibrant local Farmers' Market. The park's flat, paved paths are ideal for visitors looking for a low-impact walking spot.",
+      "nearby": "Goodall Mansion, Sanford-Springvale Historical Museum, Gowen Memorial Park, Midtown Mall, Mousam River"
+    },
+    {
+      "name": "Freeport Village Station Outlets",
+      "category": "Shopping",
+      "description": "Freeport Village Station Outlets is a premier shopping destination located in the heart of downtown Freeport, Maine. The center features a wide array of national brand-name outlets and local specialty shops, all set within a charming outdoor courtyard atmosphere. It offers modern amenities including a large free covered parking garage and complimentary WiFi for visitors.",
+      "address": "1 Freeport Village Station",
+      "city": "Freeport",
+      "region": "Arts District / Downtown",
+      "hours": "Monday: 10:00 AM - 6:00 PM, Tuesday: 10:00 AM - 6:00 PM, Wednesday: 10:00 AM - 6:00 PM, Thursday: 10:00 AM - 6:00 PM, Friday: 10:00 AM - 6:00 PM, Saturday: 10:00 AM - 6:00 PM, Sunday: 10:00 AM - 6:00 PM (L.L.Bean Outlet: Mon-Sat 9am-7pm, Sun 9am-6pm)",
+      "days_open": "Monday - Sunday (Daily)",
+      "admission": "Free",
+      "website": "https://www.freeportvillagestation.com",
+      "phone": "207-865-1212",
+      "image_url": "https://www.freeportvillagestation.com/wp-content/uploads/2026/02/freeport-village-logo.png",
+      "highlights": [
+        "['L.L.Bean Outlet store with a vast selection of outdoor gear and apparel', 'Over 500 free covered parking spaces in an on-site garage', 'Complimentary high-speed WiFi throughout the courtyard areas', 'Brand-name outlets including Coach, Old Navy, Talbots, and Famous Footwear', 'Central location within walking distance of other downtown attractions and dining', 'Outdoor courtyard with seating and regular seasonal events']"
+      ],
+      "tips": "Utilize the free covered parking garage on Mill Street or Depot Street for the easiest access to the shops via elevator or stairs. Note that the L.L.Bean Outlet often stays open later than the other shops in the center, providing more time for evening browsing. Check the official website's 'Special Offers' section before your trip to find current coupons and deals from various retailers.",
+      "nearby": "L.L.Bean Flagship Store, Wolfe's Neck Woods State Park, Desert of Maine, Mast Landing Brewing Company, Maine Maritime Museum"
+    },
+    {
+      "name": "L.L.Bean Flagship Store",
+      "category": "Shopping",
+      "description": "The L.L.Bean Flagship Store in Freeport, Maine, is a legendary outdoor retailer and a major tourist destination that has been a staple of the community since 1917. Currently undergoing a massive \"Re-Boot\" renovation project, the campus features a bold new retail concept called Camp L.L.Bean, housed in one of the largest tents ever built. The campus remains a hub for outdoor enthusiasts, offering a wide range of apparel, gear, and expert-led outdoor experiences.",
+      "address": "95 Main Street",
+      "city": "Freeport",
+      "region": "Arts District / Downtown",
+      "hours": "Monday-Sunday: 7 AM - 10 PM (Note: Hunting & Fishing Store is open 24/7) (L.L.Bean)",
+      "days_open": "Open daily (L.L.Bean)",
+      "admission": "Free (L.L.Bean)",
+      "website": "https://www.llbean.com/llb/shop/1000001705?page=store-flagship",
+      "phone": "1-207-552-7701 (L.L.Bean)",
+      "image_url": "https://www.llbean.net/firstspirit/media/image_library/retail_stores/camp_llbean_XLarge.jpg",
+      "highlights": [
+        "'Iconic 16-foot-tall L.L.Bean Boot outside the flagship entrance, a world-record-sized hunting boot and popular photo opportunity. ([Tripadvisor)', 'Indoor trout pond and a 24-foot-long aquarium featuring native Maine fish species. (Merry Manor Inn)', 'Outdoor Discovery Programs offering expert-led courses, tours, and trips in kayaking, camping, and more. (L.L.Bean)', \"Camp L.L.Bean, a unique immersive shopping experience located in a massive tent during the main store's renovation. (L.L.Bean)\", 'On-site customization services including professional monogramming and engraving for apparel and gear. (L.L.Bean)', 'Pet-friendly environment where well-behaved dogs are welcomed inside the store. (Molly in Maine)']"
+      ],
+      "tips": "Take a picture with the giant boot mascot on the southwest side of the main building. Visit the Hunting & Fishing store if you need to shop late, as it remains open 24 hours a day. Be sure to check out the L.L.Bean Outlet across the street for significant discounts on discontinued and overstocked items. (Tripadvisor)",
+      "nearby": "Desert of Maine, Wolfe's Neck Woods State Park, Maine Beer Company, Freeport Village Station outlets (Tripadvisor)"
+    },
+    {
+      "name": "Maine College of Art & Design (MECA&D) Official Site, Wikipedia",
+      "category": "University / Art School Official Site, Wikipedia",
+      "description": "Maine College of Art & Design (MECA&D) is a private art school located in the heart of Portland's Arts District. Founded in 1882, it is the oldest arts educational institution in Maine, offering a transformative learning experience within its historic Porteous Building campus. The college prepares students for artistic excellence, creative entrepreneurship, and civic engagement through diverse undergraduate and graduate programs. Official Site, Wikipedia",
+      "address": "522 Congress Street Official Site, Wikipedia",
+      "city": "Portland Official Site",
+      "region": "Arts District / Downtown",
+      "hours": "Monday – Friday: 8:00 AM – 8:00 PM; Saturday – Sunday: 11:00 AM – 5:00 PM Official Site",
+      "days_open": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday Official Site",
+      "admission": "Free (Donations appreciated for the Institute of Contemporary Art) Official Site",
+      "website": "https://meca.edu",
+      "phone": "207-775-3052 Official Site",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/MECA_25_FirstFriday-13.jpg",
+      "highlights": [
+        "'Housed in the historic Porteous Building, a 1904 Beaux-Arts style landmark and former department store [Greater Portland Landmarks', 'Home to the Institute of Contemporary Art (ICA), which features ambitious exhibitions by living artists Official Site', \"Central anchor of Portland's Arts District and a key participant in the monthly First Friday Art Walk Official Site\", 'Houses the Joanne Waxman Library, one of the largest independent art libraries in New England Official Site', 'Host to the Salt Institute for Documentary Studies, offering specialized graduate certificates Official Site', 'A six-floor vertical campus featuring 125,000 square feet of studios, galleries, and classrooms Wikipedia']"
+      ],
+      "tips": "Visit on the first Friday of the month for the First Friday Art Walk to see the campus at its most vibrant. Check the ICA schedule in advance as galleries occasionally close for exhibition transitions. Street parking is limited, so using a nearby parking garage like the Elm Street or Casco Bay Lines garage is recommended. Official Site, Wikipedia",
+      "nearby": "Portland Museum of Art, Wadsworth-Longfellow House, Monument Square, Old Port Historic District, Children's Museum and Theatre of Maine Official Site, Portland Downtown"
+    },
+    {
+      "name": "Maine Historical Society",
+      "category": "Museum",
+      "description": "Founded in 1822, the Maine Historical Society is the third-oldest state historical society in the United States and serves as the official historical society of Maine. Its downtown Portland campus includes the Maine Historical Society Museum, the Brown Research Library, the historic Wadsworth-Longfellow House, and a secluded Colonial Revival-style garden.",
+      "address": "489 Congress Street",
+      "city": "Portland",
+      "region": "Arts District / Downtown",
+      "hours": "Museum & Store: Tuesday–Sunday 10 a.m.–5 p.m., Monday Closed. Brown Research Library: Wednesday, Thursday, Saturday 10 a.m.–4 p.m. Official Website",
+      "days_open": "Tuesday–Sunday (Museum); Wednesday, Thursday, Saturday (Library)",
+      "admission": "Museum Galleries: General Admission $12, Student $7, Members and Children 5 & under Free. Wadsworth-Longfellow House: General Admission $18, Student $12, Members and Children 5 & under Free. Official Website",
+      "website": "https://www.mainehistory.org",
+      "phone": "(207) 774-1822",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/MaineHistoricalSociety.jpg",
+      "highlights": [
+        "['Wadsworth-Longfellow House: The childhood home of legendary poet Henry Wadsworth Longfellow.', \"Maine Historical Society Museum: Features rotating exhibitions on Maine's culture, politics, and history.\", \"Brown Research Library: A premier repository for Maine's historical documents and archival collections.\", 'Longfellow Garden: A peaceful urban oasis and historic garden located behind the Longfellow House.', 'Maine Memory Network: A comprehensive digital museum providing access to thousands of historical items from across the state.']"
+      ],
+      "tips": "Advance timed tickets are recommended for the Wadsworth-Longfellow House, which is open seasonally from May through October. Free admission to the Museum Galleries is offered on First Fridays from 5–7 p.m. FAQs",
+      "nearby": "Monument Square, Portland Museum of Art, Merrill Auditorium, Portland Observatory, Old Port District"
+    },
+    {
+      "name": "Merrill Auditorium",
+      "category": "Entertainment / Performing Arts Center",
+      "description": "Merrill Auditorium is a historic 1,908-seat performing arts venue located within Portland City Hall in Portland, Maine. Originally built in 1912 and extensively renovated in 1997, the venue serves as the primary home for the Portland Symphony Orchestra and the historic Kotzschmar Memorial Organ. It hosts a diverse array of events, including Broadway touring productions, contemporary music concerts, comedy shows, and dance performances. Wikipedia, PortTIX",
+      "address": "20 Myrtle Street, Portland, ME 04101",
+      "city": "Portland",
+      "region": "Arts District / Downtown",
+      "hours": "Box Office Hours: Monday–Friday, 11:00 AM – 3:00 PM. For events, the on-site box office opens 1 hour prior to the performance. PortTIX",
+      "days_open": "The Box Office is open Monday through Friday; the venue is also open for scheduled performances. PortTIX",
+      "admission": "Varies by performance. Single concert tickets typically range from $28 to $145, while Broadway touring productions and special events can range from $63 to over $172. Merrill Auditorium Ticket Info, PortTIX",
+      "website": "https://porttix.com/venues/merrill-auditorium/",
+      "phone": "(207) 842-0800",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Merrill_Auditorium_2025.jpg",
+      "highlights": [
+        "[\"Home to the Kotzschmar Memorial Organ, one of the world's largest municipal pipe organs.\", 'Primary performance venue for the Portland Symphony Orchestra and Portland Ovations.', 'Historic 1912 architecture featuring a grand proscenium arch and ornamental plasterwork.', 'Extensive $22 million restoration completed in 1997 to modernize acoustics and accessibility.', \"Located in the heart of Portland's vibrant downtown Arts District.\", 'Hosts major Broadway national tours and world-class musical artists.']"
+      ],
+      "tips": "Arrive at least 45-60 minutes before showtime to clear security; use the Elm Street Parking Garage located directly behind the venue for convenient parking. Electronic tickets should be downloaded and saved to your phone's wallet before arrival to avoid connectivity issues. PortTIX, Portland City Auditorium Info",
+      "nearby": "Portland City Hall, Portland Museum of Art, Old Port District, Maine College of Art, David's Restaurant, The Corner Room. Tripadvisor, Portland Harbor Hotel"
+    },
+    {
+      "name": "One Longfellow Square One Longfellow Square",
+      "category": "Entertainment (Non-profit Performing Arts and Concert Venue) One Longfellow Square",
+      "description": "One Longfellow Square is a charming, non-profit performing arts and concert venue that serves as an intimate 'listening room' in the heart of Portland's Arts District. It hosts a diverse array of live music including folk, jazz, and blues, alongside film screenings, theater, and community events in a warm, 175-seat space. One Longfellow Square, Tripadvisor",
+      "address": "181 State Street, Suite 201, Portland, ME 04101 One Longfellow Square",
+      "city": "Portland One Longfellow Square",
+      "region": "Arts District / Downtown",
+      "hours": "Box Office: Friday, 12:00 PM – 3:00 PM. Performance hours typically begin with doors opening one hour before showtimes (often 6:00 PM or 7:00 PM). About Us, Upcoming Events",
+      "days_open": "Varies by event schedule; Box Office is open on Fridays. About Us",
+      "admission": "Ticket prices vary by event, typically ranging from $15.00 for local showcases and jazz ensembles to $30.00–$60.00 for nationally touring acts. Select community events and open mic nights offer Free Admission. Upcoming Events, How We Do Portland",
+      "website": "https://onelongfellowsquare.com",
+      "phone": "(207) 761-1757 One Longfellow Square",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Longfellow_Square%2C_Portland%2C_ME.jpg/1024px-Longfellow_Square%2C_Portland%2C_ME.jpg",
+      "highlights": [
+        "\"Intimate 175-seat 'listening room' atmosphere [How We Do Portland\", 'Diverse programming ranging from folk and jazz to comedy and film One Longfellow Square', 'Home to the Portland Jazz Orchestra since 2006 Upcoming Events', 'Community-focused ACCESS initiatives providing free music One Longfellow Square', 'Non-profit mission supported by local volunteers Tripadvisor']"
+      ],
+      "tips": "The venue features open seating, so arriving early is recommended to secure a preferred spot. Many visitors suggest checking out the balcony for a unique perspective, and tickets are often held at the door via an attendee list rather than issued as physical copies. Tripadvisor",
+      "nearby": "Henry Wadsworth Longfellow Monument, LFK, Local 188, Pai Men Miyake, Boda, Portland Museum of Art, State Theatre. How We Do Portland, The Vivid Kitchen, Tripadvisor"
+    },
+    {
+      "name": "Port City Music Hall (State Theatre)",
+      "category": "Entertainment / Music Venue (Rolling Stone)",
+      "description": "Port City Music Hall was a premier midsize concert venue in Portland's Arts District, known for its exceptional acoustics and intimate 550-person capacity. Since opening in 2009, it served as a vital springboard for both local Maine musicians and national up-and-coming acts before its permanent closure in 2020 (Rolling Stone, Down East Magazine).",
+      "address": "504 Congress Street, Portland, ME 04101 (Tripadvisor, ConcertFix)",
+      "city": "Portland (State Theatre)",
+      "region": "Arts District / Downtown",
+      "hours": "Permanently Closed; historically, the box office opened 1 hour before doors on show nights (State Theatre)",
+      "days_open": "Varies by performance schedule; currently permanently closed (WGME)",
+      "admission": "Ticket prices typically ranged from $15 to $45 depending on the artist; most shows were general admission standing room only (Vanyaland, Tripadvisor).",
+      "website": "https://statetheatreportland.com/venue/port-city-music-hall/",
+      "phone": "207-899-4990 (Northshore Magazine)",
+      "image_url": "https://statetheatreportland.com/wp-content/themes/statetheatre/images/state_logo.png",
+      "highlights": [
+        "'Intimate venue with a 550-person capacity and excellent sound quality ([Rolling Stone)', 'Hosted notable national artists such as Maggie Rogers and Father John Misty (WGME)', 'Central hub for the local Maine music scene for over a decade (Down East Magazine)', \"Convenient location in the heart of Portland's downtown Arts District (Tripadvisor)\", 'Featured a state-of-the-art audio/visual system for diverse performances (Northshore Magazine)']"
+      ],
+      "tips": "Check the parent venue website (State Theatre) for historical information or updates on the space's new use as an arcade bar. For past visitors, arriving early was recommended to secure a spot in the standing-room-only area (Tripadvisor, Q97.9).",
+      "nearby": "Portland Museum of Art, State Theatre, Wadsworth-Longfellow House, Congress Square Park (Tripadvisor)"
+    },
+    {
+      "name": "PortTIX Box Office",
+      "category": "Entertainment / Box Office PortTIX",
+      "description": "Founded in 1997, PortTIX is a locally owned and operated box office located in the heart of Portland's Arts District. It serves as the official ticket seller for Merrill Auditorium, the Portland Symphony Orchestra, and Portland Ovations, while also partnering with numerous local non-profit organizations for events throughout Greater Portland. PortTIX",
+      "address": "400 Congress St Suite A, Portland, ME 04101 PortTIX",
+      "city": "Portland PortTIX",
+      "region": "Arts District / Downtown",
+      "hours": "Monday: 11:00 AM – 3:00 PM, Tuesday: 11:00 AM – 3:00 PM, Wednesday: 11:00 AM – 3:00 PM, Thursday: 11:00 AM – 3:00 PM, Friday: 11:00 AM – 3:00 PM, Saturday: Closed (Open 1 hr prior to events), Sunday: Closed (Open 1 hr prior to events) PortTIX",
+      "days_open": "Monday, Tuesday, Wednesday, Thursday, Friday PortTIX",
+      "admission": "Free admission to the box office; ticket prices for performances vary by event and typically include tiered seating (Orchestra, Balcony, etc.) PortTIX",
+      "website": "https://porttix.com",
+      "phone": "(207) 842-0800 PortTIX",
+      "image_url": "https://images.porttix.com/uploads/2023/10/sPrmKh5Jnr4tQ9_jynNP87P6oy84L6D_b94gazQfEjc.jpg",
+      "highlights": [
+        "'Official and exclusive box office for the 1,900-seat Merrill Auditorium [PortTIX', 'Owned and operated by Portland Ovations and the Portland Symphony Orchestra PortTIX', 'Provides ticketing services for a wide range of local non-profit arts organizations PortTIX', \"Offers 'Choose 4' subscription packages for significant savings on ticket prices and fees PortTIX\", \"Located in a historic building within Portland's vibrant downtown Arts District PortTIX\"]"
+      ],
+      "tips": "Arrive at least one hour before a performance if you need to pick up tickets at the box office. To save on fees, consider purchasing a 'Choose 4' package which offers a $5 discount per ticket. Always review the specific security and bag policies for Merrill Auditorium on the PortTIX website before attending an event. PortTIX, PortTIX",
+      "nearby": "Merrill Auditorium, Portland City Hall, Portland Museum of Art, Maine College of Art (MECA), and the Old Port district Wikipedia, PortTIX"
+    },
+    {
+      "name": "Portland Museum of Art",
+      "category": "Museum",
+      "description": "The Portland Museum of Art is the largest and oldest public art institution in Maine, featuring a collection of more than 22,000 artworks ranging from American and European masterpieces to contemporary works. The museum's campus consists of three architecturally significant buildings that unite three centuries of Maine's history and culture, including the landmark Charles Shipman Payson Building (Portland Museum of Art, Wikipedia).",
+      "address": "7 Congress Square, Portland, ME 04101",
+      "city": "Portland",
+      "region": "Arts District / Downtown",
+      "hours": "Monday: Closed; Tuesday: 10 a.m.–6 p.m.; Wednesday: 10 a.m.–6 p.m.; Thursday: 10 a.m.–6 p.m. (3rd Thursday: 10 a.m.–8 p.m.); Friday: 10 a.m.–8 p.m.; Saturday: 10 a.m.–6 p.m.; Sunday: 10 a.m.–6 p.m. (Portland Museum of Art)",
+      "days_open": "Tuesday through Sunday",
+      "admission": "Adults: $20; Seniors & Students 22+: $18; Visitors 21 & under: Free; PMA Members: Free. Free for all every Friday 4–8 p.m. and all day on the third Thursday of each month (Portland Museum of Art).",
+      "website": "https://www.portlandmuseum.org",
+      "phone": "(207) 775-6148",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/McLellan_House%2C_Portland_ME.jpg",
+      "highlights": [
+        "\"Extensive collection of Winslow Homer's works, including paintings and the nearby Homer Studio ([Portland Museum of Art)\", 'The Charles Shipman Payson Building, an architectural landmark designed by Henry Nichols Cobb (Wikipedia)', 'The historic 1801 McLellan House, a Federal-style mansion restored to its original elegance (Portland Museum of Art)', 'The David E. Shaw Family Sculpture Park featuring contemporary works in an outdoor setting (Portland Museum of Art)', 'European and American masterpieces by artists such as Claude Monet, Pablo Picasso, and Andrew Wyeth (Wikipedia)', 'The L. D. M. Sweat Memorial Galleries, a Beaux-Arts addition from 1911 (Portland Museum of Art)']"
+      ],
+      "tips": "Take advantage of free admission on Friday evenings from 4 p.m. to 8 p.m. or during the 'Access for All' third Thursdays. Visitors aged 21 and under always receive free admission, and the museum is family-friendly with a dedicated welcome center and family gallery (Portland Museum of Art).",
+      "nearby": "Wadsworth-Longfellow House, Victoria Mansion, Monument Square, Old Port district, and Portland Public Library (Tripadvisor)."
+    },
+    {
+      "name": "State Theatre",
+      "category": "Entertainment / Performing Arts Venue",
+      "description": "The State Theatre is a historic performing arts venue in downtown Portland, Maine, featuring a unique blend of Spanish Revival, Moorish, and Art Deco architecture. Originally opened in 1929 as a lavish movie palace, it underwent a multi-million dollar restoration in 2010 and now hosts national touring acts, concerts, and comedy performances (Wikipedia)) (Visit Portland).",
+      "address": "609 Congress Street, Portland, ME 04101",
+      "city": "Portland",
+      "region": "Arts District / Downtown",
+      "hours": "Box Office: Fridays 10:00 AM – 5:00 PM; Event Nights: Opens 1 hour before doors (State Theatre FAQ)",
+      "days_open": "Open for scheduled events and concerts; Box Office open on Fridays (State Theatre FAQ)",
+      "admission": "Varies by event; typically $25–$60 for general shows, with premium reserved seating reaching $125–$250 (State Theatre) (Grateful Web)",
+      "website": "https://statetheatreportland.com/",
+      "phone": "(207) 956-6000",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/State_Theatre%2C_Portland%2C_Maine.jpg",
+      "highlights": [
+        "['Historic 1929 architecture featuring Spanish, Italian, and Art Deco motifs', 'Restored iconic marquee designed to match 1930s original photographs', 'Capacity of approximately 1,870 patrons across its bi-level auditorium', 'Located in the heart of the Portland Arts District corridor', 'Ornate period lobby and high-quality sound and lighting upgrades', 'Hosts a diverse array of national touring artists and live events annually']"
+      ],
+      "tips": "Purchase tickets exclusively through the official website or Ticketmaster to avoid speculative resellers. For general admission shows, the main floor is standing room only, while balcony seats are available on a first-come, first-served basis (State Theatre FAQ). Professional cameras with removable lenses are typically prohibited unless specified (State Theatre FAQ).",
+      "nearby": "Portland Museum of Art, Merrill Auditorium, Congress Square Park, Portland Public Library (Tripadvisor) (Greater Portland Landmarks)"
+    },
+    {
+      "name": "Wadsworth-Longfellow House",
+      "category": "Museum, Landmark Wikipedia",
+      "description": "The Wadsworth-Longfellow House is the childhood home of famed 19th-century American poet Henry Wadsworth Longfellow and the oldest standing brick structure on the Portland peninsula. Built in 1785–1786 for General Peleg Wadsworth, the house has been meticulously restored to its mid-nineteenth-century character and remains furnished with original family heirlooms. It serves as a significant architectural artifact and a memorial to the Longfellow family's legacy in American literature and history. Maine Historical Society",
+      "address": "489 Congress St, Portland, ME 04101, USA",
+      "city": "Portland",
+      "region": "Arts District / Downtown",
+      "hours": "10:00 AM – 5:00 PM (Last entry at 4:00 PM) Maine Historical Society",
+      "days_open": "Weekends (Saturdays & Sundays) in May; Tuesday–Sunday from June through October Maine Historical Society",
+      "admission": "General Admission: $18, Student: $12, Children 5 and under: Free, MHS Members: Free Maine Historical Society",
+      "website": "https://www.mainehistory.org/plan-your-visit/wadsworth-longfellow-house/",
+      "phone": "(207) 774-1822 Maine Historical Society",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Wadsworth-Longfellow_House_2024.jpg",
+      "highlights": [
+        "['Boyhood home of poet Henry Wadsworth Longfellow', 'Oldest standing brick structure on the Portland peninsula', 'Furnished with original family heirlooms and artifacts', 'The serene Colonial Revival-style Longfellow Garden located behind the house', 'Designated National Historic Landmark since 1962', 'Includes access to the Maine Historical Society Museum exhibit galleries']"
+      ],
+      "tips": "Online ticket reservations are strongly encouraged as space is limited. Large bags and strollers are not permitted inside the house and must be checked in lockers. The second floor has accessibility limitations, but a mobile app provides virtual access. Allow at least one hour for a full visit including the garden. Maine Historical Society",
+      "nearby": "Maine Historical Society Brown Library, Portland Museum of Art, Victoria Mansion, Portland Public Library, Old Port District Tripadvisor"
+    },
+    {
+      "name": "East End Beach Portland Maine Official Website",
+      "category": "Park Wikipedia, Friends of the Eastern Promenade",
+      "description": "East End Beach is Portland's only public natural beach, offering a 300-yard stretch of sand and pebbles at the base of the historic Eastern Promenade. It provides stunning panoramic views of Casco Bay and serves as a prime location for swimming, sunbathing, and launching kayaks or rowboats into the harbor. Tripadvisor, Friends of the Eastern Promenade",
+      "address": "Eastern Promenade Trail, Portland, ME 04101 Tripadvisor, Kupi.com",
+      "city": "Portland Wikipedia",
+      "region": "East End / Munjoy Hill",
+      "hours": "Monday: 6:00 AM - 10:00 PM, Tuesday: 6:00 AM - 10:00 PM, Wednesday: 6:00 AM - 10:00 PM, Thursday: 6:00 AM - 10:00 PM, Friday: 6:00 AM - 10:00 PM, Saturday: 6:00 AM - 10:00 PM, Sunday: 6:00 AM - 10:00 PM Kupi.com, Waze",
+      "days_open": "Monday - Sunday Kupi.com",
+      "admission": "Free Reddit, Portland Maine Rentals",
+      "website": "https://www.portlandmaine.gov/435/East-End-Beach",
+      "phone": "(207) 756-8275 Kupi.com",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Eastern_promenade_portland.jpg",
+      "highlights": [
+        "'Panoramic views of Casco Bay and Portland Harbor ([Friends of the Eastern Promenade)', 'Public boat launch and boat mooring facilities (Friends of the Eastern Promenade)', 'Access to the 2.1-mile paved Eastern Promenade Trail (Wikipedia)', 'Seasonal dog-friendly off-leash areas and beach access (Yelp)', 'On-site kayak and stand-up paddleboard rentals (See Swim)', 'Close proximity to historic Fort Allen Park and monuments (Wikipedia)']"
+      ],
+      "tips": "It's best to visit during high tide for a better swimming experience as the shore is quite rocky and pebbly (Reddit). Water shoes are highly recommended for navigating the sand-and-pebble terrain (Tripadvisor). Dogs are prohibited on the beach from 9:00 AM to 5:00 PM between Memorial Day and Labor Day (See Swim). Public restrooms and changing areas are available on-site for visitor convenience (Friends of the Eastern Promenade).",
+      "nearby": "Fort Allen Park (Wikipedia), Maine Narrow Gauge Railroad (Press Herald), Portland's Old Port district (Visit Portland)"
+    },
+    {
+      "name": "Eastern Promenade",
+      "category": "Park, Landmark",
+      "description": "The Eastern Promenade is a historic 68-acre public park and recreation area designed in 1905 by the Olmsted Brothers. It offers unparalleled views of Casco Bay and Portland Harbor, featuring a two-mile multi-use trail, sports facilities, and the East End Beach. The park is a popular destination for four-season recreation, including swimming, kayaking, and bicycling.",
+      "address": "Eastern Promenade, Portland, ME 04101",
+      "city": "Portland",
+      "region": "East End / Munjoy Hill",
+      "hours": "Daily: 5:00 AM - 10:00 PM",
+      "days_open": "Daily",
+      "admission": "Free",
+      "website": "https://easternpromenade.org",
+      "phone": "(207) 808-5400 (City of Portland Parks, Recreation, and Facilities)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Eastern_promenade_portland.jpg/640px-Eastern_promenade_portland.jpg",
+      "highlights": [
+        "['Scenic two-mile Eastern Promenade Trail for walking and biking', 'East End Beach for swimming and kayaking access', 'Historical sites including Fort Allen Park and the mast of USS Portland', 'Sports facilities including basketball and tennis courts and baseball fields', 'Design by the renowned Olmsted Brothers landscape firm', 'Designated off-leash areas for dogs during specific hours']"
+      ],
+      "tips": "Dogs are allowed off-leash in designated areas before 9 AM and after 5 PM in summer, and all day in winter. Public transportation is available via Metro buses #1 and #8. Visit Fort Allen Park for the best historical monuments and views.",
+      "nearby": "Maine Narrow Gauge Railroad, Old Port District, Casco Bay Islands (via ferry), Back Cove Trail"
+    },
+    {
+      "name": "Eastern Promenade Trail",
+      "category": "Park / Trail",
+      "description": "The Eastern Promenade Trail is a scenic 2.1-mile waterfront multi-use path built along an old rail corridor, offering spectacular views of Casco Bay and Portland Harbor. It connects downtown Portland to the Back Cove and Bayside Trails, passing by East End Beach and historic sites within the 68-acre Eastern Promenade park. (Portland Trails, Wikipedia)",
+      "address": "Eastern Promenade, Portland, ME 04101",
+      "city": "Portland",
+      "region": "East End / Munjoy Hill",
+      "hours": "6:00 AM - 10:00 PM (Daily) (Waze, Islands.com)",
+      "days_open": "Monday-Sunday (Waze, Portland Trails)",
+      "admission": "Free (Portland Trails, Airial Travel)",
+      "website": "https://www.trails.org/trail/eastern-prom-trail/",
+      "phone": "(207) 775-2411 (Portland Trails office) (Portland Trails) or (207) 756-8275 (East End Beach/City) (Waze)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Eastern_promenade_portland.jpg",
+      "highlights": [
+        "'Spectacular views of Casco Bay and Portland Harbor ([Portland Trails)', 'Access to East End Beach for swimming and boat launching (Friends of the Eastern Promenade)', 'Connections to Back Cove and Bayside Trails (Maine Trail Finder)', 'Historic sites including Fort Allen Park and the mast of USS Portland (Wikipedia)', 'Multi-use paved and stone dust paths for walking, biking, and running (Portland Trails)']"
+      ],
+      "tips": "Dogs are allowed on leash on the trail; however, they are only allowed on East End Beach during the off-season or specific hours in summer. Parking is available at the Commercial Street and Cutter Street trailheads. (Islands.com, Maine Trail Finder)",
+      "nearby": "East End Beach, Fort Allen Park, Maine Narrow Gauge Railroad Museum, Back Cove Trail (Portland Trails, Maine Trail Finder)"
+    },
+    {
+      "name": "Maine Craft Distilling",
+      "category": "Distillery, Bar, Restaurant, Entertainment Venue",
+      "description": "Maine Craft Distilling is a farm-to-flask distillery located in the East End of Portland, Maine, that has been producing award-winning spirits since 2012. The venue features a Public House where visitors can enjoy handcrafted cocktails and local food, alongside a distillery space that hosts regular live music and community events. Their commitment to using local ingredients and sustainable practices is reflected in their diverse lineup of spirits, including whiskey, gin, and blueberry liquor. Maine Craft Distilling About, Tripadvisor",
+      "address": "123 Washington Ave, Portland, Maine 04101 Maine Craft Distilling",
+      "city": "Portland",
+      "region": "East End / Munjoy Hill",
+      "hours": "Monday: Closed; Tuesday - Thursday: 4:00 PM - 10:00 PM; Friday - Saturday: 12:00 PM - 10:00 PM; Sunday: 12:00 PM - 8:00 PM (Kitchen closes at 9:00 PM Tue-Sat and 6:00 PM Sun) Maine Craft Distilling",
+      "days_open": "Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday Maine Craft Distilling",
+      "admission": "Free entry to the Public House; Live Music Events typically $20 Advance / $25 Day of Maine Craft Distilling Events",
+      "website": "https://www.mainecraftdistilling.com/",
+      "phone": "207-209-0362 Maine Craft Distilling",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/61d34be5a600226056d9abb7/1643992135558-OTZ1MK44JECQJ8CXVAPR/00910378448280.jpg",
+      "highlights": [
+        "'Farm-to-flask spirits crafted using local Maine ingredients since 2012 [Maine Craft Distilling', 'Award-winning spirit lineup including Fifty Stone Single Malt Whiskey and Blueshine Blueberry Liquor Maine Craft Distilling Spirits', 'Public House serving handcrafted cocktails, local beer, and a full food menu Maine Craft Distilling', 'Regular live music and public events held in a unique distillery venue space Maine Craft Distilling Events', 'Daily Happy Hour from 4PM to 6PM on weekdays Maine Craft Distilling']"
+      ],
+      "tips": "Check their social media or website for live music schedules as some events require tickets. Take advantage of the weekday Happy Hour from 4PM-6PM for drink specials. Note that the kitchen closes earlier than the bar (9PM Tue-Sat, 6PM Sun). Maine Craft Distilling",
+      "nearby": "Eastern Promenade Trail, Portland Observatory, Casco Bay, East Bayside breweries (Rising Tide, Austin Street), and the Old Port district. Tripadvisor, Adventurous Kate"
+    },
+    {
+      "name": "Munjoy Hill Neighborhood",
+      "category": "Neighborhood, Historic District, Landmark",
+      "description": "Munjoy Hill is a historic and scenic neighborhood located at the northeastern end of Portland's peninsula, overlooking Casco Bay and downtown. Known as \"The Hill,\" it features a unique blend of 19th-century worker cottages, grand Victorian homes, and the expansive 68-acre Eastern Promenade park. (Munjoy Hill Neighborhood Organization, Wikipedia)",
+      "address": "92 Congress Street, Portland, ME 04101 (Munjoy Hill Neighborhood Organization) / 138 Congress Street, Portland, ME 04101 (Portland Observatory)",
+      "city": "Portland",
+      "region": "East End / Munjoy Hill",
+      "hours": "Neighborhood: Open 24/7; Portland Observatory: Seasonal (May–Oct), typically 10:00 AM – 4:00 PM daily (Greater Portland Landmarks)",
+      "days_open": "Daily (Neighborhood) (Wikipedia)",
+      "admission": "Free (Neighborhood); Portland Observatory: Adults $10, Seniors/Military/Students $8, Kids (6-16) $5, Kids (under 6) Free (Greater Portland Landmarks)",
+      "website": "https://www.munjoyhill.org",
+      "phone": "207-253-1800 (Portland Observatory) (Greater Portland Landmarks)",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/5de414238adffd3a0d3f996e/1575234153601-7FWMEAN83FT7QCY5U8UY/April_2013_Portland_Maine_DSC2463+By+Corey+Templeton+Towards+Munjoy+Hill+Skyline.jpg?format=1500w",
+      "highlights": [
+        "['Eastern Promenade (scenic waterfront park with walking trails)', 'Portland Observatory (historic 1807 maritime signal tower)', \"East End Beach (Portland's only public beach on the peninsula)\", 'Fort Allen Park (featuring historic monuments and panoramic harbor views)', 'Munjoy Hill Historic District (well-preserved 19th-century architecture)', 'Maine Narrow Gauge Railroad & Museum (historic train rides along the shore)']"
+      ],
+      "tips": "Street parking is available but can be competitive; check local signage for restrictions. Visit the Loring Memorial for exceptional sunset views over the city, and note that dogs are permitted on East End Beach after 5:00 PM. (Portland Discovery, Wikipedia)",
+      "nearby": "Old Port District, Casco Bay Ferry Terminal, Back Cove Trail, Portland Downtown (Tripadvisor)"
+    },
+    {
+      "name": "Portland Observatory",
+      "category": "Museum / Landmark",
+      "description": "Built in 1807, the Portland Observatory is the only known surviving maritime signal tower in the United States and is designated as a National Historic Landmark. Visitors can climb the 86-foot octagonal timber-frame tower to enjoy panoramic views of Casco Bay and the city skyline while learning about its history as a ship-to-shore communication hub. Wikipedia, Official Website",
+      "address": "138 Congress Street",
+      "city": "Portland",
+      "region": "East End / Munjoy Hill",
+      "hours": "May 23–May 31: Daily 10:00 AM – 3:30 PM; June 1–August 31: Sunday–Wednesday 10:00 AM – 3:30 PM, Thursday–Saturday 10:00 AM – 7:00 PM; September 1–October 12: Daily 10:00 AM – 3:30 PM. Official Website",
+      "days_open": "Seasonal (Late May to Mid-October); open daily during peak season with extended summer hours. Official Website",
+      "admission": "Non-Residents: Adults $10, Seniors/Students/Military $8, Kids (6-16) $5, Kids under 6 Free. Portland Residents: Adults $5, Kids (6-16) $3. Official Website",
+      "website": "https://www.portlandlandmarks.org/the-portland-observatory",
+      "phone": "207-253-1800",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Portland_Observatory_2024.jpg",
+      "highlights": [
+        "['Climb 104 stairs across seven stories of historic timber-frame architecture.', 'Panoramic views of Portland, Casco Bay, and the distant White Mountains from the cupola balcony.', \"45-minute guided tours detailing the life of Captain Lemuel Moody and the tower's maritime significance.\", 'Designated as both a National Historic Landmark and a National Civil Engineering Landmark.', 'Interactive exhibits on signal flag communication and 19th-century maritime trade.']"
+      ],
+      "tips": "The tower is not handicap accessible due to its historic spiral staircases; comfortable walking shoes are highly recommended. It is advisable to book guided tours in advance as group sizes are limited to 10 people. Portland residents should bring ID to receive discounted admission. Official Website",
+      "nearby": "Eastern Promenade, East End Beach, Maine Narrow Gauge Railroad Museum, Victoria Mansion, and the historic Old Port district. TripAdvisor"
+    },
+    {
+      "name": "Rabelais Inc. (Fine Books on Food & Drink) Rabelais Inc.",
+      "category": "Shopping Portland Food Map",
+      "description": "Rabelais Inc. is a renowned antiquarian bookstore specializing in rare and hard-to-find books, manuscripts, and ephemera related to the culture of food and drink. Founded in 2006, the business offers an unparalleled inventory spanning six centuries of culinary history, from classic cookbooks to specialized works on winemaking and cocktail culture Rabelais Inc..",
+      "address": "93 Washington Ave (Former Pop-up Location) / PO Box 1298 (Mailing)",
+      "city": "Portland (Shop) / Alfred (Mailing) Rabelais Inc.",
+      "region": "East End / Munjoy Hill",
+      "hours": "Retail location closed; now operating online and by appointment Rabelais Inc.",
+      "days_open": "Online 24/7; Retail shop closed as of January 2026 Portland Food Map",
+      "admission": "Free Rabelais Inc.",
+      "website": "https://www.rabelaisbooks.com",
+      "phone": "(207) 602-6320 Rabelais Inc.",
+      "image_url": "https://www.rabelaisbooks.com/images/upload/cookery-woodcut.webp",
+      "highlights": [
+        "'One of the largest selections of rare cookbooks in the United States [Travel & Leisure', 'Extensive collection of culinary manuscripts, menus, and historical ephemera Rabelais Inc.', 'Expert appraisal and consulting services for institutional and private collections Rabelais Inc.', 'Recognized by Saveur 100 and Bon Appétit as a top culinary destination Saveur']"
+      ],
+      "tips": "Check the official website for upcoming appearances at international book fairs and sign up for their newsletter for rare item arrivals Rabelais Inc..",
+      "nearby": "The Black Box (Washington Ave), Moonday Coffee, Inner North End restaurants Portland Food Map"
+    },
+    {
+      "name": "Acorn Productions",
+      "category": "Entertainment / Performance Art Theatre",
+      "description": "Acorn Productions is a 501(c)3 non-profit organization dedicated to nurturing and developing the performing arts in Greater Portland. They produce annual festivals like the Maine Playwrights Festival and operate the Acorn Acting Academy, providing educational programs and workshops for artists of all levels. Source: About Page",
+      "address": "631 Stevens Avenue (Stevens Square Theatre) / P.O. Box 4644 (Mailing)",
+      "city": "Portland",
+      "region": "West End / Deering",
+      "hours": "Classes: Sundays 11am-1pm, Mondays/Wednesdays 6pm-8:30pm (seasonal). Events: Typically evening or afternoon performances (e.g., 2:00 PM for High School Festival). Source: Classes Page, Source: Events Page",
+      "days_open": "Varies by event/program (typically Sunday-Monday for classes, full festival weeks in May). Source: Classes Page, Source: Events Page",
+      "admission": "Pay What You Can (Maine Playwrights Festival); Free/Donations welcome (High School Playwrights Festival); Classes: $85 - $150. Source: Events Page, Source: Classes Page",
+      "website": "https://acorn-productions.org",
+      "phone": "(207) 200-8156 / (207) 712-2485 (Artistic Director) Source: About Page",
+      "image_url": "https://i0.wp.com/acorn-productions.org/acorn/wp-content/uploads/2019/02/AcornLogo-HiRes-103x62.png?fit=103%2C62&ssl=1",
+      "highlights": [
+        "'Annual Maine Playwrights Festival featuring original short plays by local writers. [Source: MPF Page', 'Acorn Acting Academy offering conservatory-style training and workshops for actors. Source: Academy Page', 'Naked Shakespeare ensemble performing stripped-down, accessible Shakespeare in non-traditional venues. Source: About Page', 'Fiscal sponsorship program for grassroots organizations and individual artists. Source: About Page', 'High School Playwrights Festival showcasing work by student playwrights. Source: Events Page']"
+      ],
+      "tips": "Tickets for the Maine Playwrights Festival are offered on a 'Pay What You Can' basis to lower economic barriers. Acting classes are held at Mayo Street Arts (10 Mayo St) and some events at Stevens Square Theatre. Source: Events Page, Source: Classes Page",
+      "nearby": "Baxter Woods sanctuary, Evergreen Cemetery, Presumpscot Park, and Deering High School. Source: Stevens Square Blog"
+    },
+    {
+      "name": "Allagash Brewing Company",
+      "category": "Brewery & Tasting Room",
+      "description": "Allagash Brewing Company is an independent, B Corp-certified brewery specializing in Belgian-inspired beers. Founded in 1995 by James Beard Award winner Rob Tod, it is home to the world-renowned Allagash White and offers a spacious, family-friendly tasting room with local food truck pairings.",
+      "address": "50 Industrial Way",
+      "city": "Portland, ME 04103",
+      "region": "West End / Deering",
+      "hours": "Thursday-Saturday: 11am-8pm; Sunday-Monday: 11am-7pm; Tuesday-Wednesday: Closed. Allagash Hours",
+      "days_open": "Monday, Thursday, Friday, Saturday, Sunday (Closed Tuesday-Wednesday)",
+      "admission": "Free entry; Tours: Signature Beer & Barrels Experience $38, Taste of Allagash: The Origin Tour $18 (as of May 2026). Allagash Tours",
+      "website": "https://www.allagash.com",
+      "phone": "800-330-5385",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Three_Big_Beer_Barrels_%2819009026841%29.jpg",
+      "highlights": [
+        "['Award-winning Belgian-style beers, including the flagship Allagash White.', 'Spacious year-round tasting room with indoor and outdoor seating.', 'Exclusive brewery tours including the Signature Beer & Barrels Experience and Origin Tour.', 'On-site food partner Bite Into Maine serving lobster rolls and more.', 'The \"Backyard\" area features a family-friendly space with games and picnic tables.', 'Certified B Corp dedicated to sustainability and community giving.']"
+      ],
+      "tips": "Well-behaved dogs are welcome in the outdoor areas. Outside food is allowed in the tasting room, but strictly no outside alcohol. Check the online calendar to book tours in advance as they often sell out. Visitor FAQ",
+      "nearby": "Definitive Brewing Company, Foundation Brewing Company, Austin Street Brewery (Industrial Way location). Industrial Way Breweries"
+    },
+    {
+      "name": "Deering Center Neighborhood",
+      "category": "Neighborhood",
+      "description": "Deering Center is a vibrant, \"village-like\" neighborhood in Portland, Maine, known for its historic homes, independent shops, and extensive greenspaces. It serves as a community hub with a walkable \"micro-downtown\" and schools ranging from kindergarten through high school. (Deering Center Neighborhood Association, Portland Old Port)",
+      "address": "Stevens Avenue, Portland, ME 04103",
+      "city": "Portland",
+      "region": "West End / Deering",
+      "hours": "Neighborhood: Open 24/7; Parks (Baxter Woods/Evergreen Cemetery): Dawn to dusk; Association Meetings: 1st Monday of most months, 7:00 PM – 8:30 PM (Deering Center Neighborhood Association, Portland Trails)",
+      "days_open": "Open daily; Association meetings on the first Monday of most months (September–June) (Deering Center Neighborhood Association)",
+      "admission": "Free (Deering Center Neighborhood Association)",
+      "website": "https://deeringcenter.me",
+      "phone": "207-874-8300 (City of Portland) (City of Portland)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Wilde_Memorial_Chapel.jpg",
+      "highlights": [
+        "'Evergreen Cemetery: A historic 239-acre garden-style cemetery on the National Register of Historic Places ([Wikipedia))', 'Baxter Woods: A 30-acre nature preserve with shaded trails for walking and biking (Portland Trails)', 'Deering Center Village: A two-block stretch of Stevens Avenue featuring local businesses like Rwanda Bean Coffee and The Honey Exchange (Down East Magazine)', 'Annual Porchfest: A popular community music festival where local bands perform on neighborhood porches (City of Portland)', 'Educational Hub: Home to Longfellow Elementary, Lincoln Middle, and Deering High Schools (Maine Home Connection)']"
+      ],
+      "tips": "Visit Evergreen Cemetery during the fall for peak foliage and birdwatching opportunities. Explore the independent boutiques and cafes on Stevens Avenue to experience the neighborhood's unique local culture. (Down East Magazine, Tripadvisor)",
+      "nearby": "Back Cove Trail, University of Southern Maine (USM), Deering Oaks Park, Thompson's Point (Down East Magazine, Maine Home Connection)"
+    },
+    {
+      "name": "Hot Suppa! (Hot Suppa)",
+      "category": "Restaurant (Hot Suppa)",
+      "description": "Established in 2006 by two brothers in an 1860 brick Victorian on Portland's West End, Hot Suppa! specializes in American Southern classics made from scratch. The restaurant features high ceilings, brick walls, and original moldings, providing a unique and comfortable setting for its popular all-day brunch and Southern fare (Hot Suppa).",
+      "address": "703 Congress Street, Portland, Maine 04102 (Hot Suppa)",
+      "city": "Portland (Hot Suppa)",
+      "region": "West End / Deering",
+      "hours": "Mon: 8:00 AM - 2:00 PM, Tue: 8:00 AM - 2:00 PM, Wed: 8:00 AM - 2:00 PM, Thu: 8:00 AM - 2:00 PM, Fri: 8:00 AM - 2:00 PM, Sat: 8:00 AM - 2:00 PM, Sun: 8:00 AM - 2:00 PM (Hot Suppa)",
+      "days_open": "Monday - Sunday (Hot Suppa)",
+      "admission": "Free (Hot Suppa)",
+      "website": "http://hotsuppa.com",
+      "phone": "207-871-5005 (Hot Suppa)",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/574f456f044262fd9c23abdb/1660421090197-XLU39WNWFWPB9UL5DQND/Hot+Suppa+Best+Exterior.jpg?format=500w",
+      "highlights": [
+        "\"Scratch-made Southern favorites like Fried Chicken & Waffles and Pulled Pork Mac n' cheese ([Yelp)\", 'Famous for their corned beef hash, cited as \"Portland’s best breakfast dish\" by Bon Appetit (Hot Suppa)', 'Unique setting in a historic 1860 brick Victorian building with original architectural details (Hot Suppa)', 'Extensive brunch cocktail menu featuring spicy Bloody Marys and Mimosas (Hot Suppa)', 'Daily brunch specialties served every day of the week (Yelp)']"
+      ],
+      "tips": "Hot Suppa! does not accept reservations, so arrive early to avoid long waits, especially on weekends. Parking is limited to on-street options only (Hot Suppa).",
+      "nearby": "Portland Museum of Art (Portland Harbor Hotel), Old Port historic waterfront (Adventurous Kate), Portland Observatory (Adventurous Kate)"
+    },
+    {
+      "name": "Mayor Baxter Woods Park",
+      "category": "Park / Nature Preserve",
+      "description": "Mayor Baxter Woods Park is a 30-acre nature preserve and municipal forest located in Portland's Deering Center neighborhood. It is the largest undisturbed forested area in the city, offering a network of easy, shaded trails through towering pines and mature hardwoods. The park serves as a sanctuary for birds and a peaceful retreat for walking, biking, and nature observation.",
+      "address": "555 Stevens Avenue (Main Entrance)",
+      "city": "Portland",
+      "region": "West End / Deering",
+      "hours": "Dawn to dusk, Monday through Sunday",
+      "days_open": "Monday - Sunday",
+      "admission": "Free",
+      "website": "https://www.portlandmaine.gov/433/Parks-Recreation-Facilities",
+      "phone": "(207) 874-8801",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/BaxterWoodsPortland.JPG",
+      "highlights": [
+        "['30-acre urban nature preserve with approximately 1.5 miles of easy, well-marked trails.', 'The largest undisturbed tract of forest within the city of Portland.', 'Features diverse tree species including towering pines, mature oaks, and ash.', 'Directly connects to the trails of the historic Evergreen Cemetery.', 'Popular local destination for bird watching and \"forest bathing.\"', 'Offers seasonal off-leash dog access (typically from August 1 to March 31).']"
+      ],
+      "tips": "Wear sturdy footwear to navigate tree roots and rocks on side trails. Be sure to check current seasonal dog leashing rules on the city website before visiting with pets. Bug spray is recommended during the summer months due to the dense vegetation. Parking is most convenient at the small lot on Stevens Avenue or on the residential Hartley Street.",
+      "nearby": "Evergreen Cemetery, Back Cove Trail, Deering Oaks Park, Payson Park, University of New England Portland Campus"
+    },
+    {
+      "name": "Pai Men Miyake",
+      "category": "Restaurant",
+      "description": "Pai Men Miyake is a warm and friendly Japanese restaurant in Portland, Maine, focusing on authentic, hand-made ramen. The menu also features a variety of sushi rolls, gyoza, and small plates, complemented by a selection of craft beers on draft (Miyake Restaurants, Portland Old Port).",
+      "address": "188 State Street, Portland, Maine 04101",
+      "city": "Portland",
+      "region": "West End / Deering",
+      "hours": "Monday: 11:30am-9:00pm, Tuesday: 11:30am-9:00pm, Wednesday: 11:30am-9:00pm, Thursday: 11:30am-9:00pm, Friday: 11:30am-9:00pm, Saturday: 11:30am-9:00pm, Sunday: Closed (Official Website)",
+      "days_open": "Monday - Saturday (Official Website)",
+      "admission": "Free (Official Website)",
+      "website": "https://www.miyakerestaurants.com/pai-men",
+      "phone": "(207) 541-9204",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/634d6515da85ba6509741258/53398b27-80a6-4253-8958-a408948ff4ec/20221019-DSC_2443.jpg",
+      "highlights": [
+        "'Authentic, hand-made Japanese ramen prepared daily ([Official Website)', 'Popular house-made steamed buns with pork belly or lobster (Official Website)', 'Extensive selection of rotating craft beers on draft (Portland Old Port)', 'Casual atmosphere perfect for quick lunches or social dinners (Nova Circle)', 'Located in the heart of Longfellow Square, a popular dining destination (Blueberry Files)']"
+      ],
+      "tips": "Pai Men Miyake does not accept reservations; parties are added to a waitlist in person. Be prepared for a short wait during peak times like weekends and rainy days, and note that tables are available for a maximum of 2 hours (Official Website).",
+      "nearby": "Portland Museum of Art, Longfellow Square, State Theatre, Old Port district, Portland Observatory (Nova Circle, Adventurous Kate)"
+    },
+    {
+      "name": "Victoria Mansion (Morse-Libby House) Victoria Mansion",
+      "category": "Museum / Landmark Victoria Mansion, Wikipedia",
+      "description": "Victoria Mansion, also known as the Morse-Libby House, is a premier historic house museum and a National Historic Landmark. Built between 1858 and 1860 as a summer home for hotelier Ruggles Sylvester Morse, it is widely considered one of the finest examples of the Italian Villa style in America, retaining over 90% of its original interiors and lavish furnishings. Victoria Mansion, Visit Portland",
+      "address": "109 Danforth Street Victoria Mansion",
+      "city": "Portland Victoria Mansion",
+      "region": "West End / Deering",
+      "hours": "Daily: 10:00 AM - 4:00 PM (Last admission at 3:50 PM). Closed Memorial Day, Independence Day, and Labor Day. Victoria Mansion",
+      "days_open": "Open Daily (May 1st – October 31st) Victoria Mansion",
+      "admission": "Adults: $19.25; Senior Citizens (62+): $17.25; College Students (with ID): $8.00; Children (6-17): $6.00; Children (under 5): Free; Military: $8.00; Museums for All (SNAP/EBT): $2.00; Group Rate (10-50 people): $14.00 per person Victoria Mansion",
+      "website": "https://victoriamansion.org/",
+      "phone": "(207) 772-4841 Victoria Mansion",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Victoria_Mansion%2C_Portland%2C_Maine_USA.jpg",
+      "highlights": [
+        "'Stunning Italian Villa style architecture designed by Henry Austin [Visit Portland', 'Exceptionally well-preserved original interiors and furnishings by Gustave Herter Victoria Mansion', \"The magnificent and often-photographed 'flying staircase' Tripadvisor\", 'Intricate decorative elements including ornate wall paintings, stained glass, and etched glass Tripadvisor', 'National Historic Landmark status awarded for its architectural significance Wikipedia']"
+      ],
+      "tips": "Visitors are encouraged to book tickets in advance; allow approximately 90 minutes for a full tour. Note that there is no on-site parking, but convenient on-street parking and nearby garages are available. Victoria Mansion, Tripadvisor",
+      "nearby": "Maine Historical Society, Wadsworth-Longfellow House, Maine Irish Heritage Center, and the Old Port district Victoria Mansion FAQ, Tripadvisor"
+    },
+    {
+      "name": "West End Neighborhood",
+      "category": "Neighborhood / Historic District",
+      "description": "The West End is a historic downtown neighborhood in Portland, Maine, renowned for its remarkably preserved Victorian-era architecture and diverse community. Located primarily on Bramhall Hill, it features the scenic Western Promenade, numerous historic landmarks, and a vibrant local scene of independent shops and restaurants.",
+      "address": "166 Brackett Street (Reiche Community Center)",
+      "city": "Portland",
+      "region": "West End / Deering",
+      "hours": "Open 24/7 (Neighborhood); Parks: 7:00 AM - 9:00 PM; Attractions like Victoria Mansion: 10:00 AM - 4:00 PM (seasonal)",
+      "days_open": "Daily",
+      "admission": "Free (Neighborhood access); Guided tours of sites like Victoria Mansion or Western Cemetery have fees ($6.00 - $19.25)",
+      "website": "http://www.wenamaine.org",
+      "phone": "(207) 772-4841 (Victoria Mansion) / (207) 874-8300 (City of Portland)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Maine_Medical.jpg",
+      "highlights": [
+        "['Western Promenade Park with panoramic sunset views of the White Mountains', 'Victoria Mansion, a National Historic Landmark and premier house museum', 'Western Cemetery, a historic 19th-century burial ground offering seasonal tours', 'Stunning Victorian, Italianate, and Queen Anne style residential architecture', 'Reiche Community Center, featuring a library, swimming pool, and neighborhood events']"
+      ],
+      "tips": "The neighborhood is best explored on foot to appreciate the intricate architectural details; parking is limited and strictly regulated. Visit the Western Promenade at sunset for the best views, and check seasonal schedules for tours of historic mansions and cemeteries.",
+      "nearby": "Old Port, Arts District, Maine Medical Center, Portland Museum of Art, Thompson's Point"
+    },
+    {
+      "name": "Western Promenade (Western Promenade Park)",
+      "category": "Park, Landmark",
+      "description": "Western Promenade is a historic public park and promenade laid out in 1836, perched on a scenic bluff in Portland's West End. It is renowned for its panoramic views of the Fore River and the distant White Mountains, as well as its well-preserved landscape designed by the Olmsted Brothers.",
+      "address": "Along Western Promenade, Portland, ME 04102",
+      "city": "Portland",
+      "region": "West End / Deering",
+      "hours": "7:00 AM - 9:00 PM daily (Tripadvisor, Kupi.com)",
+      "days_open": "Daily (Kupi.com)",
+      "admission": "Free (Tripadvisor)",
+      "website": "https://www.friendsofwesternprom.org",
+      "phone": "(207) 874-8300 (City of Portland)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Maine_Medical.jpg",
+      "highlights": [
+        "[\"Panoramic sunset views of the Fore River and New Hampshire's White Mountains\", 'Historic landscape design by the Olmsted Brothers (John C. Olmsted) in 1905', 'Bronze statue of Thomas Brackett Reed, a prominent Portland statesman, erected in 1910', 'A 0.7-mile paved walking path through a National Register of Historic Places site', 'Adjacent to the historic Western Cemetery and surrounded by Victorian-era architecture']"
+      ],
+      "tips": "Visit during sunset for the best views. Parking is limited; try looking for spots on Pine or Brackett Streets. Note that there are no public restrooms in the park (Tripadvisor).",
+      "nearby": "Western Cemetery, Victoria Mansion, Maine Medical Center, Portland Museum of Art (Kupi.com)"
+    },
+    {
+      "name": "Cape Elizabeth Light (Two Lights)",
+      "category": "Landmark",
+      "description": "The Cape Elizabeth Light station, established in 1828, features two 67-foot cast-iron towers known as \"Two Lights.\" While the west tower is a private residence, the active east tower remains a vital aid to navigation and was famously immortalized in Edward Hopper's 1929 painting \"The Lighthouse at Two Lights.\"",
+      "address": "225 Two Lights Rd, Cape Elizabeth, ME 04107",
+      "city": "Cape Elizabeth",
+      "region": "Cape Elizabeth / South Portland",
+      "hours": "Closed to the public (Exterior viewable 24/7 from public roads and nearby parks)",
+      "days_open": "Daily",
+      "admission": "Free (Lighthouse and grounds are privately owned and closed to the public; exterior viewing from public areas is free)",
+      "website": "https://lighthousefoundation.org/lighthouses/cape-elizabeth-light/",
+      "phone": "(207) 594-4174",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Cape_Elizabeth_Light_03.jpg",
+      "highlights": [
+        "['Features two distinctive cast-iron towers built in 1874', 'The subject of Edward Hopper\\'s famous painting \"The Lighthouse at Two Lights\"', 'First lighthouse to be featured on a U.S. postage stamp in 1970', 'The east tower remains an active aid to navigation with a powerful 1.8 million candlepower light', 'Located on the scenic rocky headlands of Cape Elizabeth overlooking the Atlantic Ocean']"
+      ],
+      "tips": "The lighthouse towers and immediate grounds are private property; please respect the residents' privacy and view only from public areas. The best vantage points for photography are at the end of Two Lights Road near Dyer Cove or from the nearby Two Lights State Park.",
+      "nearby": "Two Lights State Park, Portland Head Light, Crescent Beach State Park, The Lobster Shack at Two Lights"
+    },
+    {
+      "name": "Fore River Brewing Company",
+      "category": "Brewery",
+      "description": "Fore River Brewing Company was a celebrated neighborhood craft brewery located in South Portland, known for its diverse selection of IPAs, stouts, and fruited sours. The brewery featured a cozy, cabin-like tasting room built with salvaged materials and a spacious outdoor backyard equipped with fire pits. Tripadvisor, Portland Food Map",
+      "address": "45 Huntress Ave, South Portland, ME 04106-4115",
+      "city": "South Portland",
+      "region": "Cape Elizabeth / South Portland",
+      "hours": "Mon-Thu: 2:00 PM - 8:00 PM, Fri-Sat: 12:00 PM - 9:00 PM, Sun: 12:00 PM - 8:00 PM",
+      "days_open": "Monday - Sunday",
+      "admission": "Free",
+      "website": "http://www.foreriverbrewing.com",
+      "phone": "(207) 370-0639",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Fore_River_Brewing_Company1.jpg",
+      "highlights": [
+        "'John Henry Nitro Milk Stout, a fan-favorite flagship brew.', 'Preble series of fruited kettle sours in various rotating flavors.', 'The only 100% Burton-Union fermentation system in the country. [Maine Birding Field Notes', 'Large fenced-in backyard with picnic tables, rockers, and a fire pit.', 'Dog-friendly policy allowing pets both inside and outside the tasting room. New England Wanderlust']"
+      ],
+      "tips": "Visitors are encouraged to bring their own food or check for scheduled food trucks as the brewery typically only offered light snacks like popcorn. It is a great spot for groups and is very welcoming to dogs. Tripadvisor",
+      "nearby": "Thompson's Point, Bissell Brothers Brewing, Victoria Mansion, Portland Museum of Art. Tripadvisor"
+    },
+    {
+      "name": "Two Lights State Park",
+      "category": "Park",
+      "description": "Two Lights State Park encompasses 41 acres of rocky headlands on Cape Elizabeth, offering sweeping views of Casco Bay and the open Atlantic. It is home to remnants of a World War II-era coastal defense installation, including a fire control tower and bunkers. Visitors can enjoy walking trails along the shoreline, picnicking with ocean vistas, and exploring tide pools (Maine.gov, Wikipedia).",
+      "address": "7 Tower Drive",
+      "city": "Cape Elizabeth",
+      "region": "Cape Elizabeth / South Portland",
+      "hours": "9:00 a.m. to sunset daily (Maine.gov)",
+      "days_open": "Daily, year-round (Maine.gov)",
+      "admission": "Adult Maine Residents: $5.00; Adult Non-Residents: $7.00; Senior Non-Residents: $2.00; Maine Seniors (65+): Free; Children (5-11): $1.00; Children under 5: Free (Maine Bureau of Parks and Lands)",
+      "website": "https://www.maine.gov/twolights",
+      "phone": "(207) 799-5871 (Maine.gov)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Darkening_sky_at_Maine_beach.jpg",
+      "highlights": [
+        "['Rocky headlands with sweeping views of Casco Bay and the open Atlantic', 'Remnants of World War II-era seacoast battery and fire control tower', 'Network of shoreline trails for walking and watching ships entering Portland Harbor', 'Oceanfront picnic areas with tables and grills situated on scenic hills', 'Tide pools and rocky coast exploration areas', 'Proximity to historic twin lighthouses and the Lobster Shack restaurant']"
+      ],
+      "tips": "Ocean breezes can be cool even in summer, so bring warm clothing; stay at least 20 feet back from the surf on rocks for safety; arrive early on summer weekends as the parking lot fills quickly; dogs are welcome but must be on-leash (Visit Maine, Maine.gov).",
+      "nearby": "Crescent Beach State Park, Kettle Cove State Park, Portland Head Light, The Lobster Shack at Two Lights (Maine Trail Finder)"
+    },
+    {
+      "name": "Fort Williams Park",
+      "category": "Park",
+      "description": "Fort Williams Park is a 90-acre public recreation area in Cape Elizabeth, Maine, that features the iconic Portland Head Light, the oldest lighthouse in the state. The park offers visitors a blend of scenic coastal views, historic military remains including several artillery batteries, and expansive green spaces for picnicking and leisure. It serves as a premier destination for both historical exploration and outdoor recreation along the Casco Bay coastline.",
+      "address": "1000 Shore Road",
+      "city": "Cape Elizabeth",
+      "region": "Casco Bay Islands",
+      "hours": "Monday: Sunrise to Sunset, Tuesday: Sunrise to Sunset, Wednesday: Sunrise to Sunset, Thursday: Sunrise to Sunset, Friday: Sunrise to Sunset, Saturday: Sunrise to Sunset, Sunday: Sunrise to Sunset (Portland Head Light)",
+      "days_open": "Daily",
+      "admission": "Park admission is free; Museum admission is $2.00 for adults, $1.00 for children (ages 6-18), and free for children under 6 (Portland Head Light). Parking fees are $6.00 for a 2-hour minimum and $2.00 per hour thereafter (Portland Head Light).",
+      "website": "https://portlandheadlight.com/",
+      "phone": "(207) 799-2661",
+      "image_url": "https://portlandheadlight.com/wp-content/uploads/rich-morin-phl-2.jpg",
+      "highlights": [
+        "['Portland Head Light, the oldest lighthouse in Maine', 'Goddard Mansion ruins and historic military batteries', 'The scenic Cliff Walk Trail along the coast', \"Children's Garden and Arboretum area\", 'Ship Cove beach access and picnic facilities']"
+      ],
+      "tips": "The park operates on a carry-in/carry-out policy with no trash receptacles available. Parking fees must be paid via credit or debit card at on-site meters, and the lighthouse tower itself is only open to the public once a year on Maine Open Lighthouse Day (Portland Head Light).",
+      "nearby": "Two Lights State Park, Crescent Beach State Park, Kettle Cove State Park, and the South Portland Historical Society (Tripadvisor)"
+    },
+    {
+      "name": "Foundation Brewing Company Foundation Brewing & Pizza",
+      "category": "Brewery, Restaurant Foundation Brewing & Pizza",
+      "description": "Foundation Brewing Company is a craft brewery and pizza kitchen that focuses on creating world-class, well-composed beers and delicious Detroit-style square pizzas. Founded in 2014, the business strives to build a community gathering place that welcomes everyone for high-quality brews and a relaxed atmosphere. Foundation Brewing & Pizza, Employment Page",
+      "address": "1 Industrial Way #7, Portland, ME 04103 Foundation Brewing & Pizza",
+      "city": "Portland Foundation Brewing & Pizza",
+      "region": "Casco Bay Islands",
+      "hours": "Sunday: 12:00 PM – 6:00 PM; Monday: 12:00 PM – 8:30 PM; Tuesday: CLOSED; Wednesday: 12:00 PM – 8:30 PM; Thursday: 12:00 PM – 8:30 PM; Friday: 12:00 PM – 8:30 PM; Saturday: 12:00 PM – 8:00 PM Foundation Brewing & Pizza",
+      "days_open": "Wednesday – Monday (Closed Tuesdays) Foundation Brewing & Pizza",
+      "admission": "Free Tripadvisor",
+      "website": "https://foundationbrew.com",
+      "phone": "207-370-5180 Foundation Brewing & Pizza",
+      "image_url": "https://foundationbrew.com/wp-content/uploads/2025/11/Tina-John-Oktoberfest-2025-768x1024.jpg",
+      "highlights": [
+        "'Specializes in Detroit-style square pizzas with crispy crusts [Foundation Brewing & Pizza', 'Offers a wide variety of craft beers including IPAs, sours, stouts, and hard seltzers Foundation Brewing & Pizza', 'Spacious outdoor patio equipped with fire tables and heaters for all-season use Foundation Brewing & Pizza', 'Dog-friendly outdoor seating area with a dedicated \"foundationpups\" community Foundation Brewing & Pizza', 'Convenient pre-ordering for beer and pizza to-go via an online store Foundation Brewing & Pizza']"
+      ],
+      "tips": "The kitchen stops taking orders 45 minutes before close, and last call for beer is 15 minutes before closing. Monday is \"pitcher day\" featuring deals on pizza and beer pitchers. Foundation Brewing & Pizza, Instagram",
+      "nearby": "Allagash Brewing Company, Austin Street Brewery, Battery Steele Brewing, and Riverton Trolley Park Daily Adventures of Me, Maine Brewers' Guild"
+    },
+    {
+      "name": "Peaks Island",
+      "category": "Landmark / Neighborhood",
+      "description": "Peaks Island is the most populous island in Casco Bay and a vibrant neighborhood of Portland, Maine. Originally known as the 'Coney Island of Maine,' it offers a unique blend of historical sites, scenic ocean vistas, and a close-knit community atmosphere accessible via a short ferry ride. Casco Bay Lines, Wikipedia",
+      "address": "1 Welch St (Ferry Landing), Portland, ME 04108",
+      "city": "Portland",
+      "region": "Casco Bay Islands",
+      "hours": "Ferry departures approximately every hour; Daily: 5:45 AM - 11:55 PM (Summer Schedule). Casco Bay Lines Schedule",
+      "days_open": "Open 7 days a week, year-round Peaks Island Info",
+      "admission": "Ferry Round Trip: $14.00 Adults, $7.00 Child/Senior/Disabled (Peak Season); $7.20 Adults, $3.60 Child/Senior/Disabled (Off-Peak Season). Bicycles: $7.00. Casco Bay Lines",
+      "website": "https://peaksisland.info",
+      "phone": "(207) 774-7871 (Casco Bay Lines)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Peaks_Island_Maine_landing%2C_11-11-2004.jpg",
+      "highlights": [
+        "['Battery Steele (Historic WWII fortification)', 'Fifth Maine Museum & Civil War Lodge', 'The World’s Only Umbrella Cover Museum', 'Scenic 3.7-mile loop for biking and walking', 'Sandy Beach and rugged Backshore views', 'Golf cart tours of island history and landmarks']"
+      ],
+      "tips": "The island is best explored by bike or on foot; bringing a car is generally discouraged due to limited parking. Be sure to book golf cart rentals in advance during the summer, and remember that many island beaches are private property. Peaks Island Visitor Guide",
+      "nearby": "Portland Old Port, Great Diamond Island, Portland Observatory, Casco Bay Ferry Terminal Casco Bay Lines"
+    },
+    {
+      "name": "Portland Head Light",
+      "category": "Landmark, Museum, Park",
+      "description": "Portland Head Light is a historic lighthouse in Cape Elizabeth, Maine, situated at the entrance of the shipping channel into Casco Bay. Completed in 1791, it is the oldest lighthouse in Maine and features a museum in the former Keepers' Quarters within the 90-acre Fort Williams Park. Wikipedia, Official Site",
+      "address": "1000 Shore Rd, Cape Elizabeth, ME 04107",
+      "city": "Cape Elizabeth",
+      "region": "Casco Bay Islands",
+      "hours": "Park: Sunrise to Sunset (year-round). Museum: 10:00 AM – 4:00 PM (seasonal). Official Site",
+      "days_open": "Daily (Park); Museum: Daily from Memorial Day to October 31/Indigenous Peoples Day (Weekends only in May & November). Official Site",
+      "admission": "Museum: Adults $2.00, Children (6-18) $1.00, Children under 6 Free. Park: Free admission (parking fees apply). Official Site",
+      "website": "https://portlandheadlight.com",
+      "phone": "(207) 799-2661",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Portland_Head_Lighthouse%2C_Maine.jpg",
+      "highlights": [
+        "['Historic Lighthouse Tower (oldest in Maine)', \"Award-winning Museum in former Keepers' Quarters\", 'Stunning ocean views of Casco Bay', 'Goddard Mansion ruins within the park', 'Cliff walk and hiking trails', 'Battery Keyes and other historic fort structures']"
+      ],
+      "tips": "The lighthouse tower is generally not open for climbing except on Maine Open Lighthouse Day. Parking requires a fee ($6 for 2 hours) in several park lots, but overflow parking is free. The park is best visited during golden hour for photography, but note that gates close at sunset. Official Site, Tripadvisor",
+      "nearby": "Ram Island Ledge Light, Spring Point Ledge Lighthouse, Two Lights State Park, Crescent Beach State Park, Downtown Portland. Official Site"
+    }
+  ]
+}

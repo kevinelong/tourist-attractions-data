@@ -1,0 +1,1231 @@
+{
+  "title": "Durham, NC Area Tourist Attractions",
+  "generated": "2026-05-12",
+  "total_attractions": 64,
+  "regions_covered": [
+    "Downtown Durham / American Tobacco",
+    "Duke Campus / Ninth Street",
+    "Research Triangle Park / South Durham",
+    "East Durham / Brightleaf",
+    "North Durham"
+  ],
+  "attractions": [
+    {
+      "name": "American Tobacco Historic District (American Tobacco Campus) (Wikipedia, Discover Durham)",
+      "category": "Landmark, Entertainment, Shopping, Restaurant (Discover Durham, Tripadvisor)",
+      "description": "The American Tobacco Historic District is a revitalized factory complex that once served as the headquarters for the American Tobacco Company. Today, it is a vibrant multi-use campus featuring creative office spaces, restaurants, and entertainment venues set against a backdrop of beautifully restored industrial architecture (Discover Durham, Wikipedia).",
+      "address": "300 Blackwell St, Durham, NC 27701 (Discover Durham)",
+      "city": "Durham (Discover Durham)",
+      "region": "Downtown Durham / American Tobacco",
+      "hours": "Management Office: Monday - Friday, 8:00 AM – 5:00 PM; Restaurants & Bars: Typically open until midnight; Campus grounds are generally accessible 24/7 (Greater Durham Chamber of Commerce, Tripadvisor)",
+      "days_open": "Daily (Tripadvisor)",
+      "admission": "Free (Tripadvisor)",
+      "website": "https://www.discoverdurham.com/directory/american-tobacco-campus/",
+      "phone": "(919) 433-1566 (Discover Durham)",
+      "image_url": "https://en.wikipedia.org/wiki/American_Tobacco_Historic_District",
+      "highlights": [
+        "'Historic Lucky Strike water tower and brick chimney ([Wikipedia)', 'Man-made stream and relaxing outdoor green spaces (Tripadvisor)', \"Burt's Bees Global Headquarters and observation hive (ATC Website)\", 'The Cage, an outdoor basketball court and event space (ATC Website)', 'On-site restaurants and bars with patio seating (Discover Durham)', 'Proximity to the Durham Bulls Athletic Park (ATC Website)']"
+      ],
+      "tips": "Use the ParkMobile app for parking in the North, South, or East decks. Parking is often free on weekends unless there is a major event. Visit at dusk to see the iconic Lucky Strike tower illuminated (ATC Website).",
+      "nearby": "Durham Bulls Athletic Park, Durham Performing Arts Center (DPAC), Downtown Durham Main Street district (ATC Website)"
+    },
+    {
+      "name": "Atomic Clock Brewing Company",
+      "category": "Brewery, Bar, Restaurant",
+      "description": "Atomic Clock Brewing Company is a precision-focused brewery and taproom located in Durham's historic Warehouse District. Run by a sibling duo, the establishment features a diverse craft beer lineup, wine, cocktails, and a full-service kitchen led by an executive chef, offering both indoor and outdoor seating (Discover Durham, Durham Magazine).",
+      "address": "501 Washington St, Durham, NC 27701",
+      "city": "Durham",
+      "region": "Downtown Durham / American Tobacco",
+      "hours": "Monday: 3:00 PM – 10:00 PM, Tuesday: 3:00 PM – 10:00 PM, Wednesday: 3:00 PM – 10:00 PM, Thursday: 12:00 PM – 10:00 PM, Friday: 12:00 PM – 11:00 PM, Saturday: 12:00 PM – 11:00 PM, Sunday: 12:00 PM – 9:00 PM (Discover Durham)",
+      "days_open": "Open Daily (Monday - Sunday)",
+      "admission": "Free (Downtown Durham Inc)",
+      "website": "https://www.atomicclockbrewing.com",
+      "phone": "(919) 237-1253 (Discover Durham)",
+      "image_url": "https://www.discoverdurham.com/imager/s3_us-east-1_amazonaws_com/durham-2019/images/atomic-clock-bew_0362531c0bd17570599dbb0051013680.jpg",
+      "highlights": [
+        "'Full-service kitchen with unique menu items like Beef on Weck ([Discover Durham Reviews)', 'Located in the bustling Warehouse District near other craft breweries (Discover Durham)', 'Extensive beverage selection including IPAs, lagers, cocktails, and wine (Downtown Durham Inc)', 'Comfortable indoor and outdoor porch seating for all seasons (Discover Durham)', 'Named after the precision of atomic clocks to reflect their brewing philosophy (Durham Magazine)']"
+      ],
+      "tips": "The brewery provides its own on-site parking lot for visitors. The executive chef's kitchen is a major draw, so consider trying the food alongside your beer; the outdoor porch is particularly popular for its atmosphere (Skip the Small Talk, Discover Durham Reviews).",
+      "nearby": "Durham Central Park, Durham Bulls Athletic Park, American Tobacco Campus, Museum of Durham History, Flying Bull Restaurant and Brewery (Discover Durham, Wayward Blog)"
+    },
+    {
+      "name": "Bar Virgile Official Website",
+      "category": "Bar, Restaurant Official Website, Discover Durham",
+      "description": "Bar Virgile is a unique and sophisticated bar in downtown Durham known for its artfully crafted food and beverages. It offers an extensive spirits selection, including one of the largest in the Triangle, and specializes in both classic and innovative cocktails in a cozy, welcoming atmosphere Official Website, Discover Durham.",
+      "address": "105 S Mangum Street, Durham, NC 27701 Official Website",
+      "city": "Durham Official Website",
+      "region": "Downtown Durham / American Tobacco",
+      "hours": "Monday: 5:00 PM - 12:00 AM (Kitchen until 10:00 PM); Tuesday: 5:00 PM - 12:00 AM (Kitchen until 10:00 PM); Wednesday: 5:00 PM - 12:00 AM (Kitchen until 10:00 PM); Thursday: 5:00 PM - 12:00 AM (Kitchen until 10:00 PM); Friday: 5:00 PM - 12:00 AM (Kitchen until 11:00 PM); Saturday: 5:00 PM - 12:00 AM (Kitchen until 11:00 PM); Sunday: Closed Official Website",
+      "days_open": "Monday - Saturday Official Website",
+      "admission": "Free Official Website",
+      "website": "http://www.barvirgiledurham.com",
+      "phone": "(919) 973-3000 Official Website",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/56798826e0327c3145ba5ab5/1453250195531-LHYM239B9X1RHFQTGJO0/hillhoneck_barvirgile_091.jpg",
+      "highlights": [
+        "'Boasting one of the largest spirits selections in the Triangle, including whiskey, gin, rum, and agave [Official Website', 'Expertly crafted classic and innovative seasonal cocktails Official Website', 'Ever-changing dinner and small plates menu featuring locally sourced ingredients Discover Durham', 'Cozy atmosphere with leather banquettes and a bustling, hospitable vibe Official Website', 'Sister bar \"Annexe\" located in the basement for overflow seating and vinyl nights Discover Durham']"
+      ],
+      "tips": "Bar Virgile does not take reservations and operates on a first-come, first-served basis. It can get very crowded on DPAC show nights, so consider arriving early or visiting their sister bar, Annexe, for overflow seating. On Wednesday evenings, you can bring your own records to be played on the turntable Official Website, Discover Durham.",
+      "nearby": "Durham Performing Arts Center (DPAC), Carolina Theatre, American Tobacco Campus, Durham Bulls Athletic Park, The Pinhook Official Website, Tripadvisor"
+    },
+    {
+      "name": "Beer Durham",
+      "category": "Bar / Bottle Shop",
+      "description": "Beer Durham is a neighborhood bottle shop and growler filling station located in the heart of downtown Durham. It features 20 rotating craft beer taps, wine by the glass, and a curated selection of bottles and cans for on-site enjoyment or to-go. The shop also offers local North Carolina snacks in a welcoming, community-focused environment. (Discover Durham, Yelp)",
+      "address": "404 Hunt St, Suite 110, Durham, NC 27701",
+      "city": "Durham",
+      "region": "Downtown Durham / American Tobacco",
+      "hours": "Wednesday-Thursday: 3:00 PM – 8:00 PM; Friday: 12:00 PM – 8:00 PM; Saturday: 10:00 AM – 8:00 PM; Sunday: 12:00 PM – 6:00 PM; Monday-Tuesday: Closed. (Beer Durham)",
+      "days_open": "Wednesday through Sunday (Beer Durham)",
+      "admission": "Free admissions; beverages and snacks available for purchase. (Tripadvisor)",
+      "website": "https://beerdurham.com",
+      "phone": "919-680-0770 (Beer Durham)",
+      "image_url": "https://beerdurham.com/wp-content/uploads/2014/05/logo_main.png",
+      "highlights": [
+        "['20 rotating craft beer taps featuring local and seasonal brews', 'Growler filling station for 32oz and 64oz fills', 'Wide selection of refrigerated and shelf-stable bottles and cans', 'Wine by the glass and local North Carolina snacks available', 'Dog-friendly environment with treats often available for furry visitors', 'Knowledgeable and friendly staff to assist with beer selections']"
+      ],
+      "tips": "The shop is located in the Measurement Building near the Durham Farmers Market parking lot and can be slightly difficult to find for first-time visitors. It is a smaller space with limited seating, making it ideal for a quick pint while shopping or grabbing beers to go. Check their website or social media for the most current tap list and upcoming 'Friday parties.' (Yelp)",
+      "nearby": "Durham Central Park, Museum of Durham History, American Tobacco Historic District, Durham Bulls Athletic Park, The Parlour. (Tripadvisor)"
+    },
+    {
+      "name": "Bennett Place State Historic Site",
+      "category": "Historic Site / Museum",
+      "description": "Bennett Place is a historic site in Durham, North Carolina, that was the location of the largest troop surrender of the American Civil War in April 1865 NC Historic Sites. General Joseph E. Johnston surrendered the Southern armies of the Carolinas, Georgia, and Florida to Union General William T. Sherman at this simple farmhouse Wikipedia. Today, the site features reconstructed historic structures, a museum, and interpretive trails that explore the lives of the Bennett family and the war's end NCpedia.",
+      "address": "4409 Bennett Memorial Rd.",
+      "city": "Durham",
+      "region": "Downtown Durham / American Tobacco",
+      "hours": "Tuesday – Saturday: 9:00 AM – 5:00 PM; Closed Sunday, Monday, and designated state holidays NC Historic Sites.",
+      "days_open": "Tuesday – Saturday",
+      "admission": "Admission is free; guided tours are $4 for adults (18-64), $3 for seniors (65+) and military, $1 for youth (3-17), and free for children (0-2) NC Historic Sites.",
+      "website": "https://historicsites.nc.gov/all-sites/bennett-place",
+      "phone": "919-383-4345",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/2008-08-16_Bennett_Place_historic_site.jpg",
+      "highlights": [
+        "'Site of the largest Confederate troop surrender of the Civil War [Discover Durham', 'Carefully reconstructed mid-19th century farmhouse, kitchen, and smokehouse NC Historic Sites', 'The Unity Monument, dedicated in 1923 to symbolize national reconciliation Sites@Duke', 'Visitor Center featuring a museum, research library, and \"Dawn of Peace\" audiovisual program Wikipedia', 'Annual living history events and surrender reenactments Museum of Durham History']"
+      ],
+      "tips": "Guided tours are typically offered at 11:00 AM, 1:00 PM, and 3:00 PM, weather and staffing permitting NC Historic Sites. Plan for about one hour for indoor exhibits and more time for the nature trails Coast2CoastWithKids. The site is partially wheelchair accessible with a 50-yard dirt pathway to the farm Discover Durham.",
+      "nearby": "Duke University, Museum of Life + Science, Duke Homestead State Historic Site, West Point on the Eno, and Eno River State Park Discover Durham, Tripadvisor"
+    },
+    {
+      "name": "Black Wall Street / Historic Parrish Street",
+      "category": "Landmark / Historic District (Discover Durham)",
+      "description": "Parrish Street, famously known as \"Black Wall Street,\" was a thriving center for African American entrepreneurship and financial services in the late 19th and early 20th centuries. This four-block district served as the headquarters for iconic institutions like North Carolina Mutual Life Insurance and Mechanics and Farmers Bank, earning Durham the nickname \"Mecca of the Black South.\" Today, it is a preserved historic area featuring commemorative sculptures, public art, and markers that honor its legacy of economic empowerment and resilience (Discover Durham, Atlas Obscura).",
+      "address": "106 W Parrish St",
+      "city": "Durham",
+      "region": "Downtown Durham / American Tobacco",
+      "hours": "Public Street; accessible 24/7 (Discover Durham)",
+      "days_open": "Daily (Discover Durham)",
+      "admission": "Free (Discover Durham)",
+      "website": "https://www.discoverdurham.com/directory/wall-street/",
+      "phone": "(919) 687-0288 (Discover Durham), (919) 560-4965 (City of Durham)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Black_Wall_Street_Sign_Durham.jpg/1200px-Black_Wall_Street_Sign_Durham.jpg",
+      "highlights": [
+        "['Mechanics and Farmers Bank (Historic 1921 Headquarters)', 'North Carolina Mutual Life Insurance Company (Former Site)', 'Six Commemorative Bronze Sculptures (Parrish Street Project)', 'Black Wall Street Gardens and Plaza (Public Art Spaces)', 'Ella West Gallery (Black-owned Fine Art Gallery)', 'Rogers Alley (Repurposed Historic Buildings)']"
+      ],
+      "tips": "Take a self-guided walking tour to follow the six historical markers that detail the area's rich history. Visit during daylight hours to fully appreciate the public art and sculptures, and stop by the nearby Discover Durham Visitor Info Center for a printed African American Heritage Guide (Discover Durham, Best of the Bull).",
+      "nearby": "American Tobacco Campus, Durham Bulls Athletic Park, CCB Plaza (Major the Bull), Durham Performing Arts Center (DPAC) (Discover Durham)"
+    },
+    {
+      "name": "Brightleaf Square (Watts and Yuille Warehouses) (Wikipedia)",
+      "category": "Shopping, Dining, Historic District (Official Site)",
+      "description": "Brightleaf Square consists of two historic 1904 tobacco warehouses that have been meticulously repurposed into a premier destination for shopping, dining, and offices. The district preserves its industrial heritage with stunning Romanesque Revival architecture, featuring ornate red-brick masonry and a charming central courtyard. (Official Site)",
+      "address": "905 W Main St, Durham, NC 27701-2054",
+      "city": "Durham",
+      "region": "Downtown Durham / American Tobacco",
+      "hours": "Monday: 7:55 AM – 10:55 PM, Tuesday: 7:55 AM – 10:55 PM, Wednesday: 7:55 AM – 10:55 PM, Thursday: 7:55 AM – 10:55 PM, Friday: 7:55 AM – 10:55 PM, Saturday: 7:55 AM – 10:55 PM, Sunday: 7:55 AM – 10:55 PM (Discover Durham)",
+      "days_open": "Daily (Discover Durham)",
+      "admission": "Free (Public shopping and dining district) (Tripadvisor)",
+      "website": "https://www.brightleafdurham.com",
+      "phone": "(919) 682-9229 (Discover Durham)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Yuille_Warehouse_decorated_for_Christmas.jpg",
+      "highlights": [
+        "'Historic 1904 Watts and Yuille tobacco warehouses ([Wikipedia)', 'Charming central brick courtyard for outdoor seating (Official Site)', 'Diverse dining options including Clouds Brewing and Emmy Squared Pizza (Official Site)', 'Unique boutiques and local retailers like Indio and Hamilton Hill (Official Site)', 'Integrated health services with One Medical onsite (Duke Health)']"
+      ],
+      "tips": "Visitors can enjoy 2 hours of complimentary parking in the lot across the street or by validating their parking at participating onsite businesses. It is a highly walkable area, well-suited for combining a shopping trip with a meal in the evening. (Reddit, Duke Health)",
+      "nearby": "American Tobacco Historic District, Durham Bulls Athletic Park, Museum of Durham History, Carolina Theatre (Discover Durham)"
+    },
+    {
+      "name": "Bull City Burger and Brewery (Bull City Burger and Brewery)",
+      "category": "Restaurant, Brewery (Tripadvisor)",
+      "description": "Bull City Burger and Brewery is a locally owned, independent restaurant and craft brewery that specializes in \"farm-to-fork\" dining using pasture-raised, grass-fed beef ground daily. It is the first certified B Corp restaurant in North Carolina and makes nearly all ingredients in-house, including buns, sauerkraut, and pickles. (Bull City Burger and Brewery, Tripadvisor)",
+      "address": "107 E. Parrish St. #105, Durham, NC 27701 (Bull City Burger and Brewery)",
+      "city": "Durham (Bull City Burger and Brewery)",
+      "region": "Downtown Durham / American Tobacco",
+      "hours": "Monday: 11:11 AM – 9:30 PM; Tuesday: 11:11 AM – 9:30 PM; Wednesday: 11:11 AM – 9:30 PM; Thursday: 11:11 AM – 9:30 PM; Friday: 11:11 AM – 10:00 PM; Saturday: 11:11 AM – 10:00 PM; Sunday: 11:11 AM – 9:00 PM (Bull City Burger and Brewery)",
+      "days_open": "Daily (Bull City Burger and Brewery)",
+      "admission": "Free (Bull City Burger and Brewery)",
+      "website": "https://www.bullcityburgerandbrewery.com",
+      "phone": "(919) 680-2333 (Bull City Burger and Brewery)",
+      "image_url": "https://www.bullcityburgerandbrewery.com/uploads/9/1/0/2/91020660/bcbb_logo_jpg.jpg",
+      "highlights": [
+        "'Pasture-raised, grass-fed beef burgers ground fresh daily ([Bull City Burger and Brewery)', 'Authentic, true-to-style craft beers brewed on-site (Bull City Burger and Brewery)', 'First Certified B Corp restaurant in North Carolina (Bull City Burger and Brewery)', 'Over 67 million possible hamburger combinations with 30+ toppings (Bull City Burger and Brewery)', 'Unique \"Secret Burger\" not listed on the public menu (Bull City Burger and Brewery)', 'Annual \"Exotic Meat Month\" featuring rare game meats each April (Bull City Burger and Brewery)']"
+      ],
+      "tips": "Sign up for the email list to receive a free birthday burger annually. Street parking is metered but becomes free after 7 PM and on weekends. Note that the restaurant has a strict \"no outside food or drink\" policy. (Bull City Burger and Brewery)",
+      "nearby": "Pompieri Pizza, The Parlour Ice Cream, 21c Museum Hotel, Major Bull Statue, American Tobacco Campus, and Durham Bulls Athletic Park (Axios Charlotte)"
+    },
+    {
+      "name": "Counting House",
+      "category": "Restaurant, Bar",
+      "description": "Counting House is a restaurant and bar located in the historic 21c Museum Hotel in downtown Durham, North Carolina. Led by Executive Chef Melanie Wilkerson, the establishment celebrates the rich culinary heritage of the Carolinas with a seafood-driven menu and playful execution, all set within a vibrant contemporary art museum environment. Counting House, 21c Museum Hotel",
+      "address": "111 North Corcoran Street, Durham, NC 27701 Counting House",
+      "city": "Durham Counting House",
+      "region": "Downtown Durham / American Tobacco",
+      "hours": "Brunch: Mon-Fri 7am-2pm, Sat-Sun 8am-2pm; Dinner: Sun-Thu 5pm-9pm, Fri-Sat 5pm-10pm; Lounge: Mon-Thu 11am-10pm, Fri-Sat 11am-12am; Lounge Snack Hour: Daily 2pm-5pm Counting House",
+      "days_open": "Monday - Sunday Counting House",
+      "admission": "Free (Restaurant/Bar within a free museum) 21c Museum Hotel",
+      "website": "https://countinghousenc.com",
+      "phone": "(919) 956-6760 Counting House",
+      "image_url": "https://countinghousenc.com/wp-content/uploads/sites/2/2019/04/art.jpg",
+      "highlights": [
+        "'Integrated with the 21c Museum Hotel, featuring rotating 24/7 contemporary art galleries [Counting House', 'Regional seafood-focused menu curated by Durham native Executive Chef Melanie Wilkerson Counting House', 'Housed in the historic Hill Building, featuring original terrazzo floors and Art Deco details Counting House', 'Features \"The Vault Society,\" a unique lounge experience set in the building\\'s original bank vault Counting House', 'Home to the iconic 21c pink penguins found throughout the dining and lounge areas Yelp', 'Award-winning cocktail program recognized as one of the best in the Triangle region Indy Week']"
+      ],
+      "tips": "Explore the 21c Museum's art galleries before or after your meal, as they are free and open 24/7 21c Museum Hotel. Visit the basement to see the original bank vault and experience the unique lounge atmosphere, and don't miss the \"See-Thru Bathrooms\" for a notable architectural curiosity Yelp. Reservations are highly recommended for dinner, particularly during show nights at the nearby DPAC Tripadvisor.",
+      "nearby": "Durham Performing Arts Center (DPAC) Tripadvisor, Carolina Theatre Cottages at Brightleaf, Museum of Durham History Cottages at Brightleaf, Durham Bulls Athletic Park Cottages at Brightleaf"
+    },
+    {
+      "name": "Crank Arm Brewing Company Crank Arm Brewing",
+      "category": "Bar, Brewery Untappd",
+      "description": "Crank Arm Brewing is a bike-themed craft brewery and taproom located in the warehouse district of downtown Durham. It focuses on cultivating an active community through its \"Beer Love, Bike Love\" philosophy, offering award-winning unfiltered beers, local cider, NC wine, and a full spirit bar. Crank Arm Brewing, Discover Durham",
+      "address": "620 Fernway Drive, Durham, NC 27701 Crank Arm Brewing",
+      "city": "Durham Crank Arm Brewing",
+      "region": "Downtown Durham / American Tobacco",
+      "hours": "Monday: 2:00 pm – 10:00 pm; Tuesday: 2:00 pm – 10:00 pm; Wednesday: 2:00 pm – 12:00 am; Thursday: 2:00 pm – 12:00 am; Friday: 12:00 pm – 12:00 am; Saturday: 12:00 pm – 12:00 am; Sunday: 12:00 pm – 10:00 pm Crank Arm Brewing",
+      "days_open": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday Crank Arm Brewing",
+      "admission": "Free entry; beer and beverages for purchase Expedia",
+      "website": "https://crankarmbrewing.com/durham/",
+      "phone": "919-324-3529 Crank Arm Brewing",
+      "image_url": "https://untappd.com/CrankArmBrew/photos",
+      "highlights": [
+        "'Bike-themed decor featuring cycling memorabilia and industrial-chic design [This Is Raleigh', 'Weekly \"cRUNk\" Run Club and community bicycle rides Meetup', 'Diverse drink selection including unfiltered craft beers, cocktails, and non-alcoholic options Crank Arm Brewing', 'Spacious taproom located on the ground floor of the Beckon Building Crank Arm Brewing', 'Regular community events like Craft & Draft Tuesdays and trivia nights Meetup', 'Dog-friendly atmosphere with an active, welcoming vibe Discover Durham']"
+      ],
+      "tips": "Join the run club on Mondays for free chips and salsa from the neighboring Torero's. The brewery is dog-friendly and encourages an active lifestyle, so feel free to bring your bike or pup. Meetup, Discover Durham",
+      "nearby": "Torero's Mexican Restaurant, Durham Central Park, Morris Green Park, Atomic Clock Brewing Co., Flying Bull Restaurant and Brewery Meetup, Discover Durham"
+    },
+    {
+      "name": "DSSOLVR Durham",
+      "category": "Bar, Brewery, Entertainment",
+      "description": "DSSOLVR Durham is a surreal and vibrant taproom located in the heart of Durham's Central Park District, known for its diverse selection of craft beers and psychedelic, alien-themed decor. As an extension of the popular Asheville brewery, it offers an inclusive and dog-friendly space where visitors can enjoy everything from lagers and IPAs to hard seltzers and cocktails. The venue frequently hosts community events such as trivia, poker, and craft nights, making it a dynamic hub for locals and visitors alike. Official Website, Discover Durham",
+      "address": "630 Rigsbee Ave, Durham, NC 27701",
+      "city": "Durham",
+      "region": "Downtown Durham / American Tobacco",
+      "hours": "Monday – Thursday: 12:00 PM – 10:00 PM; Friday – Saturday: 11:00 AM – 11:00 PM; Sunday: 12:00 PM – 10:00 PM Official Website",
+      "days_open": "Monday - Sunday",
+      "admission": "Free (Specific events may have ticket prices; e.g., Dungeons n' Drafts for $20) Discover Durham, Official Website",
+      "website": "https://dssolvr.com/location/dssolvr-durham/",
+      "phone": "(919) 294-6005 Discover Durham",
+      "image_url": "https://craftpeak-cooler-images.imgix.net/dssolvr/durham-photos-interior-taproom-sign-draft-bar.jpg",
+      "highlights": [
+        "['Diverse craft beer selection including lagers, IPAs, sours, and wood-fermented varieties', 'Unique psychedelic, alien-themed artwork and murals throughout the taproom', 'Dog-friendly environment that allows pets indoors and provides water bowls and toys', 'Weekly event lineup featuring trivia, poker Sundays, and Magic: The Gathering nights', 'Participation in \"The Bullpen\" social district, allowing to-go alcoholic beverages in the area', 'Offerings beyond beer, including mixed drinks, cider, and non-alcoholic options']"
+      ],
+      "tips": "Visit on Tuesdays for $6 IPA specials and trivia night, or Sundays for $2 off flights and mimosas. Since the taproom does not have an in-house kitchen, guests are encouraged to bring food from nearby eateries like the Durham Food Hall. The space is exceptionally pet-friendly, so feel free to bring your dog inside while you enjoy a drink. Official Website, Yelp",
+      "nearby": "Durham Central Park, Historic Durham Athletic Park, Durham Farmers' Market, Motorco Music Hall, Fullsteam Brewery"
+    },
+    {
+      "name": "Dashi Ramen Shop & Izakaya Dashi Official Website",
+      "category": "Restaurant / Bar Dashi Official Website, Discover Durham",
+      "description": "Dashi is a vibrant two-story Japanese restaurant located in the heart of Downtown Durham, North Carolina. It features a cozy downstairs ramen shop specializing in exquisite noodle bowls and an upstairs izakaya (Japanese pub) offering innovative small plates and an extensive selection of Japanese spirits. Dashi Official Website, Discover Durham",
+      "address": "415 East Chapel Hill Street, Durham, NC 27701 Dashi Official Website",
+      "city": "Durham Dashi Official Website",
+      "region": "Downtown Durham / American Tobacco",
+      "hours": "Open Daily: 11:30 AM - 10:00 PM; Ramen Shop: 11:30 AM - 10:00 PM; Izakaya: 4:00 PM - 10:00 PM Dashi Official Website",
+      "days_open": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday Dashi Official Website",
+      "admission": "Free (Menu prices apply for dining) Dashi Official Website",
+      "website": "https://www.dashiramen.com/",
+      "phone": "(919) 251-9335 Dashi Official Website",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/52702070e4b04c2b154d9253/1631815015885-KN1A5N4A7MDMLTVAMAEZ/Parking_Crop-01.jpg?format=750w",
+      "highlights": [
+        "'Exquisite ramen noodle bowls with an open kitchen experience [Dashi Official Website', 'Upstairs izakaya (Japanese pub) with seasonal small plates Dashi Official Website', 'Extensive bar featuring over 250 bottles of whiskey, bourbon, and Japanese spirits like sake and shochu Dashi Official Website', 'Private omakase dining experiences for groups of 8-14 Dashi Official Website', 'Custom cocktails and exclusive beers from local breweries like Ponysaurus WRAL']"
+      ],
+      "tips": "Two parking decks are located within a block (Morgan Rigsbee Garage and others); on-street parking is also available. Reservations are recommended for the izakaya and private omakase sessions. Check their Instagram for weekly specials and featured drinks. Dashi Official Website",
+      "nearby": "Carolina Theatre, American Tobacco Historic District, Durham Bulls Athletic Park, Durham Performing Arts Center (DPAC), Sarah P. Duke Gardens Discover Durham"
+    },
+    {
+      "name": "Dos Perros Restaurant",
+      "category": "Restaurant",
+      "description": "Dos Perros was a refined yet casual Mexican restaurant in downtown Durham that specialized in authentic, upscale cuisine rather than standard Tex-Mex. Founded in 2009 by chef Charlie Deal, it became a staple of the city's dining revival, known for its extensive tequila list and inclusive menu featuring numerous vegan and gluten-free options. (News & Observer, Revista Latina)",
+      "address": "200 N Mangum St, Suite 101, Durham, NC 27701",
+      "city": "Durham",
+      "region": "Downtown Durham / American Tobacco",
+      "hours": "Monday - Thursday: 5:00 PM - 10:00 PM; Friday - Saturday: 5:00 PM - 11:00 PM; Sunday: 5:00 PM - 10:00 PM; Brunch: Saturday & Sunday 11:30 AM - 2:30 PM (Legacy schedule) (Morehead Manor, Triangle Food Blog)",
+      "days_open": "Daily (Legacy schedule prior to 2022 closure) (Morehead Manor)",
+      "admission": "Free (Yelp)",
+      "website": "http://dosperrosrestaurant.com/",
+      "phone": "(919) 956-2750 (Revista Latina)",
+      "image_url": "https://revistalatinanc.com/wp-content/uploads/2020/07/Dos-Perros-1.jpg",
+      "highlights": [
+        "'Upscale, authentic Mexican menu featuring dishes like duck confit enchiladas and chile relleno. ([AllMenus)', 'Extensive selection of tequila and mezcal, including curated pairing dinners. (Indy Week)', 'Large private dining room capable of hosting parties for up to 50 guests. (Yelp)', 'Strong focus on dietary inclusivity with a wide range of vegan and gluten-free dishes. (ABC11)', 'Outdoor patio seating offering prime people-watching in the heart of downtown Durham. (Yelp)', \"Named after the owner's two beloved rescued golden retrievers, Nikki and Alex. (Revista Latina)\"]"
+      ],
+      "tips": "It was a popular choice for pre-theater dining due to its proximity to DPAC. Fans highly recommended trying the plantain rellenos and the signature habanero salsa for those who enjoy significant heat. (Yelp)",
+      "nearby": "Durham Performing Arts Center (DPAC), Carolina Theatre, American Tobacco Campus, 21c Museum Hotel (Discover Durham, Yelp)"
+    },
+    {
+      "name": "Duke Forest (Teaching and Research Laboratory)",
+      "category": "Research Forest / Park",
+      "description": "Duke Forest is a 7,000-acre \"living laboratory\" owned and managed by Duke University for research, teaching, and limited public recreation. Established in 1931, it spans Durham, Orange, and Alamance counties, providing a diverse natural landscape for academic study and outdoor activities like hiking and biking. (Duke Forest)",
+      "address": "308 Research Drive, Levine Science Research Center Suite A233 (Office); NC 751 (Shepherd Nature Trail)",
+      "city": "Durham",
+      "region": "Downtown Durham / American Tobacco",
+      "hours": "Monday: Sunrise - Sunset; Tuesday: Sunrise - Sunset; Wednesday: Sunrise - Sunset; Thursday: Sunrise - Sunset; Friday: Sunrise - Sunset; Saturday: Sunrise - Sunset; Sunday: Sunrise - Sunset (Duke Forest)",
+      "days_open": "Daily",
+      "admission": "Free (Duke Forest)",
+      "website": "https://dukeforest.duke.edu",
+      "phone": "919-613-8013",
+      "image_url": "https://dukeforest.duke.edu/files/2020/06/DF_zoom_bkg7.jpg",
+      "highlights": [
+        "['Shepherd Nature Trail: A self-guided educational loop with informative signage.', 'Extensive Road Network: Miles of graded and graveled \"fire roads\" ideal for running and hiking.', 'Diverse Ecosystems: Home to various forest stands, open fields, and the scenic New Hope Creek.', 'Research Infrastructure: A site for numerous long-term scientific studies and teaching projects.', 'Wildlife Viewing: Opportunities for birdwatching and observing local flora and fauna.']"
+      ],
+      "tips": "Dogs must be kept on a leash at all times; recreation is restricted to forest roads and designated trails; do not block gates when parking; no off-trail activity or recreation after sunset. (Duke Forest)",
+      "nearby": "Duke Lemur Center, Sarah P. Duke Gardens, Nasher Museum of Art, Eno River State Park (Summer Session - Duke University)"
+    },
+    {
+      "name": "Duke University East Campus",
+      "category": "University / Campus",
+      "description": "Duke University's East Campus is a historic 97-acre site that serves as the exclusive residential home for all first-year undergraduate students. Characterized by its elegant Georgian-style red brick architecture, the campus provides a close-knit community environment with its own library, dining hall, and recreational facilities. It was the original site of Trinity College in Durham before the expansion of West Campus in the 1930s. Wikipedia, Duke Student Affairs",
+      "address": "712 Broad Street",
+      "city": "Durham",
+      "region": "Downtown Durham / American Tobacco",
+      "hours": "Campus grounds: Open 24/7; Lilly Library: Mon-Thu 8:00 AM – 2:00 AM, Fri 8:00 AM – 9:00 AM, Sat 10:00 AM – 9:00 AM, Sun 2:00 PM – 2:00 AM Wikipedia, Duke Arts",
+      "days_open": "Daily",
+      "admission": "Free (Public areas and walking path are free; tuition applies for enrolled students) Duke Bursar, Discover Durham",
+      "website": "https://students.duke.edu/living/housing/first-year-housing/living-on-east-campus/",
+      "phone": "919-684-5320",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Baldwin.jpg/1200px-Baldwin.jpg",
+      "highlights": [
+        "['Georgian-style architecture distinct from the Gothic West Campus', 'Lilly Library, the primary research hub for first-year students', 'The Marketplace, the main dining facility for freshmen', 'Brodie Recreation Center featuring courts, weights, and saunas', 'Baldwin Auditorium, a premier venue for musical performances', 'The East Campus Loop, a popular 1.7-mile public walking and running trail']"
+      ],
+      "tips": "The 1.7-mile perimeter path is excellent for walking or jogging and is very popular with locals. Visitors should use the Duke Explore app for a self-guided history tour of the campus. Public parking is limited on weekdays; consider visiting on weekends or using the C1 bus if you are affiliated with the university. Duke Admissions, Discover Durham",
+      "nearby": "Ninth Street District, Trinity Park, Brightleaf Square, Sarah P. Duke Gardens, Nasher Museum of Art Discover Durham, Duke Student Affairs"
+    },
+    {
+      "name": "Durham Bulls Athletic Park (DBAP)",
+      "category": "Entertainment, Landmark, Park",
+      "description": "Durham Bulls Athletic Park (DBAP) is a premier 10,000-seat minor league ballpark that serves as the home for the Triple-A Durham Bulls. Designed with a classic \"old-time\" aesthetic, it features unique elements like the 32-foot-high \"Blue Monster\" wall and the famous snorting bull sign from the movie *Bull Durham* (MiLB.com, Wikipedia).",
+      "address": "409 Blackwell St, Durham, NC 27701",
+      "city": "Durham",
+      "region": "Downtown Durham / American Tobacco",
+      "hours": "Ticket Office: Gamedays (Mon-Fri) from 9:00 AM, (Sat-Sun) from 12:00 PM; Non-Gamedays (Mon-Fri) 9:00 AM – 5:00 PM. Ballpark Corner Store: Mon-Fri 11:00 AM – 5:00 PM, Sat 12:00 PM – 3:00 PM (MiLB.com).",
+      "days_open": "Open daily for events during the baseball season (typically April–September); the Box Office and Team Store are open year-round, Monday through Friday (MiLB.com).",
+      "admission": "Single game tickets typically range from $13 to $48 depending on the opponent and section; group tickets are available for $10 to $30 per person (MiLB.com, Vivid Seats). Premium options like the 8-person and 12-person boxes range from $215 to $344 (MiLB.com).",
+      "website": "https://www.milb.com/durham",
+      "phone": "(919) 687-6500",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Durham_Bulls_Athletic_Park%2C_Durham%2C_NC_%2849160936218%29.jpg",
+      "highlights": [
+        "'The iconic \"Blue Monster\" left-field wall featuring a manual scoreboard ([MiLB.com).', 'The \"Snorting Bull\" sign that blows smoke and wags its tail after a Bulls home run (MiLB.com).', 'Wool E. World, a large Chick-fil-A sponsored playground for children (MiLB.com).', 'A 360-degree walkable concourse providing uninterrupted views of the field (MiLB.com).', \"Jackie's Landing, a 10,000-square-foot social space with the 42 Bar (MiLB.com).\", 'The upscale PNC Triangle Club for premium ticket holders (MiLB.com).']"
+      ],
+      "tips": "The ballpark is a completely cashless facility; only credit and debit cards are accepted for food, beverages, and merchandise (MiLB.com). Tickets are fully digital and should be managed through the MiLB First Pitch app (MiLB.com). Arrive early to explore the surrounding American Tobacco Campus for pre-game dining (Durham Sports Commission).",
+      "nearby": "American Tobacco Historic District, Durham Performing Arts Center (DPAC), Museum of Durham History, Bull City Ciderworks, and Sarah P. Duke Gardens (TripAdvisor)."
+    },
+    {
+      "name": "Durham Central Park",
+      "category": "Park",
+      "description": "Durham Central Park is a five-acre city-owned green space located in the heart of Downtown Durham, managed by a non-profit organization. This vibrant urban oasis features public art, natural beauty, community events, and recreational facilities, serving as the central hub for the local community and a premier destination for cultural activities. (Discover Durham, Durham Central Park)",
+      "address": "501 Foster St, Durham, NC 27701-2106",
+      "city": "Durham",
+      "region": "Downtown Durham / American Tobacco",
+      "hours": "Dawn - Dusk (Every day) (Durham Central Park)",
+      "days_open": "Monday - Sunday (Durham Central Park)",
+      "admission": "Free (Durham Central Park)",
+      "website": "https://durhamcentralpark.org/",
+      "phone": "(919) 794-8194 (Durham Central Park)",
+      "image_url": "https://durhamcentralpark.org/wp-content/uploads/skate-park-500x334.jpg",
+      "highlights": [
+        "\"Durham Farmers' Market held weekly at the 9,000+ sq. ft. Pavilion ([Durham Central Park)\", \"Mount Merrill interactive children's play area with slides and climbing nets (Durham Central Park)\", '10,000 sq. ft. custom concrete Skate Park designed by Artisan Skateparks (Durham Central Park)', 'Numerous public art installations including the Magnolia Mural and the Pixel Wall (Durham Central Park, Discover Durham)', \"The Garden of Eatin', a free-pick public community garden (Durham Central Park)\", 'The Leaf, a unique outdoor performance and seating structure (Durham Central Park)']"
+      ],
+      "tips": "Visit on Saturday mornings to experience the bustling Durham Farmers' Market and Craft Market. Parking is available on-site with hourly rates, but often has a $5 maximum on weekends. (Durham Central Park, Durham Magazine)",
+      "nearby": "Durham Farmers' Market, Fullsteam Brewery, Motorco Music Hall, Cocoa Cinnamon, Little Barb's Bakery, Durham Food Hall (Durham Magazine, WRAL)"
+    },
+    {
+      "name": "Durham Distillery",
+      "category": "Entertainment, Bar, Distillery",
+      "description": "Founded in 2013, Durham Distillery is a pioneer in craft distillation located in the heart of downtown Durham, North Carolina. Known for its award-winning Conniption Gin, the distillery combines traditional methods with modern chemistry and cold vacuum distillation to create exceptional spirits and liqueurs.",
+      "address": "711 & 715 Washington Street",
+      "city": "Durham",
+      "region": "Downtown Durham / American Tobacco",
+      "hours": "Tasting Room (Retail & Bottle Sales): Sun 2 PM - 4 PM; Mon - Thu 10 AM - 5 PM (Ring Doorbell); Fri - Sat 12 PM - 7 PM. Conniption Bar & Lounge: Wed - Sat 4 PM - 11 PM; Sun 4 PM - 9 PM.",
+      "days_open": "Wednesday - Sunday (Tasting Room also open Monday - Thursday for retail)",
+      "admission": "Behind the Scenes Tour: $20.00 (includes guided walk, tasting flight, and souvenir shot glass). General entry to Tasting Room and Bar/Lounge is free; individual drinks and retail items are for purchase.",
+      "website": "https://durhamdistillery.com",
+      "phone": "(919) 937-2121",
+      "image_url": "https://durhamdistillery.com/cdn/shop/files/Untitled_design_25.png?height=400&v=1775594256",
+      "highlights": [
+        "['Birthplace of the award-winning Conniption Gin, the most awarded American gin line.', 'Features the Conniption Bar & Lounge (formerly Corpse Reviver) for expertly crafted cocktails.', \"Offers 'Behind the Scenes' tours and guided tastings of their diverse spirit portfolio.\", 'Utilizes a custom-designed German copper pot still and innovative vacuum cold distillation.', 'Housed in a lovingly restored former auto body shop and coffin manufacturer building.', 'Woman-led business founded by scientist team Melissa and Lee Katrincic.']"
+      ],
+      "tips": "Reservations are highly recommended for the $20 guided tours as they frequently sell out. Visitors must be 21 or older to attend tours. If visiting the Tasting Room during the week (Mon-Thu), you may need to ring the doorbell for entry. Don't miss the seasonal 'Halloween PopUp' event at the Conniption Bar & Lounge.",
+      "nearby": "Motorco Music Hall, Geer Street Garden, Duke Homestead, Fullsteam Brewery, and the Central Park district."
+    },
+    {
+      "name": "Durham Performing Arts Center (DPAC)",
+      "category": "Entertainment / Performing Arts Center",
+      "description": "Since its opening in 2008, DPAC has become the center for live entertainment in North Carolina. It features 2,704 seats with intimate sightlines and state-of-the-art sound and video, hosting over 200 performances annually including touring Broadway productions and high-profile concerts (Broadway.org, DPAC About Us).",
+      "address": "123 William V. \"Bill\" Bell Way (formerly 123 Vivian Street)",
+      "city": "Durham",
+      "region": "Downtown Durham / American Tobacco",
+      "hours": "Box Office: Mon-Fri 10:00 AM - 5:00 PM (Phone), 10:00 AM - 2:00 PM (In Person); Sat 10:00 AM - 2:00 PM; Closed Sun (DPAC Purchase Seats)",
+      "days_open": "Monday - Saturday",
+      "admission": "Varies by show; Broadway tickets typically start at $41.50 - $52 (DPAC Events)",
+      "website": "https://www.dpacnc.com",
+      "phone": "(919) 680-2787 (DPAC Contact)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/DPAC.jpg",
+      "highlights": [
+        "'Consistently ranked among the top-five theaters in America by leading national magazines ([DPAC Awards)', 'Features 2,704 seats with intimate sightlines and state-of-the-art acoustics (Broadway.org)', 'Hosts high-profile touring Broadway productions, concerts, and comedy events (Wikipedia)', 'Located in the heart of the American Tobacco Historic District (DPAC Center Info)', 'Primary venue for the annual American Dance Festival (Wikipedia)', 'Recognized for its contemporary design and legendary hospitality (DPAC About Us)']"
+      ],
+      "tips": "Arrive at least 30 minutes early due to heavy traffic on I-40 and the Durham Freeway. The venue is cashless for snacks and beverages, and all guests are subject to bag inspections (DPAC Know Before You Go). Purchasing tickets in person at the box office can avoid per-ticket service fees (DPAC Purchase Seats).",
+      "nearby": "Durham Bulls Athletic Park, American Tobacco Historic District, Sarah P. Duke Gardens, Museum of Durham History, Carolina Theatre (Tripadvisor)"
+    },
+    {
+      "name": "Durty Bull Brewing Company",
+      "category": "Bar, Brewery",
+      "description": "Durty Bull Brewing Company offers a modern approach to classic styles, specializing in unconventional brews and an extensive sour beer program. Established in 2016, the brewery utilizes old-world techniques like spontaneous fermentation and barrel aging to create unique flavors in the heart of Durham.",
+      "address": "206 Broadway Street Suite 104, Durham, NC 27701",
+      "city": "Durham",
+      "region": "Downtown Durham / American Tobacco",
+      "hours": "Tuesday-Thursday: 4:00 PM - 10:00 PM; Friday: 2:00 PM - 12:00 AM; Saturday: 12:00 PM - 12:00 AM; Sunday: 12:00 PM - 8:00 PM; Monday: Closed.",
+      "days_open": "Tuesday-Sunday (Closed Monday)",
+      "admission": "Free (Standard taproom entry); Tours may be available for purchase via Groupon.",
+      "website": "https://www.durtybull.com",
+      "phone": "919-688-2337",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/54a97d98e4b0631d0c533f98/1664910700042-QSSGXD88PH9H6R8X7G3Y/48E101EE-C23D-4D4E-A869-FCF19F02E8BE.JPG",
+      "highlights": [
+        "['Specialized sour beer program featuring barrel-aged and spontaneously fermented ales.', 'Regular weekly entertainment including Hammered Trivia, Open Mic Comedy, and Karaoke.', 'Vibrant taproom with both indoor and dog-friendly outdoor seating areas.', 'Rotating selection of local food trucks providing on-site dining options.', 'Recognized by Beer Advocate as one of the best new breweries in the US in 2016.', 'Diverse tap list including Hazy IPAs, Lagers, Hard Seltzers, and unique one-off releases.']"
+      ],
+      "tips": "Visit the official website to check the daily food truck schedule. The taproom is dog-friendly and a great spot for low-key social gatherings with board games. Check their events calendar for specific themes like Drag Shows or Run Club.",
+      "nearby": "Durham Central Park, Fullsteam Brewery, Motorco Music Hall, Historic Durham Athletic Park, The Parlour Ice Cream."
+    },
+    {
+      "name": "Eno River State Park",
+      "category": "Park",
+      "description": "Eno River State Park protects over 4,500 acres of natural area along the Eno River, offering a serene escape just minutes from downtown Durham. The park features a swift, shallow river perfect for fishing and paddling, along with over 30 miles of hiking trails that lead to scenic landmarks like the Cascades and historic sites. Eno River Association, NC Parks",
+      "address": "6101 Cole Mill Road, Durham, NC 27705",
+      "city": "Durham",
+      "region": "Downtown Durham / American Tobacco",
+      "hours": "Fews Ford Access: Jan-Feb 7 AM - 7 PM; Mar-Apr 7 AM - 9 PM; May-Sep 7 AM - 10 PM; Oct 7 AM - 9 PM; Nov 7 AM - 8 PM; Dec 7 AM - 7 PM. Visitor Center: 9 AM - 5 PM daily (Fridays Mar-Oct until 8 PM). NC Parks",
+      "days_open": "Daily (Closed Christmas Day) NC Parks",
+      "admission": "Free for day use. Fees are charged for camping, certain event permits, and facility reservations. NC Parks",
+      "website": "https://www.ncparks.gov/state-parks/eno-river-state-park",
+      "phone": "(984) 250-1370 (Visitor Center), (919) 620-9099 (Eno River Association) NC Parks, Eno River Association",
+      "image_url": "https://files.nc.gov/parks/styles/barrio_carousel_full/public/images/2022-04/eno-river-turtles-j-rimmler-32710.jpg",
+      "highlights": [
+        "'Over 30 miles of hiking trails, including sections of the Mountains-to-Sea Trail [NC Parks', 'Scenic river views and the popular Cascades landmark NC Parks', 'Backcountry and group camping facilities at Fews Ford and Cole Mill NC Parks', 'Fishing and paddling opportunities in the Eno River NC Parks', 'Historic sites including the Piper-Cox House and the Occoneechee Speedway Eno River Association', 'Diverse wildlife and plant life, including spring wildflowers Tripadvisor']"
+      ],
+      "tips": "Dogs are welcome but must remain on an attended leash of no longer than 6 feet at all times. Day use is free, but visitors should check the official site for seasonal gate hours and trail statuses, as some areas may close periodically for maintenance. NC Parks",
+      "nearby": "Occoneechee Mountain State Natural Area, West Point on the Eno Durham City Park, Hillsborough Riverwalk, Downtown Durham NC Parks"
+    },
+    {
+      "name": "Eno River State Park NC State Parks",
+      "category": "Park NC State Parks",
+      "description": "Located just 10 miles northwest of downtown Durham, Eno River State Park encompasses over 4,500 acres of protected natural area across seven access points. The park preserves 14 miles of the scenic Eno River, offering visitors more than 30 miles of trails that wind through lush forests and past historic mill sites. It is a popular destination for hiking, fishing, and paddling, providing a wilderness experience within minutes of city amenities NC State Parks, Eno River Association.",
+      "address": "6101 Cole Mill Road, Durham, NC 27705 NC State Parks",
+      "city": "Durham NC State Parks",
+      "region": "Downtown Durham / American Tobacco",
+      "hours": "Fews Ford Access: Nov-Feb: 7 a.m.–7 p.m.; Mar-Apr: 7 a.m.–9 p.m.; May-Aug: 7 a.m.–10 p.m.; Sep-Oct: 7 a.m.–9 p.m. Visitor Center: 9 a.m.–5 p.m. daily NC State Parks",
+      "days_open": "Daily, year-round (Closed on Christmas Day) NC State Parks",
+      "admission": "Free for day use; fees apply for camping and facility reservations NC State Parks",
+      "website": "https://www.ncparks.gov/state-parks/eno-river-state-park",
+      "phone": "(984) 250-1370 NC State Parks",
+      "image_url": "https://files.nc.gov/parks/styles/barrio_carousel_full/public/images/2022-04/eno-river-turtles-j-rimmler-32710.jpg",
+      "highlights": [
+        "'Cox Mountain Suspension Footbridge: A picturesque 124-foot cable bridge crossing the river [Komoot', 'Bobbitt Hole: A scenic area where the river cascades into a deep, rocky pool Eno River Association', 'Historic Occoneechee Speedway: One of the first NASCAR tracks, now a trail-filled natural area NC State Parks', 'Eno River Quarry: A popular 4-acre scenic pond formed from a former stone quarry Tripadvisor', 'Fews Ford Swimming: A favorite local spot for wading and cooling off in the river during summer NC Tripping']"
+      ],
+      "tips": "Pack a picnic and camping chairs to relax in the water at Fews Ford. Be cautious at the Eno River Quarry due to its depth and steep banks. Check water levels before planning a paddling trip as the river is often shallow NC Tripping, Tripadvisor.",
+      "nearby": "West Point on the Eno, Museum of Life and Science, Duke University, Sarah P. Duke Gardens NC Tripping, Tripadvisor"
+    },
+    {
+      "name": "Flying Bull Beer Company",
+      "category": "Brewery and Restaurant",
+      "description": "Rooted in Durham, Flying Bull Beer Company is a veteran- and female-owned establishment that grew from a cozy taproom on Ninth Street into a full restaurant and brewery on Morris Street. They focus on building community through craft beer, bold flavors, and warm hospitality, offering house-brewed beers, cocktails, and a full dining menu. (Flying Bull Beer Company)",
+      "address": "300 Morris Street, Ste 103, Durham, NC 27701",
+      "city": "Durham",
+      "region": "Downtown Durham / American Tobacco",
+      "hours": "Monday - Thursday: 4:00 PM - 10:00 PM, Friday: 11:00 AM - 10:00 PM, Saturday: 11:00 AM - 10:00 PM, Sunday: 11:00 AM - 9:00 PM (Flying Bull Beer Company)",
+      "days_open": "Monday - Sunday (Flying Bull Beer Company)",
+      "admission": "Free (Flying Bull Beer Company)",
+      "website": "https://www.flyingbullbeercompany.com",
+      "phone": "(919) 797-0072 (Flying Bull Beer Company)",
+      "image_url": "https://cdn.prod.website-files.com/68cda595a151641726eeda7c/68cda6073f2792b01c30bdca_Copy%20of%20Flying%20Bull%20Durham%20ID%202024%2002%2006%20%20(18)-p-1600.jpg",
+      "highlights": [
+        "['Veteran",
+        "and female-owned brewery and restaurant (Flying Bull Beer Company)', 'Wide selection of house-brewed beers and rotating North Carolina favorites (Discover Durham)', 'Full-service kitchen at the Morris Street location offering elevated casual dining (Flying Bull Beer Company)', 'Dog-friendly and family-friendly environments across both Durham locations (Flying Bull Beer Company)', 'Weekly events including Wednesday Trivia and Karaoke Fridays at the 9th Street taproom (Flying Bull Beer Company)', 'Located within the Bullpen Social District, allowing for \"sip and stroll\" experiences (The Triangle Weekender)']"
+      ],
+      "tips": "Only the Morris Street location serves food; the 9th Street taproom is \"outside-food friendly\" if you want to bring your own. Reservations are recommended for dining at the Morris Street restaurant, though walk-ins are welcome. The Ninth Street location features a beer garden known as \"Bullvaria\" which is ideal for a relaxed outdoor experience. (Flying Bull Beer Company)",
+      "nearby": "Durham Bulls Athletic Park, American Tobacco Historic District, Durham ID Innovation District, Morris Green, Durham Central Park (The Triangle Weekender, Discover Durham)"
+    },
+    {
+      "name": "Fullsteam Brewery",
+      "category": "Brewery, Restaurant, Bar (Fullsteam Brewery)",
+      "description": "Fullsteam Brewery is a mission-driven production brewery and tavern dedicated to pioneering the Southern Beer Economy by sourcing ingredients from local farmers and foragers. The brewery is currently establishing its permanent \"forever home\" in the historic Boiler Room at the American Tobacco Campus, featuring a 9,000-square-foot space with a full bar, kitchen, and a 100-seat theater. Their craft beverages celebrate Southern agricultural traditions, ranging from flagship pilsners to experimental ales made with seasonal local produce (Fullsteam Brewery, The Durham Voice).",
+      "address": "320 Blackwell St #101, Durham, NC 27701 (American Tobacco Campus location), 900 Park Offices Dr, Durham, NC 27709 (Boxyard RTP location)",
+      "city": "Durham",
+      "region": "Downtown Durham / American Tobacco",
+      "hours": "Monday: Closed; Tuesday: 11:00 AM – 8:00 PM; Wednesday: 11:00 AM – 8:00 PM; Thursday: 11:00 AM – 8:00 PM; Friday: 11:00 AM – 8:00 PM; Saturday: 11:00 AM – 8:00 PM; Sunday: Closed (Fullsteam Brewery)",
+      "days_open": "Tuesday - Saturday (Fullsteam Brewery)",
+      "admission": "Free (Fullsteam Brewery)",
+      "website": "https://www.fullsteam.ag",
+      "phone": "(919) 295-2337 (Boxyard RTP), (919) 682-2337 (ATC) (Fullsteam Brewery, Wanderlog)",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/511ec91ce4b08709e990c0b8/1631210433602-5U0U0U0U0U0U0U0U0U0U/Fullsteam+Logo.png",
+      "highlights": [
+        "'Pioneering the Southern Beer Economy by purchasing over $850,000 in Southern-farmed ingredients since 2010 ([Fullsteam Brewery)', 'World’s first Certified Regenified™ brewery as of 2025, committed to regenerative agricultural practices (Fullsteam Brewery)', 'Innovative menu featuring fluffy and thin-crust square sourdough pizza at Boxyard RTP and supper-club inspired cuisine at the ATC location (Fullsteam Brewery, The Durham Voice)', 'Extensive selection of craft beers, ciders, wine, and cocktails made with local malt and Southern seasonal ingredients (Fullsteam Brewery)', 'Community-centric spaces including the \"Top Box\" private events room and an indoor theater for entertainment (Fullsteam Brewery, Fullsteam Brewery)']"
+      ],
+      "tips": "Visit Boxyard RTP on Saturdays for the \"neighborhood menu\" featuring special savings on pizza and beer. Note that the kitchen closes promptly at 8:00 PM. For those visiting the upcoming ATC location, convenient parking is available in the campus parking decks (Fullsteam Brewery, Yelp).",
+      "nearby": "Durham Bulls Athletic Park, Durham Performing Arts Center (DPAC), American Tobacco Campus, Sarah P. Duke Gardens (Fullsteam Brewery, Discover Durham)"
+    },
+    {
+      "name": "Geer Street Garden",
+      "category": "Restaurant & Bar",
+      "description": "Geer Street Garden is a charming restaurant and bar housed in the renovated former Fletcher’s Gulf Station in downtown Durham, NC. It specializes in wholesome Southern-style comfort food and craft drinks served in a relaxed, community-focused atmosphere with a popular outdoor patio. (Geer Street Garden, Wanderlog)",
+      "address": "644 Foster Street",
+      "city": "Durham",
+      "region": "Downtown Durham / American Tobacco",
+      "hours": "Monday–Thursday: 11:30 AM – 9:00 PM; Friday: 11:30 AM – 10:00 PM; Saturday: 11:00 AM – 10:00 PM; Sunday: 11:00 AM – 8:00 PM (Brunch 11:00 AM – 2:00 PM) (Geer Street Garden)",
+      "days_open": "Daily (Monday–Sunday) (Geer Street Garden)",
+      "admission": "Free entry; menu prices vary (Tripadvisor)",
+      "website": "https://geerstreetgarden.com",
+      "phone": "919.688.2900 (Geer Street Garden)",
+      "image_url": "https://geerstreetgarden.com/wp-content/uploads/2020/07/GSG_0000_GeerStreetGarden-60-1500x1000.jpg",
+      "highlights": [
+        "'Located in a historic former gas station (Fletcher’s Gulf Station) ([Geer Street Garden)', 'Large pet-friendly outdoor patio with picnic tables (Tripadvisor)', 'Extensive menu featuring Southern comfort food like fried chicken and burgers (Wanderlog)', 'All-you-can-eat Sunday brunch service (WRAL)', 'Wide selection of local craft beers and specialty cocktails (Geer Street Garden)', 'Active participation in community initiatives like the Durham Free Lunch program (Tripadvisor)']"
+      ],
+      "tips": "Check the restaurant's website for a parking diagram to find available spots nearby. The outdoor patio is a great choice for those dining with pets. (Tripadvisor)",
+      "nearby": "Boxcar Bar + Arcade, Urban Axes Durham, Motorco Music Hall, Fullsteam Brewery (Tripadvisor)"
+    },
+    {
+      "name": "Golden Belt Arts Campus",
+      "category": "Arts Campus / Mixed-Use Development (Golden Belt Arts)",
+      "description": "Golden Belt Campus is a revitalized historic textile mill that serves as a vibrant hub for art, industry, and community in downtown Durham. It combines a lively local arts community with modern offices, residential lofts, and retail spaces, featuring over 25 artist studios and multiple galleries (Golden Belt Arts).",
+      "address": "800 Taylor St, Durham, NC 27701",
+      "city": "Durham",
+      "region": "Downtown Durham / American Tobacco",
+      "hours": "Monday – Thursday: 10am – 6pm; Friday: 10am – 8pm; Saturday: 10am – 8pm; Sunday: 10am – 5pm (Golden Belt Arts)",
+      "days_open": "Monday - Sunday (Golden Belt Arts)",
+      "admission": "Free (Discover Durham)",
+      "website": "https://goldenbeltarts.com/",
+      "phone": "(919) 908-8153 (Golden Belt Arts)",
+      "image_url": "https://goldenbeltarts.com/wp-content/uploads/2021/03/logo.png",
+      "highlights": [
+        "'Over 25 individual artist studios open to the public ([Golden Belt Arts)', \"Monthly 'Third Friday' art walk and gallery crawl events (Golden Belt Arts)\", 'Outdoor Mill Stage for live music and performances (Golden Belt Arts)', 'Home to the Durham Art Guild and multiple art galleries (Golden Belt Arts)', 'On-site dining and entertainment including Hi-Wire Brewing (Golden Belt Arts)', 'LEED-Gold certified historic preservation project (Golden Belt Arts Leasing)']"
+      ],
+      "tips": "Visit during 'Third Friday' for the liveliest atmosphere with open studios and live music. Free parking is available on-site (Golden Belt Arts).",
+      "nearby": "Durham Bulls Athletic Park, American Tobacco Campus, DPAC (Durham Performing Arts Center), and Sarah P. Duke Gardens (Discover Durham)"
+    },
+    {
+      "name": "Hi-Wire Brewing Golden Belt Campus Taproom Hi-Wire Brewing",
+      "category": "Brewery & Taproom Discover Durham",
+      "description": "Hi-Wire Brewing’s Durham taproom is a massive, 8,844-square-foot industrial space located within the historic Golden Belt Campus. This \"Fun Zone\" features 24 taps of approachable craft beer, vibrant 360-degree murals, and a wide array of activities including shuffleboard, soccer pool, and ping-pong. Hi-Wire Brewing, Discover Durham",
+      "address": "800 Taylor St. #9-150, Durham, NC 27701 Hi-Wire Brewing",
+      "city": "Durham Hi-Wire Brewing",
+      "region": "Downtown Durham / American Tobacco",
+      "hours": "Monday-Thursday: 12:00 PM - 10:00 PM; Friday & Saturday: 12:00 PM - 11:00 PM; Sunday: 12:00 PM - 9:00 PM Hi-Wire Brewing",
+      "days_open": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday Hi-Wire Brewing",
+      "admission": "Free Hi-Wire Brewing",
+      "website": "https://hiwirebrewing.com/durham/",
+      "phone": "(919) 295-3700 Hi-Wire Brewing",
+      "image_url": "https://files.elfsightcdn.com/eafe4a4d-3436-495d-b748-5bdce62d911d/32127962-f38c-4069-8039-6087d40c173e/MondaySpecial_Header.jpg",
+      "highlights": [
+        "'24 taps featuring flagship, seasonal, and sour ales [Hi-Wire Brewing', 'Large game area with shuffleboard, soccer pool, and ping pong Hi-Wire Brewing', '1,678-square-foot covered outdoor patio and beer garden Discover Durham', 'Vibrant indoor murals and industrial architecture Hi-Wire Brewing', 'Pet and family-friendly atmosphere (21+ after 8 PM) Hi-Wire Brewing']"
+      ],
+      "tips": "Order pizza from neighbor Cugino Forno for free delivery directly to your taproom table. Note that the venue becomes 21+ only after 8:00 PM. Free parking is available throughout the Golden Belt Campus. Hi-Wire Brewing",
+      "nearby": "Cugino Forno, Tipsy Bull, Two Roosters Ice Cream, Durham Bulls Athletic Park, DPAC Hi-Wire Brewing, Tripadvisor"
+    },
+    {
+      "name": "Historic Stagville (Stagville State Historic Site)",
+      "category": "Landmark & Historical Place, History Museum NC Historic Sites, Facebook",
+      "description": "Historic Stagville is a 165-acre State Historic Site that preserves a section of the Bennehan and Cameron plantations, which was once one of the largest sites of plantation slavery in North Carolina. The site inspires new understanding about the history of slavery through preservation, interpretation, research, genealogy, and descendant engagement, featuring historic structures such as the Bennehan family house, Horton Grove slave quarters, and a massive 1860 barn. NC Historic Sites, Discover Durham",
+      "address": "5828 Old Oxford Highway, Durham, NC 27712",
+      "city": "Durham",
+      "region": "Downtown Durham / American Tobacco",
+      "hours": "Tuesday – Saturday: 9 a.m. – 5 p.m. NC Historic Sites",
+      "days_open": "Tuesday – Saturday NC Historic Sites",
+      "admission": "Free (Admission and outdoor self-guided tours). Guided tours (exclusive of tax): Adults (18-64): $2, Seniors (65+), Military, Youth (3-17): $1, Children (0-2): Free. NC Historic Sites",
+      "website": "https://historicsites.nc.gov/all-sites/historic-stagville",
+      "phone": "919-620-0120 NC Historic Sites",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Bennehan_House_StagvillePCCA20081021-6739B.jpg/330px-Bennehan_House_StagvillePCCA20081021-6739B.jpg",
+      "highlights": [
+        "\"Bennehan House (c. 1799), the original home of the plantation's owners. [NC Historic Sites\", 'Horton Grove slave quarters (c. 1851), unique two-story timber-frame dwellings for enslaved people. NC Historic Sites', 'The Great Barn (1860), a massive structure featuring unique hand-hewn carpentry. Triangle Land Conservancy', 'Genealogy research program offering free assistance for descendants of people enslaved at Stagville. Discover Durham', 'Site of Conscience and site of memory dedicated to the interpretation of slavery. NC Historic Sites', 'Archaeological sites revealing the daily lives and resilience of enslaved individuals. Wikipedia']"
+      ],
+      "tips": "Call ahead to confirm the guided tour schedule, as it is subject to change. Wear comfortable walking shoes and bring water, as the tour involves walking between outdoor sites. Reservations are required for groups of 10 or more. NC Historic Sites, Tripadvisor",
+      "nearby": "West Point on the Eno, Duke Homestead, Sarah P. Duke Gardens, Museum of Life and Science, Bennett Place Historic Site. Discover Durham, Tripadvisor"
+    },
+    {
+      "name": "Historic Stagville State Historic Site",
+      "category": "Museum, Landmark & Historical Place Facebook",
+      "description": "Historic Stagville is a 165-acre state historic site that preserves the remnants of one of the largest plantations in North Carolina, where the Bennehan and Cameron families enslaved over 900 people. Today, it serves as a Site of Conscience dedicated to teaching the history of slavery through preservation, research, and the lived experiences of enslaved people and their descendants. NC Historic Sites",
+      "address": "5828 Old Oxford Road (Note: Old Oxford Highway is also used)",
+      "city": "Durham",
+      "region": "Downtown Durham / American Tobacco",
+      "hours": "Tuesday: 9 a.m. – 5 p.m., Wednesday: 9 a.m. – 5 p.m., Thursday: 9 a.m. – 5 p.m., Friday: 9 a.m. – 5 p.m., Saturday: 9 a.m. – 5 p.m. NC Historic Sites",
+      "days_open": "Tuesday – Saturday NC Historic Sites",
+      "admission": "Admission and outdoor self-guided tours: Free; Guided Tours: Adults (18-64): $2 plus tax, Seniors (65+) and Military: $1 plus tax, Youth (3-17): $1 plus tax, Children (0-2): Free. NC Historic Sites",
+      "website": "https://historicsites.nc.gov/all-sites/historic-stagville",
+      "phone": "919-620-0120 NC Historic Sites",
+      "image_url": "https://files.nc.gov/historic-sites/historic-sites-logo.png?VersionId=dpgceQRf6tuUzFhc8ppgPngeoOBgSBB5",
+      "highlights": [
+        "'Bennehan House (c. 1799), one of the oldest plantation houses in the region. [NC Historic Sites', 'Horton Grove slave dwellings (c. 1851), unique two-story original structures. NC Historic Sites', 'The Great Barn (c. 1860), a massive timber-framed structure representing antebellum agricultural history. NC Historic Sites', 'Interpretive programs and guided tours focused on the resilience and agency of enslaved communities. Stagville Foundation', 'Outdoor self-guided tours and an optional audio tour covering two main site locations. NC Historic Sites']"
+      ],
+      "tips": "Guided tours cover two locations with a one-mile drive between them, so visitors should be prepared to use their own vehicles. It is highly recommended to call ahead to confirm guided tour schedules as they are subject to change. NC Historic Sites",
+      "nearby": "Horton Grove Nature Preserve, West Point on the Eno, Duke Homestead State Historic Site, Museum of Life + Science. Discover Durham"
+    },
+    {
+      "name": "Jordan Lake State Recreation Area",
+      "category": "Park",
+      "description": "Jordan Lake State Recreation Area is an expansive North Carolina state park centered around a 14,000-acre reservoir in Chatham County. It offers a diverse range of outdoor activities including boating, fishing, and swimming, and is renowned for hosting one of the largest populations of bald eagles in the eastern United States (NC State Parks, Our State).",
+      "address": "280 State Park Road, Apex, NC 27523",
+      "city": "Apex",
+      "region": "Downtown Durham / American Tobacco",
+      "hours": "Day-Use Areas: Jan-Feb (8 AM - 6 PM), Mar-Apr (8 AM - 8 PM), May-Aug (8 AM - 9 PM), Sept-Oct (8 AM - 8 PM), Nov-Dec (8 AM - 6 PM). Visitor Center: Mar-Oct (8 AM - 4:30 PM Daily), Nov-Feb (8 AM - 4:30 PM Mon-Fri) (NC State Parks).",
+      "days_open": "Open year-round (all facilities closed Christmas Day) (NC State Parks)",
+      "admission": "$10 per vehicle (charged weekends/holidays in April, May, September; daily Memorial Day to Labor Day); $5 per vehicle for Seniors (62+), Veterans, and Active-duty Military; Free for day-use the rest of the year. Camping: $20-$30 (Tent), $45 (RV with full hookups) (N.C. State Parks, NC State Parks Fees)",
+      "website": "https://www.ncparks.gov/state-parks/jordan-lake-state-recreation-area",
+      "phone": "(919) 372-6000",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Jordan_Lake_from_Ebenezer_Church_shore.jpg",
+      "highlights": [
+        "'Bald Eagle Observation Platform for spotting the national bird in one of its largest summertime homes ([NC State Parks)', 'Over 1,000 campsites across five different access areas, accommodating tents, trailers, and RVs (NC State Parks)', '14,000-acre lake ideal for boating, kayaking, and fishing with multiple boat ramps (NC State Parks)', '15 miles of scenic hiking trails through hardwood forests and along the shoreline (NC State Parks)', 'Public swim beaches with bathhouses, picnic shelters, and sand volleyball courts (The GloveTrotters)', 'Monthly skywatching sessions held in collaboration with local astronomers and the Morehead Planetarium (Wikipedia)']"
+      ],
+      "tips": "Visit during April, May, or June for the best bald eagle sightings during migration. Arrive early on summer weekends as beach areas frequently reach capacity. Stop by the Visitor Center first to pick up park maps and view educational exhibits (Our State, Triangle on the Cheap).",
+      "nearby": "B. Everett Jordan Dam, American Tobacco Trail, Cloer Family Vineyards, Morehead Planetarium and Science Center, Apex Nature Park (Tripadvisor)"
+    },
+    {
+      "name": "Little Bull",
+      "category": "Restaurant (Little Bull, OpenTable)",
+      "description": "Little Bull is a sincere, nostalgic comfort food restaurant in Durham's Old Five Points neighborhood, inspired by the palates of first-generation immigrants. Led by MICHELIN Guide-recommended Chef Oscar Diaz, the restaurant serves \"Pocho cuisine,\" a creative blend of Mexican heritage and modern American influences in a bright, inviting atmosphere (Little Bull, Discover Durham).",
+      "address": "810 North Mangum St",
+      "city": "Durham",
+      "region": "Downtown Durham / American Tobacco",
+      "hours": "Sunday: Brunch 11 AM-3 PM, Dinner 5 PM-10 PM; Monday, Wednesday, & Thursday: 5 PM-10 PM; Friday: 5 PM-11 PM; Saturday: Brunch 11 AM-3 PM, Dinner 5 PM-11 PM; Tuesday: Closed (Little Bull)",
+      "days_open": "Monday, Wednesday, Thursday, Friday, Saturday, Sunday (Closed on Tuesdays) (Little Bull)",
+      "admission": "Free entry; menu prices apply (Little Bull)",
+      "website": "https://littlebullnc.com",
+      "phone": "(919)-251-8989 (Little Bull)",
+      "image_url": "https://static.spotapps.co/spots/df/ccc86fda6d43b8a0d447c4ea24da08/full",
+      "highlights": [
+        "'Innovative \"Pocho\" cuisine blending Mexican heritage with modern influences ([Little Bull)', 'Led by acclaimed Chef Oscar Diaz (Discover Durham)', 'Signature dishes including Birria Dumplings and Gambas A La Plancha (Yelp)', 'Vibrant indoor dining and a weatherproof outdoor patio (Little Bull)', 'Extensive cocktail program and curated wine list (Little Bull)', 'Located in the historic Old Five Points neighborhood (Little Bull)']"
+      ],
+      "tips": "Reservations are highly recommended via OpenTable, but be aware of potential no-show fees. Street parking can be limited; look for spots in the nearby lot or surrounding streets. The menu is seasonal and changes frequently, so check for current specials upon arrival (Little Bull, Yelp).",
+      "nearby": "Durham Central Park, Museum of Life and Science, American Tobacco Campus, Sarah P. Duke Gardens (Tripadvisor)"
+    },
+    {
+      "name": "Mateo Bar de Tapas",
+      "category": "Restaurant",
+      "description": "Mateo Bar de Tapas, founded in 2012 by chef Matthew Kelly, features a \"Spanish heart and southern soul\" in the heart of downtown Durham. Housed in the historic old Book Exchange building, the restaurant offers a casual yet refined menu of Spanish small plates with a Southern inflection, complemented by one of the largest sherry offerings in the country. Mateo Tapas, Tripadvisor",
+      "address": "109 West Chapel Hill Street",
+      "city": "Durham",
+      "region": "Downtown Durham / American Tobacco",
+      "hours": "Tuesday – Saturday: 5:00 pm – 10:00 pm; Sunday – Monday: Closed Mateo Tapas",
+      "days_open": "Tuesday - Saturday Mateo Tapas",
+      "admission": "Free Mateo Tapas",
+      "website": "https://mateotapas.com/",
+      "phone": "(919) 530-8700 Mateo Tapas",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/5f27486675b7023151a4b079/1597770444952-40X37KAONE65RWHMDOAT/homeimg.jpg?format=1500w",
+      "highlights": [
+        "'Spanish small plates with a Southern inflection [Mateo Tapas', 'One of the largest sherry offerings in the country Tripadvisor', 'Robust Spanish wine list OpenTable', 'Located in the historic old Book Exchange building Discover Durham', 'Lively buzzing downtown atmosphere OpenTable', 'Signature dishes include Pan con Tomate, Roasted Bone Marrow, and Paella Mateo Tapas']"
+      ],
+      "tips": "Reservations are highly recommended via OpenTable due to its popularity as a \"downtown favorite.\" Note that a 3% surcharge applies to credit card payments, while debit and cash payments are fee-free. For parking, there is a small lot beside the restaurant and a larger lot on Ramseur St located directly behind the building. Mateo Tapas, OpenTable",
+      "nearby": "Carolina Theatre, 5 Points Gallery, Arcana, American Tobacco Trail, Durham Visitor Info Center Tripadvisor, Discover Durham"
+    },
+    {
+      "name": "Mothers & Sons Trattoria",
+      "category": "Restaurant",
+      "description": "Mothers & Sons Trattoria is a celebrated Italian restaurant in downtown Durham that specializes in regional Italian specialties and handmade pasta made daily. Founded by Chef Josh DeCarolis, the eatery draws inspiration from Italian-American family traditions and seasonal ingredients to create a warm, \"Old World\" dining experience. The menu features a variety of antipasti, handmade primi dishes, and hearth-roasted secondi options. (Mothers & Sons, News & Observer)",
+      "address": "107 W. Chapel Hill St., Durham, NC 27701",
+      "city": "Durham",
+      "region": "Downtown Durham / American Tobacco",
+      "hours": "Dinner: Monday – Thursday: 5:00 PM – 9:30 PM, Friday & Saturday: 5:00 PM – 10:00 PM; Lunch (Alimentari): Monday – Friday: 11:00 AM – 3:00 PM; Brunch (Alimentari): Saturday: 9:00 AM – 2:30 PM; Sunday: Closed (Mothers & Sons, Yelp)",
+      "days_open": "Monday - Saturday (Mothers & Sons)",
+      "admission": "Free (Restaurant) (Mothers & Sons)",
+      "website": "https://www.mothersandsonsnc.com",
+      "phone": "(919) 294-8247",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/64404d2b7daf8675033610a1/5a07409c-3f41-477f-a64d-7ec794695029/MothersSons_48.jpg?format=1500w",
+      "highlights": [
+        "'Handmade pasta produced fresh daily using traditional techniques ([Mothers & Sons)', 'Seasonally focused menu featuring regional Italian specialties and wood-fired fare (Downtown Durham Inc)', 'Extensive selection of Italian wines and amari to complement the meal (News & Observer)', 'Charming atmosphere with weathered wood floors, tin ceilings, and vintage family photos (Our State)', \"Adjacent 'Alimentari at Mothers & Sons' offering casual lunch and Saturday brunch (Mothers & Sons)\", 'Signature dishes such as Squid Ink Tonnarelli with NC shrimp and hearth-roasted Porchetta (Mothers & Sons)']"
+      ],
+      "tips": "Reservations are highly recommended and can be made via OpenTable; walk-ins are accepted but the space is popular and fills quickly. For a more casual experience, visit the Alimentari next door for lunch sandwiches on house-made ciabatta. While on-street parking is limited, a parking deck and lot are available behind the restaurant on Ramseur Street. (News & Observer, OpenTable)",
+      "nearby": "Durham Bulls Athletic Park, Durham Performing Arts Center (DPAC), American Tobacco Campus, Carolina Theatre, Nasher Museum of Art (Discover Durham)"
+    },
+    {
+      "name": "Motorco Music Hall (with Parts & Labor)",
+      "category": "Entertainment (Live Music Venue, Bar, & Restaurant)",
+      "description": "Motorco Music Hall is a premier independent entertainment and events space located in Durham's vibrant Central Park district. Housed in a repurposed midcentury car dealership, the venue features a state-of-the-art Showroom, an adjoining restaurant called Parts & Labor with a giant outdoor patio, and versatile spaces for private events (Motorco Info, Duke Arts).",
+      "address": "723 Rigsbee Avenue",
+      "city": "Durham",
+      "region": "Downtown Durham / American Tobacco",
+      "hours": "Monday: 11:30 AM – 12:00 AM; Tuesday: 5:00 PM – 12:00 AM; Wednesday – Thursday: 11:30 AM – 12:00 AM; Friday: 11:30 AM – 2:00 AM; Saturday: 12:00 PM – 2:00 AM; Sunday: 12:00 PM – 12:00 AM. Showroom doors typically open one hour before show time (Parts & Labor, Motorco Info).",
+      "days_open": "Open Daily (Parts & Labor)",
+      "admission": "Ticket prices vary by event, typically ranging from $15 to $40 for touring acts; many community events and local shows are Free (Motorco FAQ, Motorco Calendar).",
+      "website": "https://motorcomusic.com",
+      "phone": "919.901.0875",
+      "image_url": "https://motorcomusic.com/wp-content/uploads/rentals/ShowroomWeb1.jpg",
+      "highlights": [
+        "'State-of-the-art Showroom with a capacity for 400-500 guests for live music, comedy, and films ([Triangle Weekender, Duke Arts)', 'On-site restaurant, Parts & Labor, serving global street food and offering a cozy indoor space (Motorco Info)', 'Expansive outdoor seating area including a giant patio and a covered veranda with its own bar (Motorco Info)', 'Versatile event hosting for weddings, corporate gatherings, and private parties in specialized spaces like Bay 5 and the Mezzanine (Motorco Rentals)', 'Commitment to independent music, hosting a diverse range of local and nationally touring artists (Discover Durham)', 'Fully ADA compliant facility with accessible seating options and staff assistance available (Motorco FAQ)']"
+      ],
+      "tips": "Most shows are general admission and standing room only, so arrive early to secure a spot near the stage. Limited bleacher seating is available on a first-come, first-served basis, particularly for those with accessibility needs. Check the online calendar for specific show ages as some events may have restrictions (Motorco FAQ, Tripadvisor Reviews).",
+      "nearby": "Durham Central Park, Historic Durham Athletic Park, Fullsteam Brewery, Durham Farmers' Market, Durham Performing Arts Center (DPAC) (Tripadvisor)"
+    },
+    {
+      "name": "Museum of Durham History",
+      "category": "Museum",
+      "description": "The Museum of Durham History is a 21st-century museum that uses stories about people, places, and things to foster curiosity and promote an understanding of diverse perspectives about the community. Located in a former downtown bus station, it operates as a 'museum without walls,' engaging with history through personal memories and family lore (Museum of Durham History).",
+      "address": "500 W. Main Street, Durham, NC 27701-3265",
+      "city": "Durham",
+      "region": "Downtown Durham / American Tobacco",
+      "hours": "Tuesday-Saturday: 10am-5pm; Sunday: 12pm-5pm; Open late for Third Fridays (typically 6pm-8pm/9pm) (Museum of Durham History, Downtown Durham Inc)",
+      "days_open": "Tuesday - Sunday (Museum of Durham History)",
+      "admission": "Free Admission (Museum of Durham History)",
+      "website": "https://www.museumofdurhamhistory.org",
+      "phone": "919-246-9993 (Museum of Durham History)",
+      "image_url": "https://www.museumofdurhamhistory.org/wp-content/uploads/2015/08/Exterior1Edit.jpg",
+      "highlights": [
+        "['Made In The Triangle: The Story of RTP exhibit (through Spring 2026)', 'Story Room: Step into a dedicated space to record and share personal memories of Durham', \"Durham Beginnings | 1865-1885: Ongoing exhibit featuring personal stories from Durham's early days\", 'Interactive Digital Story Quilt: A collection of community memories expressed through art and text', 'Look Beyond the Windows: An exhibit showcasing the 360-degree view of downtown and its changes over time', 'Touchscreen Timeline: An interactive tool for visitors to explore key moments in Durham’s past']"
+      ],
+      "tips": "Visitors are encouraged to record their own Durham stories in the Story Room; the museum is compact and perfect for a quick but insightful visit; check the calendar for Third Friday events which often include special presentations (Museum of Durham History)",
+      "nearby": "Durham Performing Arts Center (DPAC), Carolina Theatre, Durham Bulls Athletic Park, American Tobacco Campus, Major the Bull statue (Discover Durham, NC Tripping)"
+    },
+    {
+      "name": "Museum of Life and Science (Official Website)",
+      "category": "Museum, Science Center, and Zoo (Wikipedia)",
+      "description": "The Museum of Life and Science is an 84-acre interactive science park featuring both indoor and outdoor learning environments. It includes one of the largest butterfly conservatories on the East Coast, an AZA-accredited zoo with black bears and red wolves, and extensive hands-on science exhibits. The museum aims to spark imagination, creativity, and new ways of thinking about the world through nature and science experiences (Official Website, Wikipedia).",
+      "address": "433 W. Murray Avenue, Durham, NC 27704 (Official Website)",
+      "city": "Durham (Official Website)",
+      "region": "Downtown Durham / American Tobacco",
+      "hours": "General Admission: Tuesday – Sunday, 10 am – 5 pm; Members: Early entry at 9 am daily. Special closures apply on major holidays (Official Website)",
+      "days_open": "Tuesday – Sunday (Closed on Mondays, with exceptions like Labor Day and Memorial Day) (Official Website)",
+      "admission": "Adults (13-64): $24; Seniors (65+): $22; Military (Active or Retired): $22; Children (3-12): $19; Children (2 and under): Free. Durham County residents get free admission on designated Durham Community Days with proof of residency (Official Website)",
+      "website": "https://www.lifeandscience.org",
+      "phone": "919-220-5429 (Official Website)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/en/a/af/NCMLS_logo.gif",
+      "highlights": [
+        "'Magic Wings Butterfly House: A three-story glass conservatory with hundreds of tropical butterflies ([Official Website)', 'Dinosaur Trail: Features life-size models of prehistoric creatures and a fossil dig area (Wikipedia)', 'Explore the Wild: A natural habitat home to black bears, red wolves, and lemurs (Wikipedia)', 'Hideaway Woods: A two-acre nature play area with a massive treehouse village and woodland stream (Official Website)', 'Aerospace Exhibit: Houses one of the largest collections of Apollo-era NASA artifacts in the state (Wikipedia)', \"Ellerbe Creek Railway: A narrow-gauge train ride through the museum's outdoor exhibits (Wikipedia)\"]"
+      ],
+      "tips": "Arrive early at 9 am if you are a member to beat the crowds. Parking is free on both sides of Murray Avenue, including a covered deck. Bring a change of clothes for kids visiting the Woodland Stream in Hideaway Woods (Official Website)",
+      "nearby": "Northgate Park, Duke University, Sarah P. Duke Gardens, and the American Tobacco Campus (Discover Durham)"
+    },
+    {
+      "name": "NanaSteak",
+      "category": "Restaurant",
+      "description": "NanaSteak is a premier upscale steakhouse located in the heart of downtown Durham, offering a high-energy dining experience since its opening in 2016. The restaurant features a sophisticated, light-filled space with unique local touches, such as bar tops inlaid with real tobacco leaves, and specializes in charcoal-grilled steaks and North Carolina-inspired fare (NanaSteak, Downtown Durham Inc).",
+      "address": "345 Blackwell Street",
+      "city": "Durham, NC",
+      "region": "Downtown Durham / American Tobacco",
+      "hours": "Monday–Thursday: 5:00 PM – 9:00 PM; Friday–Saturday: 5:00 PM – 10:00 PM; Sunday: 4:00 PM – 9:00 PM (NanaSteak)",
+      "days_open": "Monday - Sunday (NanaSteak)",
+      "admission": "Main courses range from $31 to $50; specific cuts like Filet Mignon priced between $48 and $62 (OpenTable, NanaSteak Menu)",
+      "website": "https://nanasteak.com",
+      "phone": "(919) 282-1183 (NanaSteak)",
+      "image_url": "https://static.spotapps.co/website_images/ab_websites/99830_website/logo.png",
+      "highlights": [
+        "'Awarded the Wine Spectator Award of Excellence since 2023 ([NanaSteak)', 'Located in a modern, two-story space adjacent to the Durham Performing Arts Center (DPAC) (Indy Week)', 'Interior features unique tables inlaid with real tobacco leaves by Artisan Leaf (Downtown Durham Inc)', 'Offers a diverse menu featuring charcoal-grilled prime steaks and slow-roasted prime rib (NanaSteak Menu)', 'Features an extensive, award-winning wine list and a well-appointed bar (Tripadvisor)', 'Boasts a mezzanine dining room with views of the open kitchen (News & Observer)']"
+      ],
+      "tips": "Reservations are highly recommended, especially when there are performances at the neighboring DPAC. Guests attending a show should inform their server to ensure they finish in time for the curtain. Parking is typically available in the surface lot directly across from the restaurant (OpenTable, Yelp)",
+      "nearby": "Durham Performing Arts Center (DPAC), American Tobacco Historic District, Durham Bulls Athletic Park, Diamond View Park, Aloft Durham Downtown Hotel (Tripadvisor)"
+    },
+    {
+      "name": "Ninth Street District (Ninth Street Business District) (Old West Durham Neighborhood Association)",
+      "category": "Shopping, Dining, and Entertainment District (Discover Durham)",
+      "description": "Ninth Street is a historic, vibrant, and walkable district in West Durham with roots in the textile and tobacco industries. Often referred to as \"Durham’s Greenwich Village,\" it features a unique blend of independent businesses, eclectic shops, and diverse restaurants, offering a friendly neighborhood feel near Duke University (Discover Ninth Street).",
+      "address": "728 9th St, Durham, NC 27705 (Discover Durham)",
+      "city": "Durham (Discover Ninth Street)",
+      "region": "Downtown Durham / American Tobacco",
+      "hours": "District is open 24/7; individual business hours typically range from 7:00 AM – 10:00 PM for cafes and diners, 10:00 AM – 8:00 PM for retail shops, and until 2:00 AM for bars/late-night eateries (Tripadvisor, Discover Ninth Street)",
+      "days_open": "Open Daily (Business hours vary) (Discover Ninth Street)",
+      "admission": "Free (Public District) (Discover Ninth Street)",
+      "website": "https://www.discover9thstreet.com",
+      "phone": "(919) 314-3327 (Discover Durham)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/9th_Street%2C_Old_West_Durham%2C_Durham%2C_NC_%2849140507182%29.jpg",
+      "highlights": [
+        "'Home to independent staples like The Regulator Bookshop and Vaguely Reminiscent ([Discover Ninth Street)', 'Historic architecture rooted in the 1892 Erwin Cotton Mill era (Old West Durham Neighborhood Association)', \"Eclectic dining scene ranging from classic diners like Elmo's to international cuisine (Discover Ninth Street)\", 'Hub for local culture and community events, such as the Ninth Street Trick-or-Treat (Discover Ninth Street)', \"Proximity to Duke University's East Campus and residential neighborhoods (Discover Ninth Street)\"]"
+      ],
+      "tips": "Enjoy free two-hour street parking or use the City of Durham lot, which is free on weekends and after 7:00 PM on weeknights. The district is pedestrian-friendly and easily accessible via the Bull City Connector bus or the American Tobacco Trail (Discover Ninth Street).",
+      "nearby": "Duke University (East Campus), Sarah P. Duke Gardens, Nasher Museum of Art, American Tobacco Trail, Downtown Durham (Discover Ninth Street, Discover Durham)"
+    },
+    {
+      "name": "Northgate Park",
+      "category": "Park",
+      "description": "Northgate Park is a 31-acre vibrant community space in Durham, North Carolina, known for its blend of natural beauty and recreational facilities. Established in the 1930s, it features scenic walking trails along Ellerbe Creek, a dog park, and historical landmarks like the stone foundation of the former Children's Museum. Kidvoyage, Durham Parks & Recreation",
+      "address": "300 W Club Boulevard",
+      "city": "Durham",
+      "region": "Downtown Durham / American Tobacco",
+      "hours": "Daily: 8:00 AM - Dark Blogger (official page lists \"Dawn to Dusk\" Durham Parks & Recreation)",
+      "days_open": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday Blogger",
+      "admission": "Free Durham Parks & Recreation",
+      "website": "https://www.dprplaymore.org/facilities/facility/details/Northgate-Park-47",
+      "phone": "(919) 560-4355",
+      "image_url": "https://www.dprplaymore.org/ImageRepository/Document?documentID=278",
+      "highlights": [
+        "'77-foot \"Bronto\" Brontosaurus statue, a legacy item from the original Museum of Life and Science dinosaur trail [The Durham Voice', 'Scenic walking trails along Ellerbe Creek with \"no mow zones\" for wildlife preservation Durham Parks & Recreation', 'Fenced Northgate Dog Park for pet socialization Kidvoyage', 'The stone foundation of the historic Lavender House, now used as a play space Raleigh Tot Spots', 'Diverse recreational facilities including tennis courts and a playground for ages 2-12 Durham Parks & Recreation']"
+      ],
+      "tips": "Visit during spring or fall for mild weather, and don't miss the 'hidden' Bronto statue located along the trail past the dog park. Be aware that some areas of the park may have restricted access due to soil property testing. Kidvoyage, Durham Parks & Recreation",
+      "nearby": "Museum of Life and Science, Ellerbe Creek Trail, Edison Johnson Aquatics Center, Northgate Mall Northgate Park Neighborhood Association"
+    },
+    {
+      "name": "Parizade",
+      "category": "Restaurant",
+      "description": "Parizade is a flagship Mediterranean dining destination in Durham, celebrated for over 30 years for its upscale yet familiar atmosphere and commitment to \"one guest, one plate at a time.\" The restaurant offers a vibrant and whimsical setting with hammered-copper accents and colorful artwork, specializing in creative preparations of pasta, grilled meats, and fresh seafood Official Website, AAA.",
+      "address": "2200 W Main St Ste B100",
+      "city": "Durham",
+      "region": "Downtown Durham / American Tobacco",
+      "hours": "Monday: 5:00 PM - 9:00 PM, Tuesday: 5:00 PM - 9:00 PM, Wednesday: 5:00 PM - 9:00 PM, Thursday: 5:00 PM - 9:00 PM, Friday: 5:00 PM - 9:00 PM, Saturday: 5:00 PM - 9:00 PM, Sunday: Closed Official Website",
+      "days_open": "Monday - Saturday",
+      "admission": "Free entry; menu prices range from $6–$42 per dish Official Website",
+      "website": "https://www.parizadedurham.com",
+      "phone": "(919) 286-9712",
+      "image_url": "https://images.getbento.com/accounts/b7a52216aa1c81a9e6eb3bf707cd3b9e/media/images/85726parizade-logo-1.png",
+      "highlights": [
+        "['Upscale contemporary Mediterranean cuisine with seasonal seafood and vegetarian options', 'Interactive dining experience featuring an open kitchen and lively, whimsical atmosphere', 'Extensive wine list and full-service bar with craft cocktails', 'Flexible private dining spaces including the elegant Club Room for special events', 'Free parking available directly in front of the restaurant and in the Erwin Square parking deck', 'Long-standing local favorite founded by renowned restaurateur Giorgios Bakatsias']"
+      ],
+      "tips": "Reservations are highly recommended due to popularity. Free parking is available in front of the restaurant and in the Erwin Square parking deck. A 20% gratuity is automatically added for parties of six or more Official Website, Evendo.",
+      "nearby": "Duke University Chapel, Sarah P. Duke Gardens, Nasher Museum of Art, Durham Bulls Athletic Park, American Tobacco Historic District Discover Durham, TripAdvisor"
+    },
+    {
+      "name": "Parker and Otis",
+      "category": "Restaurant, Cafe, and Gourmet Gift Shop",
+      "description": "Parker and Otis is a charming cafe and gourmet gift shop located in the historic American Tobacco Campus. It offers a delightful blend of breakfast options, sandwiches, and artisanal coffees alongside a curated selection of gifts, gourmet foods, cheese, wine, and candy.",
+      "address": "324 Blackwell Street, Bay 4, Durham, NC 27701",
+      "city": "Durham",
+      "region": "Downtown Durham / American Tobacco",
+      "hours": "Tuesday - Saturday: 8:00 AM - 6:00 PM (Food service 8:00 AM - 4:00 PM; Grab-and-go/Retail 4:00 PM - 6:00 PM); Sunday - Monday: Closed",
+      "days_open": "Tuesday - Saturday",
+      "admission": "Free (Menu items range from approx. $6.00 to $14.00)",
+      "website": "http://www.parkerandotis.com/",
+      "phone": "(919) 683-3200",
+      "image_url": "https://fbf22dfea1cf0ff0c284.cdn6.editmysite.com/uploads/b/fbf22dfea1cf0ff0c284ed69a1b7e228784afa1cf51a0694afa60385e9cb1e92/pando_logo_pink%20copy%203_1753122367.png?width=2400&optimize=medium",
+      "highlights": [
+        "['Famous for their legendary iced coffee and shrimp BLT.', 'Curated gift shop featuring cookbooks, kitchen tools, and local North Carolina gourmet products.', 'Located within the historic American Tobacco Campus with beautiful surroundings.', 'Spacious indoor and covered outdoor seating on a large deck.', 'Serves breakfast, lunch, and brunch with fresh, local ingredients.', 'Features a wide selection of specialty candies, wines, and artisanal cheeses.']"
+      ],
+      "tips": "The first two hours of parking are free in the American Tobacco Campus South Deck. Visit during the morning or early afternoon for the full kitchen menu, or stop by later for grab-and-go items and retail shopping. Be sure to check out the extensive greeting card and gift section while waiting for your food.",
+      "nearby": "American Tobacco Historic District, Durham Bulls Athletic Park, Durham Performing Arts Center (DPAC), Burt's Bees Headquarters, and the Lucky Strike Tower."
+    },
+    {
+      "name": "Piedmont Restaurant",
+      "category": "Restaurant",
+      "description": "Piedmont Restaurant was a micro-seasonal, vegetable-driven pioneer in Durham's farm-to-table dining scene, emphasizing local ingredients and refined techniques. Located in a historic 1930s Nash car dealership, it offered a sophisticated atmosphere with high ceilings, an open bar, and loft seating overlooking the main dining area. The restaurant was highly regarded for its award-winning wine list and creative \"New North Carolinian\" cuisine before its closure in early 2020.",
+      "address": "401 Foster St Ste B2, Durham, NC 27701",
+      "city": "Durham",
+      "region": "Downtown Durham / American Tobacco",
+      "hours": "Mon: 5:00 PM - 9:00 PM; Tue: Closed; Wed: 5:00 PM - 9:00 PM; Thu: 5:00 PM - 10:00 PM; Fri: 5:00 PM - 10:00 PM; Sat: 5:00 PM - 10:00 PM; Sun: 5:00 PM - 9:00 PM",
+      "days_open": "Monday, Wednesday, Thursday, Friday, Saturday, Sunday (Closed Tuesday)",
+      "admission": "Free",
+      "website": "https://www.piedmontrestaurant.com",
+      "phone": "919-683-1213",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/5d6467d8f6ac7700011a2b2a/ab1f6db1-db1e-40f9-a200-d2b4330892cb/logo.jpg?format=1500w",
+      "highlights": [
+        "'Micro-seasonal, vegetable-driven menu focusing on locally sourced North Carolina ingredients [Yelp', 'Award-winning wine list featuring over 800 curated selections Yelp', 'Historic setting within a converted 1930s Nash automobile dealership INDY Week', 'Signature dishes such as cornmeal-crusted oysters and pumpkin fiocchi Traveling Kitchen, Yelp', 'Sophisticated, modern atmosphere with an open loft and artistic wood installations Yelp']"
+      ],
+      "tips": "While the restaurant is permanently closed at its 401 Foster St location, its legacy remains central to Durham's culinary history. Visitors to the area should check the nearby Durham Farmers' Market for fresh produce similar to what was served at the restaurant. For private events or catering from the same owners, look into their farm connections at Coon Rock Farm INDY Week.",
+      "nearby": "Durham Farmers' Market, Durham Central Park, Fullsteam Brewery, Motorco Music Hall, and the Durham Athletic Park Downtown Durham"
+    },
+    {
+      "name": "Pizzeria Toro",
+      "category": "Restaurant",
+      "description": "Pizzeria Toro is a lively and modern pizza parlor in downtown Durham known for its artisan wood-fired pies, seasonal snacks, and bustling atmosphere. The restaurant features an open kitchen with a large pizza oven, long communal tables that encourage a social dining experience, and an extensive selection of Italian wines and spirits. Wanderlog, The Infatuation",
+      "address": "105 E Chapel Hill St, Durham, NC 27701-3201",
+      "city": "Durham",
+      "region": "Downtown Durham / American Tobacco",
+      "hours": "Monday: 11:00 AM - 11:00 PM, Tuesday: 11:00 AM - 11:00 PM, Wednesday: 11:00 AM - 11:00 PM, Thursday: 11:00 AM - 11:00 PM, Friday: 11:00 AM - 11:00 PM, Saturday: 11:00 AM - 11:00 PM, Sunday: 11:00 AM - 11:00 PM Tripadvisor",
+      "days_open": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
+      "admission": "Free (No entry fee; pizzas typically range from $15-$22) Yelp",
+      "website": "https://www.pizzeriatoro.com",
+      "phone": "(919) 908-6936 Pizzeria Toro Official Site",
+      "image_url": "https://www.pizzeriatoro.com/pizzeriatoro_splash-2023.jpg",
+      "highlights": [
+        "'Wood-fired pizzas with a thin, crispy, and blistered crust [The Infatuation', 'Large communal seating area that fosters a social and buzzy environment Wanderlog', 'Open kitchen design featuring a massive central pizza oven The Infatuation', \"Diverse menu including seasonal salads, ricotta dumplings, and crispy pigs' ears Yelp\", 'Extensive selection of Italian wines and craft cocktails Wanderlog', 'Vegan, vegetarian, and gluten-free friendly menu options Tripadvisor']"
+      ],
+      "tips": "The restaurant does not take reservations and operates on a first-come, first-served basis, so expect a wait during peak hours. Be aware that communal seating is standard, meaning you may be seated next to other parties. Additionally, a 20% service fee is often automatically included in the bill. Wanderlog, Yelp",
+      "nearby": "The Durham Hotel, Carolina Theatre, 21c Museum Hotel Durham, Mateo Bar de Tapas, 5 Points Gallery, Arcana Tripadvisor"
+    },
+    {
+      "name": "The Carolina Theatre of Durham",
+      "category": "Entertainment",
+      "description": "Located in the heart of downtown since 1926, The Carolina Theatre of Durham is one of the city's most majestic and historic performing arts venues. It operates as a nonprofit dedicated to presenting a diverse array of live concerts, comedy shows, and independent or classic films. The complex features a grand performance hall and multiple cinemas, serving as a cultural anchor for the Durham community (Official Site).",
+      "address": "309 West Morgan St, Durham, NC 27701",
+      "city": "Durham",
+      "region": "Downtown Durham / American Tobacco",
+      "hours": "Barnes Box Office (Live Events): Tuesday–Friday, 10:00 a.m. – 6:00 p.m.; also open 1 hour before live events. Cinema Box Office: Open daily 30 minutes before the first screening and closes 15 minutes after the last screening begins. Administrative Offices: Monday–Friday, 9:00 a.m. – 5:30 p.m. (Official Site)",
+      "days_open": "Tuesday – Sunday (Open for scheduled events and film screenings; Box Office closed on Mondays) (Official Site)",
+      "admission": "Individual Film Tickets: $12; Special Screenings: $10; Double Features: $12; Specialty Festivals (e.g., Banff): $18; Live Event Tickets: Prices vary by performance; Taxes and fees apply to all purchases (Official Site)",
+      "website": "https://carolinatheatre.org",
+      "phone": "(919) 560-3030 (Box Office), (919) 560-3040 (Admin) (Official Site)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Carolina_Theatre%2C_Durham%2C_NC.jpg",
+      "highlights": [
+        "'Historic venue built in 1926, the last remaining of thirteen vaudeville-era theaters in downtown Durham ([Jen on a Jet Plane)', '\"Confronting Change\" exhibit on the second balcony documenting the theater\\'s desegregation history (Official Site)', 'Annual host of major events like the Nevermore Film Festival and OUTSOUTH Queer Film Festival (Wikipedia))', 'Home to the elegant Connie Moses Ballroom, featuring stunning chandeliers and plaza views (Wikipedia))', \"Consistently ranked among Pollstar's Top 100 theaters worldwide (Wikipedia))\", 'Extensive Retro Film Series featuring classic cinema on the big screen (Official Site)']"
+      ],
+      "tips": "The theater is a cash-free venue; only debit/credit cards and Apple Pay are accepted. Arrive early to view the three historic exhibits located on each floor of the lobby. Outside food and drink are prohibited, but you may bring an empty refillable water bottle to use at the eco-friendly filling stations. Note that all bags are subject to inspection and backpacks are not permitted inside (Official Site).",
+      "nearby": "Durham Performing Arts Center (DPAC), Durham Bulls Athletic Park, American Tobacco Historic District, Museum of Durham History, Durham Central Park"
+    },
+    {
+      "name": "The Roof at The Durham Hotel (Cockloft)",
+      "category": "Bar / Restaurant",
+      "description": "The Roof at The Durham Hotel is a year-round, open-air rooftop bar and lounge offering 360-degree panoramic views of the Durham skyline. It features a sophisticated mid-century modern aesthetic, serving craft cocktails, local beers, and a menu of seasonal New American shareable plates.",
+      "address": "315 E. Chapel Hill St.",
+      "city": "Durham",
+      "region": "Downtown Durham / American Tobacco",
+      "hours": "Tuesday - Thursday: 5:00 PM – 11:00 PM; Friday - Saturday: 5:00 PM – 12:00 AM; Sunday: 5:00 PM – 10:00 PM; Monday: Closed",
+      "days_open": "Tuesday - Sunday",
+      "admission": "Free",
+      "website": "https://www.thedurham.com/roof/",
+      "phone": "919-768-8831",
+      "image_url": "https://www.thedurham.com/wp-content/uploads/2022/01/The-Roof.jpg",
+      "highlights": [
+        "['360-degree panoramic views of downtown Durham', 'Seasonal craft cocktails and extensive local beer list', 'Year-round accessibility with heaters and covered areas', 'Weekend rooftop yoga sessions for guests and locals', 'Regular live music events, including DJs and jazz nights', 'Mid-century modern design with comfortable lounge seating']"
+      ],
+      "tips": "Reservations are recommended for groups of 6-15 guests. The kitchen closes at 9:30 PM nightly, so be sure to order food early. Arriving just before sunset is suggested for the best city views.",
+      "nearby": "Durham Performing Arts Center (DPAC), American Tobacco Campus, CCB Plaza (Major the Bull statue), The Carolina Theatre, Durham Bulls Athletic Park"
+    },
+    {
+      "name": "Warehouse District (Durham, NC)",
+      "category": "Landmark / Entertainment District",
+      "description": "The Warehouse District in Durham is a vibrant historic area featuring former tobacco warehouses that have been transformed into modern mixed-use spaces. This dynamic neighborhood is home to a unique blend of loft apartments, innovative office spaces, craft breweries, and diverse dining options, all while preserving the city's industrial heritage. Discover Durham, Downtown Durham Inc",
+      "address": "604 Morgan St, Durham, NC 27701 (West Village Area)",
+      "city": "Durham",
+      "region": "Downtown Durham / American Tobacco",
+      "hours": "District: 24/7; Most retail/dining: Mon-Sat 10:00 AM - 9:00 PM, Sun 12:00 PM - 6:00 PM (Hours vary by establishment). Discover Durham",
+      "days_open": "Monday-Sunday (District open 24/7; business hours vary) Discover Durham",
+      "admission": "Free to visit the district and public spaces; individual businesses and events have their own pricing. Discover Durham",
+      "website": "https://www.discoverdurham.com/blog/downtown-durham-district-guide/",
+      "phone": "(919) 687-0288 (Visitor Info Center) Discover Durham",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Watts_and_Yuille_Warehouses.jpg",
+      "highlights": [
+        "'Historic adaptive reuse of Liggett & Myers tobacco buildings into West Village lofts. [Discover Durham', 'A thriving craft beer scene featuring Atomic Clock Brewing Co. and Flying Bull Restaurant and Brewery. Discover Durham', 'Proximity to the Durham Innovation District (Durham ID), a hub for biotech and technology firms. Downtown Durham Inc', \"The Can Opener, a unique beer hall and coffee shop located under the iconic 'Can Opener' Bridge. Discover Durham\", 'Self-care and fitness options like Virge Yoga and FlowCorps Pilates. Discover Durham']"
+      ],
+      "tips": "Start your visit at the Durham Visitor Info Center at 212 W. Main St to pick up a map. The district is highly walkable and also served by 'The Bull Ride,' a free downtown shuttle. For a unique photo op, visit the nearby Morris Green Park. Discover Durham",
+      "nearby": "Brightleaf Square, Durham Central Park, American Tobacco Campus, Museum of Durham History, Durham Bulls Athletic Park. Discover Durham"
+    },
+    {
+      "name": "Watts-Hillandale Historic District",
+      "category": "Neighborhood / Historic District (Wikipedia)",
+      "description": "Watts-Hillandale is a historic residential neighborhood in Durham, NC, known for its early 20th-century architecture and community-oriented atmosphere. Originally developed around the second Watts Hospital campus, the district features winding tree-lined streets, diverse housing styles including Craftsman bungalows and Colonial Revivals, and a collection of well-maintained public parks (WHHNA, Wikipedia).",
+      "address": "2200 W Club Blvd (representative address of Oval Drive Park)",
+      "city": "Durham",
+      "region": "Downtown Durham / American Tobacco",
+      "hours": "Open daily; neighborhood parks are generally open from dawn to dusk (Durham Parks & Rec)",
+      "days_open": "Daily (WHHNA)",
+      "admission": "Free (Durham Parks & Rec)",
+      "website": "https://www.whhna.org",
+      "phone": "(919) 560-4355 (Durham Parks & Recreation) (Durham Parks & Rec)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/West_Club_Boulevard%2C_Durham%2C_NC.jpg",
+      "highlights": [
+        "'Oval Drive Park: A 3.44-acre central green space with a playground, picnic areas, and a community focus ([Durham Parks & Rec).', 'Historic Architecture: Features over 400 contributing buildings in styles like Mission and Colonial Revival (Wikipedia).', 'Ninth Street District: A nearby commercial hub with independent shops, bookstores, and restaurants (Watts-Hillandale Neighborhood).', 'North Carolina School of Science and Math (NCSSM): Housed in the historic Spanish Mission-style buildings of the original Watts Hospital (WHHNA).', 'West Ellerbee Creek Trail: Scenic greenway access for walking and biking that connects to other Durham parks (Watts-Hillandale Neighborhood).', 'Annual Halloween Celebration: A massive neighborhood-wide event, especially on Club Boulevard, attracting thousands of visitors (Wikipedia).']"
+      ],
+      "tips": "Walking the neighborhood is especially scenic during the spring when azaleas are in bloom or during the famous Halloween festivities on Club Boulevard. Parking can be tight on narrow streets, so consider walking or biking from nearby Ninth Street (Undergrads Moving, WHHNA).",
+      "nearby": "Duke University East Campus, Ninth Street Shopping District, Sarah P. Duke Gardens, and the Museum of Life and Science (Discover Durham, Reddit)."
+    },
+    {
+      "name": "Brooks Field at Wallace Wade Stadium",
+      "category": "Entertainment (Sports Stadium)",
+      "description": "Brooks Field at Wallace Wade Stadium is a historic 35,018-seat outdoor stadium on the campus of Duke University, serving as the home for the Duke Blue Devils football team. Originally opened in 1929, the venue is known for its classic collegiate atmosphere, recent modernizations including the Blue Devil Tower, and its unique history as the site of the 1942 Rose Bowl.",
+      "address": "110 Frank Bassett Dr",
+      "city": "Durham",
+      "region": "Duke Campus / Ninth Street",
+      "hours": "Business Office: Tuesday-Friday 11:00 AM - 4:00 PM; Gameday hours vary by event (Iron Duke lots often open at 6:00 AM). Duke Athletics",
+      "days_open": "Monday-Friday (Business Office), Saturday (Gamedays)",
+      "admission": "Tickets for football games typically start at $35-$45 and can go up to over $300 for premium seating or high-demand games. Specific access like the Devils Deck starts at $45 (purchased 24 hours prior) or $55 (gameday). GoDuke, SeatGeek",
+      "website": "https://goduke.com/facilities/brooks-field-at-wallace-wade-stadium/20",
+      "phone": "(919) 681-2583 (Ticket Office) / (919) 684-4112 (Discover Durham listing)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Wallace_Wade_Stadium_Blue_Devil_Tower.jpg",
+      "highlights": [
+        "['Home of the Duke Blue Devils football team since 1929', 'Hosted the 1942 Rose Bowl, the only time the game was played outside of California', 'Features the five-story, 90,000-square-foot Blue Devil Tower with luxury suites and club seating', \"Includes the innovative 'Devils Deck' social zone in the north end zone\", \"Surrounded by the iconic Gothic architecture of Duke University's West Campus\", 'Natural Bermuda grass playing surface lowered five feet during renovations to enhance sightlines']"
+      ],
+      "tips": "Arrive early to navigate gameday traffic and enjoy tailgating traditions; check the clear bag policy before heading to the gates. For a more social experience, consider the Devils Deck which includes an all-you-can-eat package. GoDuke",
+      "nearby": "Cameron Indoor Stadium, Sarah P. Duke Gardens, Duke Basketball Museum, Duke Lemur Center, Durham Bulls Athletic Park. Tripadvisor"
+    },
+    {
+      "name": "Cameron Indoor Stadium",
+      "category": "University, Landmark, Entertainment",
+      "description": "Cameron Indoor Stadium is an iconic indoor arena on the West Campus of Duke University, widely considered one of the most hallowed grounds in college basketball. Opened in 1940, the venue is renowned for its intimate atmosphere and serves as the home court for the Duke Blue Devils men's and women's basketball, volleyball, and wrestling teams Duke Athletics, Wikipedia.",
+      "address": "115 Whitford Dr",
+      "city": "Durham",
+      "region": "Duke Campus / Ninth Street",
+      "hours": "Mon-Sat: 10:00 AM - 4:00 PM; Sun: Closed (except for ticketed events). Game day hours: Typically open at 10:00 AM and close 2.5 hours before tipoff Duke Athletics, Tripadvisor",
+      "days_open": "Monday - Saturday (Museum); Sunday (Events only) Duke Athletics",
+      "admission": "Free (Museum and self-guided lobby tours); Guided tours available by reservation (Special experiences like the Cameron Champions Experience cost $80) Duke Athletics, Discover Durham",
+      "website": "https://goduke.com/facilities/cameron-indoor-stadium/11",
+      "phone": "(919) 684-8111",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Cameron_indoor.jpg",
+      "highlights": [
+        "'Home to the world-famous \"Cameron Crazies\" student section [Duke Athletics', 'Houses the Duke Basketball Museum and Athletics Hall of Fame Duke Athletics', 'Features the historic \"Coach K Court,\" named after legendary coach Mike Krzyzewski Duke Athletics', 'Displays of five NCAA National Championship banners and numerous retired jerseys Duke Athletics', 'The Rubenstein Pavilion foyer with interactive historical displays Duke Athletics', 'Unique intimate seating capacity of 9,314 that creates an electrifying environment Duke Athletics']"
+      ],
+      "tips": "Arrive early to explore the museum and the legendary \"Krzyzewskiville\" tent city outside. Wear Duke blue to show support, and consider sitting opposite the student section to enjoy the Cameron Crazies' antics Evendo, Tripadvisor.",
+      "nearby": "Duke University Chapel, Sarah P. Duke Gardens, Wallace Wade Stadium, Nasher Museum of Art Tripadvisor"
+    },
+    {
+      "name": "Duke Athletics (Duke University Blue Devils)",
+      "category": "University Athletics / Sports Venue / Museum",
+      "description": "Duke Athletics represents the intercollegiate athletic teams of Duke University, known as the Blue Devils. The program competes in 27 varsity sports in the NCAA's Division I and is a founding member of the Atlantic Coast Conference. It is world-renowned for its men's basketball program and the historic Cameron Indoor Stadium.",
+      "address": "110 Whitford Drive, Room 364",
+      "city": "Durham",
+      "region": "Duke Campus / Ninth Street",
+      "hours": "Duke Basketball Museum: Mon-Sat 10:00 AM - 4:00 PM, Sun Closed (except game days). Duke Team Store: Mon-Sat 10:00 AM - 6:00 PM, Sun 1:00 PM - 5:00 PM. General Athletics Department: Mon-Fri 8:30 AM - 5:00 PM.",
+      "days_open": "Daily (Museum/Store closed on Sundays unless there is a home game)",
+      "admission": "Varies by sport and event. Self-guided tours of the Duke Basketball Museum and Rubenstein Pavilion are free. Guided tours cost $25 per person and must be booked in advance. Many non-ticketed sports are free to attend.",
+      "website": "https://goduke.com",
+      "phone": "(919) 681-2583 (Department), (919) 668-9235 (Tickets)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Duke_Athletics_logo.svg",
+      "highlights": [
+        "['Historic Cameron Indoor Stadium, home to the Blue Devils since 1940.', 'Duke Basketball Museum and Sports Hall of Fame featuring national championship trophies.', 'Rubenstein Pavilion, the modern foyer of Cameron Indoor Stadium with basketball history displays.', 'Johnson Family Team Store for official Nike Duke merchandise.', 'Krzyzewskiville (K-Ville), the iconic student tent city for basketball game access.', 'Wallace Wade Stadium, the home for Duke Football.']"
+      ],
+      "tips": "Book guided tours at least 48 hours in advance as they are limited to 20 people per group. Check the game day schedule as museum and store hours change significantly during home events. Parking is available at the Science Drive Garage for a fee. Use the GoDuke mobile app for the easiest access to digital tickets and game day info.",
+      "nearby": "Duke University Chapel, Sarah P. Duke Gardens, Nasher Museum of Art, JB Duke Hotel, Washington Duke Inn & Golf Club"
+    },
+    {
+      "name": "Duke Homestead State Historic Site and Tobacco Museum",
+      "category": "Museum, State Historic Site",
+      "description": "Duke Homestead State Historic Site and Tobacco Museum encompasses the historic home, farm, and factory buildings of Washington Duke and his family. The site interprets early farming life and the beginnings of their tobacco manufacturing business after the Civil War. Official Site",
+      "address": "2828 Duke Homestead Road",
+      "city": "Durham",
+      "region": "Duke Campus / Ninth Street",
+      "hours": "Tuesday - Saturday: 9:00 AM - 5:00 PM; Closed Sunday, Monday, and state holidays Official Site",
+      "days_open": "Tuesday - Saturday",
+      "admission": "Free (Donations welcome); Guided Tours: Adults (18+) $4, Seniors (65+) & Military $3, Children (3-17) $1 Official Site",
+      "website": "https://dukehomestead.org/",
+      "phone": "(919) 627-6990",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Duke_Homestead_-_Durham%2C_NC.jpg",
+      "highlights": [
+        "['The 1852 Duke family farmhouse where Washington Duke lived', 'The Tobacco Museum featuring 5,500 square feet of exhibits on tobacco history', \"Washington Duke's Third Tobacco Factory built in 1869\", \"Orientation film 'Legacy of the Golden Leaf' documenting the family's history\", 'Tobacco curing barn and pack house used in early production', 'Self-guided tour trails across the 40-acre historic site']"
+      ],
+      "tips": "Guided tours are mostly outdoors and involve walking on uneven, unpaved paths, so comfortable shoes and weather-appropriate clothing are recommended. Interior access to historic buildings is only available via guided tours, which last about 45 minutes. Official Site",
+      "nearby": "Duke University, Museum of Life and Science, Bennett Place State Historic Site, Brightleaf Square Tripadvisor"
+    },
+    {
+      "name": "Duke Lemur Center",
+      "category": "Research Center, Primate Sanctuary, University Facility",
+      "description": "The Duke Lemur Center is a world leader in the study, care, and protection of lemurs—Earth’s most threatened group of mammals. Founded in 1966, it houses the most diverse population of lemurs outside of Madagascar and is dedicated to non-invasive research, conservation, and education (Duke Lemur Center).",
+      "address": "3705 Erwin Road, Durham, NC 27705",
+      "city": "Durham",
+      "region": "Duke Campus / Ninth Street",
+      "hours": "Gift Shop: 10:00 AM – 4:00 PM EST (Closed Tuesdays). Tours are available by reservation only, with typical General Tour times between 10:00 AM and 12:00 PM (Duke Lemur Center).",
+      "days_open": "Daily for scheduled tours; Gift Shop closed on Tuesdays (Duke Lemur Center).",
+      "admission": "Adult (18-64): $17 + tax; Senior (65+), Military, College Student: $15 + tax; Teen (13-17): $15 + tax; Child (3-12): $12 + tax; Young Child (2 and under): Free. All prices based on the General Tour (Duke Lemur Center).",
+      "website": "https://lemur.duke.edu",
+      "phone": "(919) 401-7240",
+      "image_url": "https://lemur.duke.edu/wordpress/wp-content/uploads/2020/04/Duke-Lemur-Center-Zoom-background-sifakas.jpg",
+      "highlights": [
+        "\"Houses the world's most diverse population of lemurs outside of Madagascar ([Duke Lemur Center)\", 'Only organization worldwide with dual accreditation from AZA and AAALAC International (Duke Lemur Center)', \"Site where the popular children's show Zoboomafoo was filmed (Wikipedia)\", 'Extensive conservation breeding programs that have welcomed over 3,400 infants (Duke Lemur Center)', 'Home to the Anna Borruel Codina Center for Lemur Medicine and Research (Duke Lemur Center)']"
+      ],
+      "tips": "Prepaid reservations are mandatory for all tours and gift shop visits; no walk-ins are allowed. Tours take place outdoors rain or shine, so bring sun protection and water (Duke Lemur Center).",
+      "nearby": "Duke University Chapel, Sarah P. Duke Gardens, Nasher Museum of Art, Cameron Indoor Stadium, DLC Museum of Natural History (Duke Lemur Center)"
+    },
+    {
+      "name": "Duke University",
+      "category": "University",
+      "description": "Duke University is a premier private research institution renowned for its stunning Gothic architecture and expansive 8,600-acre campus in Durham, North Carolina. Often referred to as a \"University in the Forest,\" the campus features iconic landmarks such as the Duke Chapel and the 55-acre Sarah P. Duke Gardens, serving as a global center for academic excellence and cultural heritage Duke University, Duke Facts.",
+      "address": "2080 Duke University Road",
+      "city": "Durham",
+      "region": "Duke Campus / Ninth Street",
+      "hours": "Campus Grounds: Open 24/7; Duke Chapel: 10:00 AM – 8:00 PM Daily; Sarah P. Duke Gardens: 8:00 AM – Sunset Daily; Nasher Museum: Tue, Wed, Fri, Sat 10:00 AM – 5:00 PM, Thu 10:00 AM – 9:00 PM, Sun 12:00 PM – 5:00 PM (Closed Mon) Duke Chapel, Duke Gardens, Nasher Museum",
+      "days_open": "Daily Duke University",
+      "admission": "Free (Campus Grounds, Duke Chapel, Sarah P. Duke Gardens, and Nasher Museum of Art) Duke Admissions, Duke Gardens, Nasher Museum",
+      "website": "https://www.duke.edu",
+      "phone": "(919) 684-8111 Duke University",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Duke_University_Chapel_2015.jpg",
+      "highlights": [
+        "'Duke University Chapel (Gothic architecture and 210-foot tower) [Duke Chapel', 'Sarah P. Duke Gardens (55 acres of botanical gardens and walking paths) Duke Gardens', 'Nasher Museum of Art (Rafael Viñoly-designed focal point for visual arts) Nasher Museum', 'Cameron Indoor Stadium (Historic home of the Blue Devils basketball teams) Duke Today', 'Duke Forest (Over 7,000 acres for research and recreation) Duke Facts']"
+      ],
+      "tips": "Visitors are encouraged to download the Duke Admissions Tour app for self-guided exploration. Parking is available at the Karsh Alumni and Visitors Center or metered lots near the gardens; always check the Chapel calendar for private event closures before visiting Duke Undergraduate Admissions, Duke Chapel",
+      "nearby": "Durham Bulls Athletic Park, American Tobacco Campus, Ninth Street District, Museum of Life and Science Discover Durham"
+    },
+    {
+      "name": "Duke University Chapel",
+      "category": "Landmark, University, Church",
+      "description": "Duke University Chapel is a magnificent Collegiate Gothic landmark located at the heart of Duke University's West Campus. Completed in 1935 and designed by the pioneering African-American architect Julian Abele, it serves as an ecumenical Christian center for worship, music, and university ceremonies. The structure is renowned for its 210-foot tower, intricate stone carvings, and vibrant stained-glass windows, making it one of the most iconic buildings in North Carolina (Wikipedia, Official Site).",
+      "address": "401 Chapel Drive",
+      "city": "Durham",
+      "region": "Duke Campus / Ninth Street",
+      "hours": "Daily: 10:00 a.m. – 8:00 p.m. (Official Site)",
+      "days_open": "Monday - Sunday (Official Site)",
+      "admission": "Free (Official Site). Some concerts and special events may require paid tickets (Duke Tickets).",
+      "website": "https://chapel.duke.edu",
+      "phone": "919-681-9488 (Official Site)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Duke_Chapel_4_16_05.jpg",
+      "highlights": [
+        "'Collegiate Gothic tower standing 210 feet tall with a 50-bell carillon ([Official Site).', '77 vibrant stained-glass windows depicting over 800 biblical figures (NCPedia).', 'Three world-class pipe organs, including the Flentrop and Aeolian organs (Wikipedia).', 'The Memorial Chapel, featuring the tombs of university founders Washington, Benjamin, and James B. Duke (Official Site).', 'Intricate woodwork and limestone carvings throughout the sanctuary and choir (NCPedia).', 'Regular Choral Evensong and Sunday morning worship services featuring the Duke Chapel Choir (Official Site).']"
+      ],
+      "tips": "Visitors should check the online calendar before arriving, as the chapel frequently closes for weddings, funerals, and university events. Public parking is available for a fee at the nearby Bryan Center Parking Garage (125 Science Drive). Docent-led tours are typically offered on Sundays following the 11:00 a.m. worship service (Official Site).",
+      "nearby": "Sarah P. Duke Gardens, Nasher Museum of Art, Cameron Indoor Stadium, Duke Basketball Museum & Hall of Fame, Bryan Center (Tripadvisor)."
+    },
+    {
+      "name": "Duke University Divinity School",
+      "category": "University / Divinity School",
+      "description": "Duke Divinity School is one of ten graduate professional schools within Duke University and is a leading United Methodist seminary. It offers spiritually disciplined and academically rigorous education, attracting students from over 50 denominations to prepare for leadership in the church, academy, and world (About Duke Divinity).",
+      "address": "407 Chapel Drive, Duke Box #90968",
+      "city": "Durham",
+      "region": "Duke Campus / Ninth Street",
+      "hours": "General Building: Mon-Fri 8:00 AM - 5:00 PM; Divinity Library: Mon-Thu 8:00 AM - 7:00 PM, Fri 8:00 AM - 5:00 PM, Sat Closed, Sun 1:00 PM - 5:00 PM (Divinity Library Hours)",
+      "days_open": "Monday - Friday (Building); Sunday - Friday (Library) (Divinity Library)",
+      "admission": "Free for visitors; Tuition applies for academic programs (Duke Divinity Admissions)",
+      "website": "https://divinity.duke.edu",
+      "phone": "(919) 660-3400",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/DukeDiv.jpg",
+      "highlights": [
+        "'Flagship Master of Divinity (M.Div.) program with residential and hybrid options ([M.Div. Program)', 'Ecumenical learning community representing more than 50 Christian denominations (About)', \"Located in the historic Gray, Langford, and Westbrook buildings on Duke's West Campus (Wikipedia)\", 'Houses specialized centers such as the Methodist/Wesleyan and Baptist Houses of Study (Academics)', 'Strong emphasis on spiritual formation through corporate worship and field education (Formation)', \"Integrated with Duke University's premier research institution and professional schools (Duke University)\"]"
+      ],
+      "tips": "Visitor parking is available at the Bryan Center Meter Lot or Parking Garage IV for $2 per hour. The school is adjacent to the iconic Duke Chapel, which is a must-see for campus visitors (Directions & Parking).",
+      "nearby": "Duke University Chapel, Sarah P. Duke Gardens, Nasher Museum of Art, Bryan Center"
+    },
+    {
+      "name": "Duke University West Campus",
+      "category": "University",
+      "description": "West Campus is the primary academic and residential hub of Duke University, characterized by its stunning Collegiate Gothic architecture and picturesque woodlands. It is home to the iconic Duke University Chapel, the historic Abele Quad, and world-class facilities such as the Nasher Museum of Art and Sarah P. Duke Gardens. (Duke University, Wikipedia)",
+      "address": "401 Chapel Drive, Durham, NC 27708",
+      "city": "Durham",
+      "region": "Duke Campus / Ninth Street",
+      "hours": "Duke University Chapel: Mon-Sun 10:00 AM – 8:00 PM; Sarah P. Duke Gardens: Mon-Sun 8:00 AM – Dusk; Nasher Museum of Art: Tue, Wed, Fri, Sat 10:00 AM – 5:00 PM, Thu 10:00 AM – 9:00 PM, Sun 12:00 PM – 5:00 PM, Mon Closed; Undergraduate Admissions: Mon-Fri 8:30 AM – 4:30 PM. (Duke University Chapel, Sarah P. Duke Gardens, Nasher Museum)",
+      "days_open": "Daily (Duke University)",
+      "admission": "Free (Duke University)",
+      "website": "https://www.duke.edu/",
+      "phone": "(919) 684-3214 (Duke Undergraduate Admissions)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/New_buildings_006.jpg",
+      "highlights": [
+        "['Duke University Chapel (Neo-Gothic cathedral)', 'Sarah P. Duke Gardens (55-acre botanical garden)', 'Nasher Museum of Art (Contemporary and classical art)', 'Abele Quad (Central historic quadrangle)', 'Cameron Indoor Stadium (Home of Duke Basketball)', 'Rubenstein Arts Center (\"The Ruby\" hub for creativity)']"
+      ],
+      "tips": "Visitors are encouraged to park at the Bryan Center Garage or Duke Gardens ($2/hr); check the Chapel's calendar online for closures due to private events; walking the Abele Quad is the best way to experience the campus's famous architecture. (Duke University)",
+      "nearby": "Ninth Street Shopping & Dining District, Downtown Durham, Eno River State Park, Bennett Place State Historic Site (Discover Durham)"
+    },
+    {
+      "name": "Nasher Museum of Art at Duke University",
+      "category": "Museum",
+      "description": "The Nasher Museum of Art at Duke University is a major center for the arts on campus and in the Triangle area, housed in a 65,000-square-foot modernist building designed by Rafael Viñoly. It features three large gallery spaces showcasing a permanent collection strong in Medieval art, art of the Americas, Classical Antiquities, and modern and contemporary art, alongside rotating international exhibitions. Nasher Museum, Rafael Viñoly Architects",
+      "address": "2001 Campus Drive, Durham, NC 27705",
+      "city": "Durham",
+      "region": "Duke Campus / Ninth Street",
+      "hours": "Monday: CLOSED; Tuesday: 10 AM – 5 PM; Wednesday: 10 AM – 5 PM; Thursday: 10 AM – 9 PM; Friday: 10 AM – 5 PM; Saturday: 10 AM – 5 PM; Sunday: 12 PM – 5 PM Nasher Museum",
+      "days_open": "Tuesday - Sunday",
+      "admission": "Free for all (courtesy of Jennifer McCracken New and Jason New) Nasher Museum",
+      "website": "https://nasher.duke.edu",
+      "phone": "919-684-5135",
+      "image_url": "https://nasher.duke.edu/wp-content/uploads/2023/03/nasher10-book-2005-architecture-1-768x512.jpg",
+      "highlights": [
+        "'Modernist architecture with a dramatic 13,000-square-foot glass-and-steel roof [Nasher Museum', 'Permanent collection strengths in Medieval and Pre-Columbian art Nasher Museum', 'Significant focus on artists of African descent and global, emerging artists Nasher Museum', 'Mary D.B.T. Semans Great Hall, a central hub for university and community activities Nasher Museum', 'Nasher Museum Café offering indoor and outdoor seating overlooking sculpture gardens Duke University', 'Dynamic programs including performing arts events, lectures, and film series Duke University']"
+      ],
+      "tips": "Reservations for the Nasher Café are recommended a few days in advance; non-flash photography is encouraged for personal use; lockers are available at the mural wall for backpacks; and golf cart assistance is available from the parking lot by calling 919-684-6090. Nasher Museum, Nasher Museum Stories, Tripadvisor",
+      "nearby": "Sarah P. Duke Gardens, Duke University Chapel, Duke Lemur Center, American Tobacco Campus, and historic Carolina Theatre Discover Durham"
+    },
+    {
+      "name": "Sarah P. Duke Gardens",
+      "category": "Park, Botanic Garden Duke Gardens, Tripadvisor",
+      "description": "Sarah P. Duke Gardens is a premier 55-acre public botanic garden located in the heart of Duke University's campus. It features four distinct garden areas with five miles of pathways, showcasing a diverse collection of more than 2,500 plant species. Duke Gardens, Discover Durham",
+      "address": "420 Anderson St, Durham, NC 27708",
+      "city": "Durham",
+      "region": "Duke Campus / Ninth Street",
+      "hours": "Gardens Grounds: 8 a.m. to sunset daily. Main Entrance & Welcome Center: 9 a.m. to 7 p.m. (Mar-Oct), 9 a.m. to 5 p.m. (Nov-Feb). Duke Gardens",
+      "days_open": "Daily, 365 days a year Duke Gardens",
+      "admission": "Free (Parking is $2 per hour from 8 a.m. to 7 p.m. daily) Duke Gardens, NC Tripping",
+      "website": "https://gardens.duke.edu",
+      "phone": "919-684-3698 Duke Gardens",
+      "image_url": "https://gardens.duke.edu/wp-content/uploads/2022/07/hg_Bodine_Terrace_Gardens-071522_1722-square-scaled.jpg",
+      "highlights": [
+        "'Historic Terrace Gardens featuring the iconic Italianate-style terraces and Roney Fountain. [Duke Gardens', 'W.L. Culberson Asiatic Arboretum with its Japanese garden, teahouse, and koi-filled fish pool. Duke Gardens, Discover Durham', 'H.L. Blomquist Garden of Native Plants, showcasing over 900 species of Southeastern U.S. flora. Duke Gardens, Discover Durham', 'Charlotte Brody Discovery Garden within the Gateway Gardens, focusing on organic gardening and sustainability. Duke Gardens', 'The Page-Rollins White Garden, known for its elegant white flowers and serene atmosphere. Wikipedia']"
+      ],
+      "tips": "Wear comfortable walking shoes as the grounds are extensive. Dogs are only permitted before 10 a.m. daily. Peak bloom for cherry blossoms and tulips typically occurs in March and April. Duke Gardens, Tripadvisor",
+      "nearby": "Duke University Chapel, Nasher Museum of Art, Cameron Indoor Stadium, American Tobacco Historic District, Duke Lemur Center. Tripadvisor"
+    },
+    {
+      "name": "Vin Rouge",
+      "category": "Restaurant",
+      "description": "Vin Rouge is an authentic French bistro in Durham that pays homage to the French New Wave of the 1950s and 60s. The restaurant features a warm atmosphere with red accent walls, black and white celebrity photos, and traditional white table cloths, offering a menu focused on Provençal French classics like steak frites and fruits de mer.",
+      "address": "2010 Hillsborough Rd, Durham, NC 27705-4118",
+      "city": "Durham",
+      "region": "Duke Campus / Ninth Street",
+      "hours": "Tuesday-Saturday: 5:00 PM - 10:00 PM (Last seating); Sunday Brunch: 10:00 AM - 2:00 PM; Sunday Dinner: 5:00 PM - 9:00 PM; Monday: Closed",
+      "days_open": "Tuesday - Sunday",
+      "admission": "Free (Prices for main courses range from approximately $17-$35)",
+      "website": "https://www.vinrougerestaurant.com/",
+      "phone": "(919) 416-0466",
+      "image_url": "https://images.getbento.com/accounts/f04a201e389bca5bc9a5b805a8076f1c/media/images/58430Vinrouge_logo.png",
+      "highlights": [
+        "['Traditional Provençal French cuisine including escargots, steak frites, and bouillabaisse', 'Extensive, carefully curated list of French wines and elegant cocktails', 'Charming garden patio and outdoor courtyard for al fresco dining', \"Featured on the Food Network's 'The Best Thing I Ever Ate' for its macaroni au gratin\", 'Authentic French bistro ambiance with red accent walls and French Art Deco design', \"Fresh seafood focus with a daily 'Poisson du Jour' and oysters prepared bistro-style\"]"
+      ],
+      "tips": "Reservations are highly recommended, especially for weekend dinner and Sunday brunch. For a more quiet experience, ask for a table in one of the back rooms away from the kitchen, or enjoy the courtyard patio during warmer months. Note that a 3% fee applies to credit card transactions to offset processing costs.",
+      "nearby": "Ninth Street Shopping District, Duke University & Duke Chapel, Sarah P. Duke Gardens, Nasher Museum of Art, Bull City Escape"
+    },
+    {
+      "name": "The Glass Jug Beer Lab",
+      "category": "Bar, Brewery, and Retail Bottle Shop",
+      "description": "The Glass Jug Beer Lab is a craft brewery, retail bottle shop, and beer garden that focuses on using the science of beer to build community. It features an on-site microbrewery producing experimental batches, a large selection of craft beverages to-go, and a spacious outdoor area for events and social gatherings.",
+      "address": "5410 NC Highway 55, Suite V, Durham, NC 27713",
+      "city": "Durham",
+      "region": "Research Triangle Park / South Durham",
+      "hours": "Monday-Thursday: 11 AM - 10 PM; Friday-Saturday: 11 AM - 11 PM; Sunday: 11 AM - 8 PM",
+      "days_open": "Monday - Sunday",
+      "admission": "Free",
+      "website": "https://www.glass-jug.com",
+      "phone": "(919) 813-0135",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/59443e289de4bb8e25172588/1506541046009-TRWRTURA4V6E4KKSLDHB/diamond-fire-trim-navy-text-white%403x.png",
+      "highlights": [
+        "'On-site microbrewery producing unique, experimental beer batches in the \"Beer Lab\" ([The Glass Jug Beer Lab)', 'Extensive retail bottle shop with over 500 varieties of craft beer, wine, cider, and mead (The Glass Jug Beer Lab)', 'Large outdoor beer garden equipped with smokeless fire pits and tabletop fire pits for year-round enjoyment (The Glass Jug Beer Lab)', '9-hole disc golf putting course that begins in the beer garden and winds through the property (The Glass Jug Beer Lab)', 'Weekly rotation of food trucks and community events such as trivia, live music, and the \"Glass Jog\" run club (The Glass Jug Beer Lab)', 'Inclusive and family-friendly atmosphere with a focus on local community involvement (The Glass Jug Beer Lab)']"
+      ],
+      "tips": "Check the online calendar for the rotating food truck schedule and join the weekly Glass Jog run club on Tuesdays for a social exercise experience. During cooler months, you can purchase firewood on-site to enjoy the smokeless fire pits in the beer garden.",
+      "nearby": "Research Triangle Park, Solite Park, and the American Tobacco Trail (Google Maps)"
+    },
+    {
+      "name": "Clouds Brewcade + Kitchen",
+      "category": "Restaurant, Bar, Entertainment",
+      "description": "Clouds Brewcade + Kitchen is a unique venue in Durham's historic Brightleaf Square that combines a craft brewery with a lively arcade atmosphere. Guests can enjoy a diverse selection of house-brewed beers and German-inspired cuisine while playing a variety of classic and modern games. It is a popular spot for both sports fans and families, offering multiple TVs and a pet-friendly patio (Official Website).",
+      "address": "905 W Main St #22, Durham, NC 27701",
+      "city": "Durham",
+      "region": "East Durham / Brightleaf",
+      "hours": "Monday: Closed; Tuesday: 12:00 PM - 9:00 PM; Wednesday: 12:00 PM - 9:00 PM; Thursday: 12:00 PM - 10:00 PM; Friday: 12:00 PM - 11:00 PM; Saturday: 11:00 AM - 11:00 PM; Sunday: 11:00 AM - 8:00 PM (Official Website)",
+      "days_open": "Tuesday - Sunday",
+      "admission": "Free (General Admission); individual prices for games and drinks apply (SimpleTix, Wanderlog)",
+      "website": "https://www.cloudsbrewing.com",
+      "phone": "919.251.8096 (Official Website)",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/592b235859cc6892f601724f/1505077511906-ER533LZRXNI0D7A7OL0D/DSC_0242.JPG?format=1500w",
+      "highlights": [
+        "['Over 50 taps featuring Clouds Brewing core beers and rotating guest drafts', \"'Downpour Experience' self-serve beer wall using RFID wristband technology\", 'Full-service kitchen with German-inspired dishes like Giant Pretzels and Bratwurst', 'Large arcade area with a mix of classic and contemporary games and pool tables', 'Sports-friendly environment with NFL Sunday Ticket and numerous big-screen TVs', 'Dog-friendly outdoor patio seating perfect for people-watching']"
+      ],
+      "tips": "Visit on Thursday evenings for trivia night starting at 7:30 PM. Enjoy weekend brunch from 11:00 AM to 3:00 PM on Saturdays and Sundays. Parking is available in a small lot directly behind the building or in the larger city lot on Main Street (Official Website).",
+      "nearby": "Brightleaf Square, The Durham Hotel, Pizzeria Toro, Mateo Bar De Tapas, Dame's Chicken & Waffles (Tripadvisor)"
+    },
+    {
+      "name": "Proximity Brewing Company",
+      "category": "Bar / Brewery",
+      "description": "Proximity Brewing Company is Durham's first Black-owned brewery, located in the historic Garland Court of East Durham. It focuses on crafting approachable, hop-forward beers while celebrating the rich cultural heritage and entrepreneurial spirit of the community. Proximity Brewing, WRAL",
+      "address": "491 S Driver St, Durham, NC 27703, United States",
+      "city": "Durham",
+      "region": "East Durham / Brightleaf",
+      "hours": "Monday: Closed, Tuesday: Closed, Wednesday: 2 PM - 10 PM (historical), Thursday: 2 PM - 10 PM (historical), Friday: 2 PM - 12 AM (historical), Saturday: 12 PM - 12 AM (historical), Sunday: 12 PM - 8 PM (historical) Axios, Drugstore Divas, Proximity Brewing Facebook",
+      "days_open": "Wednesday - Sunday (Historical; Taproom closed as of March 2026) Proximity Brewing, News & Observer",
+      "admission": "Free (Taproom entry; beer prices vary) Yelp, Triangle on the Cheap",
+      "website": "https://www.proximitybrewing.com",
+      "phone": "(919) 797-9342",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/642c514ca45b6e451d82ef1e/10d29c4b-cb83-4b36-97d6-fe8c7e9b7d67/proximity_patch.png?format=1500w",
+      "highlights": [
+        "\"Durham's first Black-owned brewery [WRAL\", 'Flagship beers like \"Close Proximity\" West Coast IPA and \"Hayti Haze\" IPA Proximity Brewing', 'Host of the annual Blacktoberfest festival celebrating Black-led breweries Discover Durham', 'Collaborations with local North Carolina brands and minority-owned businesses WRAL', 'Focus on community-centric space and East Durham revitalization The Triangle Weekender', 'Indoor bar, cozy lounge area, and outdoor patio Blavity']"
+      ],
+      "tips": "While the physical taproom closed in March 2026, you can still find their beers via wholesale partners and local distribution. Check their \"Beer Finder\" on the website for availability at other Triangle locations. Proximity Brewing, News & Observer",
+      "nearby": "Dame’s Chicken and Waffles, Congress Social Bar, Pauli Murray Center for History and Social Justice, American Tobacco Trail News & Observer, Komoot"
+    },
+    {
+      "name": "The Federal",
+      "category": "Restaurant, Bar",
+      "description": "The Federal is a celebrated neighborhood cornerstone in Durham's Brightleaf District, offering elevated pub grub and a robust selection of microbrews. Known for its cozy atmosphere featuring vintage beer memorabilia and a popular outdoor patio, it has served as a Main Street mainstay for over 20 years. The menu highlights modern takes on classic bar food, including their signature garlic fries and beer-braised carnitas.",
+      "address": "914 West Main Street",
+      "city": "Durham",
+      "region": "East Durham / Brightleaf",
+      "hours": "Monday - Thursday: 11:30 AM - 12:00 AM; Friday: 11:30 AM - 2:00 AM; Saturday: 10:00 AM - 2:00 AM; Sunday: 10:00 AM - 12:00 AM",
+      "days_open": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday (7 days a week)",
+      "admission": "Free",
+      "website": "https://thefederal.net",
+      "phone": "(919) 680-8611",
+      "image_url": "https://static.spotapps.co/spots/41/3bb76c0f82421192199f271cdc2d54/full",
+      "highlights": [
+        "['Abundant beer list featuring 16 microbrews on tap', 'Signature \"Fed Fries\" – fresh-cut, twice-cooked with garlic and parsley', 'Lively outdoor seating and patio area', 'Late-night food menu available daily', 'Unique interior decor with vintage beer memorabilia and leather booths', 'Local favorite for over two decades in the historic Brightleaf Square area']"
+      ],
+      "tips": "Try the pimento cheese deviled eggs or the steak frites, which are highly recommended by regulars. If you prefer a quieter dining experience, aim to arrive before 6:30 PM as the venue becomes very lively and spirited later in the evening. Don't forget to ask for the red pepper aioli to accompany your order of fries.",
+      "nearby": "Brightleaf Square, Duke University East Campus, Downtown Durham, Devine's Grill and Sports Bar, Trolley Pub Durham"
+    },
+    {
+      "name": "West Point on the Eno (Durham Parks & Recreation)",
+      "category": "Park (Durham Parks & Recreation)",
+      "description": "West Point on the Eno is a 404-acre natural and historic city park located along a scenic two-mile stretch of the Eno River in Durham, North Carolina (Durham Parks & Recreation). It offers a unique combination of outdoor recreation and historical preservation, featuring a reconstructed grist mill, a photography museum, and a mid-19th-century farmhouse (Wikipedia). Visitors can enjoy five miles of hiking trails, picnicking, fishing, and paddling in a serene river setting that has remained largely unchanged for centuries (Eno River Association).",
+      "address": "5101 N Roxboro St, Durham, NC 27704 (Durham Parks & Recreation)",
+      "city": "Durham (Wikipedia)",
+      "region": "North Durham",
+      "hours": "Park Gates: Monday-Sunday 8:00 AM - Dusk; McCown-Mangum House & Hugh Mangum Museum of Photography: Saturday-Sunday 12:00 PM - 4:00 PM (mid-January to mid-December); West Point Mill is currently closed until further notice (Durham Parks & Recreation)",
+      "days_open": "Daily (Durham Parks & Recreation)",
+      "admission": "Free for all visitors (Eno River Association)",
+      "website": "https://www.dprplaymore.org/facilities/facility/details/West-Point-on-the-Eno-76",
+      "phone": "(919) 471-1623 (Eno River Association)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/West_Point_Mill.jpg",
+      "highlights": [
+        "'Historic West Point Grist Mill, a reproduction colonial-era mill ([Wikipedia)', 'McCown-Mangum House, a restored 1850s farmhouse (Durham Parks & Recreation)', 'Hugh Mangum Museum of Photography, featuring historic 19th-century photography equipment and negatives (Eno River Association)', 'Five miles of scenic hiking trails, including sections of the Mountains-to-Sea Trail (Tripadvisor)', 'Canoe and kayak access to the scenic Eno River (Discover Durham)', 'Natural Play Space for children and picnic facilities (Wikipedia)']"
+      ],
+      "tips": "Wear sturdy shoes for the rocky river trails and bring a picnic to enjoy by the water (Tripadvisor). Building tours are limited to weekend afternoons, so plan your visit accordingly (Durham Parks & Recreation).",
+      "nearby": "Eno River State Park, Museum of Life + Science, Duke Homestead State Historic Site, Sarah P. Duke Gardens (Tripadvisor)"
+    }
+  ]
+}

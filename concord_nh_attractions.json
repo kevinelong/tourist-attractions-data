@@ -1,0 +1,1020 @@
+{
+  "title": "Concord, NH Area Tourist Attractions",
+  "generated": "2026-05-12",
+  "total_attractions": 53,
+  "regions_covered": [
+    "Downtown / Capitol District",
+    "South End / Penacook",
+    "Merrimack Valley",
+    "Day Trips"
+  ],
+  "attractions": [
+    {
+      "name": "Broken Ground Conservation Area (Broken Ground Trails)",
+      "category": "Park / Conservation Area",
+      "description": "The Broken Ground Conservation Area features a five-square-mile expanse of diverse physical features, including forests, wetlands, and glacial boulders. The area remained largely undeveloped since 1725 and now offers over five miles of hiking and mountain biking trails that meander through historical homestead remains and environmentally sensitive beaver ponds. (Concord, NH Document Center)",
+      "address": "South Curtisville Rd or Portsmouth St trailhead parking",
+      "city": "Concord",
+      "region": "Downtown / Capitol District",
+      "hours": "Open daily from dawn to dusk (Concord, NH)",
+      "days_open": "Daily (Concord, NH)",
+      "admission": "Free (Concord, NH)",
+      "website": "https://www.concordnh.gov/facilities/facility/details/Map-30-Broken-Ground-Trails-103",
+      "phone": "603-225-8515 (Concord Conservation Commission)",
+      "image_url": "https://www.concordnh.gov/ImageRepository/Document?documentID=9179",
+      "highlights": [
+        "'Over 5 miles of multi-use trails for hiking and mountain biking ([Concord, NH)', 'Historical remains of the Edmond Curtis and Benjamin Kimball homesteads (Trail Finder)', 'Scenic overlooks of active beaver ponds and diverse wetlands (Concord, NH Document Center)', 'Glacial boulders and unique topography left by retreating glaciers (Trail Finder)', 'Abundant wildlife viewing opportunities including great blue herons and beavers (Concord, NH Document Center)', 'Interconnected loops like the Marsh Loop and Howard C. Nowell Trail (Komoot)']"
+      ],
+      "tips": "Keep dogs leashed, especially near sensitive beaver ponds, and stay on marked trails to protect the natural habitat. Be prepared for country hiking conditions as some trails can be long or rough. (Concord, NH)",
+      "nearby": "Oak Hill, Merrimack River Outdoor Education & Conservation Area (Forest Society), and Downtown Concord (Visit Concord NH)"
+    },
+    {
+      "name": "CATCH Neighborhood Housing (Concord Area Trust for Community Housing)",
+      "category": "Affordable Housing / Non-profit Organization",
+      "description": "CATCH Neighborhood Housing is a community-based nonprofit organization that has been creating safe, affordable, quality housing opportunities in Merrimack County for over 30 years. They manage a portfolio of over 370 affordable rental units and provide homeownership and financial education through their HOMEteam partnership.",
+      "address": "105 Loudon Road, Unit One",
+      "city": "Concord",
+      "region": "Downtown / Capitol District",
+      "hours": "Monday: 9:00 AM - 4:00 PM, Tuesday: 9:00 AM - 4:00 PM, Wednesday: 9:00 AM - 4:00 PM, Thursday: 9:00 AM - 4:00 PM, Friday: 9:00 AM - 4:00 PM, Saturday: Closed, Sunday: Closed",
+      "days_open": "Monday - Friday",
+      "admission": "Free",
+      "website": "https://www.catchhousing.org",
+      "phone": "603.225.8835",
+      "image_url": "https://static.wixstatic.com/media/c599fe_9b73db951f104fe981e8404458eaa235~mv2.jpg",
+      "highlights": [
+        "['Manages over 370 affordable rental apartments across Merrimack County, including historic renovations.', 'Provides comprehensive homebuyer and financial education through the HOMEteam partnership program.', 'Resident Services Program connects individuals and families with critical community resources and support systems.', 'Over 35 years of experience in real estate development and community strengthening in New Hampshire.', 'Chartered member of NeighborWorks, ensuring high standards of community development and advocacy.', 'Focuses on workforce housing to support local businesses and the regional economy.']"
+      ],
+      "tips": "Prospective renters should visit the official website to view current property listings and eligibility requirements. Individuals interested in homeownership can register for financial fitness and education classes via HOMEteam. It is recommended to call ahead to schedule an appointment for in-person services at the Concord office.",
+      "nearby": "Keach Park, Black Olive Pottery Studio, Steeplegate Mall, and the Heights neighborhood shops."
+    },
+    {
+      "name": "Canterbury Shaker Village",
+      "category": "Museum / Landmark",
+      "description": "Canterbury Shaker Village is a National Historic Landmark and museum dedicated to preserving the heritage of the Canterbury Shakers through its 29 historic buildings and nearly 700 acres of scenic landscape. The village interprets 200 years of Shaker life, emphasizing simplicity, community, and innovation through guided tours, exhibits, and educational programs (Canterbury Shaker Village) (Visit White Mountains).",
+      "address": "288 Shaker Road",
+      "city": "Canterbury",
+      "region": "Downtown / Capitol District",
+      "hours": "Grounds & Trails: Daily, Dawn to Dusk; Village Store: Saturday & Sunday, 10:00 AM – 4:00 PM; Tours/Museum: Reopening May 16, 2026, typically 10:00 AM – 4:00 PM (Canterbury Shaker Village)",
+      "days_open": "Daily (Grounds and Trails); Seasonal for Village buildings and tours (Canterbury Shaker Village)",
+      "admission": "Adults: $25.00; Youth (6-17): $12.00; Children (under 6): Free; Members: Free; Grounds and Trails: Free (Canterbury Shaker Village) (TripAdvisor)",
+      "website": "https://www.shakers.org/",
+      "phone": "603-783-9511",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Canterbury_Shaker_Village_Meetinghouse.jpg",
+      "highlights": [
+        "['25 original and 4 reconstructed Shaker buildings across a historic campus', 'Nearly 700 acres of forests, open fields, stone walls, and mill ponds', 'Guided indoor and outdoor tours interpreting Shaker history and daily life', 'Nature trails and traditional Shaker gardens open year-round', 'A National Historic Landmark preserving one of the most intact Shaker communities', 'The Village Store featuring Shaker-inspired gifts and locally made crafts']"
+      ],
+      "tips": "Visitors are encouraged to wear sturdy, comfortable walking shoes for uneven dirt and gravel paths. Allow 2-3 hours to fully explore the village. Dress in layers as most historic buildings lack heating or air conditioning. Picnics are welcome on the grounds as there is no full-service dining facility (Canterbury Shaker Village) (Coast2CoastWithKids).",
+      "nearby": "New Hampshire State House, McAuliffe-Shepard Discovery Center, Tanger Outlets Tilton, Oak Hill Fire Tower (Visit - Canterbury Shaker Village)"
+    },
+    {
+      "name": "Capitol Center for the Arts",
+      "category": "Entertainment / Performing Arts Center",
+      "description": "The Capitol Center for the Arts is a premier non-profit performing arts venue in Concord, New Hampshire, featuring the historic 1,304-seat Chubb Theatre and the modern Bank of NH Stage (Capitol Center for the Arts). It serves as the region's cultural hub, hosting a diverse array of events including Broadway tours, national musical acts, comedy shows, and community performances (Wikipedia).",
+      "address": "44 S Main St, Concord, NH 03301",
+      "city": "Concord",
+      "region": "Downtown / Capitol District",
+      "hours": "Box Office: Monday 12PM-6PM, Tuesday 12PM-6PM, Wednesday 12PM-6PM, Thursday 12PM-6PM, Friday 12PM-6PM, Saturday & Sunday Closed (except show days). The Box Office also opens one hour prior to every performance (Capitol Center for the Arts). Administrative Offices: Monday-Friday 9AM-5PM (Capitol Center for the Arts).",
+      "days_open": "Monday - Friday (Regular Hours) and Performance Days",
+      "admission": "Ticket prices vary significantly by performance, typically ranging from $30.00 to over $130.00 (Vivid Seats, Event Tickets Center). For family and children’s performances, infants under 1 year are admitted free without a ticket (Capitol Center for the Arts).",
+      "website": "https://www.ccanh.com",
+      "phone": "603-225-1111",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Capitol_Center_for_the_Arts%2C_Concord_NH.jpg/800px-Capitol_Center_for_the_Arts%2C_Concord_NH.jpg",
+      "highlights": [
+        "'Features the historic Chubb Theatre, designed in 1927 with a unique Egyptian motif ([Wikipedia).', 'Includes the Bank of NH Stage, a versatile second venue for smaller, modern performances (Capitol Center for the Arts).', \"Home to the Governor's Hall, a full-service function room capable of hosting up to 350 guests (Capitol Center for the Arts).\", 'Includes the Kimball House, a stately 19th-century Victorian mansion available for private rentals (Capitol Center for the Arts).', 'Offers a wide variety of programming from classical music and dance to contemporary rock and community events (Capitol Center for the Arts).']"
+      ],
+      "tips": "Always purchase tickets directly from the official website to ensure validity and avoid inflated prices (Capitol Center for the Arts). Follow the venue's clear bag policy, which limits guests to one clear plastic bag (max 12\"x12\"x6\") or a small clutch (max 6.5\"x4.5\") (Capitol Center for the Arts). Arrive early as the lobby typically opens one hour before performances (Capitol Center for the Arts).",
+      "nearby": "The Friendly Toast, Gibson's Cafe, The Barley House, Revival Kitchen & Bar, and the New Hampshire State House (Capitol Center for the Arts)."
+    },
+    {
+      "name": "Concord City Auditorium (The Audi)",
+      "category": "Entertainment / Community Theater",
+      "description": "The Concord City Auditorium, affectionately known as \"The Audi,\" is a historic landmark theater that has served as a hub for community-based arts since 1904. Owned by the City of Concord and maintained through a dedicated volunteer partnership, it hosts over 100 events annually including theater, dance, and the renowned free Walker Lecture Series theaudi.org, Visit Concord NH.",
+      "address": "2 Prince Street, Concord, NH 03301 theaudi.org",
+      "city": "Concord",
+      "region": "Downtown / Capitol District",
+      "hours": "Box Office opens 90 minutes prior to scheduled performances; facility hours vary by event schedule theaudi.org, Community Players of Concord",
+      "days_open": "Open during scheduled performances and community meetings throughout the year theaudi.org",
+      "admission": "Varies by event; many community productions range from $15 to $30. The Walker Lecture Series and select community events are Free theaudi.org, Community Players of Concord",
+      "website": "https://www.theaudi.org/",
+      "phone": "603-344-4747 theaudi.org",
+      "image_url": "https://www.theaudi.org/Assets/Images/top/slide-resize3.jpg",
+      "highlights": [
+        "'Historic municipal theater opened in 1904 and meticulously restored to its original glory [theaudi.org', \"Longtime home to the Community Players of Concord, the city's oldest community theater group Community Players of Concord\", \"Hosts the free Walker Lecture Series, offering educational and cultural programs since the theater's opening theaudi.org\", 'Architectural features include a beautiful gilded proscenium arch and a 25-foot by 25-foot performance area concordnh.gov', 'Accommodates approximately 840 guests with orchestra, first balcony, and second balcony seating concordnh.gov', 'Managed via a unique public-private partnership between the city and the \"Friends of the Audi\" volunteer organization theaudi.org']"
+      ],
+      "tips": "Check the official online calendar for a full schedule of upcoming performances. For free Walker Lecture events, arrive early as seating is first-come, first-served. Street parking is available throughout the downtown area theaudi.org, Visit Concord NH.",
+      "nearby": "New Hampshire State House, Capitol Center for the Arts, New Hampshire Historical Society, Red River Theatres Visit Concord NH"
+    },
+    {
+      "name": "Concord Craft Brewing Co.",
+      "category": "Restaurant, Bar, Brewery",
+      "description": "Concord Craft Brewing Co. is a downtown brewery and taproom located in a historic 150-year-old building that focuses on hand-crafting fresh, flavorful beers locally. The facility features a state-of-the-art 15-barrel brewhouse and an expanded kitchen serving full meals such as burgers and flatbreads. Visitors can enjoy a wide range of beer styles, from their award-winning Safe Space NE-IPA to unique gluten-free options made from quinoa. Concord Craft Brewing Co., Tripadvisor",
+      "address": "117 Storrs Street",
+      "city": "Concord",
+      "region": "Downtown / Capitol District",
+      "hours": "Taproom: Tue 3:00 PM - 8:00 PM, Wed-Thu 3:00 PM - 9:00 PM, Fri-Sat 12:00 PM - 9:00 PM, Sun 12:00 PM - 7:00 PM; Kitchen: Tue 3:00 PM - 8:00 PM, Wed-Thu 3:00 PM - 8:30 PM, Fri-Sat 12:00 PM - 8:30 PM, Sun 12:00 PM - 6:30 PM Concord Craft Brewing Co.",
+      "days_open": "Tuesday–Sunday Concord Craft Brewing Co.",
+      "admission": "Free (Beer tasters $3.50-$4.50, Flights $13-$16) Concord Craft Brewing Co.",
+      "website": "https://www.concordcraftbrewing.com",
+      "phone": "(603) 856-7625 Concord Craft Brewing Co.",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/61dd8fbd94a4aa70c56c7481/8ef8d6b8-4607-47eb-974a-e82b2048264f/CONCORD+CRAFT+BREWING+CO.+%288%29.png?format=1500w",
+      "highlights": [
+        "'Safe Space NE-IPA, named 2021 Best NH-Made Beer [Concord Craft Brewing Co.', 'Historic 150-year-old building location in downtown Concord Concord Craft Brewing Co.', 'Full-service taproom and kitchen serving meals like flatbreads and burgers Concord Craft Brewing Co.', 'Outdoor front patio with seasonal activities like corn-hole and a putting green Concord Craft Brewing Co.', 'Innovative beer selection including naturally gluten-free options Concord Craft Brewing Co.']"
+      ],
+      "tips": "Reservations are not accepted; call ahead to check seating availability for large groups. Dogs are allowed on the front patio from May to November but are not permitted inside. The brewery is family-friendly and offers a children's menu and high chairs. Concord Craft Brewing Co.",
+      "nearby": "Concord Antiques, New Hampshire State House, New Hampshire Historical Society, Red River Theatres, Bicentennial Square Tripadvisor, Havenwood Heritage Heights"
+    },
+    {
+      "name": "Concord Historical Society",
+      "category": "Museum / Historical Society",
+      "description": "The Concord Historical Society is a non-profit organization dedicated to promoting public awareness, understanding, and appreciation of the history and traditions of Concord, New Hampshire. Established in 2003, it focuses on discovering, collecting, and preserving historical materials, as well as providing educational programs and advocating for the preservation of historic properties. Concord Historical Society",
+      "address": "266 N. Main St.",
+      "city": "Concord",
+      "region": "Downtown / Capitol District",
+      "hours": "Operates primarily through scheduled public programs, exhibits, and guided field trips. Its office is situated at the Kimball-Jenkins Estate. Concord Historical Society, Kimball-Jenkins Estate",
+      "days_open": "Activities and events are announced periodically; official office is located within the Kimball-Jenkins Estate. Concord Historical Society",
+      "admission": "Admission details not explicitly listed for this specific society; however, its mission focuses on public programs, exhibits, and guided field trips. Most resources and networking opportunities are provided via its website and memberships. Membership dues are required for formal joining, but many historical resources and articles are available online. Concord Historical Society, Join",
+      "website": "https://concordhistoricalsociety.org/",
+      "phone": "Not explicitly listed on the official website; inquiries are handled via an online contact form or email (info@concordhistoricalsociety.org). Contact Us",
+      "image_url": "https://concordhistoricalsociety.org/wp-content/uploads/CHS_logo_v2.png",
+      "highlights": [
+        "\"Published 'Crosscurrents of Change: Concord, N.H. in the 20th Century' as a comprehensive historical resource. [Concord Historical Society\", 'Actively involved in preservation efforts for the historic Concord Gas Holder. Concord Historical Society', 'Created and buried a 2015 time capsule to be opened in 2065. Concord Historical Society', \"Maintains a digital timeline of Concord's history from 1650 to the present. Timeline\", 'Conducts oral history recordings with long-time residents for archival purposes. Concord Historical Society']"
+      ],
+      "tips": "Check the official website's news blog and Facebook page for the latest updates on upcoming events and new historical articles. Consider purchasing 'Crosscurrents of Change' for a deep dive into local 20th-century history. Concord Historical Society",
+      "nearby": "Kimball-Jenkins Estate, Pierce Manse, New Hampshire Historical Society, McAuliffe-Shepard Discovery Center, State House. Visit Concord"
+    },
+    {
+      "name": "Contoocook Cider Company (Official Website)",
+      "category": "Cidery, Farm, and Restaurant (Visit NH)",
+      "description": "Contoocook Cider Company is a micro-cidery located at the historic Gould Hill Farm, crafting premium hard ciders from over 100 varieties of apples. Visitors can enjoy tastings, live music, and scenic views of the White Mountains from the farm’s 1810 post-and-beam barn. (Official Website, Tripadvisor)",
+      "address": "656 Gould Hill Rd, Contoocook, NH 03229 (Official Website)",
+      "city": "Contoocook (Official Website)",
+      "region": "Downtown / Capitol District",
+      "hours": "Saturdays & Sundays: 12:00 PM – 5:00 PM (Winter/Spring); Summer Hours (starting June 26): Friday 4:00 PM – 8:00 PM, Saturday 12:00 PM – 8:00 PM, Sunday 12:00 PM – 7:00 PM (Official Website)",
+      "days_open": "Saturday and Sunday (plus Friday during summer hours) (Official Website)",
+      "admission": "Free admission to the farm and tasting room; cider flights of 4 for $12, full pours for $9 (Official Website)",
+      "website": "https://www.contoocookcider.com",
+      "phone": "(603) 746-1175 (Official Website)",
+      "image_url": "https://2b597e99e9884087bed3.cdn6.editmysite.com/uploads/b/dbe2e3c0-70ec-11ea-8ca8-45da56aeebe9/8EF74559-0376-426E-AF5A-10E8AEB3C4AB.jpeg",
+      "highlights": [
+        "'Award-winning ciders, including honors from the Seattle Cider Awards and US Cider Open ([Official Website)', 'Tasting room set in a historic 1810 barn with expansive 80-mile mountain views (NH Magazine, Tripadvisor)', 'Live music performances every weekend from 1:00 PM to 4:00 PM (Official Website)', 'On-site food menu featuring handmade pizzas, charcuterie plates, and hot pretzels (Official Website)', 'Ciders produced directly \"from tree to glass\" using heritage and heirloom apple varieties (Official Website)']"
+      ],
+      "tips": "The kitchen typically closes 30 minutes before the tasting room. Check social media for weather-related closures during winter months, and consider bringing sunscreen for the outdoor picnic area. (Official Website, Tripadvisor)",
+      "nearby": "Gould Hill Farm (same location), Beech Hill Farm & Ice Cream Barn, Dimond Hill Farm, Contoocook River Canoe Company (Tripadvisor)"
+    },
+    {
+      "name": "Dos Amigos Burritos (Dos Amigos Burritos)",
+      "category": "Restaurant (Tripadvisor)",
+      "description": "Dos Amigos Burritos was founded with the goal of providing fresh, healthy, and affordable Mexican food in a relaxed environment. The restaurant serves a diverse menu of customizable burritos, tacos, and bowls, including numerous options for vegetarian, vegan, and gluten-free diets (Dos Amigos Burritos).",
+      "address": "26 N Main Street, Concord, NH 03301 (Dos Amigos Burritos)",
+      "city": "Concord (Dos Amigos Burritos)",
+      "region": "Downtown / Capitol District",
+      "hours": "Monday: 11:00am - 9:00pm; Tuesday: 11:00am - 9:00pm; Wednesday: 11:00am - 8:00pm; Thursday: 11:00am - 8:00pm; Friday: 11:00am - 9:00pm; Saturday: 11:00am - 8:00pm; Sunday: 11:00am - 8:00pm (Dos Amigos Burritos)",
+      "days_open": "Daily (Dos Amigos Burritos)",
+      "admission": "Free (Tripadvisor)",
+      "website": "https://www.dosamigosburritos.com",
+      "phone": "603.410.4161 (Dos Amigos Burritos)",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/55f6f910e4b0304fcdd9f9b6/1664303426817-5EJLPJ8P3WAI9H7K6DS8/dos-amigos.jpg",
+      "highlights": [
+        "'Customizable burritos, tacos, and bowls ([Dos Amigos Burritos Menu)', 'Extensive selection of vegetarian, vegan, and gluten-free options (Dos Amigos Burritos)', 'Fresh ingredients prepared daily, including house-made salsas and guacamole (Dos Amigos Burritos Menu)', 'Use of locally sourced homemade tortillas (Wanderlog)', 'Relaxed, counter-serve dining atmosphere in the heart of downtown (Wanderlog)', 'Dedicated \"Kiddos\" menu featuring child-sized portions (Dos Amigos Burritos Menu)']"
+      ],
+      "tips": "Visitors can take advantage of weekly specials like \"Burrito Monday\" and \"Taco Tuesday\" for better deals (Dos Amigos Burritos Deals). The restaurant is also known for being accommodating to dietary requests, such as substituting yogurt for sour cream (Wanderlog).",
+      "nearby": "New Hampshire State House, Capitol Center for the Arts, New Hampshire Historical Society, Red River Theatres"
+    },
+    {
+      "name": "Downtown Concord Historic District",
+      "category": "Landmark / Historic District",
+      "description": "The Downtown Concord Historic District encompasses the commercial heart of New Hampshire's capital, featuring a remarkably well-preserved collection of 19th-century architecture. Centered on North and South Main Streets, the district serves as a vibrant hub for shopping, dining, and government activity, reflecting the city's growth from a 1734 incorporation to its status as a state capital. Visitors can explore a pedestrian-friendly environment that highlights the city's rich history through landmarks like the Merrimack County Bank building and the iconic Eagle Hotel.",
+      "address": "Main Street (roughly bounded by Centre St., Loudon Rd., Storrs St., Hills Ave., S. State, Green, School, Capitol, and Park Sts.), Concord, NH 03301",
+      "city": "Concord",
+      "region": "Downtown / Capitol District",
+      "hours": "District: Open 24/7 (Public Area); Visitor Center: Monday–Friday 8:30 AM–5:00 PM",
+      "days_open": "Daily",
+      "admission": "Free",
+      "website": "https://www.visitconcord-nh.com",
+      "phone": "(603) 224-2508",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Downtown_Concord_HD.JPG",
+      "highlights": [
+        "['Listed on the National Register of Historic Places since 2000.', 'Features a diverse range of architectural styles including Federal, Greek Revival, and late 19th-century commercial.', \"Home to significant landmarks such as the 1808 Merrimack County Bank building and the historic Stickney's Block.\", \"Redesigned 'Main Street' project providing wide, accessible sidewalks and enhanced public spaces.\", 'Central venue for major local events like the annual Market Days Festival and holiday parades.', 'Proximity to the New Hampshire State House and the surrounding Concord Civic District.']"
+      ],
+      "tips": "Explore the district on foot to best appreciate the historical markers and architectural details. Utilize the on-street parking or public garages on Storrs and State Streets; note that many shops have limited hours or are closed on Sundays. Download a self-guided walking tour map or use the New Hampshire Historical Society app to enhance your visit.",
+      "nearby": "New Hampshire State House, New Hampshire Historical Society, Pierce Manse, Capitol Center for the Arts, Eagle Square."
+    },
+    {
+      "name": "Eagle Hotel",
+      "category": "Landmark / Historic Building",
+      "description": "The Eagle Hotel is a historic five-story brick landmark in downtown Concord, NH, originally built in 1851 on the site of the Eagle Coffee House. It served as a premier meeting place for U.S. Presidents, state politicians, and celebrities for over a century before closing in 1961 and being added to the National Register of Historic Places. Today, the building houses offices and retail shops while remaining a central piece of the city's architectural heritage.",
+      "address": "110 North Main Street",
+      "city": "Concord",
+      "region": "Downtown / Capitol District",
+      "hours": "Exterior: Open 24 hours; Interior/Retail: Typically Mon-Fri 8:00 AM - 5:00 PM (varies by tenant)",
+      "days_open": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday (Exterior access)",
+      "admission": "Free (Exterior viewing and ground-floor retail access)",
+      "website": "https://www.visitconcord-nh.com/historic-walking-tour",
+      "phone": "(603) 271-2591 (NH Dept. of Business and Economic Affairs)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Eagle_Hotel%2C_Concord%2C_NH_%2849210901808%29.jpg",
+      "highlights": [
+        "['Hosted numerous U.S. Presidents including Franklin Pierce, Ulysses S. Grant, and Richard Nixon.', 'Strategically located directly across from the New Hampshire State House.', 'Listed on the National Register of Historic Places since 1978.', 'Features a unique 1890 fifth-story addition with a flat roof and decorative cornice.', 'An essential stop on the Downtown Concord Historic Walking Tour.', 'Purportedly named after the golden eagle perched atop the nearby State House dome.']"
+      ],
+      "tips": "The best vantage point for photos is from the State House plaza across Main Street. Visitors can explore the ground-floor retail shops to get a sense of the building's historic scale. For a deeper dive into its history, look for the historical markers nearby or follow the self-guided walking tour brochure available through the Chamber of Commerce.",
+      "nearby": "New Hampshire State House, Eagle Square, New Hampshire Historical Society, Phenix Hall, Capital Plaza"
+    },
+    {
+      "name": "Granite Restaurant & Bar",
+      "category": "Restaurant, Bar, Landmark",
+      "description": "The Granite Restaurant & Bar is a sophisticated dining venue located within the historic Centennial Hotel, a beautifully restored Queen Anne Victorian landmark that formerly served as the Margaret Pillsbury General Hospital. Under the direction of Chef Daniel Dionne, the restaurant offers an exquisite selection of New American cuisine with French, Mediterranean, and Asian influences, emphasizing locally sourced New England ingredients. Its intimate and swanky atmosphere makes it a premier destination for both casual elegant dining and special occasions in downtown Concord. The Centennial Hotel, Tripadvisor, Wanderlog",
+      "address": "96 Pleasant Street, Concord, NH 03301 Centennial Hotel, Tripadvisor",
+      "city": "Concord",
+      "region": "Downtown / Capitol District",
+      "hours": "Tuesday: 5:00 PM – 9:00 PM; Wednesday: 5:00 PM – 9:00 PM; Thursday: 5:00 PM – 9:00 PM; Friday: 5:00 PM – 10:00 PM; Saturday: 5:00 PM – 10:00 PM; Sunday: Closed; Monday: Closed Tripadvisor, Restaurantji",
+      "days_open": "Tuesday, Wednesday, Thursday, Friday, Saturday The Centennial Hotel, Restaurantji",
+      "admission": "Free to enter; menu prices range from $9–$20 for starters and $16–$45 for main courses OpenTable, Tripadvisor",
+      "website": "https://www.thecentennialhotel.com/graniterestaurant",
+      "phone": "(603) 227-9005 The Centennial Hotel, Tripadvisor",
+      "image_url": "https://images.trvl-media.com/lodging/1000000/50000/42700/42642/97dc9641.jpg",
+      "highlights": [
+        "'Award-winning New American cuisine with seasonal, locally sourced ingredients [FSR Magazine', 'Located inside the historic 19th-century Queen Anne Victorian Centennial Hotel The Centennial Hotel', 'Extensive wine list, recipient of the Wine Spectator’s Award of Excellence The Centennial Hotel', 'Intimate dining room with a capacity for 75 guests and private function space Tripadvisor', \"Known for its swanky Granite Bar and signature cocktails like the Tito's Espresso Martini NH Magazine, Tripadvisor\"]"
+      ],
+      "tips": "Reservations are highly recommended, especially on weekends, and guests should arrive early to admire the historic Victorian architecture of the building in daylight. Tripadvisor, Evendo",
+      "nearby": "New Hampshire State House, Capitol Center for the Arts, New Hampshire Historical Society, Red River Theatres, White Park Tripadvisor, Visit Concord NH"
+    },
+    {
+      "name": "Hatbox Theatre, LLC",
+      "category": "Entertainment / Performing Arts Venue",
+      "description": "Hatbox Theatre is an intimate, 99-seat performing arts space dedicated to fostering a cooperative community for local artists and audiences. Located in a former hat store, it hosts a diverse range of original plays, musicals, comedy, and magic shows, emphasizing high-impact, immersive experiences Hatbox Theatre, Karta.",
+      "address": "270 Loudon Road, Suite 1161 (Located at the Steeplegate Mall)",
+      "city": "Concord",
+      "region": "Downtown / Capitol District",
+      "hours": "Friday: 6:30 PM - 10:00 PM; Saturday: 6:30 PM - 10:00 PM; Sunday: 1:00 PM - 4:00 PM (Box office opens one hour prior to curtain; performance times typically 7:30 PM Fri/Sat and 2:00 PM Sun) Hatbox Theatre, Visit Concord NH",
+      "days_open": "Friday, Saturday, Sunday (Performance days); Other days vary by event.",
+      "admission": "Adults: $22; Students, Seniors, and Members: $19; Senior Members: $16 Hatbox Theatre",
+      "website": "https://hatboxnh.com",
+      "phone": "(603) 715-2315",
+      "image_url": "https://hatboxnh.com/wp-content/uploads/2015/10/1708-hbt-2020-hatboxheader4rvbestof2016rev1.jpg",
+      "highlights": [
+        "['Intimate 99-seat thrust-style theater where the audience sits just feet from the stage', 'Focus on locally-grown, original, and world-premiere productions', \"Rotating fine art exhibitions featured on the theatre's walls\", 'Cooperative community model involving local playwrights and troupes', 'Diverse programming including improv comedy, musicals, magic shows, and workshops', 'Award-winning venue recognized as \"Best of NH\" by New Hampshire Magazine']"
+      ],
+      "tips": "Arrive at least 20-30 minutes early as there is no late seating policy due to the intimate space layout. Note that Friday evening traffic on Loudon Road can be heavy, so allow extra travel time. The theatre has a separate exterior entrance and its own parking lot, so there is no need to enter the main mall Hatbox Theatre, Hatbox Theatre [archived summary].",
+      "nearby": "Steeplegate Mall, 99 Restaurant, McAuliffe-Shepard Discovery Center, Merrimack River (Everett Arena Boat Launch), Kimball Jenkins Estate, Red River Theatres, Capitol Center for the Arts Karta, Tripadvisor"
+    },
+    {
+      "name": "Kimball Jenkins School of Art",
+      "category": "Museum, School of Art, Historic Landmark",
+      "description": "Kimball Jenkins is a multi-use community cultural center and historic estate that has served the greater Concord area for over 40 years. The 3-acre campus features a grand 1882 Victorian Mansion and a Carriage House that host art galleries, studios, and education programs. Its mission is to cultivate creativity, make arts education accessible, and honor historic preservation. Kimball Jenkins Spacious Skies Campgrounds",
+      "address": "266 N Main St",
+      "city": "Concord",
+      "region": "Downtown / Capitol District",
+      "hours": "Monday-Thursday: 10:00 AM - 4:00 PM; Friday: 10:00 AM - 2:00 PM; Saturday: 10:00 AM - 1:00 PM; Sunday: Closed (Note: Gallery hours for specific exhibitions may vary, often extending to 6:00 PM on Mondays, Tuesdays, and Thursdays) Kimball Jenkins Kimball Jenkins Exhibitions",
+      "days_open": "Monday - Saturday (Closed Sunday) Kimball Jenkins",
+      "admission": "Free (Public art galleries and campus are free to visit; tuition varies for art classes) Tripadvisor Kimball Jenkins",
+      "website": "https://www.kimballjenkins.com",
+      "phone": "603-225-3932",
+      "image_url": "https://www.kimballjenkins.com/logo_combo.jpg",
+      "highlights": [
+        "['Historic 1882 Victorian Mansion with High Victorian Gothic architecture', 'Carolyn Jenkins Gallery and Jill C. Wilson Gallery featuring local artists', 'Extensive art education program with classes for toddlers to adults', 'Beautiful 3-acre historic campus with gardens and free public parking', 'Community events like the Fairy Festival and First Friday workshops', 'Former Carriage House used as active studio and gallery space']"
+      ],
+      "tips": "Admission to the galleries and grounds is free, making it an affordable cultural outing. Check the online calendar for 'First Fridays' and 'Lunch & Learn' series events. It is recommended to contact the office in advance if you wish to view specific studio spaces in the Carriage House. Kimball Jenkins Tripadvisor",
+      "nearby": "Franklin Pierce Manse, Concord Historic District, New Hampshire State House, League of NH Craftsmen Headquarters YouTube Visit Concord NH"
+    },
+    {
+      "name": "League of New Hampshire Craftsmen",
+      "category": "Art Gallery / Shopping Visit Concord",
+      "description": "The League of NH Craftsmen Concord Gallery showcases a diverse collection of traditional and contemporary fine craft, featuring exquisite handmade items created by talented regional artisans. Visitors can explore a wide range of crafts, including ceramics, handblown glass, jewelry, textiles, and woodwork, all created with precision and artistry. Concord Fine Arts Gallery",
+      "address": "49 South Main Street, Suite 100",
+      "city": "Concord",
+      "region": "Downtown / Capitol District",
+      "hours": "HQ Office: Mon - Thu 8:30 AM - 4:30 PM; Exhibition Gallery: Weekdays 10:00 AM - 4:00 PM (Saturdays 10 AM - 4 PM during exhibitions); Retail Gallery: Tue - Sat 10:00 AM - 5:00 PM League of New Hampshire Craftsmen, Concord Fine Arts Gallery",
+      "days_open": "Monday - Saturday League of New Hampshire Craftsmen",
+      "admission": "Free (Exhibition Gallery at HQ and Retail Gallery) League of New Hampshire Craftsmen",
+      "website": "https://nhcrafts.org/",
+      "phone": "603-224-3375 (HQ), 603-228-8171 (Concord Gallery) League of New Hampshire Craftsmen",
+      "image_url": "https://nhcrafts.org/wp-content/uploads/LNHC_Logo.svg",
+      "highlights": [
+        "\"Rotating displays of juried members' work in the Exhibition Gallery [Tripadvisor\", 'Grodin Permanent Collection Museum showcasing historic and modern crafts Tripadvisor', 'Live craft demonstrations by juried League members Concord Fine Arts Gallery', 'Wide selection of high-quality handmade jewelry, pottery, and glass Concord Fine Arts Gallery', \"Annual Craftsmen's Fair (held in August) League of New Hampshire Craftsmen\"]"
+      ],
+      "tips": "Two-hour metered parking is available on Main Street, and the Capital Commons Parking Garage is nearby. Parking is free after 5:00 PM and on Saturdays. League of New Hampshire Craftsmen",
+      "nearby": "Capitol Center for the Arts, New Hampshire Furniture Masters, Red River Theatres, Gibson's Bookstore, New Hampshire State House Visit Concord"
+    },
+    {
+      "name": "Main Street Concord (Downtown Concord Historic District) Visit Concord NH, Wikipedia",
+      "category": "Shopping, Dining & Culture District Islands",
+      "description": "Main Street Concord, often called \"New Hampshire's Main Street,\" is a vibrant and walkable downtown hub that underwent a massive $14 million revitalization to enhance its historic charm with widened sidewalks and public art. The district features a diverse collection of locally owned boutiques, upscale and casual dining, and prominent cultural venues housed in beautifully preserved 19th-century architecture. It serves as the primary center for community activities, commerce, and politics in the state's capital Visit Concord NH, Islands, Concord NH Official Website",
+      "address": "North and South Main Street (centered at 49 S Main St), Concord, NH 03301 Greater Concord Chamber of Commerce",
+      "city": "Concord Visit Concord NH",
+      "region": "Downtown / Capitol District",
+      "hours": "District: Open 24/7. Visitor Center: Mon-Fri 8:30 AM–5:00 PM; Sat-Sun Closed. Typical Retail: Mon-Sat 10:00 AM–6:00 PM, Sun 11:00 AM–5:00 PM (varies by business) Visit Concord NH, Tripadvisor",
+      "days_open": "Daily Concord NH Official Website",
+      "admission": "Free Visit Concord NH",
+      "website": "https://www.visitconcord-nh.com",
+      "phone": "(603) 224-2508 Visit Concord NH",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Main_Street%2C_Concord_NH.jpg",
+      "highlights": [
+        "'New Hampshire State House with its iconic eagle-topped gold dome [Visit Concord NH', \"Gibson's Bookstore, the oldest continuously operating independent retailer in the area Islands\", 'Capitol Center for the Arts, a premier performing arts destination Visit Concord NH', 'Red River Theatres, a boutique indie cinema Visit Concord NH', 'Extensive public art and sculpture installations throughout the streetscape Concord NH Official Website', 'Historic self-guided walking tour featuring over 60 architectural sites Visit Concord NH']"
+      ],
+      "tips": "Take advantage of New Hampshire's tax-free shopping environment. Parking is free on Sundays and after 7:00 PM on weekdays throughout the downtown area. For a deeper experience, download the historic walking tour brochure to identify the stories behind the 19th-century facades Visit Concord NH, Concord NH Official Website",
+      "nearby": "New Hampshire Historical Society, McAuliffe-Shepard Discovery Center, Pierce Manse, and the Contoocook Covered Bridge Visit Concord NH, Wikipedia"
+    },
+    {
+      "name": "Mary Baker Eddy Historic House",
+      "category": "Museum / Historic Landmark",
+      "description": "This stately Greek Revival house, built circa 1850, served as the residence for Mary Baker Eddy, the founder of Christian Science, from 1889 to 1892. During her tenure here, she completed the landmark 50th edition of her primary work, Science and Health with Key to the Scriptures, and established the educational system for her church. (Longyear Museum)",
+      "address": "62 North State St., Concord, NH 03301",
+      "city": "Concord",
+      "region": "Downtown / Capitol District",
+      "hours": "May 1 through October 31: Open by appointment only with at least 72-hour (three-day) notice (Longyear Museum)",
+      "days_open": "Open by appointment only (Longyear Museum)",
+      "admission": "Adults (18+): $10, Youths (7–17): $5, Children (under 7): Free, Members: Free (Longyear Museum)",
+      "website": "https://www.longyear.org/visit/historic-houses/concord-nh/",
+      "phone": "617.278.9000 (Longyear Museum)",
+      "image_url": "https://www.longyear.org/wp-content/uploads/2018/02/Concord_hero_3-1-1536x512.jpg",
+      "highlights": [
+        "'Guided tours of the historic rooms where Mary Baker Eddy lived and worked ([Longyear Museum)', 'Exhibit on \"Pleasant View,\" Mrs. Eddy\\'s subsequent home on the outskirts of Concord (Longyear Museum)', 'Original vibrant Victorian color scheme restored based on 2007 paint analysis (Longyear Museum)', 'Site where she completed the 50th edition of Science and Health with Key to the Scriptures (Longyear Museum)', \"Insightful displays on the life and legacy of one of America's most influential women (Tripadvisor)\"]"
+      ],
+      "tips": "Tours must be scheduled at least 72 hours in advance by calling the museum. Street parking is available directly in front of and to the north of the house. Guided tours typically last about 45 minutes. (Longyear Museum)",
+      "nearby": "New Hampshire State House, New Hampshire Historical Society, Pierce Manse, McAuliffe-Shepard Discovery Center, Kimball Jenkins Estate (Tripadvisor, Visit Concord)"
+    },
+    {
+      "name": "Mary Baker Eddy Historic House (Concord, NH)",
+      "category": "Museum / Historic House",
+      "description": "This historic mid-19th century house was the residence of Mary Baker Eddy, the founder of Christian Science, from 1889 to 1892. During her stay, she revised her seminal work, Science and Health with Key to the Scriptures, for its landmark fiftieth edition. Today, the museum features restored period furnishings and exhibits detailing her life in Concord and her nearby \"Pleasant View\" estate (Longyear Museum).",
+      "address": "62 North State St.",
+      "city": "Concord",
+      "region": "Downtown / Capitol District",
+      "hours": "Open by appointment only (minimum 72-hour notice required); call 617-278-9000 to schedule (Longyear Museum)",
+      "days_open": "May 1 – October 31 (Open by appointment) (Longyear Museum)",
+      "admission": "Adults (18+): $10; Youths (7–17): $5; Children (under 7): Free; Longyear Members: Free (Longyear Museum)",
+      "website": "https://www.longyear.org/visit/historic-houses/concord-nh/",
+      "phone": "617-278-9000 (Main), 603-225-3444 (Site) (Longyear Museum, Greater Concord Chamber of Commerce)",
+      "image_url": "https://www.longyear.org/wp-content/uploads/2018/02/Concord_hero_3-1-1536x512.jpg",
+      "highlights": [
+        "'Guided 45-minute tours exploring the life of Mary Baker Eddy ([Longyear Museum)', 'Restored rooms featuring mid-19th century period furnishings (Longyear Museum)', 'Detailed exhibit on \"Pleasant View,\" Mrs. Eddy\\'s former estate in Concord (Tripadvisor)', 'Historical site where the landmark 50th edition of Science and Health was prepared (Longyear Museum)', \"Exhibits describing Mrs. Eddy's childhood home in nearby Bow (Tripadvisor)\"]"
+      ],
+      "tips": "Tours involve standing, walking, and climbing stairs; the house is not wheelchair accessible. Backpacks, large bags, food, and drinks are not permitted inside. Personal photography with handheld devices is allowed (no flash or selfie sticks). Free street parking is available in front of and north of the house (Longyear Museum).",
+      "nearby": "New Hampshire State House, New Hampshire Historical Society, Pierce Manse, McAuliffe-Shepard Discovery Center, Capitol Center for the Arts (Greater Concord Chamber of Commerce)"
+    },
+    {
+      "name": "McAuliffe-Shepard Discovery Center",
+      "category": "Museum / Planetarium",
+      "description": "The McAuliffe-Shepard Discovery Center is a 45,000-square-foot air and space museum dedicated to New Hampshire space pioneers Christa McAuliffe and Alan Shepard. It features two floors of interactive exhibits on astronomy, aviation, and Earth science, alongside a state-of-the-art 10K planetarium and a full-scale rocket replica. Official Website, Wikipedia",
+      "address": "2 Institute Drive, Concord, NH 03301",
+      "city": "Concord",
+      "region": "Downtown / Capitol District",
+      "hours": "Wednesday - Sunday: 10:30 AM - 4:00 PM; Monday - Tuesday: Closed (Standard hours). Official Website",
+      "days_open": "Wednesday - Sunday (Standard); Daily during NH & MA school vacation weeks. Official Website",
+      "admission": "General Admission: Adults ($14.00), Students & Seniors ($13.00), Children ages 3-12 ($11.00), Members and Children ages 2 and under (Free). Planetarium Shows: $7.00 per person in addition to general admission (Free for members and children under age 3). Official Website",
+      "website": "https://www.starhop.com",
+      "phone": "(603) 271-7827",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/McAuliffeShepardDiscoveryCenter.jpg",
+      "highlights": [
+        "['92-foot tall Mercury-Redstone Rocket replica', 'Full-dome digital planetarium with 10K projection system', 'Jeanne Gerulskis Science Playground', 'Space Shuttle and lunar lander simulators', 'Vintage 1956 Crusader jet exhibit', 'Observatory for solar and night sky viewing (check for maintenance schedule)']"
+      ],
+      "tips": "Arrive at least 15 minutes before planetarium showtimes as seating begins 10 minutes prior; planetarium tickets are separate from general admission; parking is free; check the calendar for 'SkyWatch' events held on the first Friday night of each month. Official Website",
+      "nearby": "The Pierce Manse, New Hampshire State House, New Hampshire Historical Society, Susan N. McLane Audubon Center, Mary Baker Eddy Historic House. Visit NH"
+    },
+    {
+      "name": "McAuliffe-Shepard Discovery Center Official Website",
+      "category": "Science Museum / Planetarium Official Website, Wikipedia",
+      "description": "The McAuliffe-Shepard Discovery Center is a 45,000-square-foot air and space museum dedicated to New Hampshire space pioneers Christa McAuliffe and Alan Shepard. It features interactive exhibits on astronomy, aviation, and earth science, including a state-of-the-art 10K digital planetarium and an observatory. Official Website, Wikipedia",
+      "address": "2 Institute Drive, Concord, NH 03301 Official Website",
+      "city": "Concord Official Website",
+      "region": "Downtown / Capitol District",
+      "hours": "Monday: Closed; Tuesday: Closed; Wednesday: 10:30 AM – 4:00 PM; Thursday: 10:30 AM – 4:00 PM; Friday: 10:30 AM – 4:00 PM; Saturday: 10:30 AM – 4:00 PM; Sunday: 10:30 AM – 4:00 PM (Closed on most federal holidays) Official Website",
+      "days_open": "Wednesday – Sunday (Open daily during NH & MA school vacation weeks) Official Website",
+      "admission": "General Admission: Adults $14.00, Students & Seniors $13.00, Children (3-12) $11.00, Members/Children 2 and under Free. Planetarium Shows (add-on): $7.00 per person, Members/Children under 3 Free. Official Website",
+      "website": "https://www.starhop.com",
+      "phone": "(603) 271-7827 Official Website",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/McAuliffeShepardDiscoveryCenter.jpg",
+      "highlights": [
+        "'92-foot tall Mercury-Redstone rocket replica [Official Website', '10K high-resolution digital planetarium Official Website', 'Vintage 1956 XF8U-2 Crusader jet Wikipedia', 'Interactive Lunar Research Station exhibit Official Website', 'Jeanne Gerulskis Science Playground Official Website', 'Solar-equipped observatory for daytime and nighttime viewing Official Website']"
+      ],
+      "tips": "Plan to arrive at least 15 minutes before planetarium shows as seating begins early; planetarium tickets are an additional cost and must be purchased with general admission; parking is free on-site. Official Website",
+      "nearby": "NHTI Campus, Mary Baker Eddy Historic House, New Hampshire Historical Society, New Hampshire State House Visit Concord NH"
+    },
+    {
+      "name": "Merrill Park",
+      "category": "Park",
+      "description": "Merrill Park is a 15.9-acre community park located in East Concord, New Hampshire, that has been a recreational hub since its establishment in 1925. It offers a wide variety of amenities, including a seasonal swimming pool, lighted tennis courts, soccer and softball fields, and a large playground. The park also features scenic walking trails and a pond on its northern side, making it an ideal spot for both active sports and peaceful nature walks.",
+      "address": "27 Eastman Street",
+      "city": "Concord",
+      "region": "Downtown / Capitol District",
+      "hours": "Monday: Dawn - 10:00 PM, Tuesday: Dawn - 10:00 PM, Wednesday: Dawn - 10:00 PM, Thursday: Dawn - 10:00 PM, Friday: Dawn - 10:00 PM, Saturday: Dawn - 10:00 PM, Sunday: Dawn - 10:00 PM (Concord, NH Official Website)",
+      "days_open": "Monday - Sunday",
+      "admission": "Free for park entry; Pool access is free for Concord residents, while non-residents must purchase a pass ($175 for a family season pass or $25 for a 48-hour family pass) (Concord, NH Official Website, Macaroni KID Concord)",
+      "website": "https://www.concordnh.gov/facilities/facility/details/Merrill-Park-16",
+      "phone": "603-225-8690",
+      "image_url": "https://www.concordnh.gov/ImageRepository/Path?filePath=%2fdocuments%5c00000000-0000-0000-0000-000000000000%5c487%5c488%5c739%2fMerrillPlayground.jpg",
+      "highlights": [
+        "['Seasonal swimming pool with scheduled public swim hours', 'Lighted tennis courts for evening play', 'Large playground equipment for children of all ages', 'Multiple sports fields for soccer, softball, and Little League', 'Walking trails and a scenic pond on the north side', 'Covered picnic shelter available for rental gatherings']"
+      ],
+      "tips": "The covered picnic shelter is a popular spot for summer birthday parties and can be reserved through the Parks and Recreation Department. Visitors should note that the pond on the north side occasionally hosts kids’ fishing tournaments. While the park is open until 10:00 PM, the swimming pool has specific seasonal hours and requires non-residents to purchase passes in advance from the main office (Concord, NH Official Website, Concord, NH Official Website).",
+      "nearby": "Keach Park, Terrill Park, Kiwanis Waterfront Park, New Hampshire State House (Havenwood Heritage Heights, Concord, NH Official Website)"
+    },
+    {
+      "name": "New Hampshire Division of Historical Resources (NHDHR)",
+      "category": "Landmark / Government Office (NH Division of Historical Resources)",
+      "description": "The New Hampshire Division of Historical Resources (NHDHR) serves as the State Historic Preservation Office, established in 1974 to preserve and celebrate the state's irreplaceable historic resources. It provides stewardship and protection through programs like archaeology, project reviews, and the management of historic registers and grants (NH Division of Historical Resources, American Preservation).",
+      "address": "172 Pembroke Road",
+      "city": "Concord",
+      "region": "Downtown / Capitol District",
+      "hours": "Monday: 8:00 AM – 4:00 PM, Tuesday: 8:00 AM – 4:00 PM, Wednesday: 8:00 AM – 4:00 PM, Thursday: 8:00 AM – 4:00 PM, Friday: 8:00 AM – 4:00 PM, Saturday: Closed, Sunday: Closed (NH Division of Historical Resources)",
+      "days_open": "Monday - Friday (NH Division of Historical Resources)",
+      "admission": "Free (General office access; specific research tools like EMMIT+ may require a subscription or account) (NH Fish & Game, NH Division of Historical Resources)",
+      "website": "https://www.nhdhr.dncr.nh.gov/",
+      "phone": "603-271-3483 (NH Flood Hazards Handbook, NH Preservation Alliance)",
+      "image_url": "https://www.nhdhr.dncr.nh.gov/sites/g/files/ehbemt611/files/styles/full_width_desktop/public/2023-11/dhr-home-carousel-covered-bridge.jpg?itok=zQ6G-z_B",
+      "highlights": [
+        "'State Historic Preservation Office (SHPO) duties, including Section 106 federal reviews ([DNCR)', 'Management of the New Hampshire State Register of Historic Places (DNCR)', 'Administration of the NH Historical Highway Marker program in partnership with the DOT (Wikipedia)', 'Operation of EMMIT+, a comprehensive online mapping and inventory tool for historic resources (NH Division of Historical Resources)', 'State Archaeology program providing oversight and protection for archaeological sites (NH Division of Historical Resources)', 'Grant and incentive programs for historic preservation project funding (NH Division of Historical Resources)']"
+      ],
+      "tips": "Visitors looking for records or specific archaeological data are often encouraged to schedule an appointment in advance with the Records Coordinator. For broad historical research, the division's EMMIT+ online portal is the primary resource for mapping and inventory data (NH State Parks/DHR Form, NH Division of Historical Resources).",
+      "nearby": "NH Department of Natural and Cultural Resources, NH Fish & Game Department, McAuliffe-Shepard Discovery Center, New Hampshire Historical Society (NH Division of Historical Resources, Visit Concord)"
+    },
+    {
+      "name": "New Hampshire Furniture Masters Gallery",
+      "category": "Art Gallery / Museum",
+      "description": "The New Hampshire Furniture Masters Gallery is a non-profit exhibition space dedicated to preserving and advancing the tradition of fine furniture making in New England. It features museum-quality handcrafted pieces by a juried group of over 20 professional makers, showcasing rotating exhibitions that blend traditional craftsmanship with contemporary innovation Furniture Masters About.",
+      "address": "49 South Main Street, Suite 104",
+      "city": "Concord",
+      "region": "Downtown / Capitol District",
+      "hours": "Monday – Friday: 8:30 am – 5:00 pm; Saturday – Sunday: Closed Furniture Masters Gallery",
+      "days_open": "Monday – Friday Furniture Masters Gallery",
+      "admission": "Free (Gallery Exhibits); Ticketed events (e.g., The Main Event) approximately $50 - $75 NHPR, Currier Museum",
+      "website": "https://furnituremasters.org/",
+      "phone": "(603) 898-0242 Mightycause",
+      "image_url": "https://furnituremasters.org/wp-content/uploads/nh-furniture-masters-support-us-2-768x515.jpg",
+      "highlights": [
+        "'Rotating seasonal exhibitions featuring works by 20+ professional masters [Furniture Masters', 'Exhibition of furniture created through the Prison Outreach Program Furniture Masters Gallery', 'Collaborative displays with the League of NH Craftsmen and other regional arts organizations NHPR', 'Opportunities to purchase one-of-a-kind handcrafted functional art pieces Patch', \"Annual 'Main Event' fundraiser featuring auctions and meet-the-maker sessions Furniture Masters About\"]"
+      ],
+      "tips": "Visit during an opening reception to meet the artists and learn about their specific woodworking techniques. Most pieces on display are available for purchase if you are looking for unique, heirloom-quality furniture. Check the online catalog before visiting to see current featured makers Furniture Masters Gallery, Woodshop News.",
+      "nearby": "League of NH Craftsmen, Red River Theatres, Capitol Center for the Arts, New Hampshire Historical Society, New Hampshire State House Visit Concord NH"
+    },
+    {
+      "name": "New Hampshire Historical Society",
+      "category": "Museum / Historical Society / Library",
+      "description": "Founded in 1823, the New Hampshire Historical Society is an independent nonprofit organization dedicated to preserving and sharing the state's history (Official Site). Its headquarters is a 1911 landmark building listed on the National Register of Historic Places, housing a vast collection of artifacts, art, and a research library (Wikipedia).",
+      "address": "30 Park Street, Concord, NH 03301",
+      "city": "Concord",
+      "region": "Downtown / Capitol District",
+      "hours": "Monday: Closed, Tuesday: 9:30 a.m.–5 p.m., Wednesday: 9:30 a.m.–5 p.m., Thursday: 9:30 a.m.–5 p.m., Friday: 9:30 a.m.–5 p.m., Saturday: 9:30 a.m.–5 p.m., Sunday: Closed (Official Site). Closed on federal holidays.",
+      "days_open": "Tuesday through Saturday",
+      "admission": "Adults: $10; Members, children (18 and under), full-time students, and active military personnel and their families are Free (Official Site). NARM members receive reciprocal free or discounted admission (Official Site).",
+      "website": "https://www.nhhistory.org",
+      "phone": "603-228-6688 (Official Site)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/New_Hampshire_Historical_Society_headquarters_and_library.jpg",
+      "highlights": [
+        "'The historic 1911 Neoclassical headquarters building featuring a marble rotunda ([Official Site)', 'The \"Concord Coach\" exhibition showcasing a legendary 19th-century stagecoach (Official Site)', 'A renowned collection of 19th-century White Mountain landscape paintings (Official Site)', 'Extensive Native American artifacts and memorabilia from New Hampshire’s first-in-the-nation primaries (Official Site)', 'The original 1818 eagle that once sat atop the state capitol (Official Site)']"
+      ],
+      "tips": "Appointments are encouraged for research library visits to maximize time (Official Site). Metered parking is available on surrounding streets, and the building is fully accessible to visitors (Official Site).",
+      "nearby": "New Hampshire State House, McAuliffe-Shepard Discovery Center, The Pierce Manse, Mary Baker Eddy Historic House (Visit Concord NH)"
+    },
+    {
+      "name": "New Hampshire State House",
+      "category": "Landmark, Historic Site",
+      "description": "The New Hampshire State House is the oldest state capitol in the United States where the legislature still meets in its original chambers Wikipedia. Designed by architect Stuart Park and opened in 1819, the building houses the New Hampshire General Court, the Governor, and the Executive Council Wikimedia Commons.jpg). The capitol features a notable gold-leafed dome and granite exterior, serving as a prominent symbol of New Hampshire's government and history New Hampshire General Court.",
+      "address": "107 North Main Street, Concord, NH 03301",
+      "city": "Concord",
+      "region": "Downtown / Capitol District",
+      "hours": "Monday: 8:00 AM - 4:00 PM, Tuesday: 8:00 AM - 4:00 PM, Wednesday: 8:00 AM - 4:00 PM, Thursday: 8:00 AM - 4:00 PM, Friday: 8:00 AM - 4:00 PM, Saturday: Closed, Sunday: Closed New Hampshire General Court",
+      "days_open": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "admission": "Free (includes self-guided and guided tours) InDepthNH.org, WhichMuseum",
+      "website": "https://www.gencourt.state.nh.us/",
+      "phone": "(603) 271-2154 New Hampshire General Court",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/New_Hampshire_State_House%2C_Concord%2C_NH_%282004%29.jpg",
+      "highlights": [
+        "'The House Chamber is the oldest continuously used legislative chamber in the United States [Coast2CoastWithKids.', 'The Hall of Flags contains a historic collection of over 100 flags from various wars New Hampshire General Court.', 'The grounds feature several notable statues, including those of Daniel Webster, Franklin Pierce, and General John Stark Wikimedia Commons.jpg).', \"The second floor hallway displays over 80 portraits of New Hampshire's former governors Coast2CoastWithKids.\", 'A massive mural on the first floor depicts Pickett’s Charge during the Battle of Gettysburg Coast2CoastWithKids.', 'The state\\'s iconic motto \"Live Free or Die\" is displayed in the Governor\\'s Chamber and Reception Room Coast2CoastWithKids.']"
+      ],
+      "tips": "Guided tours are available by appointment for groups of 10 or more, while individuals can visit for self-guided tours during regular hours New Hampshire General Court. Visitors are required to remove hats and leave backpacks and food outside the building New Hampshire General Court. A cafe is located in the basement for visitors wanting to grab lunch during their stay Tripadvisor.",
+      "nearby": "New Hampshire Historical Society, Pierce Manse, Capitol Center for the Arts, McAuliffe-Shepard Discovery Center, Eagle Square, and the Concord Farmers Market Tripadvisor, Visit Concord NH"
+    },
+    {
+      "name": "North Main Street (Downtown Concord Historic District)",
+      "category": "Historic District / Shopping & Dining Hub",
+      "description": "North Main Street is the historic and commercial heart of Concord, often referred to as 'New Hampshire's Main Street.' Following a major revitalization, it serves as a vibrant hub for dining, boutique shopping, and cultural landmarks, featuring wide brick sidewalks and preserved 19th-century architecture. Islands, Visit Concord NH",
+      "address": "North Main Street, Concord, NH 03301",
+      "city": "Concord",
+      "region": "Downtown / Capitol District",
+      "hours": "Street access: 24/7; Typical business hours: Monday–Friday 9:00 AM–6:00 PM, Saturday 10:00 AM–5:00 PM (Many restaurants and theaters open later; First Fridays stay open until 8:00 PM) Intown Concord, Visit Concord NH",
+      "days_open": "Monday - Sunday (Individual business and attraction hours vary) Visit Concord NH, Intown Concord",
+      "admission": "Free (Access to the street and historic district is free; individual museums or sites like the Pierce Manse or State House may have specific tour fees) Visit Concord NH, Cloud9Tubs Guide",
+      "website": "https://www.visitconcord-nh.com",
+      "phone": "(603) 226-2150 (Intown Concord) / (603) 224-2508 (Greater Concord Chamber of Commerce) Intown Concord, Visit Concord NH",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Main_Street%2C_Concord_NH.jpg",
+      "highlights": [
+        "'New Hampshire State House: The oldest US statehouse still in operation with its original chambers. [Patch, Cloud9Tubs', 'The Pierce Manse: The former home of 14th U.S. President Franklin Pierce. Wikipedia, Visit Concord NH', 'Phenix Hall: A historic 19th-century venue that hosted notable figures like Abraham Lincoln and Theodore Roosevelt. Lost New England', 'Eagle Square & Clock Tower: A picturesque community gathering spot in the heart of the downtown area. Visit Concord NH', \"Gibson's Bookstore: One of the oldest independent retailers in New England, operating since 1898. Islands\"]"
+      ],
+      "tips": "Take advantage of the wide, heated sidewalks which stay clear of snow in winter. Be sure to check out 'Arts Alley' for hidden local talent and creative vibes. Visit Concord NH, Wikipedia",
+      "nearby": "Capitol Center for the Arts, Red River Theatres, New Hampshire Historical Society, and the Merrimack River Greenway Trail. Visit Concord NH, Cloud9Tubs Guide"
+    },
+    {
+      "name": "Phenix Hall (The Phenix Block)",
+      "category": "Landmark, Entertainment, Music Hall",
+      "description": "Phenix Hall is a historic landmark and performing arts venue in downtown Concord, originally built in 1855 and rebuilt in 1894 after a fire. It has served as a central hub for social, cultural, and political life, famously hosting speeches by Presidents Abraham Lincoln and Theodore Roosevelt. The venue is currently part of a major restoration project to return it to its former glory as a premier music and function hall. Phenix Block, Visit Concord",
+      "address": "40 N Main St",
+      "city": "Concord",
+      "region": "Downtown / Capitol District",
+      "hours": "Music Hall: Wednesday - Saturday nights; Private Events: Sunday - Tuesday The Phenix Plan",
+      "days_open": "Wednesday - Saturday (Public Music Hall); Sunday - Tuesday (Private Events) The Phenix Plan",
+      "admission": "Free (events may have a cover charge) The Phenix Plan",
+      "website": "https://www.thephenixblock.com/",
+      "phone": "(603) 225-7737 Phenix Block",
+      "image_url": "https://www.thephenixblock.com/images/logos/Phenix_Block_Logo_W.png",
+      "highlights": [
+        "'Hosted Abraham Lincoln for a speech on slavery in 1860 [History', 'Theodore Roosevelt delivered a campaign speech at the venue in 1912 History', 'Features a magnificent 36-foot antique Brunswick back bar built in 1900 The Phenix Plan', 'Serves as a multi-purpose venue for music, theater, weddings, and political events Visit Concord', 'Undergoing a major restoration to modernize capacity and accessibility Phenix Block']"
+      ],
+      "tips": "Check the official website for upcoming live music and special events, as the venue is primarily open during these times. It is located in the heart of downtown, making it easily walkable from nearby landmarks like the State House. Airial Travel, Visit Concord",
+      "nearby": "New Hampshire State House, Capitol Center for the Arts, New Hampshire Historical Society, Eagle Hotel, Bicentennial Square Evendo"
+    },
+    {
+      "name": "Pope Memorial SPCA of Concord-Merrimack County",
+      "category": "Animal Shelter",
+      "description": "The Pope Memorial SPCA of Concord-Merrimack County is a non-profit organization dedicated to the protection and welfare of animals. It provides shelter, medical care, and adoption services for homeless pets while offering community programs like low-cost vaccination clinics and a pet food pantry. Pope Memorial SPCA",
+      "address": "94 Silk Farm Rd",
+      "city": "Concord",
+      "region": "Downtown / Capitol District",
+      "hours": "Walk-In Visiting Hours: Tuesday, Wednesday, Friday: 1:00 PM – 4:00 PM; Thursday: 1:00 PM – 6:00 PM; Saturday: 12:00 PM – 2:00 PM. Closed Sunday and Monday. Adoptions also available by appointment Tuesday through Saturday. Pope Memorial SPCA",
+      "days_open": "Tuesday, Wednesday, Thursday, Friday, Saturday",
+      "admission": "Admission to the facility is free for visiting. Adoption fees are as follows: Dogs: $350 - $450; Senior Dogs: $175; Cats: $50 - $150; Kittens: $225; Barn Cats: $50; Small Animals: $25 - $75. Senior and Military discounts available. Pope Memorial SPCA",
+      "website": "https://www.pmspca.org",
+      "phone": "603-856-8756",
+      "image_url": "https://static.wixstatic.com/media/893c83_7f6004943f2149b188c039773820245f~mv2.jpg/v1/fill/w_640,h_426,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/BHEC%20exterior.jpg",
+      "highlights": [
+        "'Comprehensive pet adoption services for dogs, cats, and small animals. [Pope Memorial SPCA', 'Low-cost vaccination and spay/neuter clinics for the community. Pope Memorial SPCA', 'Pet Food Pantry providing temporary assistance to pet owners in need. Pope Memorial SPCA', 'Humane education programs including Compassion Camp for kids and Yoga with Shelter Pets. Pope Memorial SPCA', 'Pet Therapy and Paws to Read programs connecting people with animals. Pope Memorial SPCA']"
+      ],
+      "tips": "While walk-ins are welcome during visiting hours, it is recommended to schedule an appointment for adoptions or surrenders to ensure staff availability. Visitors are encouraged to check the online adoptable pets list and complete an application before arriving to streamline the process. Pope Memorial SPCA",
+      "nearby": "McLane Center (NH Audubon), Silk Farm Wildlife Sanctuary, McAuliffe-Shepard Discovery Center, New Hampshire State House. NH Audubon, Visit Concord"
+    },
+    {
+      "name": "Portsmouth Downtown Historic District",
+      "category": "Landmark / Historic District",
+      "description": "The Portsmouth Downtown Historic District encompasses the historic urban core and vibrant waterfront of New Hampshire's principal seaport. With a history dating back to 1630, the district features more than 1,200 historically significant buildings including fine colonial and Federal-era residences, traditional craft demonstrations, and reminders of the city's maritime importance. Wikipedia, Portsmouth Historical Society",
+      "address": "10 Middle Street (Portsmouth Historical Society / Welcome Center)",
+      "city": "Portsmouth",
+      "region": "Downtown / Capitol District",
+      "hours": "Portsmouth Historical Society & Welcome Center: Monday: 10:00 AM – 5:00 PM, Tuesday: 10:00 AM – 5:00 PM, Wednesday: 10:00 AM – 5:00 PM, Thursday: 10:00 AM – 5:00 PM, Friday: 10:00 AM – 5:00 PM, Saturday: 10:00 AM – 5:00 PM, Sunday: 10:00 AM – 5:00 PM. (Note: Seasonal hours vary for historic homes). Portsmouth Historical Society",
+      "days_open": "Open daily year-round (some individual historic houses operate seasonally from May to October). Portsmouth Historical Society",
+      "admission": "Portsmouth Downtown Historic District: Free to walk. Portsmouth Historical Society: $10 General, $5 Discount (Ages 5-18, Seniors 63+, Students), $15 Family, Free for Members. Dual Site (includes John Paul Jones House): $15 General, $10 Discount, $20 Family. Walking Tours: $20. All-in-One: $25. Portsmouth Historical Society",
+      "website": "https://portsmouthhistory.org/",
+      "phone": "(603) 436-8433",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Congress_Street%2C_Portsmouth_NH.jpg",
+      "highlights": [
+        "['Market Square: The lively heart of downtown featuring iconic 17th-century architecture and local shops.', 'Strawbery Banke Museum: A 10-acre outdoor living history museum with dozens of restored homes.', 'John Paul Jones House: A National Historic Landmark and 1758 home where the Revolutionary war hero once stayed.', 'Portsmouth Harbor Trail: A scenic walking route connecting major historic landmarks and the waterfront.', 'Prescott Park: A beautiful waterfront park known for its lush gardens and summer arts festivals.', \"North Church: The historic church in Market Square with a steeple that defines the city's skyline.\"]"
+      ],
+      "tips": "The district is extremely walkable, so wear comfortable shoes to explore the narrow historic streets and brick sidewalks. Consider booking a guided walking tour at the Portsmouth Historical Society in advance, as they offer deep insights into the city's 400-year history. Go Portsmouth NH, Portsmouth Historical Society",
+      "nearby": "Portsmouth Naval Shipyard, Isles of Shoals Steamship Company, Odiorne Point State Park, Albacore Park (USS Albacore Submarine Museum). Tripadvisor"
+    },
+    {
+      "name": "Red River Theatres, Inc.",
+      "category": "Entertainment (Arthouse Cinema) (Red River Theatres)",
+      "description": "Red River Theatres is a non-profit, three-screen arthouse cinema located in the heart of downtown Concord. It offers a diverse program of independent films, documentaries, foreign films, and classics, aimed at fostering community engagement through the art of film (Red River Theatres).",
+      "address": "11 S. Main Street, Suite L1-1, Concord, NH 03301",
+      "city": "Concord",
+      "region": "Downtown / Capitol District",
+      "hours": "Box Office: Mon-Thu typically opens at 3:30 PM (closing around 8:30 PM); Fri-Sun typically opens around 12:30 PM (closing around 9:00 PM). Note: The Box Office opens 30 minutes before the first show and closes 30 minutes after the last show begins (Red River Theatres)",
+      "days_open": "Monday - Sunday (Red River Theatres)",
+      "admission": "Evening Shows (5 PM or later): Regular $13.50, Student/Senior (62+)/Military $10.75, Member $10.00; Matinees (before 5 PM): All Ages $10.75, Member $9.00 (Red River Theatres)",
+      "website": "https://redrivertheatres.org",
+      "phone": "603-224-4600 (Red River Theatres)",
+      "image_url": "https://redrivertheatres.org/wp-content/uploads/2018/11/about-header.jpg",
+      "highlights": [
+        "'State-of-the-art facility featuring three screens, including the intimate Jaclyn Simchik Memorial Cinema ([Red River Theatres)', 'The Indie Cafe offers a unique concessions selection including beer, wine, local sandwiches, and gourmet chocolates (Visit NH)', 'Diverse programming ranging from newly-released independent gems to special sing-along events and cult favorites (Red River Theatres)', 'Commitment to the local community as a non-profit organization funded by community efforts and donations (Red River Theatres)', 'Exhibition of local and regional art in its dedicated art gallery space (Red River Theatres)']"
+      ],
+      "tips": "Purchase tickets in person or over the phone to avoid online processing fees. Parking is available in the attached Capital Commons garage, which offers direct theater access from Level 2 (Red River Theatres, Red River Theatres)",
+      "nearby": "Capital Center for the Arts, New Hampshire Historical Society, McAuliffe-Shepard Discovery Center, and Bicentennial Square (Tripadvisor)"
+    },
+    {
+      "name": "Susan N. McLane Audubon Center (New Hampshire Audubon)",
+      "category": "Nature Center & Wildlife Sanctuary (Tripadvisor)",
+      "description": "The Susan N. McLane Audubon Center is New Hampshire Audubon’s longest-established center and serves as the organization’s central operations hub. Located within the Silk Farm Sanctuary, it features a LEED Gold-certified green building, nature trails, and various wildlife exhibits. Visitors can explore a reptile room, raptor mews, and pollinator gardens while participating in year-round environmental education programs (NH Audubon).",
+      "address": "84 Silk Farm Road, Concord, NH 03301",
+      "city": "Concord",
+      "region": "Downtown / Capitol District",
+      "hours": "Wednesday–Saturday: 11am–5pm; Sunday–Tuesday: Closed (Sanctuary trails: open dawn to dusk daily) (NH Audubon)",
+      "days_open": "Wednesday through Saturday (Trails open daily) (NH Audubon)",
+      "admission": "Free (donations welcome); Snowshoe rentals: $15 for non-members, FREE for members; Binocular rentals: $5 for non-members, FREE for members (NH Audubon)",
+      "website": "https://nhaudubon.org/center-and-events/mclane-center-concord/",
+      "phone": "(603) 224-9909 (NH Audubon)",
+      "image_url": "https://nhaudubon.org/wp-content/uploads/Green_Building-scaled.jpg",
+      "highlights": [
+        "'Interactive nature trails and the Silk Farm Wildlife Sanctuary ([NH Audubon)', 'Raptor mews housing live birds of prey (NH Audubon)', 'Pollinator gardens with a virtual tour option (NH Audubon)', 'LEED Gold-certified green building and eco-friendly architecture (NH Audubon)', 'On-site Nature Store and educational reptile room (NH Audubon)', 'Seasonal snowshoe and binocular rentals for trail exploration (NH Audubon)']"
+      ],
+      "tips": "Groups of 5 or more should contact staff before visiting. Check the online calendar for special events like the Pollinator Fest or Native Plant Sale. Snowshoes can be rented when there is at least 6 inches of snow on the ground (NH Audubon).",
+      "nearby": "McAuliffe-Shepard Discovery Center, Winant Park Hiking Trails, New Hampshire Historical Society, Carter Hill Orchard (Tripadvisor)"
+    },
+    {
+      "name": "The Barley House Restaurant & Tavern The Barley House",
+      "category": "Restaurant & Bar Tripadvisor",
+      "description": "The Barley House Restaurant & Tavern is a beloved culinary gem in historic downtown Concord, known for its convivial atmosphere and elevated pub grub. It features an extensive selection of craft beers and Irish whiskies, serving as a community hub for over 20 years The Barley House, New Hampshire Fly.",
+      "address": "132 North Main Street The Barley House",
+      "city": "Concord The Barley House",
+      "region": "Downtown / Capitol District",
+      "hours": "Sunday - Saturday: 11:30 am - 10:00 pm The Barley House",
+      "days_open": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday The Barley House",
+      "admission": "Free; specific events like Dueling Pianos may require tickets The Barley House",
+      "website": "https://www.thebarleyhouse.com",
+      "phone": "(603) 228-6363 The Barley House",
+      "image_url": "https://popmenucloud.com/cdn-cgi/image/width%3D1920%2Cheight%3D1920%2Cfit%3Dscale-down%2Cformat%3Dauto%2Cquality%3D60/rapmbjxi/aa7a2e44-6529-406c-b6a3-3b9c0d22b17a.png",
+      "highlights": [
+        "'Award-winning burgers including the signature Dublin Burger [Yelp', 'Extensive selection of over 20 craft beers on tap and a large Irish whiskey list Taste of the Seacoast', 'Live entertainment featuring Traditional Irish Sessions on Tuesdays and Trivia on Thursdays The Barley House', 'Two distinct dining floors including a lively Taproom and the B-Lounge New Hampshire Fly', 'Prime location directly across from the historic New Hampshire State House New England Travel Journal']"
+      ],
+      "tips": "Try the signature Dublin Burger, a local favorite. Visit on Tuesdays for the Live Traditional Irish Session and $6 Guinness specials. Reservations are recommended for weekends to avoid wait times The Barley House, Evendo.",
+      "nearby": "New Hampshire State House, New Hampshire Historical Society, Mary Baker Eddy Historic House, White Park, McAuliffe-Shepard Discovery Center Evendo"
+    },
+    {
+      "name": "The Pierce Manse",
+      "category": "Museum",
+      "description": "The Pierce Manse is the only home ever owned and lived in by Franklin Pierce, the 14th President of the United States. This Greek Revival house, which the Pierce family occupied from 1842 to 1848, was saved from demolition in 1971 and moved to its current location in Concord's historic district. Today, the museum offers guided tours that showcase 19th-century domestic life through period furnishings, personal artifacts, and primary source documents (Official Website).",
+      "address": "14 Horseshoe Pond Lane",
+      "city": "Concord",
+      "region": "Downtown / Capitol District",
+      "hours": "Monday: Closed (Private tours by appointment); Tuesday: Closed (Private tours by appointment); Wednesday: Closed (Private tours by appointment); Thursday: 10:00 AM – 3:00 PM; Friday: 10:00 AM – 3:00 PM; Saturday: 10:00 AM – 3:00 PM; Sunday: Closed (Private tours by appointment) (Official Website)",
+      "days_open": "Thursdays, Fridays, Saturdays (Seasonal: late May – October) (Official Website)",
+      "admission": "Adults: $10.00, Seniors: $9.00, Children: $5.00, Family: $25.00, Private tours: $15.00 per person (Official Website)",
+      "website": "https://piercemanse.org",
+      "phone": "(603) 715-5566 (Official Website)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Pierce_Manse%2C_Concord%2C_NH_IMG_2756.JPG",
+      "highlights": [
+        "'Guided tours of the mid-19th century Greek Revival home ([Official Website)', 'Collection of personal artifacts and furniture owned by the Pierce family (Tripadvisor)', 'Educational short film detailing the life and presidency of Franklin Pierce (Tripadvisor)', 'On-site gift shop featuring historical books and local crafts (Karta)', 'Seasonal living history events and special programs (Official Website)', 'Restored period rooms reflecting pre-Civil War American family life (Wikipedia)']"
+      ],
+      "tips": "Tours are seasonal (late May to October); private tours can be scheduled year-round with three days' notice. Free on-street parking and wheelchair accessibility are available (Official Website). Plan for about one hour to complete the guided tour (Tripadvisor).",
+      "nearby": "Kimball Jenkins Estate, McAuliffe-Shepard Discovery Center, Mary Baker Eddy Historic House, New Hampshire Historical Society, New Hampshire State House (Tripadvisor)"
+    },
+    {
+      "name": "Wadleigh State Park",
+      "category": "Park",
+      "description": "Wadleigh State Park is a scenic recreation area located on the southeast shore of the 170-acre Kezar Lake in North Sutton, New Hampshire. The park is renowned for its tall pines that provide ample shade for picnic sites adjacent to a sandy beach, making it an ideal destination for families and quiet retreats. Visitors can enjoy swimming in crystal-clear waters, fishing, and boating, with opportunities to paddle to a small island or hike a three-mile loop around the lake.",
+      "address": "78 Wadleigh State Park Road",
+      "city": "Sutton",
+      "region": "Downtown / Capitol District",
+      "hours": "Park Store: Monday-Friday 11:00 AM - 3:00 PM, Weekends/Holidays 10:00 AM - 6:00 PM; Park typically staffed during the main season (June-September).",
+      "days_open": "Open weekends starting May 23, full-time from June 12 through September 7; recreation available year-round.",
+      "admission": "Adults (12+): $4; Children (6-11): $2; Children (5 and under): Free; NH Residents (65+): Free",
+      "website": "https://www.nhstateparks.org/find-parks-trails/wadleigh-state-park",
+      "phone": "603-927-4724",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/USA_New_Hampshire_relief_location_map.svg/500px-USA_New_Hampshire_relief_location_map.svg.png",
+      "highlights": [
+        "['Sandy beach on the shores of crystal-clear Kezar Lake', 'Shaded picnic areas under tall pines and hemlocks with grills and tables', 'Boat rentals including kayaks, canoes, and paddleboards for lake exploration', 'Three-mile loop walking trail around the lake with views of Mount Kearsarge', 'Small island on the lake featuring abundant wild blueberries for paddlers to visit', \"Sports facilities including a baseball field and a children's playground area\"]"
+      ],
+      "tips": "Parking is limited and can fill up quickly on nice weekends and holidays, so making a day-use reservation up to 30 days in advance is highly recommended. Note that pets are strictly not permitted in the park, and visitors should follow the Carry-In/Carry-Out policy for trash. Lifeguards are not typically on duty, so swimming is at your own risk. Pack a cooler as there is no snack bar on-site, though a general store is within walking distance.",
+      "nearby": "Muster Field Farm Museum, Follansbee Inn, Mount Kearsarge, The Fells Historic Estate & Gardens, John Hay National Wildlife Refuge, New London Barn Playhouse, Flying Goose Brew Pub & Grille, Winslow State Park."
+    },
+    {
+      "name": "Water Country",
+      "category": "Water Park / Entertainment",
+      "description": "Water Country is New England's largest water park, featuring 26 acres of family-friendly fun and adventure. Established over 40 years ago, it offers more than 40 rides and attractions, ranging from high-thrill slides to dedicated kiddie areas. Water Country About",
+      "address": "2300 Lafayette Road",
+      "city": "Portsmouth",
+      "region": "Downtown / Capitol District",
+      "hours": "Mon-Fri: 10:00 AM — 5:00 PM (until mid-July, then 10:00 AM — 6:00 PM); Sat-Sun: 10:00 AM — 6:00 PM. Water Country Calendar",
+      "days_open": "Seasonal (Daily from June 6th through Labor Day) Water Country Calendar",
+      "admission": "Opening Kickoff (by July 7): $32.99 online; Dated Admission: $42.99 online; Any Day Ticket: $49.99 online; Military: $30.99; Children under 2: Free. Gate prices: $39.99-$59.99. Water Country Tickets",
+      "website": "https://www.watercountry.com",
+      "phone": "(603) 427-1112 Water Country Contact",
+      "image_url": "https://hfe.widen.net/content/bnhcm9uleh/web/21_SNY_LazyRiver_018.jpg",
+      "highlights": [
+        "[\"Giant Wave Pool (New England's largest)\", 'Adventure River lazy float', \"Dragon's Den immersive slide experience\", 'Dr. Von Dark’s Tunnel of Terror high-speed slide', 'Tahiti Tree House for kids', 'Pirates Lagoon interactive play area']"
+      ],
+      "tips": "Plan a full day to explore the entire 26-acre park. Buy tickets online in advance to save on gate prices and use the 'Rainy Day Guarantee' if weather affects your visit. Stay hydrated and consider renting a cabana for a home base. Water Country Visitor Guide",
+      "nearby": "Albacore Park, Wallis Sands State Beach, Odiorne Point State Park, Strawberry Banke Museum"
+    },
+    {
+      "name": "White Park",
+      "category": "Park",
+      "description": "White Park is a historic 25-acre public park established in 1884 through a land donation by Armenia White in memory of her husband. Designed by renowned architect Charles Elliott, the park features a picturesque man-made pond, mature shade trees, and rolling hills that serve as a year-round destination for recreation and community events. It is listed on the National Register of Historic Places and is home to one of Concord's most beloved playgrounds and its premier outdoor winter skating rink. (Concord NH Official Website, Wikipedia))",
+      "address": "1 White Street",
+      "city": "Concord",
+      "region": "Downtown / Capitol District",
+      "hours": "Park: Daily, Dawn to Dusk; Merrimack Lodge (Public Hours): Wed 4:00 PM – 7:00 PM, Sat-Sun 1:00 PM – 4:00 PM; Splash Pad (Summer): Mon–Fri 10:00 AM – 7:00 PM, Sat–Sun 10:00 AM – 4:00 PM (Concord NH Official Website, Airial Travel)",
+      "days_open": "Daily (Airial Travel)",
+      "admission": "Free (General Entry); $5 for winter skate rentals; Rental fees apply for lodge use (Concord NH Official Website)",
+      "website": "https://www.concordnh.gov/facilities/facility/details/white-park-21",
+      "phone": "603-225-8690 (Concord Parks & Recreation)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/en/e/e5/WhiteParkConcordNHOct2023.jpg",
+      "highlights": [
+        "['Monkey Around Playground: A large, all-inclusive, and wheelchair-accessible play structure.', 'White Park Pond: A scenic centerpiece used for nature viewing and as a premier outdoor ice skating rink in winter.', 'Athletic Facilities: Includes professionally maintained baseball/softball fields, basketball courts, and a roller hockey rink.', 'Seasonal Splash Pad: A modern water play area installed in 2023 for summer cooling.', 'Merrimack Lodge: A community building available for public hours and private rentals.', 'Walking Trails: Paved and well-maintained paths perfect for jogging, dog walking, and scenic strolls.']"
+      ],
+      "tips": "Use the main parking lot at 1 White Street for direct access to the playground and lodge; no alcohol is permitted anywhere in the park or lodge facilities; visit during the autumn for some of the city's best fall foliage; check the Parks & Recreation Facebook page for the most current updates on seasonal facility openings and ice conditions. (Concord NH Official Website, White Mountain IT Services)",
+      "nearby": "University of New Hampshire School of Law, Downtown Concord shops and cafes, Blossom Hill Cemetery (Wikipedia), NeighborhoodScout)"
+    },
+    {
+      "name": "Lithermans Limited Brewing Company",
+      "category": "Brewery",
+      "description": "Lithermans Limited Brewing Company is a Concord-based brewery that creates unique, artisan ales and lagers with a musical theme, often featuring \"musical spins on classical styles.\" Established in 2016, the brewery offers a tasting lounge and an outdoor patio where visitors can enjoy fresh brews alongside live music and rotating food trucks. Official Website, New Hampshire Magazine",
+      "address": "126B Hall Street, Concord, NH 03301-3447",
+      "city": "Concord",
+      "region": "South End / Penacook",
+      "hours": "Thursday: 4:00 PM – 8:00 PM; Friday: 4:00 PM – 8:00 PM; Saturday: 12:00 PM – 8:00 PM; Sunday: 12:00 PM – 6:00 PM Official Website",
+      "days_open": "Thursday - Sunday Official Website",
+      "admission": "Free (No cover charge for events like Trivia or Sunday Music Series) Official Website",
+      "website": "https://lithermans.beer",
+      "phone": "603-219-0784 Official Website",
+      "image_url": "https://lithermans.beer/wp-content/uploads/2020/05/lithermans-limited-brewery-logo-white-concord-new-hampshire-nh-craft-beer-e1588949972778.png",
+      "highlights": [
+        "['Musical-themed beers with unique artisan styles', 'Weekly Sunday Music Series featuring live local musicians', 'Trivia Thursdays with prizes and gift cards', 'Rotating local food trucks like Teenie Wienies and Goodfellas Grub', 'Monthly Open Mic Night on the fourth Friday', 'Family-friendly atmosphere with non-alcoholic options available']"
+      ],
+      "tips": "Visit on Thursdays for Trivia starting at 6:00 PM or on Sundays for live music beginning at 1:30 PM. The brewery is family-friendly, and while there is no kitchen, they frequently host local food trucks; check their Facebook page for the latest schedule. Official Website",
+      "nearby": "McAuliffe-Shepard Discovery Center, Rollins Park, Winant Park, Red River Theatres, Gibson's Bookstore Visit Concord NH"
+    },
+    {
+      "name": "Marjory Swope Park (at Penacook Lake)",
+      "category": "Park",
+      "description": "Marjory Swope Park is a 77-acre conservation area in West Concord that offers a scenic network of trails surrounding Penacook Lake, the city's primary water supply. Donated in 2012 as a memorial to a local conservationist, the park features diverse landscapes including pine forests, open meadows, and dramatic granite outcroppings. It serves as a gateway to a larger network of interconnected conserved lands, providing popular routes for hiking, mountain biking, and wildlife viewing. Visit Concord NH, Five Rivers Conservation Trust",
+      "address": "Long Pond Road",
+      "city": "Concord",
+      "region": "South End / Penacook",
+      "hours": "6:00 AM - 11:00 PM Daily",
+      "days_open": "Daily",
+      "admission": "Free",
+      "website": "https://www.concordnh.gov/Facilities/Facility/Details/77",
+      "phone": "603-225-8515 (Conservation Commission)",
+      "image_url": "https://www.concordnh.gov/ImageRepository/Document?documentID=9084",
+      "highlights": [
+        "['Panoramic views of Penacook Lake from the Blue Loop trail vista points.', 'The summit of Jerry Hill, offering vistas of southwestern New Hampshire landmarks like Mount Monadnock.', 'Gilfillan Rock, a massive and historically significant granite outcropping.', 'Historical foundation of a former 360-degree observation tower on the summit trail.', 'Interconnected trail system linking to Winant Park and Carter Hill Orchard.']"
+      ],
+      "tips": "The Blue Loop is the most popular for lake views; use the Yellow or Orange trails for a steeper climb to the summit. The park is pet-friendly but dogs must remain leashed. Parking is available at the trailhead on Long Pond Road, approximately 0.75 miles from Hopkinton Road. City of Concord Trail Guide",
+      "nearby": "Carter Hill Orchard, Winant Park, St. Paul's School campus, Downtown Concord"
+    },
+    {
+      "name": "Prescott Park",
+      "category": "Park",
+      "description": "Prescott Park is a scenic ten-acre waterfront park in Portsmouth, New Hampshire, offering stunning views of the Piscataqua River and the Memorial Bridge. Established in the 1930s through the bequest of the Prescott sisters, the park features meticulously maintained formal gardens, public docks, and historical structures. It serves as a major cultural hub, most notably hosting the Prescott Park Arts Festival which brings outdoor theater, concerts, and family events to the community each summer. Wikipedia), City of Portsmouth",
+      "address": "105 Marcy Street",
+      "city": "Portsmouth",
+      "region": "South End / Penacook",
+      "hours": "Monday - Sunday: Open 24 hours Prescott Park Arts Festival",
+      "days_open": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
+      "admission": "Free (Suggested donation for Arts Festival: $5 for movies/camp shows, $8 for musicals, $15 for concerts) Prescott Park Arts Festival",
+      "website": "https://www.portsmouthnh.gov/prescottpark",
+      "phone": "(603) 610-7208 (City), (603) 436-2848 (Arts Festival) Evendo, Prescott Park Arts Festival",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Prescott_Park.jpg",
+      "highlights": [
+        "'Formal Garden and Liberty Gardens featuring seasonal floral displays [City of Portsmouth', 'Prescott Park Arts Festival summer concert and theater series Prescott Park Arts Festival', 'Public docks for boaters on the Piscataqua River City of Portsmouth', \"Historical Sheafe Warehouse and The Players' Ring theater Wikipedia)\", 'Waterfront views of the Memorial Bridge and Portsmouth Naval Shipyard Access Navigators', 'Proximity to Four Tree Island for picnicking Travel by Brit']"
+      ],
+      "tips": "Unattended blankets or chairs for performances may not be placed in the park before 3:00 PM (or 4 hours before an event). Free seasonal garden tours are offered on Fridays at 11:00 AM and 1:00 PM during the summer. Paid parking is available at the adjacent Strawbery Banke Museum lot for $15 during evening events. Prescott Park Arts Festival, City of Portsmouth",
+      "nearby": "Strawbery Banke Museum, Memorial Bridge, Point of Graves Cemetery, Peirce Island, Wentworth-Gardner House, Moffatt-Ladd House & Garden Lonely Planet, Evendo"
+    },
+    {
+      "name": "Rollins Park",
+      "category": "Park",
+      "description": "Established in 1892 through a land donation by Governor Frank West Rollins, this 34-acre park is a cornerstone of the South End community. It features the city's largest public pool, a destination playground, and a historic stone bridge and gazebo that are popular for weddings. The park serves as a year-round hub for recreation, offering everything from summer swimming and sports to winter ice skating. (City of Concord, Airial Travel)",
+      "address": "33 Bow St (Parking) / 116 Broadway St (Park Entrance)",
+      "city": "Concord",
+      "region": "South End / Penacook",
+      "hours": "Park: Dawn until 10:00 PM daily; Pool (Summer): Mon-Fri 12:30 PM - 4:30 PM & 6:00 PM - 7:30 PM, Sat-Sun 12:30 PM - 4:30 PM (City of Concord, Macaroni KID)",
+      "days_open": "Daily (Year-round)",
+      "admission": "Free for Concord residents; Non-residents: $20-$25 for a 48-hour family pass or $125-$175 for a season family pass (City of Concord, Patch)",
+      "website": "https://www.concordnh.gov/facilities/facility/details/rollins-park-17",
+      "phone": "603-225-8690 (City of Concord)",
+      "image_url": "https://www.concordnh.gov/ImageRepository/Document?documentID=4256",
+      "highlights": [
+        "[\"Home to Concord's largest public outdoor swimming pool\", 'Historic stone bridge and gazebo, popular for wedding ceremonies', 'Destination playground and paved walking paths throughout the grounds', 'Athletic facilities including baseball, softball, and field hockey fields', 'Seasonal ice skating rink constructed during the winter months', 'Paved walking paths and scenic picnic shelters']"
+      ],
+      "tips": "The pool is free for residents but requires an ID; non-residents should purchase passes in advance at the Parks and Recreation office. The gazebo and bridge area is a beautiful spot for photos, especially during wedding season. During the winter, check the local recreation calendar for the opening of the seasonal ice rink. (City of Concord, Airial Travel)",
+      "nearby": "Winant Park Hiking Trails, Tucker's Restaurant, The Common Man Concord, Memorial Field (Tripadvisor, 10 Federal Storage)"
+    },
+    {
+      "name": "South End, Concord, NH",
+      "category": "Neighborhood / Residential District",
+      "description": "The South End is a historic and well-established residential neighborhood in Concord, New Hampshire, characterized by a mix of mid-20th-century homes and historic Victorian architecture. It offers a peaceful, walkable suburban atmosphere while providing quick access to downtown amenities and the Interstate 93 corridor. The neighborhood is particularly favored by families and commuters for its proximity to parks, schools, and major transportation routes.",
+      "address": "South End Area (Central location: 33 Bow St)",
+      "city": "Concord",
+      "region": "South End / Penacook",
+      "hours": "Open 24 hours (Neighborhood); Rollins Park typically dawn to dusk; Rollins Pool seasonal summer hours (approx. 10 am - 7 pm).",
+      "days_open": "7 days a week",
+      "admission": "Free (Neighborhood and Rollins Park); Fees apply for non-resident pool use ($25/family for 48-hour pass)",
+      "website": "https://www.concordnh.gov/1364/Community-Centers",
+      "phone": "603-225-8520 (Concord Parks & Recreation)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Concord_Gas_Light_Company_Gasholder_House%2C_Concord%2C_NH_%2849188250568%29.jpg",
+      "highlights": [
+        "['Rollins Park: A historic 1892 park featuring a public pool, tennis courts, and walking paths.', 'Concord Gas Light Company Gasholder House: A rare, intact 1888 industrial landmark on the National Register of Historic Places.', 'Memorial Field: A major community hub for youth sports and neighborhood outdoor recreation.', 'Historic Architecture: Tree-lined streets showcasing beautifully preserved Victorian, Colonial, and Craftsman-style homes.', 'Walkable Access: Convenient walking distance to downtown Concord’s shops, restaurants, and the State House.', 'I-93 Proximity: Excellent positioning for easy commuting to Manchester or Boston.']"
+      ],
+      "tips": "Take a self-guided walking tour to appreciate the historic architecture, especially near Rollins Park. If visiting in the summer, check the seasonal schedule for the Rollins Park pool, and remember that non-residents may need a pre-purchased pass from the Parks and Recreation office. It is a quiet residential area, so be mindful of local traffic and parking regulations.",
+      "nearby": "New Hampshire State House, Capitol Center for the Arts, White Park, Downtown Concord Historic District, McAuliffe-Shepard Discovery Center."
+    },
+    {
+      "name": "Strawbery Banke Museum",
+      "category": "Outdoor Living History Museum",
+      "description": "Strawbery Banke Museum is a 10-acre living history museum that preserves a complete waterfront neighborhood's evolution over more than 350 years. It features over 30 historic buildings, heirloom gardens, and costumed roleplayers that bring Portsmouth's history alive from the 17th century to the mid-20th century. Strawbery Banke Official Site",
+      "address": "14 Hancock Street, Portsmouth, NH 03801",
+      "city": "Portsmouth",
+      "region": "South End / Penacook",
+      "hours": "April 24 – June 16, 2026: 7 days a week, 10 AM – 4 PM. June 17 – November 1, 2026: Wed-Mon 10 AM – 4 PM (Saturdays & Sundays in July/August: 10 AM – 5 PM). Tuesdays (June 23 – Oct 27): Guided tours only, 10 AM – 2 PM. Strawbery Banke Hours",
+      "days_open": "Seasonal: Open 7 days a week (April 24 – June 16, 2026); Wednesday–Monday (June 17 – November 1, 2026). Guided tours only on Tuesdays during the summer. Strawbery Banke Hours",
+      "admission": "General Admission (valid for 2 days): Adult $23.00, Child (5-17) $10.50, Senior (65+) $21.00, Child (Under 5) Free. Member Adult $24.00, Member Child $10.50, Family $60.50. Guided Tuesday Tours (June-Oct): Members $5, Non-members $10 (requires general admission). Strawbery Banke Tickets",
+      "website": "https://www.strawberybanke.org",
+      "phone": "(603) 433-1100",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/JeffersonSt.jpg",
+      "highlights": [
+        "['Explore over 30 historic buildings, including the 1766 William Pitt Tavern and a 1940s corner store.', 'Engage with costumed roleplayers portraying real historical residents of the Puddle Dock neighborhood.', 'Wander through a dozen heirloom gardens and historical landscapes representing different eras.', 'Watch traditional craft demonstrations such as blacksmithing, weaving, and coopering.', \"Visit the 'Voices from World War II' exhibit and other rotating special exhibitions.\", 'Seasonal outdoor ice skating at Labrie Family Skate at Puddle Dock Pond (December-February).']"
+      ],
+      "tips": "Wear comfortable walking shoes for the 10-acre site's gravel and paved paths. Allow at least 2-3 hours to fully explore the houses and gardens. Purchase tickets online in advance to save $2 per ticket. Check the daily schedule for specific craft demonstrations and roleplayer availability. Strawbery Banke Plan Your Visit",
+      "nearby": "Prescott Park (directly across the street), Gundalow Company, Governor John Langdon House, Portsmouth Historic Dockyards, Market Square shops and restaurants. Go Portsmouth NH"
+    },
+    {
+      "name": "Beaver Meadow Golf Course",
+      "category": "Golf Course",
+      "description": "Beaver Meadow Golf Course is New Hampshire’s oldest municipal course, established in 1896, offering a classic parkland-style 18-hole layout. Situated along the Merrimack River, it is widely recognized as one of the best walking courses in the state and features a full-service pro shop, clubhouse, and modern golf simulators. Visit Concord NH, Beaver Meadow Golf Course",
+      "address": "1 Beaver Meadow Drive",
+      "city": "Concord, NH 03301",
+      "region": "Merrimack Valley",
+      "hours": "Daily: 7:00 AM – 7:00 PM (Summer Course Hours); Simulators: Mon–Sat 8:00 AM – 10:00 PM, Sun 8:00 AM – 6:00 PM Beaver Meadow Golf Course",
+      "days_open": "7 days a week (seasonal, typically April 1 - October 31) GolfPass",
+      "admission": "Summer Rates (2026): 18 Holes Mid-Week Walking: $55 ($50 Resident); 18 Holes Weekend Walking: $65 ($61 Resident); 9 Holes Walking: $37 ($35 Resident); 18 Hole Cart Fee: $27; Senior Special (Mon-Tue 18 holes w/ cart): $55; Ladies Day (Thu 18 holes w/ cart): $55; Veteran Rate (18 holes walking): $46; Junior (18 holes walking): $29; Simulator: $40-$47.50/hour Beaver Meadow Golf Course",
+      "website": "https://bmgc.golf",
+      "phone": "(603) 228-8954",
+      "image_url": "https://i0.wp.com/bmgc.golf/wp-content/uploads/2017/11/19665327_1616746561703204_5282262966361949209_n.jpg?fit=960%2C540&ssl=1",
+      "highlights": [
+        "['NH’s oldest municipal golf course, established in 1896', '18-hole championship layout with 6,356 yards and par 72', 'Two state-of-the-art indoor golf simulators with over 40 courses', 'Full-service Pro Shop with PGA Class A Professional staff', 'Extensive practice facilities including a driving range and chipping/putting areas', 'Scenic layout featuring tree-lined fairways, water hazards, and sand traps']"
+      ],
+      "tips": "Walking is highly encouraged as it is one of the state's premier walking courses. Non-members can book tee times up to 5 days in advance. Be sure to check the seasonal opening dates, usually starting in early April. Beaver Meadow Golf Course, TeeOff",
+      "nearby": "Beaver Meadow Elementary School, Apple Hill Farm, Scenic RailRiders, New Hampshire Audubon, and the Douglas N. Everett Arena. Visit Concord NH"
+    },
+    {
+      "name": "Henniker Brewing Company",
+      "category": "Brewery & Bar",
+      "description": "Established in 2011, Henniker Brewing Company is a craft brewery tucked away in the woods of Henniker, New Hampshire, just 15 miles outside of Concord. The brewery features a spacious taproom and an outdoor beer garden that hosts rotating local food trucks and live music performances. It is one of the few breweries in the state that is dog-friendly both indoors and outdoors year-round (Henniker Brewing Official Website).",
+      "address": "129 Centervale Road, Henniker, NH 03242",
+      "city": "Henniker",
+      "region": "Merrimack Valley",
+      "hours": "Monday: 3PM – 7PM; Tuesday: CLOSED; Wednesday: 3PM – 8PM; Thursday: 3PM – 8PM; Friday: 12PM – 8PM; Saturday: 12PM – 8PM; Sunday: 12PM – 6PM (Henniker Brewing Official Website)",
+      "days_open": "Monday, Wednesday, Thursday, Friday, Saturday, Sunday",
+      "admission": "Free (Tripadvisor)",
+      "website": "",
+      "phone": "(603) 428-3579",
+      "image_url": "https://hennikerbrewing.com/wp-content/uploads/2024/10/cropped-HBC-Bridge-Logo-Clear.png",
+      "highlights": [
+        "'Dog-friendly facility allowing pets both inside and outside year-round ([Henniker Brewing Official Website)', 'Outdoor beer garden and a large indoor taproom for visitors (Henniker Brewing Official Website)', 'Regularly hosts local rotating food trucks and live music events (Henniker Brewing Official Website)', 'Offers a wide variety of core beers and limited releases (Henniker Brewing Official Website)', 'Family-friendly environment with non-alcoholic soda options available for children (Henniker Brewing Official Website)', 'Tucked away in a scenic wooded setting perfect for a day trip or après-ski stop (Henniker Brewing Official Website)']"
+      ],
+      "tips": "Dogs are welcome but must be well-behaved and kept on leashes at all times. The brewery is located on a non-town maintained road, so drive carefully when approaching. Check their online schedule for rotating food truck appearances and upcoming live music events (Henniker Brewing Official Website).",
+      "nearby": "Pats Peak Ski Area, Henniker Covered Bridge, StoneFalls Gardens, Ames State Forest, Contoocook River (The Tourist Checklist)"
+    },
+    {
+      "name": "Hopkinton State Fair",
+      "category": "Entertainment / Agricultural Fair",
+      "description": "The Hopkinton State Fair is a premier family-friendly tradition in New Hampshire, celebrating agricultural heritage, community spirit, and live entertainment. Since 1915, it has grown to become the largest fair in the state, offering a mix of midway rides, livestock competitions, and grandstand shows (Official Website, Wikipedia).",
+      "address": "392 Kearsarge Avenue, Contoocook, NH 03229",
+      "city": "Contoocook",
+      "region": "Merrimack Valley",
+      "hours": "Thursday: 5:00 PM – 10:00 PM; Friday, Saturday & Sunday: 8:00 AM – 11:00 PM; Monday: 8:00 AM – 5:00 PM (Official Website)",
+      "days_open": "Thursday through Monday (Labor Day Weekend)",
+      "admission": "Thursday Night Special (Ages 3-65+): $9; Friday-Monday General (Ages 13-59): $14; Seniors (60+): $12; Youth (3-12): $8; Children (35 months and under): Free; Military (Active/Veterans/Retirees): Free. Fair Fans 5-Day Pass: $39 online. Megapass (Admission + Rides): $45 online, $55 onsite. Demolition Derby: $26 online, $30 onsite (Official Website).",
+      "website": "https://www.hsfair.org",
+      "phone": "(603) 865-1698",
+      "image_url": "https://cdn.hsfair.org/wp-content/uploads/2019/07/hsf-logo.png",
+      "highlights": [
+        "'Thrilling Midway rides and carnival games ([Official Website)', 'Live music and entertainment on the Country Porch and Ag Stages (Official Website)', 'Agricultural exhibits featuring livestock, dairy, and local farm products (Official Website)', 'High-energy Demolition Derby grandstand performances (Official Website)', 'World-famous Disc-Connected K9s Frisbee dog shows (Official Website)', 'Dialed Action Sports BMX stunt shows (Official Website)']"
+      ],
+      "tips": "Buy tickets online in advance to save on admission and ensure grandstand seating. Note that strollers and bags larger than 8\"x8\" are prohibited in the grandstand area. Arrive early to see the livestock shows and prepare for an outdoor event by bringing sunscreen and water (Official Website, That Was a First).",
+      "nearby": "Contoocook Railroad Museum and Covered Bridge, Gould Hill Farm, Beech Hill Farm & Ice Cream Barn, Elm Brook Park Recreation Area, McAuliffe-Shepard Discovery Center (Tripadvisor, Hopkinton Town Website)"
+    },
+    {
+      "name": "Merrimack River Greenway Trail (MRGT)",
+      "category": "Park / Trail",
+      "description": "The Merrimack River Greenway Trail (MRGT) is a premier multi-use paved trail system in Concord, New Hampshire, designed for walking, cycling, and non-motorized recreation. Following the scenic banks of the Merrimack River, the trail connects local neighborhoods and open spaces while promoting health and environmental stewardship. When completed, it will span 12.7 miles, linking the Northern Rail Trail in Boscawen to the future Pembroke Rail Trail.",
+      "address": "4 Loudon Road",
+      "city": "Concord",
+      "region": "Merrimack Valley",
+      "hours": "Sunrise to Sunset Concord NH",
+      "days_open": "Monday - Sunday MRGT",
+      "admission": "Free Concord NH",
+      "website": "https://www.merrimackrivergreenwaytrail.org",
+      "phone": "(603) 225-8690",
+      "image_url": "https://static.wixstatic.com/media/dc467d_0200f750d6a349939c2189b36a3dda03~mv2.jpg",
+      "highlights": [
+        "['Paved 10-12 foot wide shared-use path ideal for all skill levels and mobility aids', 'Scenic riverfront views and access to the Merrimack River floodplain ecosystem', 'Seasonal sunflower fields located along the Gully Hill section behind the Post Office', 'Integral segment of the statewide Granite State Rail Trail network connecting Salem to Lebanon', 'Diverse birdwatching and wildlife viewing opportunities in protected riverside habitats']"
+      ],
+      "tips": "The trail is not maintained during winter months and can be icy; proceed with caution. Best access is found at the Gully Hill Fields trailhead or Terrill Park. Dogs are welcome on leashes, and the Terrill Park section includes a dedicated off-leash dog park. MRGT",
+      "nearby": "Terrill Park Dog Park, Kiwanis Waterfront Park, Sewalls Falls Recreation Area, New Hampshire State House, and Horseshoe Pond Visit Concord"
+    },
+    {
+      "name": "Merrimack River Outdoor Education & Conservation Area (MROECA)",
+      "category": "Landmark / Park",
+      "description": "The Merrimack River Outdoor Education & Conservation Area, often called 'The Floodplain,' is a 103-acre sanctuary featuring a diverse landscape of oxbows, back channels, and high terraces. It hosts a unique silver maple floodplain forest and provides a vital habitat for wildlife including bald eagles, turtles, and migratory birds. Visitors can explore the area via the 1.5-mile Les Clark Nature Trail, which offers scenic views and educational interpretations of the river's dynamic ecosystem (Forest Society).",
+      "address": "54 Portsmouth St (Forest Society HQ / near trailhead), Concord, NH 03301",
+      "city": "Concord",
+      "region": "Merrimack Valley",
+      "hours": "Dawn to Dusk (Monday-Sunday) (Forest Society)",
+      "days_open": "Daily (Forest Society)",
+      "admission": "Free (Forest Society)",
+      "website": "https://www.forestsociety.org/property/merrimack-river-outdoor-education-conservation-area",
+      "phone": "603.224.9945 (Forest Society)",
+      "image_url": "https://www.forestsociety.org/sites/default/files/styles/700x700/public/d7/FloodplainEllis.jpg",
+      "highlights": [
+        "'1.5-mile Les Clark Nature Trail loop with 18 interpretive points ([Forest Society)', 'Rare silver maple floodplain forest adapted to river sand and silt (Forest Society)', 'Eastman Cove, a former river meander now serving as an oxbow marsh (Forest Society)', 'Half-mile of river frontage for fishing and wildlife observation (Forest Society)', 'Nesting sites for bank swallows along the sandy river cliffs (Forest Society)', 'Recreational opportunities for birdwatching, hiking, and snowshoeing (Forest Society)']"
+      ],
+      "tips": "Stay off the steep river banks to protect nesting bank swallows and prevent erosion; keep pets under active vocal control; be aware that the parking gate is locked at dusk and towing is enforced (Forest Society).",
+      "nearby": "McAuliffe-Shepard Discovery Center, Forest Society Conservation Center, Kiwanis Waterfront Park, Horseshoe Pond (NH Audubon, Visit Concord)"
+    },
+    {
+      "name": "Mine Falls Park",
+      "category": "Park Nashua, NH",
+      "description": "Mine Falls Park is a 325-acre urban oasis in the heart of Nashua, featuring a diverse landscape of forests, wetlands, and open fields Nashua, NH. It contains a historic 3-mile-long canal system and the Nashua River, providing miles of trails for walking, biking, and cross-country skiing Nashua, NH. The park's canal and gatehouse are recognized for their industrial heritage and are listed on the National Register of Historic Places Wikipedia.",
+      "address": "Whipple Street Nashua, NH",
+      "city": "Nashua Nashua, NH",
+      "region": "Merrimack Valley",
+      "hours": "Monday - Sunday, 6 a.m. - 10 p.m. Nashua, NH",
+      "days_open": "Daily Nashua, NH",
+      "admission": "Free Nashua, NH",
+      "website": "https://www.nashuanh.gov/491/Mine-Falls-Park",
+      "phone": "603-589-3370 Nashua, NH",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Mine_Falls_Park%2C_Nashua_New_Hampshire.JPG",
+      "highlights": [
+        "'325 acres of forest, wetlands, and open fields [Nashua, NH', 'Historic 3-mile canal and 1886 Gatehouse Wikipedia', 'Nearly 10 miles of trails for hiking and biking TrailLink', 'Fishing and boating opportunities on the Nashua River Nashua, NH', 'Wildlife viewing including beavers, herons, and deer Tripadvisor', 'Fields for organized sports like soccer and baseball Nashua, NH']"
+      ],
+      "tips": "Use a digital map as trails are numerous and can be poorly marked Tripadvisor. Arrive in mid-to-late afternoon for scenic lighting effects through the trees MassDayTripping. Bring your own water and be prepared for limited bathroom facilities within the park Tripadvisor. Wear proper footwear as some trails have exposed roots and rocky patches Tripadvisor.",
+      "nearby": "Greeley Park Tripadvisor, Holman Stadium Tripadvisor, Nashua National Fish Hatchery Tripadvisor, Gate City Casino Tripadvisor"
+    },
+    {
+      "name": "Mount Kearsarge (Rollins and Winslow State Parks)",
+      "category": "State Park, Landmark",
+      "description": "Mount Kearsarge is a prominent monadnock in southern New Hampshire known for its bare granite summit and spectacular 360-degree views. The mountain is managed through Rollins and Winslow State Parks, offering diverse hiking trails and a scenic auto road that leads nearly to the peak. On exceptionally clear days, the vistas extend from the White Mountains in the north to the skyscrapers of Boston to the south. Wikipedia)",
+      "address": "1066 Kearsarge Mountain Rd, Warner, NH 03278 (Rollins State Park); 475 Kearsarge Mountain Rd, Wilmot, NH 03287 (Winslow State Park)",
+      "city": "Warner / Wilmot",
+      "region": "Merrimack Valley",
+      "hours": "Monday-Sunday: 9:00 AM - 5:00 PM (Gates typically close at 4:30 PM). Tripadvisor",
+      "days_open": "Daily (Seasonal, typically May through mid-November)",
+      "admission": "Adults (12+): $4; Children (6-11): $2; Children (5 and under): Free; NH Residents (65+): Free. NH State Parks",
+      "website": "https://www.nhstateparks.org/find-parks-trails/rollins-state-park",
+      "phone": "603-456-3808 (Rollins); 603-526-6168 (Winslow)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Mount_Kearsarge_from_The_Bulkhead.jpg",
+      "highlights": [
+        "'360-degree panoramic views from the bare granite summit. [Trail Finder', 'Historic fire tower located at the peak for even higher vistas. NH State Parks', 'Scenic 3.5-mile auto road in Rollins State Park leading to high-elevation picnic areas. NH State Parks', 'Challenging hiking via the Winslow Trail (steep) and Barlow Trail (gradual). NH State Parks', 'Historic site of the 19th-century Winslow House hotel at the Winslow trailhead. New Hampshire Live Free and Explore', 'Key peak on the 75-mile Sunapee-Ragged-Kearsarge Greenway loop. NH State Parks']"
+      ],
+      "tips": "Advanced reservations for day-use parking are highly recommended via the NH State Parks website, as lots fill quickly on weekends. The summit is often significantly windier and cooler than the base, so hikers should carry extra layers even in summer. Families with young children may prefer the Rollins State Park entrance, which offers a shorter 0.5-mile hike to the summit from the upper parking area. Trail Finder, Adventures & Smiles",
+      "nearby": "Mt. Kearsarge Indian Museum, McAuliffe-Shepard Discovery Center, New Hampshire State House, Canterbury Shaker Village, Lake Sunapee. Visit Concord NH"
+    },
+    {
+      "name": "New Hampshire Motor Speedway",
+      "category": "Entertainment / Auto Race Track",
+      "description": "New Hampshire Motor Speedway is a premier 1.058-mile oval speedway hosting major NASCAR and IndyCar events, along with motorcycle racing and driving experiences. Known as \"The Magic Mile,\" it is the largest sports and entertainment venue in New England and offers a family-friendly atmosphere with year-round community events.",
+      "address": "1122 Route 106 North, Loudon, NH 03307",
+      "city": "Loudon",
+      "region": "Merrimack Valley",
+      "hours": "Monday - Friday: 8:30 a.m. - 5:00 p.m.; Saturday & Sunday: Closed (Office Hours). Track hours vary by event. Official Contact Page",
+      "days_open": "Monday - Friday (Office), Event-based (Track)",
+      "admission": "Adult ticket prices vary by event and date (flex pricing), historical average around $94. Kids 12 & under: Friday starts at $10, Saturday FREE, Sunday $10. NASCAR Tickets, Ticketmaster",
+      "website": "https://www.nhms.com",
+      "phone": "(603) 783-4931 or (833) 4-LOUDON",
+      "image_url": "https://www.nhms.com/images/092125-ag-nhms-0521_1200x1000.jpg",
+      "highlights": [
+        "['Hosts the NASCAR Cup Series Dollar Tree 301 and the NASCAR CRAFTSMAN Truck Series regular season finale.', 'Home to the Loudon Classic, the oldest motorcycle race in the United States.', 'Features the NASCAR Racing Experience and Exotic Driving Experience for fans to drive on the track.', 'Interactive Fan Zone with live music, racing simulators, and family-friendly activities.', \"Home to the New England Racing Museum, celebrating the region's motorsports legacy.\", \"Hosts the 'Gift of Lights' holiday drive-thru event during the winter season.\"]"
+      ],
+      "tips": "NHMS is a cashless facility; only credit and debit cards are accepted. Bring ear protection as racing is extremely loud. Soft-sided coolers (14\" or less) are permitted in grandstands, but glass is prohibited. Arrive early to explore the Fan Zone and avoid heavy event-day traffic on Route 106. Know Before You Go",
+      "nearby": "New England Racing Museum, Canterbury Shaker Village, Tanger Outlets Tilton, McAuliffe-Shepard Discovery Center, Highland Mountain Bike Park. Tripadvisor"
+    },
+    {
+      "name": "New Hampshire State Veterans Cemetery",
+      "category": "Landmark / Cemetery",
+      "description": "The New Hampshire State Veterans Cemetery is a dignified final resting place dedicated to honoring all veterans and their eligible dependents. Spanning 104 acres of former state forest land, it conveys peace through natural beauty and serves as a source of pride for New Hampshire residents (NHSVC Introduction). The cemetery features beautifully maintained grounds, a Memorial Walkway, and historical monuments that commemorate the state's rich military heritage (NHSVC Introduction).",
+      "address": "110 Daniel Webster Highway, Boscawen, NH 03303-2413",
+      "city": "Boscawen",
+      "region": "Merrimack Valley",
+      "hours": "Grounds, vestibule, and restrooms: Open daily during daylight hours. Administrative offices: Monday-Friday, 8:00 AM - 4:00 PM (excluding state holidays) (NHSVC Cemetery Hours)",
+      "days_open": "Seven days a week",
+      "admission": "Free for public visitation; burial fees apply for eligible dependents and selected reserves (NHSVC Fee Schedule)",
+      "website": "https://www.nhsvc.com/",
+      "phone": "(603) 796-2026",
+      "image_url": "https://www.nhsvc.com/sites/default/files/imagecache/gallery_views_thumb/albums/entrance_sign.jpg",
+      "highlights": [
+        "'Memorial Walkway featuring monuments for various military branches and organizations ([NHSVC Education)', \"'Avenue of Flags' entrance creating a patriotic visual tribute to veterans (NHSVC Education)\", '20 Points of New Hampshire Military History Walkway providing an educational journey (NHVCA Cemetery Program)', 'Veterans Heritage Learning Center and Chapel with commissioned stained glass (NHVCA Cemetery Program)', '100 Nights of Remembrance event featuring Taps at 7:00 PM from Memorial Day to September 11th (NHSVC Gallery)', 'Serene Reflection Fountain dedicated by Blue Star and Gold Star Mothers (Images of NH History)']"
+      ],
+      "tips": "Start your visit at the west end of the military history display to follow the stone markers in chronological order (Tripadvisor Review). Use the grave locator kiosk in the Administration Building vestibule to find specific interment sites (NHSVC Cemetery Hours). The site is designed for quiet reflection, so visitors are encouraged to maintain a respectful atmosphere (Tripadvisor Review).",
+      "nearby": "Hannah Duston Memorial Historic Site, Brookford Farm, Twiggs Gallery at Cornerstone Design, Boscawen Historical Society, and Alan's of Boscawen restaurant (Tripadvisor Boscawen)"
+    },
+    {
+      "name": "Northern Rail Trail (Northern Recreational Rail Trail)",
+      "category": "Park / Recreational Trail",
+      "description": "The Northern Rail Trail is a nearly 60-mile multi-use four-season trail following the old railroad bed of the Boston & Maine Railroad Northern Line. It stretches from Lebanon to Boscawen, offering scenic views of lakes, rivers, and mountains through the New Hampshire countryside. (Friends of the Northern Rail Trail, NH State Parks)",
+      "address": "Commercial St (End of Commercial St)",
+      "city": "Boscawen (Concord Area)",
+      "region": "Merrimack Valley",
+      "hours": "Open daily during daylight hours (MyHikes)",
+      "days_open": "Daily (MyHikes)",
+      "admission": "Free (MyHikes, NH State Parks)",
+      "website": "https://www.fnrt.org",
+      "phone": "(603) 271-3254 (NH Bureau of Trails) (Trail Finder)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/NorthernRailTrailNH.jpg",
+      "highlights": [
+        "'Longest rail trail in New Hampshire at nearly 60 miles ([NH State Parks)', 'Scenic views of Mascoma Lake and Webster Lake (Visit Concord)', 'Historic railroad structures including the Potter Place and Enfield Depots (Friends of the Northern Rail Trail)', 'Four-season usage for biking, walking, snowmobiling, and cross-country skiing (Friends of the Northern Rail Trail)', 'Named to the list of 100 Top Rail Trails in the U.S. by Rails-to-Trails Conservancy (Visit NH)']"
+      ],
+      "tips": "Park at the Hannah Duston Park & Ride for southern terminus access; motorized vehicles are prohibited except for class 1 and 2 e-bikes and winter snowmobiles. (Friends of the Northern Rail Trail, Trail Finder)",
+      "nearby": "New Hampshire State Veterans Cemetery, Webster Lake, Highland Lake, Jamie Welch Memorial Field (Tripadvisor, NH State Parks)"
+    },
+    {
+      "name": "Goffstown Rail Trail",
+      "category": "Park / Trail",
+      "description": "The Goffstown Rail Trail is a 5.5-mile multi-purpose public path that follows the former Boston & Maine railroad right-of-way. It offers a scenic route through the villages of Pinardville, Grasmere, and Goffstown, paralleling the Piscataquog River and featuring views of Glen Lake.",
+      "address": "155 South Mast Street (Goffstown Parks and Recreation Center)",
+      "city": "Goffstown",
+      "region": "Day Trips",
+      "hours": "Dawn to dusk",
+      "days_open": "Monday - Sunday",
+      "admission": "Free",
+      "website": "https://goffstownrailtrail.org",
+      "phone": "(603) 497-3003 (Parks & Recreation)",
+      "image_url": "https://goffstownrailtrail.org/s/goffstown-rail-trail-view_photo-by-traillink-user-sc302-copy.jpg",
+      "highlights": [
+        "['Scenic views of Glen Lake and the Piscataquog River', 'Connection to the Piscataquog Trail leading into Manchester', \"Historical landmarks including a potter's field and old rail storage buildings\", \"Passes through the 'Rock Cut' where cliffs were blasted for the railway\", 'Direct access to Glen Lake for swimming and fishing', 'Level gravel surface suitable for walking, running, and hybrid biking']"
+      ],
+      "tips": "The trail surface is mostly hard-packed gravel, so hybrid or mountain bikes are recommended over road bikes. Be cautious at street crossings, particularly over Mast Road (Route 114). Restrooms are available at the Parks and Recreation Center when the building is open. Pet owners must keep animals leashed and clean up after them. Use the interactive online maps to find the various parking access points such as Factory Street or Sarette Field.",
+      "nearby": "Glen Lake, Sarette Recreation Complex, Piscataquog Trail, New Boston Rail Trail, Apotheca Flowers & Coffee Shoppe, Manchester downtown attractions"
+    }
+  ]
+}

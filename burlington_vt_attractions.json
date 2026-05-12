@@ -1,0 +1,1383 @@
+{
+  "title": "Burlington, VT Area Tourist Attractions",
+  "generated": "2026-05-12",
+  "total_attractions": 72,
+  "regions_covered": [
+    "Downtown / Church Street",
+    "UVM Campus / Hill Section",
+    "Waterfront / Battery Park",
+    "South End / Shelburne",
+    "Winooski / Essex"
+  ],
+  "attractions": [
+    {
+      "name": "Aisles of Books",
+      "category": "Shopping",
+      "description": "Aisles of Books is a local bookstore located in the Swanton, Vermont area, specializing in a wide variety of used and collectible titles. The shop offers a traditional browsing experience with thousands of books across multiple genres, serving as a community hub for book lovers.",
+      "address": "131 South River St.",
+      "city": "Swanton",
+      "region": "Downtown / Church Street",
+      "hours": "Monday-Saturday: 10:00 AM - 5:30 PM, Sunday: Closed (Hours may vary by season)",
+      "days_open": "Monday-Saturday",
+      "admission": "Free",
+      "website": "https://swantonhistoricalsociety.org/books/",
+      "phone": "(802) 868-3232",
+      "image_url": "https://swantonhistoricalsociety.org/wp-content/uploads/2021/05/books-768x512.jpg",
+      "highlights": [
+        "['Extensive collection of over 30,000 used and rare books', 'Specializes in Vermontiana and regional interest titles', 'Offers vintage postcards and ephemera for collectors', \"Features a curated selection of children's literature and fantasy\", 'Provides a cozy, traditional bricks-and-mortar bookstore atmosphere']"
+      ],
+      "tips": "Call ahead to verify current seasonal hours, as the shop may operate by appointment or chance during winter months. Don't miss the local history section for unique Vermont finds.",
+      "nearby": "Swanton Public Library, Swanton Historical Society, Missisquoi National Wildlife Refuge"
+    },
+    {
+      "name": "American Flatbread Burlington Hearth (Official Website)",
+      "category": "Restaurant, Bar, Brewery (Official Website, Tripadvisor)",
+      "description": "American Flatbread Burlington Hearth is a vibrant restaurant and brewery in downtown Burlington known for its artisanal, wood-fired pizzas made with fresh, local, and organic ingredients. Established in 2004, it serves as a community 'third place' where guests can enjoy handcrafted beers from the in-house Mothership Brewery alongside wholesome food. The interior features a rustic old-world brick ambiance and an open oven-side dining experience. (Official Website, Wanderlog)",
+      "address": "115 Saint Paul Street, Burlington, VT 05401 (Official Website, Tripadvisor)",
+      "city": "Burlington (Official Website)",
+      "region": "Downtown / Church Street",
+      "hours": "Sunday - Thursday: 11:30 AM - 10:00 PM; Friday & Saturday: 11:30 AM - 11:00 PM (Official Website)",
+      "days_open": "7 days a week (Official Website, Yelp)",
+      "admission": "Free (Restaurant with menu pricing) (Tripadvisor)",
+      "website": "https://burlington.americanflatbread.com",
+      "phone": "(802) 861-2999 (Official Website)",
+      "image_url": "https://static.spotapps.co/spots/e8/125b5c0fa94d3ba3473c0c4b8ce389/full",
+      "highlights": [
+        "'Artisanal wood-fired pizzas made with local and organic ingredients ([Official Website)', 'In-house Mothership Brewery offering a variety of handcrafted craft beers (Official Website, Tripadvisor)', 'Rustic old-world brick interior with oven-side dining (Hello Burlington)', 'Weekly Benefit Bakes supporting local community organizations (Official Website)', 'Outdoor dining patio available during summer months (Hello Burlington)', 'Vegetarian, vegan, and gluten-free dietary options (Tripadvisor)']"
+      ],
+      "tips": "Reservations are recommended, especially for outdoor seating or during busy weekend hours (Yelp). Try the special 'Punctuated Equilibrium' flatbread and pair your meal with a house-brewed beer from Mothership Brewery (Wanderlog). Visit on a 'Benefit Bake' night to support local non-profits through your meal (Official Website).",
+      "nearby": "Church Street Marketplace, City Hall Park, Lake Champlain, Foam Brewers, Echo Leahy Center for Lake Champlain, Hotel Vermont (Wanderlog, Hello Burlington)"
+    },
+    {
+      "name": "Battery Park",
+      "category": "Park (Wikipedia))",
+      "description": "Battery Park is a historic 14-acre public park located on a bluff overlooking Lake Champlain and the Adirondack Mountains. Originally established as a military camp during the War of 1812, it now serves as a scenic community space featuring a bandshell, playground, and various monuments. The park is renowned locally for offering some of the finest sunset views in the world. (Wikipedia), HelloBurlington)",
+      "address": "1 North Ave (at Battery Park Extension)",
+      "city": "Burlington",
+      "region": "Downtown / Church Street",
+      "hours": "Monday-Sunday: Dawn to Dusk (Airial Travel, Burlington Parks Rules)",
+      "days_open": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday (Evendo)",
+      "admission": "Free (Airial Travel)",
+      "website": "https://www.burlingtonvt.gov/parks-recreation-waterfront",
+      "phone": "(802) 864-0123 (HelloBurlington)",
+      "image_url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,q_75,w_1200/v1/crm/vermont/View-recent-photos_22572582-5056-A36A-083E0704041DB5B5-225723e35056a36_22572d04-5056-a36a-08989c6b743a1ec4.png",
+      "highlights": [
+        "'Stunning sunset views of Lake Champlain and the Adirondack Mountains ([Wikipedia))', 'Historic monuments including a War of 1812 cannon and statue of General William W. Wells (Wikipedia), Tripadvisor)', \"Free summer concert series held at the park's bandshell (Tripadvisor)\", \"Well-appointed children's playground and public art sculptures (Airial Travel)\", 'Connection to the Burlington Greenway bike path system (Airial Travel)', \"Statue of Chief Gray Lock honoring the region's Indigenous heritage (HelloBurlington)\"]"
+      ],
+      "tips": "Visit during golden hour to witness spectacular sunsets over the lake. During summer, check the schedule for free Thursday night concerts. While safe during the day, visitors are advised to avoid the park late at night due to loitering. (Airial Travel, Tripadvisor)",
+      "nearby": "Waterfront Park, ECHO Leahy Center for Lake Champlain, Church Street Marketplace, Burlington Community Boathouse Marina (HelloBurlington, Tripadvisor)"
+    },
+    {
+      "name": "Burlington City Hall",
+      "category": "Landmark, Municipal Building",
+      "description": "Burlington City Hall is a historic municipal building designed by W.M. Kendall of the renowned firm McKim, Mead & White and completed in 1928. It serves as the civic heart of the city, housing the Mayor's office and various city departments while anchoring the southern end of the vibrant Church Street Marketplace. The building is a notable example of Neoclassical architecture, constructed with materials sourced primarily from Vermont, including brick, marble, and granite (Buildings of New England).",
+      "address": "149 Church Street, Burlington, VT 05401",
+      "city": "Burlington",
+      "region": "Downtown / Church Street",
+      "hours": "Monday - Friday: 8:00 AM – 4:30 PM; Saturday - Sunday: Closed (Burlington Official Website)",
+      "days_open": "Monday, Tuesday, Wednesday, Thursday, Friday (Burlington Official Website)",
+      "admission": "Free (Burlington Official Website)",
+      "website": "https://www.burlingtonvt.gov",
+      "phone": "(802) 865-7000 (Burlington Official Website)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/City_Hall_Burlington_Vermont_from_southeast_on_Main_Street.jpg",
+      "highlights": [
+        "'Designed by the prestigious architectural firm McKim, Mead & White in a Neoclassical style ([Buildings of New England)', 'Houses the historic Contois Auditorium, a venue for city council meetings and community events (Burlington Official Website)', 'Constructed using local Vermont materials including marble staircases and red brick masonry (Vermont Integrated Architecture)', 'Adjacent to the recently renovated City Hall Park, which features interactive fountains and public art (Tripadvisor)', 'Features the Burlington City coat of arms on its grand main entrance doors (UVM History)']"
+      ],
+      "tips": "Visitors are encouraged to explore the adjacent City Hall Park for its 'dancing' fountains and public art installations. Check the city's official calendar for public meetings or community events held in the Contois Auditorium. If visiting for city services, arrive during weekday business hours, as the building is closed on weekends (Tripadvisor, Burlington Official Website).",
+      "nearby": "Church Street Marketplace, City Hall Park, Fletcher Free Library, Waterfront Park"
+    },
+    {
+      "name": "Burlington Halloween Roll & Stroll",
+      "category": "Entertainment",
+      "description": "The Burlington Halloween Roll & Stroll is a festive community event featuring a costumed bike ride and walk through the streets of Burlington. Participants gather at City Hall Park for a three-mile route that concludes with a celebration at Roosevelt Park including music, games, and food. (Local Motion, NBZ-FM)",
+      "address": "149 Church St (Starting Point: City Hall Park)",
+      "city": "Burlington",
+      "region": "Downtown / Church Street",
+      "hours": "Gathering starts at 2:00 PM; Ride launches at 2:30 PM (Annual)",
+      "days_open": "Annual Event (Last Sunday in October)",
+      "admission": "Free (Local Motion)",
+      "website": "https://www.localmotion.org/16th_annual_burlington_halloween_roll_stroll",
+      "phone": "802-861-2700",
+      "image_url": "https://www.localmotion.org/sites/default/files/styles/large/public/Halloween_Roll_Stroll_2025.jpg",
+      "highlights": [
+        "['Costumed community bike ride and walk through city streets', 'Gathering and launch at City Hall Park downtown', 'Post-event celebration at Roosevelt Park with pizza and music', 'Family-friendly atmosphere suitable for all ages and abilities', 'Prizes and games for participants in costume']"
+      ],
+      "tips": "Wear a costume and ensure your bike or stroller is decorated for the festive atmosphere. Check the Local Motion website for updated route maps and rain date information. (Local Motion)",
+      "nearby": "Church Street Marketplace, Waterfront Park, ECHO Leahy Center"
+    },
+    {
+      "name": "Burlington Memorial Auditorium (Wikipedia)",
+      "category": "Landmark, Auditorium, Arena (Wikipedia)",
+      "description": "Burlington Memorial Auditorium is a historic 2,500-seat multi-purpose arena and civic center built in 1927 to honor World War I veterans. It served as a hub for public performances, athletic events, and community gatherings for nearly 90 years before closing in 2016 due to structural safety concerns. (Burlington VT Gov, Wikipedia)",
+      "address": "250 Main St, Burlington, VT 05401 (Tripadvisor)",
+      "city": "Burlington (Wikipedia)",
+      "region": "Downtown / Church Street",
+      "hours": "Closed (Burlington VT Gov)",
+      "days_open": "None (Closed) (Burlington VT Gov)",
+      "admission": "Closed to the public (Burlington VT Gov)",
+      "website": "https://www.burlingtonvt.gov/200/Memorial-Auditorium-the-Memorial-Block",
+      "phone": "802-865-7144 (CEDO office for redevelopment inquiries) (Burlington VT Gov)",
+      "image_url": "https://commons.wikimedia.org/wiki/File:Memorial_Auditorium_Burlington_Vermont.jpg",
+      "highlights": [
+        "'Built in 1927-28 to honor World War I veterans ([Burlington VT Gov)', 'Listed on the National Register of Historic Places since 1988 (Burlington VT Gov)', 'Designed by architect Frank Lyman Austin in an Art Deco/neoclassical style (Wikipedia)', 'Features 20,000 square feet of convention space and a 27-by-80-foot proscenium stage (Wikipedia)', \"Historically hosted a wide range of events including farmers' markets, teen centers, and athletic competitions (Burlington VT Gov)\", 'Subject of ongoing city-led redevelopment efforts to preserve its legacy (Burlington VT Gov)']"
+      ],
+      "tips": "The building is currently closed to the public due to safety concerns; however, visitors can still view the historic Art Deco exterior from the street. For the latest updates on the building's future and redevelopment plans, check the city's official StoryMap. (Burlington VT Gov)",
+      "nearby": "Church Street Marketplace, Burlington City Hall Park, Fletcher Free Library (Burlington VT Gov)"
+    },
+    {
+      "name": "Butch + Babe's Seven Days",
+      "category": "Restaurant / Bar Food Network, Foodiepie",
+      "description": "Butch + Babe's was a beloved neighborhood restaurant and pub in Burlington's Old North End that operated from 2015 until its closure in 2021. The eatery was celebrated for its playful New American menu which creatively blended Midwestern comfort food with Thai influences, utilizing fresh local and organic Vermont ingredients. Known for its welcoming, family-friendly atmosphere, the restaurant gained national recognition when its unique dishes were featured on the Food Network's \"Diners, Drive-Ins and Dives.\" Food Network, Seven Days",
+      "address": "258 North Winooski Ave, Burlington, VT 05401 Butch + Babe's, Seven Days",
+      "city": "Burlington Butch + Babe's",
+      "region": "Downtown / Church Street",
+      "hours": "Monday: 5:00 PM - 9:00 PM; Tuesday: Closed; Wednesday: 5:00 PM - 9:00 PM; Thursday: 5:00 PM - 9:00 PM; Friday: 5:00 PM - 10:00 PM; Saturday: 5:00 PM - 10:00 PM; Sunday: 5:00 PM - 9:00 PM Trip101",
+      "days_open": "Monday, Wednesday, Thursday, Friday, Saturday, Sunday Trip101",
+      "admission": "Free (Restaurant/Pub) Foodiepie",
+      "website": "https://www.butchandbabes.com",
+      "phone": "802-495-0716 Butch + Babe's",
+      "image_url": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2018/3/14/1/FN_50-states-waffles-vermont-butch-babes_s4x3.jpg.rend.hgtvcom.616.462.suffix/1521085339626.jpeg",
+      "highlights": [
+        "'Featured on Guy Fieri\\'s \"Diners, Drive-Ins and Dives\" [Seven Days', 'Signature Mac and Cheese Pancakes served with habanero maple syrup Foodiepie', 'Inventive Elote Dog topped with jalapeno sauce and pickled onion Foodiepie', 'Commitment to accessibility, receiving the Rosemary J. Miller Dining for All Award VCIL', 'Focus on fresh local, organic, and non-GMO Vermont ingredients Seven Days', 'Welcoming \"neighborhood hangout\" atmosphere Food Network']"
+      ],
+      "tips": "Order the $2 buttery, spicy curry-lime popcorn as an appetizer Seven Days. Try the Jintana’s Chicken, a signature dish based on the chef's mother's recipe Seven Days. While permanently closed since 2021, the space has since been occupied by the restaurant May Day Seven Days.",
+      "nearby": "Church Street Marketplace, Burlington Waterfront Park, ECHO Leahy Center for Lake Champlain, Burlington Bike Path Tripadvisor, Hello Burlington"
+    },
+    {
+      "name": "Church Street Marketplace (Official Site)",
+      "category": "Shopping / Pedestrian Mall (Wikipedia)",
+      "description": "The Church Street Marketplace is an award-winning open-air pedestrian mall in the heart of Burlington, Vermont, featuring over 100 shops, restaurants, and local businesses across four historic blocks. It serves as a vibrant community hub hosting year-round festivals, street entertainers, and public art, and is recognized as one of America's Great Public Spaces (Official Site).",
+      "address": "149 Church Street, City Hall, Burlington, Vermont 05401 (Official Site)",
+      "city": "Burlington (Official Site)",
+      "region": "Downtown / Church Street",
+      "hours": "Monday - Saturday: 10:00 AM - 7:00 PM, Sunday: 11:00 AM - 5:00 PM (Tripadvisor)",
+      "days_open": "Daily (Expedia)",
+      "admission": "Free (Airial Travel)",
+      "website": "https://www.churchstmarketplace.com",
+      "phone": "(802) 863-1648 (Official Site)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Church_Street_Marketplace_Burlington_Vermont_looking_south_from_Bank_Street.jpg",
+      "highlights": [
+        "'Home to over 100 local and national shops and restaurants ([Official Site)', 'Designated as one of the Great Public Spaces in America by the American Planning Association (Official Site)', 'Year-round festivals including the Young Tradition Festival and South End Art Hop (Official Site)', 'Features a National Register Historic District with stunning Victorian and Art Deco architecture (Wikipedia)', 'Active hub for street performers, musicians, and seasonal cart vendors (Official Site)', 'Expansive outdoor dining areas and pedestrian-only brick walkways (Official Site)']"
+      ],
+      "tips": "Take advantage of 2 hours of free daily parking at the Downtown Garage (formerly College & Lakeview Garage) with ParkMobile check-in. Parking is also free on Sundays and city holidays at all city-owned facilities. Visit during the evening for live DJ sets at local pubs or check the online event calendar for seasonal festivals (Official Site).",
+      "nearby": "Burlington Waterfront, Lake Champlain, ECHO Leahy Center, Waterfront Park, Flynn Center for the Performing Arts (Official Site)"
+    },
+    {
+      "name": "Church Street Tavern",
+      "category": "Restaurant & Bar Official Website",
+      "description": "Established in 1995, Church Street Tavern is one of Burlington's premier destination spots known for its extensive beer and wine selections and affordable pub fare. More than just a typical sports bar, it offers a welcoming atmosphere with a menu featuring everything from half-pound burgers to homemade soups and fresh salads. Official Website",
+      "address": "103 Church Street, Burlington, VT 05401 Official Website",
+      "city": "Burlington Official Website",
+      "region": "Downtown / Church Street",
+      "hours": "Monday: 11:00 AM - 8:00 PM; Tuesday: Closed; Wednesday: Closed; Thursday: 11:00 AM - 8:00 PM; Friday: 11:00 AM - 9:00 PM; Saturday: 11:00 AM - 9:00 PM; Sunday: 11:00 AM - 8:00 PM Official Website",
+      "days_open": "Monday, Thursday, Friday, Saturday, Sunday Official Website",
+      "admission": "Free Tripadvisor",
+      "website": "https://www.churchstreettavernvt.com",
+      "phone": "(802) 658-1309 Official Website",
+      "image_url": "https://www.churchstreettavernvt.com/assets/patio-church-street-tavern-thumb-2.png",
+      "highlights": [
+        "'Extensive selection of 14 beers on tap, including many Vermont craft brews [Official Website', 'Outdoor patio seating perfect for people-watching on the Church Street Marketplace Tripadvisor', 'Casual sports bar environment with multiple TVs for viewing games Official Website', 'Diverse menu ranging from classic tavern burgers to Thai shrimp and steak tacos Official Website', 'A staple of the Burlington dining scene for over 30 years Official Website']"
+      ],
+      "tips": "The outdoor patio is a popular spot for summer dining, so try to arrive early for a seat. Don't miss their weekly specials like Nacho Fries or Thai Chili Chicken Sliders. Tripadvisor",
+      "nearby": "Church Street Marketplace, Burlington Waterfront, Flynn Center for the Performing Arts, University of Vermont Scribd"
+    },
+    {
+      "name": "City Hall Park Burlington VT Government",
+      "category": "Park Burlington VT Government",
+      "description": "City Hall Park is a vibrant urban park in the heart of downtown Burlington, recently renovated to serve as a central community hub. It features open green spaces, radial paths, and modern amenities including an interactive splash pad and outdoor art, making it a popular spot for both residents and visitors Burlington VT Government, National Endowment for the Arts.",
+      "address": "149 College Street, Burlington, VT 05401 Tripadvisor",
+      "city": "Burlington Burlington VT Government",
+      "region": "Downtown / Church Street",
+      "hours": "6:00 AM - 12:00 AM daily (Overnight closure from midnight to 6:00 AM) Compass Vermont",
+      "days_open": "Daily Compass Vermont",
+      "admission": "Free Lake Champlain Regional Chamber of Commerce",
+      "website": "https://www.burlingtonvt.gov/parks-recreation-waterfront",
+      "phone": "(802) 864-0123 Burlington VT Government",
+      "image_url": "https://commons.wikimedia.org/wiki/File:CityHallParkHD02.JPG",
+      "highlights": [
+        "'Interactive splash pad/fountain with programmable LED lights [Lake Champlain Regional Chamber of Commerce', '\"The Cloud\" sculptural vending kiosk and public art installation Designboom', 'Outdoor contemporary sculpture and light exhibitions Wanderlog', 'Dedicated performance spaces for summer concert series and community events Wagner Hodgson', 'Sustainable rain gardens and large-scale stormwater management features Wagner Hodgson', 'Free public Wi-Fi provided by Burlington Telecom Burlington VT Government']"
+      ],
+      "tips": "The splash pad is particularly popular on summer Fridays during 'Splash Dance' events featuring live DJs. While the park is open year-round, the water features typically operate from 9 AM to 10:30 PM during warmer months and close for the winter in mid-October Burlington VT Government, Lake Champlain Regional Chamber of Commerce.",
+      "nearby": "Church Street Marketplace, Burlington City Arts (BCA) Center, Flynn Center for the Performing Arts, Burlington City Hall National Endowment for the Arts"
+    },
+    {
+      "name": "Crow Bookshop",
+      "category": "Shopping Crow Bookshop, Tripadvisor",
+      "description": "Crow Bookshop is a long-standing independent bookstore located in the heart of Burlington's Church Street Marketplace. Established in 1995, it offers a wide selection of both new and used books, along with vintage and collectible editions, in a cozy and welcoming atmosphere. Crow Bookshop, theindiebobspot",
+      "address": "14 Church Street",
+      "city": "Burlington",
+      "region": "Downtown / Church Street",
+      "hours": "Monday: 10:00 AM - 8:00 PM, Tuesday: 10:00 AM - 8:00 PM, Wednesday: 10:00 AM - 8:00 PM, Thursday: 10:00 AM - 8:00 PM, Friday: 10:00 AM - 9:00 PM, Saturday: 10:00 AM - 9:00 PM, Sunday: 10:00 AM - 8:00 PM Crow Bookshop",
+      "days_open": "Daily Crow Bookshop",
+      "admission": "Free Crow Bookshop",
+      "website": "https://www.crowbooks.com/",
+      "phone": "(802) 862-0848 Crow Bookshop",
+      "image_url": "https://cdn1.bookmanager.com/i/9932941/logo_navbar.jpg?cb=1692891527",
+      "highlights": [
+        "'Extensive collection of both new and used books [Crow Bookshop', 'Specializes in vintage and collectible editions theindiebobspot', 'Located in the vibrant, pedestrian-only Church Street Marketplace James H Duncan', 'Regularly hosts community events and book readings James H Duncan', 'Offers a book trade-in program for store credit Crow Bookshop', 'Recognized as one of the top independent bookstores in the nation by Travel + Leisure The Boston Globe']"
+      ],
+      "tips": "Since the bookstore is on a pedestrian-only street, plan to use nearby public parking garages and enjoy a short walk to the shop. Check their website for current trade-in policies if you're looking to swap books. theindiebobspot, Crow Bookshop",
+      "nearby": "Church Street Marketplace, BCA Center, Flynn Center for the Performing Arts, Lake Champlain Waterfront, ECHO Leahy Center for Lake Champlain Hello Burlington, TourismAttractions"
+    },
+    {
+      "name": "Farmhouse Tap & Grill Farmhouse Tap & Grill",
+      "category": "Restaurant / Gastropub Farmhouse Tap & Grill",
+      "description": "The Farmhouse Tap & Grill is an award-winning farm-to-table gastropub located in the heart of downtown Burlington. It serves high-quality burgers and innovative entrees paired with an extensive selection of Vermont craft beers. The establishment features a main dining room, a downstairs parlor bar, and a seasonal outdoor beer garden. Farmhouse Tap & Grill",
+      "address": "160 Bank Street, Burlington, VT 05401 Farmhouse Tap & Grill",
+      "city": "Burlington Farmhouse Tap & Grill",
+      "region": "Downtown / Church Street",
+      "hours": "Sunday: 11:00 AM - 9:00 PM, Monday: 11:00 AM - 9:00 PM, Tuesday: 11:00 AM - 9:00 PM, Wednesday: 11:00 AM - 9:00 PM, Thursday: 11:00 AM - 9:00 PM, Friday: 11:00 AM - 10:00 PM, Saturday: 11:00 AM - 10:00 PM Farmhouse Tap & Grill",
+      "days_open": "Open Daily Farmhouse Tap & Grill",
+      "admission": "Free Farmhouse Tap & Grill",
+      "website": "https://burlington.farmhousetg.com",
+      "phone": "802-859-0888 Farmhouse Tap & Grill",
+      "image_url": "https://burlington.farmhousetg.com/assets/FH-Beer-large.jpg",
+      "highlights": [
+        "'Award-winning burgers made with locally sourced ingredients [Farmhouse Tap & Grill', 'Extensive craft beer menu featuring selections from Vermont and beyond Farmhouse Tap & Grill', 'Seasonal outdoor beer garden for al fresco dining Farmhouse Tap & Grill', \"Downstairs 'Parlor' bar offering a cozy atmosphere and full bar service Farmhouse Tap & Grill\", 'Weekend brunch served on Saturdays and Sundays Farmhouse Tap & Grill', 'Farm-to-table philosophy supporting local Vermont producers Local Motion']"
+      ],
+      "tips": "Online reservations are recommended for indoor dining via Resy, though outdoor seating is exclusively first-come, first-served. Be prepared for potentially long wait times during peak hours, particularly on weekends. While service animals are welcome, the restaurant does not allow pets in its seating areas. Farmhouse Tap & Grill, Hiking for Donuts",
+      "nearby": "Church Street Marketplace, Waterfront Park, ECHO Leahy Center for Lake Champlain, Burlington City Arts Center, Flynn Center for the Performing Arts Tripadvisor"
+    },
+    {
+      "name": "First Unitarian Universalist Society of Burlington",
+      "category": "Landmark, Place of Worship",
+      "description": "The First Unitarian Universalist Society of Burlington is housed in the historic Brick Meeting House, the oldest surviving place of worship in Burlington. This vibrant congregation is committed to spiritual growth, social justice, and inclusion, serving as a prominent landmark at the head of the Church Street Marketplace. The iconic building, completed in 1816, features a 170-foot steeple and has been a central hub for community and spiritual life for over two centuries.",
+      "address": "152 Pearl Street, Burlington, VT 05401",
+      "city": "Burlington",
+      "region": "Downtown / Church Street",
+      "hours": "Sunday Worship at 10:00 AM; Office hours vary (call ahead for appointments); Building often hosts community events throughout the week (First Unitarian Universalist Society of Burlington)",
+      "days_open": "Daily (Sunday Services; Weekday events by schedule) (First Unitarian Universalist Society of Burlington)",
+      "admission": "Free (donations accepted) (First Unitarian Universalist Society of Burlington)",
+      "website": "https://uusociety.org/",
+      "phone": "(802) 862-5630 (First Unitarian Universalist Society of Burlington)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/BTV_UnitarianChurch_2008.jpg",
+      "highlights": [
+        "\"Historic Brick Meeting House (built 1816), the city's oldest place of worship ([Wikipedia))\", 'Iconic 170-foot steeple that serves as a landmark at the head of Church Street (First Unitarian Universalist Society of Burlington)', 'Original bell cast by Paul Revere (The Newtown Pentacle)', 'Architectural blend of Federal and Greek Revival styles designed by Peter Banner (YouTube)', \"Designated contributing property to the 'Head of Church Street' Historic District (Wikipedia))\", 'Active community involvement in social justice and environmental initiatives (First Unitarian Universalist Society of Burlington)']"
+      ],
+      "tips": "Visitors are encouraged to arrive early for Sunday services to find parking in the lot behind the building or in the oval parking area. The church is a popular photography spot, especially for capturing the classic 'up-street' view from the Church Street Marketplace. Mask-wearing is welcomed during indoor gatherings, and services are also livestreamed for those unable to attend in person (First Unitarian Universalist Society of Burlington).",
+      "nearby": "Church Street Marketplace, Masonic Temple, Richardson Building, University of Vermont (Wikipedia)), (Lang House)"
+    },
+    {
+      "name": "Flynn Center for the Performing Arts (The Flynn)",
+      "category": "Entertainment / Performing Arts Venue",
+      "description": "The Flynn Center for the Performing Arts is a premier cultural hub in northern Vermont, housed in a meticulously restored 1930s Art Deco movie palace. It serves as a full-service home for the performing arts, featuring world-class music, Broadway shows, theater, dance, and education programs (Flynn Center About).",
+      "address": "153 Main Street, Burlington, Vermont 05401",
+      "city": "Burlington",
+      "region": "Downtown / Church Street",
+      "hours": "Box Office Walk-ins: Monday-Friday 12:00 PM - 3:00 PM; Phone Sales: Monday-Friday 12:00 PM - 3:00 PM; Performance Days: Open 2 hours before showtime. Administrative Offices: Monday-Friday 9:00 AM - 5:00 PM (Flynn Center Contact, Flynn Center FAQ).",
+      "days_open": "Monday through Friday (Box Office/Admin); Show days (Theater) (Flynn Center Contact)",
+      "admission": "Ticket prices vary by event, typically ranging from $59 to over $200 (SeatGeek). Infants up to 12 months old are admitted free to designated family matinee performances (Flynn Center FAQ).",
+      "website": "https://www.flynnvt.org",
+      "phone": "802-863-5966 (Box Office); 802-652-4500 (Administration) (Flynn Center Contact)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Flynn_Theatre_marquee_Burlington_Vermont.jpg",
+      "highlights": [
+        "'1,411-seat restored Art Deco proscenium auditorium ([Flynn Center About)', \"FlynnSpace, an intimate 180-seat cabaret-style 'black box' theater (Flynn Center About)\", 'Amy E. Tarrant Gallery featuring rotating exhibits by area artists (Flynn Center About)', 'Home to the annual 10-day Burlington Discover Jazz Festival (Flynn Center About)', 'Host venue for the Vermont Symphony Orchestra and Lyric Theatre (Flynn Center About)', 'Comprehensive arts education program with two dedicated studios (Flynn Center About)']"
+      ],
+      "tips": "There is no elevator access to the Main Stage balcony; patrons must be able to walk up one flight. It is recommended to download the ParkMobile app for street parking and arrive early due to ongoing 'Great Streets' construction in the downtown area (Flynn Center Accessibility, Flynn Center Parking).",
+      "nearby": "Church Street Marketplace, City Hall Park, Waterfront Park, Lake Champlain, and the Echo Leahy Center (Lakeshore Vermont, Tripadvisor)."
+    },
+    {
+      "name": "Foam Brewers",
+      "category": "Restaurant, Bar, Brewery",
+      "description": "Founded in 2016 by a group of industry professionals, Foam Brewers is a vibrant craft brewery located across from Burlington’s Waterfront Park on Lake Champlain. The brewery is known for its imaginative, small-batch beers, particularly its IPAs and sours, served alongside world-class cheese and charcuterie in an eclectic space that celebrates brewing, science, art, music, and culture (Foam Brewers Official Site, Dig In Vermont).",
+      "address": "112 Lake Street, Burlington, VT 05401",
+      "city": "Burlington",
+      "region": "Downtown / Church Street",
+      "hours": "Monday: 12 PM - 10 PM; Tuesday: 12 PM - 10 PM; Wednesday: 12 PM - 10 PM; Thursday: 12 PM - 10 PM; Friday: 12 PM - 12 AM; Saturday: 10 AM - 12 AM; Sunday: 10 AM - 9 PM (Foam Brewers Official Site)",
+      "days_open": "7 days a week (Vermont Brewers Association)",
+      "admission": "Free (No admission fee for the taproom; events and beer/food priced separately) (Seven Days)",
+      "website": "https://www.foambrewers.com/",
+      "phone": "(802) 399-2511 (Foam Brewers Official Site)",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/56ba178401dbae2010c73e04/1460555620935-O86K7XN5L0O8W3O2W8O2/foam_brewers_logo.png?format=1500w",
+      "highlights": [
+        "'Stunning views of Lake Champlain and the Adirondack Mountains from its waterfront location ([Foam Brewers Official Site)', 'Regularly rotating lineup of imaginative, small-batch craft beers including world-class IPAs and sours (Yelp)', 'Eclectic taproom space featuring local art and a vibrant live music calendar (Tripadvisor)', 'Elevated pub fare including artisanal cheese and charcuterie slates (Dig In Vermont)', 'Dog-friendly patio and family-friendly atmosphere (Nova Circle, Yelp)']"
+      ],
+      "tips": "Check the online release schedule before visiting if you are looking to purchase specific takeaway cans, as they often sell out quickly. Arrive early on weekends to secure a spot on the patio for the best sunset views over the lake (Yelp, Foam Brewers Official Site).",
+      "nearby": "Waterfront Park, ECHO Leahy Center for Lake Champlain, Burlington Bike Path, Lake Champlain Maritime Museum (Tripadvisor)"
+    },
+    {
+      "name": "Guild Tavern Guild Tavern",
+      "category": "Restaurant",
+      "description": "Guild Tavern is a farm-to-table wood-fired grill featuring local beef grilled over Vermont hardwood. The menu offers classic steakhouse entrees, fresh seafood, and vegetarian options, complemented by an innovative cocktail program and local craft beers. The atmosphere is classy yet inviting, making it a popular choice for both casual dining and special celebrations. Guild Tavern",
+      "address": "1633 Williston Road, South Burlington, VT 05403 Guild Tavern",
+      "city": "South Burlington Guild Tavern",
+      "region": "Downtown / Church Street",
+      "hours": "Sunday: 4:30 PM – 9:00 PM; Monday: 4:30 PM – 9:00 PM; Tuesday: 4:30 PM – 9:00 PM; Wednesday: 4:30 PM – 9:00 PM; Thursday: 4:30 PM – 9:00 PM; Friday: 4:30 PM – 9:30 PM; Saturday: 4:30 PM – 9:30 PM Guild Tavern",
+      "days_open": "Open daily Guild Tavern",
+      "admission": "Free (Restaurant; no admission fee, but dining costs apply) Tripadvisor",
+      "website": "https://www.guildtavern.com",
+      "phone": "802-497-1207 Guild Tavern",
+      "image_url": "https://www.guildtavern.com/assets/GT-Steak-large.jpg",
+      "highlights": [
+        "'Farm-to-table wood-fired grill featuring local beef and Vermont hardwood [Guild Tavern', 'Extensive menu including classic steakhouse entrees, seafood, and vegetarian options Guild Tavern', 'Sunday night special: $22 Burger & Beer (choice of burger with bartender-selected draft) Guild Tavern', 'Innovative cocktail program and a variety of local Vermont beers on tap Tripadvisor', 'Private dining room available for hosted events and group celebrations Guild Tavern', 'Beautiful open kitchen design with a custom-built grill Dig In Vermont']"
+      ],
+      "tips": "Reservations are highly recommended, especially on weekends, and can be made via Resy. For a great value, visit on Sunday evenings for the Burger & Beer special. Guild Tavern Tripadvisor",
+      "nearby": "Burlington International Airport (BTV), Red Rocks Park, Overlook Park, University Mall, and the Whales Tails sculpture Hello Burlington Tripadvisor"
+    },
+    {
+      "name": "Hen of the Wood - Burlington",
+      "category": "Restaurant",
+      "description": "Hen of the Wood - Burlington provides a true Vermont dining experience, showcasing the region's most vibrant foods through simple, uncomplicated, and down-to-earth daily changing menus. Located next to Hotel Vermont, it has established itself as a cornerstone of the Burlington fine dining scene since opening in October 2013 Hen of the Wood.",
+      "address": "55 Cherry St",
+      "city": "Burlington",
+      "region": "Downtown / Church Street",
+      "hours": "Dining: 5:00 PM - 10:00 PM Daily; Bar: 4:00 PM - 11:00 PM Daily; Oyster Hour: 4:00 PM - 5:00 PM Daily Hen of the Wood",
+      "days_open": "Daily",
+      "admission": "Free entry (Menu prices vary: Oysters $24, Small Plates $16-35, Large Plates $30-45, For Two $95-110) Hen of the Wood",
+      "website": "https://www.henofthewood.com/burlington",
+      "phone": "802.540.0534 Hen of the Wood",
+      "image_url": "https://www.henofthewood.com/s/hotwbtv_scaled.png",
+      "highlights": [
+        "'Daily changing menus based on seasonal Vermont products [Hen of the Wood', 'Signature Hen of the Woods Mushroom Toast with house bacon and poached egg Hen of the Wood', \"Private 'Butcher Room' dining experience for groups of 6 to 12 Hen of the Wood\", 'Extensive oyster selection during daily Oyster Hour Hen of the Wood', 'Focus on locally sourced ingredients from farms like Burnt Rock and Pitchfork Farm Hen of the Wood', 'Craft cocktail program and curated wine list Hen of the Wood']"
+      ],
+      "tips": "Reservations are highly recommended and can be made via Resy; however, the bar opens at 4:00 PM for Oyster Hour and offers a more casual walk-in experience. For a unique group experience, book the Butcher Room for a chef's-choice dinner Hen of the Wood, Travel Like a Local VT",
+      "nearby": "Hotel Vermont, Waterfront Park, Church Street Marketplace, Burlington Bike Path, Whistling Man Schooner Company Tripadvisor"
+    },
+    {
+      "name": "Higher Ground",
+      "category": "Entertainment / Music Venue",
+      "description": "Higher Ground is Northern New England's premier live music venue, featuring two distinct performance spaces: the intimate Showcase Lounge and the larger Ballroom. Established in 1998, it hosts a diverse range of national and local acts across all genres, from indie rock to jazz and hip-hop. Higher Ground Home, Lake Champlain Chamber",
+      "address": "1214 Williston Road",
+      "city": "South Burlington",
+      "region": "Downtown / Church Street",
+      "hours": "Box Office: Open Saturday 1 PM - 6 PM and at 6 PM on event nights; Showcase Lounge: Mon-Fri 11 AM - 6 PM, Sat-Sun 2 PM - 6 PM (varies by show) Higher Ground FAQ, Cityseeker",
+      "days_open": "Tuesday - Sunday (and other nights as events are hosted) Higher Ground FAQ, Yelp",
+      "admission": "Varies by show (typically $15 - $250+); Gift certificates available; Free if noted for specific events Higher Ground FAQ, SeatGeek",
+      "website": "https://highergroundmusic.com/",
+      "phone": "(802) 652-0777",
+      "image_url": "https://highergroundmusic.com/wp-content/uploads/2021/04/MegaSlow_NEW-copy.gif",
+      "highlights": [
+        "'Two separate stages: The Ballroom and The Showcase Lounge [UVM Bored', 'National and local acts across all musical genres Higher Ground FAQ', 'Three full-service bars (cashless) Higher Ground FAQ', 'ADA compliant with accessible seating options Event Tickets Center', 'Typically all-ages venue unless otherwise specified Higher Ground FAQ', 'Host to the annual Grand Point North music festival on the Burlington Waterfront Wikipedia']"
+      ],
+      "tips": "Higher Ground is a cashless venue; parking is limited so carpooling is recommended; there is a strict no re-entry policy. Higher Ground FAQ",
+      "nearby": "University Mall, University of Vermont, Waterfront Park, Church Street Marketplace, ECHO Lake Aquarium and Science Center Tripadvisor, Hello Burlington"
+    },
+    {
+      "name": "Lake Champlain Islands",
+      "category": "Landmark / Region",
+      "description": "The Lake Champlain Islands are a picturesque chain of islands and a peninsula in northern Vermont, spanning roughly 30 miles between mainland Vermont and New York. This bucolic region includes the towns of South Hero, Grand Isle, North Hero, Isle La Motte, and Alburgh, offering over 200 miles of shoreline, rolling farmland, and historic sites. It is a popular destination for outdoor enthusiasts, featuring world-class biking, boating, and the oldest known fossil reef in the world. Vermont Tourism, Hello Burlington",
+      "address": "680 North Main Street (Alburgh Welcome Center)",
+      "city": "Alburgh",
+      "region": "Downtown / Church Street",
+      "hours": "9:00 AM – 5:00 PM (Alburgh Welcome Center) Explore New England",
+      "days_open": "Daily Explore New England",
+      "admission": "Free (general access; state parks and museums may have separate fees) Vermont Tourism, LCIEDC",
+      "website": "https://www.champlainislands.com",
+      "phone": "(802) 796-3980 Visit Vermont",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Lake_Champlain_at_sunrise.JPG",
+      "highlights": [
+        "'Chazy Fossil Reef: Visit one of the oldest known coral reefs in the world at Goodsell Ridge and Fisk Quarry preserves. [Vermont Explored', 'Island Line Trail & Causeway: Cycle or walk the stunning 14-mile trail across the lake, including the iconic Colchester Causeway. Komoot', \"Alburgh Dunes State Park: Relax at one of the lake's largest sandy beaches, featuring unique sand dunes and shallow waters. Hello Burlington\", \"Saint Anne’s Shrine: Explore the site of Vermont's first French settlement and enjoy peaceful lakeside views. Discovery Bicycle Tours\", 'Local Agriculture: Stop by apple orchards, vineyards, and farm stands like Allenholm Farm and Snow Farm Vineyard. Hello Burlington', \"Stunning Sunsets: Experience the famous 'buttery light' and colorful sunsets over the Adirondack Mountains. Outdoor Adventure Sampler\"]"
+      ],
+      "tips": "The best time to visit is from June through early September for full access to seasonal ferries and attractions. Don't miss the local 'creemees' (Vermont soft serve) and consider using the seasonal bike ferry to cross the causeway gap. Vermont Explored, Hello Burlington",
+      "nearby": "Burlington (VT), Shelburne Farms, ECHO Leahy Center, Ausable Chasm (NY), Fort Ticonderoga Vermont Explored"
+    },
+    {
+      "name": "Lake Champlain Transportation Company (Lake Champlain Ferries)",
+      "category": "Transportation",
+      "description": "Lake Champlain Transportation Company has provided reliable, safe, and friendly ferry service across Lake Champlain since 1826. It operates vital year-round and seasonal crossings between Vermont and New York, offering a scenic and efficient alternative to driving around the lake. Source: Ferries.com About",
+      "address": "1 King Street Dock",
+      "city": "Burlington",
+      "region": "Downtown / Church Street",
+      "hours": "Grand Isle – Plattsburgh: 24 hours daily, 7 days a week, year-round. Charlotte – Essex: Daily, approximately 7:00 AM – 5:30 PM (seasonal variations apply). Source: Ferries.com Schedules",
+      "days_open": "Daily",
+      "admission": "Grand Isle & Charlotte Routes: Driver & Vehicle (<19'): $12.25, Adult Passenger: $5.50, Senior (65+): $5.00, Child (6-12): $3.25, Child (under 6): FREE. All rates are each way and subject to fuel surcharges. Source: Ferries.com Rates",
+      "website": "https://ferries.com",
+      "phone": "802.864.9804",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/LCTC_ferries_1.jpg",
+      "highlights": [
+        "'Continuous ferry operation since 1826, making it one of the oldest in the U.S. [Source: Ferries.com History', 'Grand Isle to Plattsburgh crossing operates 24 hours a day, 7 days a week, year-round. Source: Ferries.com Grand Isle Route', 'Scenic crossings providing spectacular views of the Adirondack and Green Mountains. Source: Ferries.com Charlotte Route', 'No reservations are required for any of the ferry crossings. Source: Ferries.com Schedules', 'Operates the Ferry Dock Marina, located in the heart of the Burlington waterfront. Source: Ferries.com Marina', 'Available commuter and gift cards offering significant savings on regular fares. Source: Ferries.com Commuter Cards']"
+      ],
+      "tips": "Arrive at the dock at least 15 minutes before your desired departure time. Always check the official website or subscribe to text alerts for real-time updates on delays or weather-related closings. Source: Ferries.com Planning",
+      "nearby": "ECHO Leahy Center for Lake Champlain, Church Street Marketplace, Waterfront Park, Burlington Greenway, Shelburne Museum. Source: Ferries.com Attractions"
+    },
+    {
+      "name": "Leunig's Bistro & Café",
+      "category": "Restaurant",
+      "description": "Leunig's Bistro & Café is one of the oldest continually operating restaurants in downtown Burlington, offering a classic French bistro experience with the \"Panache of Paris\" (Official Website). Located in the heart of the Church Street Marketplace, it serves lunch and dinner with a focus on great food and a lively community atmosphere (Hello Burlington). The establishment is well-known for its exceptional people-watching opportunities and live music (Official Website).",
+      "address": "115 Church Street, Burlington, VT 05401",
+      "city": "Burlington",
+      "region": "Downtown / Church Street",
+      "hours": "Monday: 11:30 AM – 8:00 PM, Tuesday: 11:30 AM – 8:00 PM, Wednesday: 11:30 AM – 8:00 PM, Thursday: 11:30 AM – 8:00 PM, Friday: 11:30 AM – 9:00 PM, Saturday: 11:00 AM – 9:00 PM, Sunday: 11:00 AM – 8:00 PM (Official Website)",
+      "days_open": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday (Official Website)",
+      "admission": "Free (Official Website)",
+      "website": "https://www.leunigsbistro.com/",
+      "phone": "802-863-3759 (Official Website)",
+      "image_url": "https://www.leunigsbistro.com/assets/ricard_charcuterie-thumb-2.jpg",
+      "highlights": [
+        "'Located in the heart of the historic Church Street Marketplace ([Official Website).', 'One of the oldest continually operating restaurants in downtown Burlington (Hello Burlington).', 'Authentic French bistro atmosphere known as the \"Panache of Paris\" (Official Website).', 'Features live jazz music and premium outdoor seating for people-watching (Official Website).', 'Operates a separate kiosk, Leunig’s Petit Bijou, for quick coffee and pastries (Official Website).', 'Famous for its \"Early Bird\" two-course prix fixe dinner specials (Official Website).']"
+      ],
+      "tips": "Reservations are highly recommended due to the restaurant's popularity (Official Website). Guests can enjoy \"Early Bird\" specials from 3 PM to 5 PM daily, and should note that dogs are not allowed inside or on the patio (Official Website).",
+      "nearby": "Church Street Marketplace, Waterfront Park, ECHO Leahy Center for Lake Champlain, and the Flynn Center for the Performing Arts (Hello Burlington)."
+    },
+    {
+      "name": "Local Motion Trailside Center",
+      "category": "Outdoor Activities / Bike Rentals",
+      "description": "The Local Motion Trailside Center is a non-profit organization located on the Burlington Waterfront that serves as a hub for active transportation in Vermont. It offers a wide range of bike rentals, including e-bikes and trailers, with all proceeds supporting advocacy for safer streets and better infrastructure. Visitors can access trail maps, receive expert advice, and begin their journey along the scenic 14-mile Island Line Trail. (Local Motion)",
+      "address": "1 Steele Street #103, Burlington, VT 05401",
+      "city": "Burlington",
+      "region": "Downtown / Church Street",
+      "hours": "Monday: 9:00 AM - 6:00 PM, Tuesday: 9:00 AM - 6:00 PM, Wednesday: 9:00 AM - 6:00 PM, Thursday: 9:00 AM - 6:00 PM, Friday: 9:00 AM - 6:00 PM, Saturday: 9:00 AM - 6:00 PM, Sunday: 9:00 AM - 6:00 PM (Tripadvisor)",
+      "days_open": "Daily (Seasonal: May to Mid-October) (Local Motion, Tripadvisor)",
+      "admission": "Up to 3 Hours: Conventional Bike $28, Conventional + Trailer $46, E-Bike $42, Kids Bike $17; All Day: Conventional Bike $42, Conventional + Trailer $65, E-Bike $74, Kids Bike $25; Additional Days: Conventional $42, E-Bike $74, Kids $25. Rental proceeds support non-profit advocacy. (Local Motion)",
+      "website": "https://www.localmotion.org/bike_rentals",
+      "phone": "802-652-2453 (Local Motion)",
+      "image_url": "https://assets.nationbuilder.com/localmotion/pages/208/attachments/original/1767021554/49644447216_9cf2c416fd_o_-_Local_Motion.jpg?1767021554",
+      "highlights": [
+        "['Direct access to the Burlington Bike Path and the scenic Island Line Trail.', \"Wide variety of rentals including conventional bikes, e-bikes, adaptive bikes, and kids' equipment.\", 'Rental proceeds directly support statewide advocacy for walking and biking safety.', 'Complimentary helmets, locks, and handlebar bags provided with every rental.', 'Information hub providing trail maps and expert local advice for cyclists and walkers.', 'Connection point for the famous Island Line Bike Ferry to the Champlain Islands.']"
+      ],
+      "tips": "Reservations are strongly recommended for all rentals, especially during peak weekends and sunny days. Note that e-bike rentals do not accept cash payments. Be aware that there is no after-hours drop-off, so all equipment must be returned by the 6:00 PM closing time. Allow at least 4 hours if you plan to bike the full path to the Colchester Causeway and back. (Local Motion)",
+      "nearby": "Burlington Waterfront Park, ECHO Leahy Center for Lake Champlain, Church Street Marketplace, Lake Champlain Ferries, Spirit of Ethan Allen Cruises (Tripadvisor)"
+    },
+    {
+      "name": "Lone Rock Point (Rock Point Commons)",
+      "category": "Landmark/Park Rock Point Commons",
+      "description": "Lone Rock Point is a prominent natural area and promontory on the eastern shore of Lake Champlain, managed as part of the 130-acre Rock Point Commons. It is world-renowned among geologists for the Champlain Thrust Fault, where 500-million-year-old dolomite sits atop younger shale. The site offers spectacular lakeside views, easy hiking trails, and unique cliff habitats within walking distance of downtown Burlington. Wikipedia, Rock Point Commons",
+      "address": "20 Rock Point Road, Burlington, VT 05408 Rock Point Commons",
+      "city": "Burlington Rock Point Commons",
+      "region": "Downtown / Church Street",
+      "hours": "Dawn to Dusk Rock Point Commons",
+      "days_open": "Daily Rock Point Commons",
+      "admission": "Free (Donations accepted; free online trail pass highly encouraged) Rock Point Commons",
+      "website": "https://www.rockpointvt.org/",
+      "phone": "802-863-1104 Rock Point School",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Champlain_Thrust_Lone_Rock.jpg/1024px-Champlain_Thrust_Lone_Rock.jpg",
+      "highlights": [
+        "'Spectacular views of Lake Champlain and the Adirondack Mountains [Rock Point Commons', 'World-famous Champlain Thrust Fault geological formation Wikipedia', 'Over two miles of accessible walking and hiking trails Rock Point Commons', 'Unique rare and fragile plant species and cliff habitats Rock Point Commons', 'Outdoor chapel and community garden areas Tripadvisor', 'Rock climbing opportunities for advanced climbers (registration required) Rock Point Commons']"
+      ],
+      "tips": "Visitors are highly encouraged to obtain a free trail pass online before arriving. Parking on-site is extremely limited; it is often better to park at nearby Leddy Park or North Beach and access via the Burlington Bike Path. Dogs must be leashed at all times, and visitors should stay on marked trails to protect the fragile ecosystem. Rock Point Commons",
+      "nearby": "North Beach Park, Leddy Park, Burlington Bike Path, Waterfront Park Tripadvisor"
+    },
+    {
+      "name": "Mad River Distillers Burlington Tasting Room",
+      "category": "Bar, Distillery Tasting Room, Shopping",
+      "description": "Mad River Distillers Burlington is a craft cocktail bar and retail shop offering small-batch spirits fermented, distilled, and bottled in Vermont's Mad River Valley. Visitors can enjoy tasting flights, expertly crafted cocktails, and a selection of local spirits, barware, and cocktail accessories in a hip, modern setting.",
+      "address": "137 St. Paul St.",
+      "city": "Burlington",
+      "region": "Downtown / Church Street",
+      "hours": "Sunday - Wednesday: 12:00 PM - 6:00 PM; Thursday - Saturday: 12:00 PM - 8:00 PM",
+      "days_open": "Monday - Sunday (Daily)",
+      "admission": "Free (Tasting flights approx. $8-$15)",
+      "website": "https://www.madriverdistillers.com/tasting-rooms/burlington-tasting-room/",
+      "phone": "802-489-5501",
+      "image_url": "https://www.madriverdistillers.com/wp-content/uploads/2016/09/Mad-River-Distillers-Burlington-Tasting-Room-1800x425.webp",
+      "highlights": [
+        "['Small-batch whiskey, rum, and brandy tastings', 'Expertly crafted classic and contemporary cocktails', 'Retail shop with spirits, bitters, mixers, and barware', 'Dog-friendly indoor space for leashed pets', 'Wheelchair-accessible tasting room', 'Private cocktail-making classes and spirits seminars available by appointment']"
+      ],
+      "tips": "Reservations are recommended for parties of 6 or more; walk-ins are otherwise welcome. For a quieter experience, visit on a weekday afternoon, or stop by on 'Mule Thursdays' or 'Daiquiri Fridays' for specific cocktail specials. Nearby parking garages are available as street parking is limited.",
+      "nearby": "Waterfront Park, ECHO Leahy Center for Lake Champlain, Church Street Marketplace, Lake Champlain Ferries, Burlington City Arts Center"
+    },
+    {
+      "name": "Monarch & the Milkweed",
+      "category": "Restaurant, Bar, and Pastry Shop (Monarch and the Milkweed, The Food Lens)",
+      "description": "Monarch & the Milkweed was a celebrated \"fine diner,\" pastry shop, and cocktail bar located in the heart of downtown Burlington, Vermont. Known for its sophisticated marble-clad interior and artistic presentation, the establishment offered a unique blend of high-end pastries, craft coffee, and inventive cocktails. While the restaurant formally closed its dining operations in late 2022, it remains well-known as the birthplace of MILKWEED Cannabis Confections, which continues to operate through online sales and local partnerships. (Monarch and the Milkweed, Seven Days)",
+      "address": "111 Saint Paul Street",
+      "city": "Burlington",
+      "region": "Downtown / Church Street",
+      "hours": "Monday: 8:00 AM – 11:00 PM; Tuesday: 8:00 AM – 11:00 PM; Wednesday: 8:00 AM – 11:00 PM; Thursday: 8:00 AM – 11:00 PM; Friday: 8:00 AM – 1:00 AM; Saturday: 8:00 AM – 1:00 AM; Sunday: 8:00 AM – 5:00 PM (Monarch and the Milkweed)",
+      "days_open": "Monday - Sunday (Monarch and the Milkweed)",
+      "admission": "Free (Monarch and the Milkweed)",
+      "website": "http://www.monarchandthemilkweed.com",
+      "phone": "(802) 310-7828 (Monarch and the Milkweed)",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/56afe6f062cd94362f88aaa4/1568217453508-F3IFEL60QDKFAE4FLNEH/monarchtarts.jpeg?format=1500w",
+      "highlights": [
+        "'Gourmet pastries and chocolates crafted by renowned pastry chef Andrew LeStourgeon. ([Seven Days)', 'Innovative cocktail program featuring unique drinks like the \"Tonka Puff\" and \"Monarch\" cocktail. (The Food Lens)', 'Sophisticated \"miniature marble palace\" interior with chic, airy decor and artistic wood assemblages. (Seven Days)', 'Original home of MILKWEED Cannabis Confections, featuring CBD and THC-infused truffles. (MILKWEED Confections)', \"Prime downtown location situated directly across from Burlington's City Hall Park. (Hello Burlington)\", 'Savory and sweet menu highlights including Trout Donuts and refined \"fine diner\" comfort food. (The Food Lens)']"
+      ],
+      "tips": "While the full-service restaurant closed in November 2022, the brand's signature cannabis confections are still available for online order and local pickup. The physical space is now home to the boutique cocktail bar \"Devil Takes a Holiday,\" which maintains the same stylish atmosphere. (Seven Days, Hello Burlington)",
+      "nearby": "City Hall Park, Church Street Marketplace, Waterfront Park, ECHO Leahy Center for Lake Champlain. (Hello Burlington)"
+    },
+    {
+      "name": "Mount Mansfield",
+      "category": "Landmark",
+      "description": "Mount Mansfield is the highest mountain in Vermont, reaching an elevation of 4,393 feet and serving as a premier destination for hiking and skiing. It is renowned for its distinctive ridgeline which resembles a human profile when viewed from the east or west, with features named the Forehead, Nose, Lips, and Chin. The summit is home to one of Vermont's rare alpine tundra zones, offering stunning panoramic views of Lake Champlain and the surrounding Green Mountains. Wikipedia, Stowe Mountain Resort",
+      "address": "4333 Toll Rd, Stowe, VT 05672",
+      "city": "Stowe",
+      "region": "Downtown / Church Street",
+      "hours": "Auto Toll Road: 9:30 AM - 4:30 PM; Gondola SkyRide: 10:00 AM - 4:30 PM. Stowe Mountain Resort",
+      "days_open": "Daily (Late May through mid-October) Stowe Mountain Resort",
+      "admission": "Auto Toll Road: $38 per car/driver ($45 foliage rate), $14.50 per additional passenger ($17 foliage rate). Gondola SkyRide: $44 adult ($55 foliage rate), $29 child ages 5-12 ($35 foliage rate), Family Pack $124 ($155 foliage rate), children 4 and under are free. Stowe Mountain Resort, Gondola Pricing",
+      "website": "https://www.stowe.com/",
+      "phone": "(802) 253-3000",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Mount_mansfield_20040926.jpg",
+      "highlights": [
+        "[\"Vermont's highest peak at 4,393 feet elevation\", 'Rare and fragile alpine tundra zone at the summit ridgeline', 'Scenic 4.5-mile Auto Toll Road for easy vehicle access to the ridge', 'Gondola SkyRide offering spectacular views of the Green Mountains', \"Access to the historic Long Trail, America's oldest long-distance footpath\", \"Distinctive 'man in the mountain' profile features including 'The Chin' summit\"]"
+      ],
+      "tips": "Stay strictly on the rocks when in the alpine zone to protect the fragile and endangered vegetation. Be prepared for significantly cooler temperatures and high winds at the summit compared to the base. Arrive early during peak foliage season (late September to mid-October) as the Toll Road and Gondola can reach capacity quickly. Dogs must be kept on a leash at all times. Green Mountain Club, Outbound Hotels",
+      "nearby": "Smugglers Notch State Park, Stowe Mountain Resort, Trapp Family Lodge, Gold Brook Covered Bridge, Bingham Falls, Stowe Pinnacle. TripAdvisor, Go Stowe"
+    },
+    {
+      "name": "Nectar's Restaurant, Bar and Music Venue",
+      "category": "Restaurant, Bar, and Music Venue",
+      "description": "Nectar's is a legendary landmark in downtown Burlington, famously serving as the \"birthplace\" where the band Phish learned to jam. Established in 1975, it has been a cornerstone of the Vermont music scene for half a century, known for its intimate atmosphere and signature gravy fries. While the physical venue at 188 Main Street officially closed its doors in late 2025, it remains a revered site of musical pilgrimage in the city (Nectar's, VTDigger).",
+      "address": "188 Main Street, Burlington, VT 05401",
+      "city": "Burlington",
+      "region": "Downtown / Church Street",
+      "hours": "Tuesday - Wednesday: 7:00 PM – 1:30 AM; Thursday - Saturday: 8:00 PM – 1:30 AM; Sunday - Monday: Closed (Nectar's)",
+      "days_open": "Tuesday - Saturday (Nectar's)",
+      "admission": "Varies by event; historically included many free local showcases, with ticketed touring acts typically ranging from $10 to $45+ (Nectar's, Vivid Seats)",
+      "website": "https://liveatnectars.com",
+      "phone": "(802) 658-4771",
+      "image_url": "https://liveatnectars.com/wp-content/uploads/2022/07/nectars-red.png",
+      "highlights": [
+        "['Famed as the primary training ground and early home for the band Phish.', 'Features an iconic rotating neon sign that has stood over Main Street since 1975.', 'Home of the world-famous hand-cut gravy fries, a Burlington culinary staple.', '\"Fresh Music Served Daily\" motto reflecting its history of hosting acts every night.', 'Historic two-story layout featuring a main stage and \"The Lounge\" upstairs.', \"Recipient of deep local support and a key contributor to the soul of Burlington's music scene.\"]"
+      ],
+      "tips": "Try the signature gravy fries, which are widely considered a must-have local delicacy. Be aware of age restrictions, as midweek shows were typically 18+ while weekend events were 21+. Check the official website for any archival updates or \"Nectar's Presents\" events held at other local venues (Nectar's, Seven Days).",
+      "nearby": "Church Street Marketplace, Waterfront Park, Flynn Center for the Performing Arts, ECHO Leahy Center for Lake Champlain (Tripadvisor)"
+    },
+    {
+      "name": "North Beach Park",
+      "category": "Park, Beach",
+      "description": "North Beach Park is Burlington's premier municipal beach, spanning nearly 45 acres of woods and sandy shoreline along Lake Champlain. It offers a unique urban-rural blend with extensive recreational facilities, including a popular campground, playground, and direct access to the 8-mile Burlington Greenway. Burlington Parks, Recreation & Waterfront, Hello Burlington",
+      "address": "60 Institute Road",
+      "city": "Burlington",
+      "region": "Downtown / Church Street",
+      "hours": "Daily 7:00 AM - 9:00 PM (Beach closes at 9 PM; quiet hours 10 PM - 7 AM for campground) Burlington Parks, Recreation & Waterfront",
+      "days_open": "Daily (seasonal amenities and campground open May 15 – October 15) Burlington Parks, Recreation & Waterfront",
+      "admission": "Free for those entering by foot or bike. Vehicle parking: $3 per hour (May – Oct 15), Free (Oct 16 – April). Seasonal passes available: $55 (Resident), $75 (Non-Resident). Burlington Parks, Recreation & Waterfront",
+      "website": "https://enjoyburlington.com/place/north-beach-park/",
+      "phone": "802-862-0942 Burlington Parks, Recreation & Waterfront",
+      "image_url": "https://www.burlingtonvt.gov/ImageRepository/Document?documentID=6488",
+      "highlights": [
+        "'Sandy Lake Champlain beach with shallow, gradual entry for swimming [Airial Travel', 'Full-service urban campground with 137 sites for tents and RVs Burlington Parks, Recreation & Waterfront', 'Direct access to the 8-mile Burlington Greenway bike path Burlington Wildways', 'Seasonal snack bar and beach grill with shaded picnic areas Airial Travel', 'On-site rentals for kayaks, canoes, and stand-up paddleboards Hello Burlington', 'Regular community events, including the popular full moon drum circles Airial Travel']"
+      ],
+      "tips": "Enter for free by walking or biking via the Burlington Greenway to avoid parking fees. The water is shallow for a significant distance, making it excellent for families with young children. Arrive early on sunny weekends as parking lots can fill quickly. Airial Travel, Tripadvisor",
+      "nearby": "Rock Point Trail, Leddy Park, Ethan Allen Park, Burlington Greenway (Bike Path), ECHO Leahy Center for Lake Champlain. Evendo"
+    },
+    {
+      "name": "Old Mill (Main College Building)",
+      "category": "University, Landmark",
+      "description": "Old Mill is the oldest and most iconic building on the University of Vermont campus, serving as a primary symbol of the institution for over two centuries. Originally constructed in 1825 and later modernized in the Victorian Gothic style, it now houses various humanities departments including English, Economics, and Political Science. The building's distinctive red brick facade and belfry are prominent features of the University Green Historic District.",
+      "address": "94 University Place",
+      "city": "Burlington",
+      "region": "Downtown / Church Street",
+      "hours": "Monday - Friday: 8:00 AM - 4:30 PM (Business Hours)",
+      "days_open": "Monday - Friday",
+      "admission": "Free",
+      "website": "https://www.uvm.edu/",
+      "phone": "(802) 656-3131 (UVM Switchboard)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/University_of_Vermont_Old_Mill.jpg/640px-University_of_Vermont_Old_Mill.jpg",
+      "highlights": [
+        "'Oldest campus building, with its predecessor dating back to 1802 ([Wikipedia))', 'Cornerstone of the south wing was laid by General Lafayette in 1825 (UVM History)', 'Listed on the National Register of Historic Places since 1975 (National Park Service)', 'Features a striking Victorian Gothic tower and belfry from its 1882 restoration (Wikipedia))', 'Home to the historic John Dewey Lounge, named after the famous philosopher and UVM alumnus (UVM)']"
+      ],
+      "tips": "The best views for photography are from across the University Green on the west side. Be sure to look for the historic Lafayette cornerstone located on the exterior of the south wing. While primarily an academic building, the interior halls and the John Dewey Lounge are often accessible to visitors during business hours.",
+      "nearby": "University Green, Fleming Museum of Art, Royall Tyler Theatre, Billings Library"
+    },
+    {
+      "name": "Penny Cluse Cafe",
+      "category": "Restaurant Seven Days",
+      "description": "Penny Cluse Cafe was a beloved Burlington landmark for nearly 25 years, renowned for its creative breakfast and lunch offerings. Known for signature dishes like biscuits with herb gravy and the \"Bucket-o-Spuds,\" it served as a bustling community hub on the corner of Cherry Street and South Winooski Avenue until its closure in late 2022. Seven Days, VTDigger",
+      "address": "169 Cherry Street",
+      "city": "Burlington",
+      "region": "Downtown / Church Street",
+      "hours": "Monday - Friday: 6:45 AM - 3:00 PM; Saturday: 6:45 AM - 3:00 PM; Sunday: 8:00 AM - 3:00 PM SinglePlatform",
+      "days_open": "Daily SinglePlatform",
+      "admission": "Free (Menu prices vary) Seven Days",
+      "website": "http://pennycluse.com",
+      "phone": "(802) 651-8834 ActiveRain",
+      "image_url": "https://i0.wp.com/www.sevendaysvt.com/wp-content/uploads/2022/10/20180430-oliverparini-pennycluse-0264-scaled.webp?ssl=1",
+      "highlights": [
+        "'\"The Penny Cluse\" (biscuits with signature herb cream gravy) [Vermont Mom', '\"Bucket-o-Spuds\" (home fries topped with cheese, salsa, sour cream, and green onions) The Vermont Cynic', 'Gingerbread Pancakes served with real Vermont maple syrup Only In Your State', 'Tofu Scrambles, a popular choice for vegan and vegetarian diners Seven Days', 'Freshly squeezed tangerine and grapefruit juices ActiveRain', 'A wide selection of Mexican-inspired breakfast dishes like Huevos Rancheros and Fish Tacos Seven Days']"
+      ],
+      "tips": "Arrive early, especially on weekends, as wait times can exceed an hour and the cafe does not take reservations. Don't miss the murals by local artist Abby Manock in the bathrooms, and ask for toys or crayons to keep children entertained. Vermont Mom, The Vermont Cynic",
+      "nearby": "Church Street Marketplace, Burlington Waterfront Park, Flynn Center for the Performing Arts, ECHO Leahy Center for Lake Champlain Seven Days"
+    },
+    {
+      "name": "Radio Bean",
+      "category": "Live Music Venue, Coffee Shop, and Bar",
+      "description": "Radio Bean is a bohemian community hub and live music hot-spot that has been a staple of the Burlington arts scene since 2000. It serves as an eclectic venue for diverse genres, featuring everything from jazz and folk to drag and live theater, all within a vintage-inspired, intimate atmosphere. Radio Bean, Seven Days",
+      "address": "8 N. Winooski Ave., Burlington, VT 05401",
+      "city": "Burlington",
+      "region": "Downtown / Church Street",
+      "hours": "Tuesday–Thursday: 6:00 PM – Close; Friday–Saturday: 6:00 PM – 2:00 AM; Sunday–Monday: Closed. Radio Bean",
+      "days_open": "Tuesday - Saturday (Closed Sunday & Monday)",
+      "admission": "Cover charge ranges from $5.00–$10.00 on most nights (Tues, Thurs, Fri, Sat), with a tip bowl for performers; admission varies by show. Radio Bean",
+      "website": "https://www.radiobean.com",
+      "phone": "(802) 660-9346",
+      "image_url": "https://static.wixstatic.com/media/8c4808_0749e225a8b94bc3a172680464d48193~mv2_d_2360_2441_s_2.png",
+      "highlights": [
+        "'Nightly live music performances across a wide array of musical genres. [Radio Bean', 'Interconnected with sister venues ¡Duino! (Duende) and Light Club Lamp Shop. Radio Bean', 'Eclectic, vintage decor featuring funky lamps and mismatched furniture. Tripadvisor', 'Community-focused environment known as the \"common living room\" for local creatives. Radio Bean', 'Features a coffee bar during the day and a full craft cocktail bar at night. Radio Bean', 'Renowned for launching the careers of nationally acclaimed artists like Kat Wright. Radio Bean']"
+      ],
+      "tips": "The venue becomes 21+ starting at 9:00 PM or 10:00 PM nightly; ensure you have a valid ID for entry. Reservations are accepted Sunday through Thursday, but Friday and Saturday dinner service is first-come, first-served. Radio Bean",
+      "nearby": "Church Street Marketplace, Light Club Lamp Shop, ¡Duino! (Duende), and Pearl Street. Radio Bean, Hello Burlington"
+    },
+    {
+      "name": "Scout (also known as Scout and Co Coffee) Scout, Facebook",
+      "category": "Restaurant (Coffee Shop and Ice Cream Parlor) Scout",
+      "description": "Scout is an espresso bar and ice cream company dedicated to scouting out quality roasters and serving delicious coffee. They source beans from BIPOC, Queer, and Women-owned businesses and offer homemade hard ice cream with locally sourced ingredients. The cafes provide a comfortable community space with fresh baked goods made in-house. Scout, Scout",
+      "address": "237 North Ave, Burlington, VT 05401 Scout",
+      "city": "Burlington Scout",
+      "region": "Downtown / Church Street",
+      "hours": "Mon–Thu 7:00 AM – 5:00 PM, Fri 7:00 AM – 6:00 PM, Sat–Sun 8:00 AM – 6:00 PM Scout",
+      "days_open": "Daily Scout",
+      "admission": "Free Scout",
+      "website": "https://scoutvt.com",
+      "phone": "(802) 540-0349 Scout",
+      "image_url": "https://scoutvt.com/wp-content/uploads/2022/04/Scout-Old-North-End-shop-900x600.jpeg",
+      "highlights": [
+        "'Curated coffee from BIPOC, Queer, and Women-owned roasters [Scout', 'Homemade hard ice cream featuring local dairy from Monument Farms Scout', 'Fresh baked goods made in-house at the South End location Scout', 'Artisanal donuts from Miss Weinerz available Wednesday-Saturday Scout', 'Unique ice cream flavors like smoked maple Scout', 'Cozy interior with a community-focused atmosphere and Wi-Fi Daily Coffee News, Joe Coffee']"
+      ],
+      "tips": "Visit Wednesday through Saturday to try specialty donuts from Miss Weinerz. Check their social media or stop in to see the weekly evolving ice cream flavors. The South End location on Pine Street is where most of their pastries are freshly baked. Scout",
+      "nearby": "Lake Champlain, Burlington Bike Path, Church Street Marketplace, Pine Street Arts District Hello Burlington"
+    },
+    {
+      "name": "Shelburne Farms",
+      "category": "Working Farm, Education Nonprofit, and National Historic Landmark",
+      "description": "Shelburne Farms is a 1,400-acre working farm, forest, and National Historic Landmark dedicated to education for a sustainable future. Visitors can explore a historic campus featuring a world-class cheesemaking facility, a children's farmyard, and an extensive network of trails with stunning views of Lake Champlain. The property serves as a living classroom for sustainability and hosts diverse programs for educators and families alike. Shelburne Farms",
+      "address": "1611 Harbor Road, Shelburne, VT 05482",
+      "city": "Shelburne",
+      "region": "Downtown / Church Street",
+      "hours": "Monday: 9:30 AM - 5:30 PM; Tuesday: 9:30 AM - 5:30 PM; Wednesday: 9:30 AM - 5:30 PM; Thursday: 9:30 AM - 5:30 PM; Friday: 9:30 AM - 5:30 PM; Saturday: 9:30 AM - 5:30 PM; Sunday: 9:30 AM - 5:30 PM (Summer Hours for Farm Store & Welcome Center). Walking trails close at sunset. Shelburne Farms",
+      "days_open": "Daily (7 days a week) for general grounds access and the Farm Store. Shelburne Farms",
+      "admission": "Day visit (trails, farmyard) is by donation. Tours (Sun to Cheese, House & Garden) are approximately $20 per person. Shelburne Farms",
+      "website": "http://shelburnefarms.org",
+      "phone": "802-985-8686",
+      "image_url": "https://shelburnefarms.org/sites/default/files/inline-images/05%20May%202025.jpg",
+      "highlights": [
+        "[\"The Children's Farmyard at the historic Farm Barn.\", 'Award-winning farmstead cheddar cheesemaking demonstrations.', 'Over 10 miles of scenic walking trails with Lake Champlain vistas.', 'The historic Inn at Shelburne Farms and its formal flower gardens.', 'Sustainable agriculture programs and farm-to-table dining.', 'The iconic Round Barn and architectural grandeur.']"
+      ],
+      "tips": "Dogs (except service animals), bikes, and drones are strictly prohibited. Wear comfortable footwear for the 10+ miles of walking trails. A tractor-drawn shuttle wagon typically runs every half-hour from the Welcome Center to the Farm Barn during the peak season. Shelburne Farms",
+      "nearby": "Shelburne Museum, Vermont Teddy Bear Company, Lake Champlain Shelburne Farms"
+    },
+    {
+      "name": "Shelburne Museum",
+      "category": "Museum",
+      "description": "Shelburne Museum is northern New England's largest art and history museum, featuring a unique collection of American folk art, design, and Americana. The 45-acre campus includes 39 distinct structures, such as historic houses, a lighthouse, and the 220-foot steamboat Ticonderoga, set within beautifully landscaped gardens. (Shelburne Museum)",
+      "address": "6000 Shelburne Road",
+      "city": "Shelburne",
+      "region": "Downtown / Church Street",
+      "hours": "Daily 10:00 a.m. – 5:00 p.m. (May 9 through October 25, 2026); Weathervane Café: 11:00 a.m. – 3:00 p.m. (Shelburne Museum)",
+      "days_open": "Daily (seasonal, May 9 – October 25)",
+      "admission": "Adult: $25-27.50, Senior (65+): $23-25.50, AAA/Veteran: $23-25.50, Child (13-17): $14, Child (5-12): $12, Under 5: Free, Family Pass (2 adults & 2 children): $65, College Student: $15, Members & Active Military: Free (Shelburne Museum)",
+      "website": "https://shelburnemuseum.org/",
+      "phone": "(802) 985-3346",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Shelburne_Museum_Round_Barn_2019.jpg",
+      "highlights": [
+        "['Steamboat Ticonderoga (National Historic Landmark)', 'Shaker-designed Round Barn', '1920s Carousel and General Store', 'Pizzagalli Center for Art and Education', '22 themed gardens including a lush lilac collection', 'Electra Havemeyer Webb Memorial Building with Impressionist paintings']"
+      ],
+      "tips": "Purchase tickets online in advance to save on adult and senior admission prices. Wear comfortable walking shoes as the museum spans a large 45-acre campus with many outdoor paths. (Shelburne Museum)",
+      "nearby": "Shelburne Farms, Shelburne Vineyard, Vermont Teddy Bear Factory, Lake Champlain, Burlington Waterfront (Tripadvisor)"
+    },
+    {
+      "name": "Stowe Village Historic District",
+      "category": "Landmark",
+      "description": "The Stowe Village Historic District encompasses most of the village center of Stowe, Vermont, and has served as a major resort center since the 19th century. The district is characterized by a diverse streetscape of 19th-century wood-frame architecture and was listed on the National Register of Historic Places in 1978. It serves as a hub for local shopping, dining, and outdoor recreation access. (Wikipedia)",
+      "address": "51 Main Street (Visitor Information Center), Stowe, VT 05672",
+      "city": "Stowe",
+      "region": "Downtown / Church Street",
+      "hours": "Visitor Center: Monday – Friday, 9:30 a.m. – 4:30 p.m. (Go Stowe)",
+      "days_open": "Monday - Friday (Visitor Center); Daily (Village) (Go Stowe)",
+      "admission": "Free (Go Stowe)",
+      "website": "https://gostowe.com",
+      "phone": "(802) 253-7321 (Go Stowe)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/2004-02-25_-_07_-_Stowe_Town_Hall.jpg",
+      "highlights": [
+        "'Historic 19th-century architecture and charming streetscape ([Wikipedia)', 'Starting point for the 5.3-mile Stowe Recreation Path (Go Stowe)', 'Home to the iconic white-steepled Community Church (Stowe Historical Society)', 'Diverse selection of independent shops, galleries, and restaurants (Go Stowe)', 'Listed on the National Register of Historic Places (Wikipedia)']"
+      ],
+      "tips": "Stop by the Visitor Information Center on Main Street for local advice and maps. The village is very walkable, making it easy to explore the historic buildings and local shops on foot. (Go Stowe)",
+      "nearby": "Stowe Mountain Resort, Moss Glen Falls, Cold Hollow Cider Mill, Trapp Family Lodge, Mount Mansfield Auto Toll Road (Tripadvisor)"
+    },
+    {
+      "name": "The Cathedral Church of St. Paul",
+      "category": "Landmark (Buildings of New England)",
+      "description": "The Cathedral Church of St. Paul serves as the cathedral for the Episcopal Church in Vermont and is a prominent example of brutalist architecture in downtown Burlington. Completed in 1973 following a fire that destroyed the previous structure, the stressed concrete building features large windows with views of Lake Champlain. It is a vibrant center for worship, music through its \"Cathedral Arts\" program, and community outreach. (Official Website, Buildings of New England)",
+      "address": "2 Cherry Street, Burlington, VT 05401 (Official Website)",
+      "city": "Burlington",
+      "region": "Downtown / Church Street",
+      "hours": "Sunday: 10:00 AM (Holy Eucharist); Monday - Friday: 8:30 AM (Morning Prayer via Zoom); Sunday & Wednesday: 9:00 PM (Compline via Zoom). Office hours: Tuesday - Friday: 9:00 AM - 5:00 PM (Official Website, Yelp)",
+      "days_open": "Monday - Friday, Sunday (Official Website)",
+      "admission": "Free (Official Website)",
+      "website": "https://www.stpaulscathedralvt.org",
+      "phone": "(802) 864-0471 (Official Website)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Cathedral_Church_of_St._Paul_-_Burlington%2C_Vermont_01.jpg",
+      "highlights": [
+        "'Unique brutalist architecture designed by Burlington Associates and completed in 1973 ([Buildings of New England)', 'Stunning interior views of Lake Champlain and the Adirondack Mountains (Official Website)', 'Features a historic chime of eight bells cast in 1895 by the Meneely Bell Company (Official Website)', 'Home to a notable tracker action organ built in 1973 by Karl Wilhelm (Official Website)', 'Tranquil Memorial Garden on the east side of the nave, dating back to the 1970s (Official Website)', 'Regular host of \"Cathedral Arts\" events, including concerts and artistic exhibitions (Official Website)']"
+      ],
+      "tips": "Visitors are welcome to attend services regardless of religious background or attire; \"all are welcome\" is a core practice. Parking is free in the church lot on Sundays. Check the online calendar for special musical performances and Cathedral Arts events. (Official Website)",
+      "nearby": "Battery Park, Church Street Marketplace, Waterfront Park, ECHO Leahy Center for Lake Champlain (Official Website)"
+    },
+    {
+      "name": "The Vermont Pub & Brewery",
+      "category": "Brewpub, Restaurant, Bar",
+      "description": "The Vermont Pub & Brewery is Vermont's original brewpub and longest-running craft brewery, founded in 1988 by craft-brewing pioneer Greg Noonan. It offers a relaxed atmosphere with award-winning craft beers brewed on-site and a menu of classic American pub fare made with local ingredients. (Official Website)",
+      "address": "144 College Street, Burlington, Vermont 05401",
+      "city": "Burlington",
+      "region": "Downtown / Church Street",
+      "hours": "Sunday: 11:30am - 10:00pm; Monday: 11:30am - 10:00pm; Tuesday: 11:30am - 10:00pm; Wednesday: 11:30am - 10:00pm; Thursday: 11:30am - 10:00pm; Friday: 11:30am - 11:00pm; Saturday: 11:30am - 11:00pm (Official Website)",
+      "days_open": "Monday - Sunday (7 days a week) (Official Website)",
+      "admission": "Free (Pub/Restaurant with no entry fee) (Seven Days)",
+      "website": "http://vermontbrewery.com/",
+      "phone": "802-865-0500 (Official Website)",
+      "image_url": "https://vermontbrewery.com/images/VPB%20Logo.png",
+      "highlights": [
+        "\"Vermont's original craft brewpub, founded in 1988 ([Vermont Brewers Association)\", 'Brews over 80 styles of beer each year using a 14-barrel system (Vermont Brewers Association)', 'Extensive seasonal patio with live music (Tripadvisor)', 'Known for signature dishes like Fish and Chips and Burly Irish Ale (Vermont Brewers Association)', 'Commemorative plaque dedicated to founder Greg Noonan at the entrance (Wikipedia)', 'Utilizes traditional brewing methods and partners with over 20 local food producers (Official Website)']"
+      ],
+      "tips": "Try the famous Fish and Chips paired with a beer recommended by the knowledgeable staff. Visit during Wednesday or Thursday evenings or Sunday afternoons for live music on the dog-friendly patio. (Vermont Explored, Vermont Brewers Association)",
+      "nearby": "Church Street Marketplace, Lake Champlain, Waterfront Park, Echo Leahy Center for Lake Champlain (Tripadvisor)"
+    },
+    {
+      "name": "Town of Williston, Vermont",
+      "category": "Town / Municipality",
+      "description": "Williston is a thriving suburb of Burlington and a major retail center for central and northern Vermont, located in the heart of Chittenden County. The town maintains a blend of historical charm, evidenced by its National Register Historic District, and modern development, particularly in the Taft Corners area. (Wikipedia, Town of Williston)",
+      "address": "7900 Williston Road, Williston, VT 05495",
+      "city": "Williston",
+      "region": "Downtown / Church Street",
+      "hours": "Monday: 8:00 AM - 4:30 PM; Tuesday: 8:00 AM - 4:30 PM; Wednesday: 8:00 AM - 4:30 PM; Thursday: 8:00 AM - 4:30 PM; Friday: 8:00 AM - 4:30 PM; Saturday: Closed; Sunday: Closed (Town of Williston)",
+      "days_open": "Monday - Friday (Town Hall) (Town of Williston)",
+      "admission": "Free (Town of Williston)",
+      "website": "http://www.town.williston.vt.us",
+      "phone": "802-878-5121 (Town of Williston)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Old_Brick_Tavern%2C_Williston%2C_Vermont.jpg",
+      "highlights": [
+        "['Village Community Park: Features playgrounds, disc golf, sand volleyball, and a skating rink.', 'Taft Corners: A major regional retail hub with various big-box stores and restaurants.', 'Catamount Community Forest: Offers extensive trails for recreation and forest management.', 'Brick Church Music Series: A local community event featuring live music.', \"Williston Historical Society: Preserves the town's history and manages historical collections.\", 'Allen Brook Nature Trail: A scenic path for walking and wildlife observation.']"
+      ],
+      "tips": "Parks and amenities typically open in mid-April, weather permitting. Tennis and pickleball courts operate on a first-come, first-served basis. For disc golf, players are encouraged to let faster groups play through. (Town of Williston)",
+      "nearby": "Burlington, South Burlington, University of Vermont, Burlington International Airport (BTV), Essex Junction, Hinesburg. (Vermont.com, Wikipedia)"
+    },
+    {
+      "name": "Trattoria Delia",
+      "category": "Restaurant",
+      "description": "Trattoria Delia has been a cornerstone of Burlington's dining scene for over 30 years, offering authentic Italian cuisine in a warm and hospitable environment. The restaurant is uniquely housed within the historic Vermont House, featuring an interior constructed from a relocated 19th-century New Hampshire sugar house and a focal Panton stone fireplace. Their menu celebrates seasonal ingredients sourced from local Vermont farms alongside high-quality imports from Italy.",
+      "address": "152 Saint Paul Street",
+      "city": "Burlington, VT 05401",
+      "region": "Downtown / Church Street",
+      "hours": "Monday: 5:00 PM - 9:00 PM, Tuesday: 5:00 PM - 9:00 PM, Wednesday: 5:00 PM - 9:00 PM, Thursday: 5:00 PM - 9:00 PM, Friday: 5:00 PM - 9:00 PM, Saturday: 5:00 PM - 9:00 PM, Sunday: 5:00 PM - 9:00 PM (Trattoria Delia)",
+      "days_open": "Monday - Sunday",
+      "admission": "Free (Restaurant menu prices apply; Seasonal Menu)",
+      "website": "https://www.trattoriadelia.com",
+      "phone": "802-864-5253",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/662957d3f4f3e230a6f8c982/72d4a9d7-45c3-40f3-983b-f7b6a69daa3a/Tratt_Nero.JPG?format=750w",
+      "highlights": [
+        "'Located in the historic Vermont House, originally a turn-of-the-century hotel ([Trattoria Delia About).', 'Unique interior featuring a relocated antique sugar house and a fireplace made from local Panton stone (Trattoria Delia About).', 'Extensive Italian wine list recognized by Wine Spectator and Wine Enthusiast for decades (Trattoria Delia About).', 'Commitment to local agriculture, partnering with Vermont farmers for fresh, seasonal ingredients (Trattoria Delia About).', 'Serves authentic, house-made pasta and traditional Italian dishes like Tagliatelle alla Bolognese and Zuppa di Pesce (Trattoria Delia Menu).', 'Offers cozy, romantic indoor dining and sidewalk alfresco seating during warmer months (Tripadvisor).']"
+      ],
+      "tips": "Reservations are highly recommended and can be made via Resy or the official website. For a more casual experience, consider visiting their sister wine bar, Sotto Enoteca, or Pizzeria Verità located immediately next door. During the winter, the restaurant's large fireplace provides a cozy atmosphere, while the sidewalk seating is a popular choice for summer sunsets (Tripadvisor).",
+      "nearby": "Church Street Marketplace, Flynn Center for the Performing Arts, Vermont Comedy Club, Sotto Enoteca, Pizzeria Verità"
+    },
+    {
+      "name": "Vermont State House",
+      "category": "Landmark",
+      "description": "The Vermont State House is the state capitol of Vermont and the seat of the Vermont General Assembly. Located in Montpelier, the smallest state capital in the United States, this Greek Revival masterpiece is one of the nation's oldest and best-preserved capitols, featuring original 19th-century interiors.",
+      "address": "115 State Street, Montpelier, VT 05633-5501",
+      "city": "Montpelier",
+      "region": "Downtown / Church Street",
+      "hours": "Monday: 8:00 AM - 4:00 PM, Tuesday: 8:00 AM - 4:00 PM, Wednesday: 8:00 AM - 4:00 PM, Thursday: 8:00 AM - 4:00 PM, Friday: 8:00 AM - 4:00 PM, Saturday: Closed, Sunday: Closed. (Extended hours during legislative session: Mon-Fri 7:00 AM - 5:00 PM, Tue-Thu until 6:00 PM)",
+      "days_open": "Monday - Friday",
+      "admission": "Free (Suggested donation of $3 per person for guided tours)",
+      "website": "https://legislature.vermont.gov/the-state-house/",
+      "phone": "802-828-2228",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Vermont_State_Capitol_May_2024.jpg",
+      "highlights": [
+        "['House of Representatives Chamber (oldest in the country in original condition)', 'Senate Chamber featuring original furnishings and rich red decor', \"Governor's Ceremonial Office with period artwork\", '15-foot statue of Ceres, the goddess of agriculture, atop the gold dome', 'Cedar Creek Reception Room and Hall of Inscriptions', 'The historic Under the Dome Gift Shop']"
+      ],
+      "tips": "Self-guided audio tours are available year-round via cell phone or QR code at the entrance. Guided tours led by docents are typically offered hourly between 10 AM and 3 PM from early July through October. All visitors must pass through a security screening, so allow extra time for entry.",
+      "nearby": "Vermont History Museum, Winooski River, Hubbard Park, Lost Nation Theater, downtown Montpelier shopping and dining."
+    },
+    {
+      "name": "Vermont Teddy Bear Company",
+      "category": "Shopping, Entertainment, Factory Tour",
+      "description": "The Vermont Teddy Bear Factory is an iconic destination where visitors can witness the creation of handcrafted, 'Guaranteed for Life' teddy bears. The facility features guided tours, a flagship retail store, and a design studio where guests can customize their own plush companions. It has been a staple of the Burlington area since moving to its current Shelburne headquarters in 1995 (Vermont Teddy Bear, Wikipedia).",
+      "address": "6655 Shelburne Road",
+      "city": "Shelburne",
+      "region": "Downtown / Church Street",
+      "hours": "10:00 AM - 4:00 PM Daily (Closed on Thanksgiving, Christmas Eve, Christmas, New Year's Eve, and New Year's Day) (Vermont Teddy Bear)",
+      "days_open": "Daily (except select holidays) (Vermont Teddy Bear)",
+      "admission": "Adults: $5, Seniors: $4, Kids 12 and Under: FREE (Vermont Teddy Bear)",
+      "website": "https://vermontteddybear.com/pages/come-visit-us",
+      "phone": "1-802-985-1319 (Tours and Special Events), 1-802-985-3001 (Office) (Vermont Teddy Bear)",
+      "image_url": "https://vermontteddybear.com/cdn/shop/files/VTB_Blog-Post-Images_20250622_6.jpg",
+      "highlights": [
+        "\"Guided 'Behind the Seams' factory tours to see how bears are made ([Vermont Teddy Bear)\", 'Flagship Bear Shop for souvenir shopping and exclusive plush (Vermont Teddy Bear)', 'Design Studio to create and customize your own stuffed animal (Vermont Teddy Bear)', 'Dog",
+        "and cat-friendly campus where pets are even invited on tours (Vermont Teddy Bear)', 'On-site Vermont Flannel store featuring Vermont-made clothing (Vermont Teddy Bear)', 'Outdoor picnic area with tables and open space for families (Vermont Teddy Bear)']"
+      ],
+      "tips": "Book your tour tickets online in advance to guarantee a spot, as they can sell out. Remember to bring your furry friends along, as the entire campus is pet-friendly. If visiting in the summer, enjoy a picnic on the grounds or check for seasonal events and workshops (Vermont Teddy Bear).",
+      "nearby": "Shelburne Museum, Shelburne Farms, Lake Champlain, Vermont Flannel Company (Vermont Teddy Bear, Shelburne VT Official Site)"
+    },
+    {
+      "name": "Waterfront Park",
+      "category": "Park",
+      "description": "Waterfront Park is a premier urban green space in Burlington located along the Lake Champlain shoreline, offering breathtaking views of the lake and the Adirondack Mountains. It serves as a central hub for community events, outdoor recreation, and sunset viewing, featuring a scenic boardwalk and access to the extensive Burlington Bike Path. Hello Burlington, Burlington VT Govt",
+      "address": "10 College Street, Burlington, VT 05401",
+      "city": "Burlington",
+      "region": "Downtown / Church Street",
+      "hours": "Dawn to Dusk (Year-round) Airial Travel, Vermont.com",
+      "days_open": "Monday - Sunday Airial Travel",
+      "admission": "Free (Public Park; paid parking applies in nearby lots) Burlington VT Govt, Tripadvisor",
+      "website": "https://www.burlingtonvt.gov/738/Waterfront",
+      "phone": "(802) 864-0123",
+      "image_url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,q_75,w_1200/v1/crm/vermont/Burlington-waterfront-2-2100x1439-1bec1602-6a29-41b1-abe9-f129a19c186b_23135F21-5056-A36A-08946C50C618A247-231358125056a36_2313674f-5056-a36a-08773027e456c48e.jpg",
+      "highlights": [
+        "['Stunning sunset views over Lake Champlain and the Adirondack Mountains', 'Direct access to the 8-mile Burlington Bike Path for walking and cycling', 'Family-friendly Play Port playground and public restrooms', 'Scenic boardwalk featuring oversized wooden swings and benches', 'Proximity to the ECHO Leahy Center for Lake Champlain and the Community Boathouse', 'Host venue for major annual events like the Vermont Brewers Festival and Discover Jazz Festival']"
+      ],
+      "tips": "Visit in the late afternoon to secure a spot for the sunset, which is considered one of the best in Vermont. Parking can be challenging, so consider using the Pease Lot or walking from the nearby Church Street Marketplace; note that parking is paid via kiosks or the ParkMobile app. Tripadvisor, Airial Travel",
+      "nearby": "ECHO Leahy Center for Lake Champlain, Church Street Marketplace, Community Boathouse Marina, Andy A_Dog Williams Skatepark, Foam Brewers Tripadvisor, Hello Burlington"
+    },
+    {
+      "name": "Albert L. Gutterson Fieldhouse",
+      "category": "Entertainment, University, Landmark",
+      "description": "The Albert L. Gutterson Fieldhouse, affectionately known as \\\"The Gut,\\\" is a historic barrel-vaulted hockey arena on the University of Vermont campus. Opened in 1963, it serves as the home ice for the Vermont Catamounts men's and women's ice hockey teams and is the largest indoor arena in the state.",
+      "address": "97 Spear Street, Burlington, VT 05405",
+      "city": "Burlington",
+      "region": "UVM Campus / Hill Section",
+      "hours": "Varies by event and academic schedule; varsity games typically start at 7:00 PM on Fridays or Saturdays (University of Vermont Athletics). Ticket Office: Tue-Fri, 10:00 AM - 5:00 PM during the academic year (University of Vermont Athletics).",
+      "days_open": "Daily (varies by academic calendar and event schedule)",
+      "admission": "Varsity Hockey: Prices vary by game, typically $13 - $40 (SeatGeek). UVM Students: Free with valid ID (University of Vermont Athletics). Youth (under 17): Often eligible for a $5 discount on individual game tickets (Stadium Journey). Public Skating: Fees apply for non-UVM members; ice rental is $240 per hour (University of Vermont Recreation).",
+      "website": "https://uvmathletics.com/facilities/gutterson-fieldhouse/7",
+      "phone": "(802) 656-4410 (Ticket Office), (802) 656-3131 (Main Athletics)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Gutterson_Fieldhouse_on_March_29_2023.jpg",
+      "highlights": [
+        "'Home to the University of Vermont Catamounts varsity ice hockey teams ([Wikipedia)', 'Features a distinctive 4,000-seat barrel-vaulted wood-paneled ceiling (Stadium51)', \"Hosted the first-ever nationally televised women's hockey game in 1997 (University of Vermont Athletics)\", \"Served as the preseason training home for the NHL's New York Rangers from 1995 to 2004 (University of Vermont Athletics)\", \"Named after Albert Gutterson, the University's first Olympic gold medalist (Wikipedia)\", 'Largest indoor arena in the state of Vermont (Ice Hockey Wiki)']"
+      ],
+      "tips": "Arrive early for hockey games as sell-outs are common and the atmosphere is intense. Parking is available in the adjacent Patrick Gymnasium/Gutterson Parking Garage, though it can fill quickly during major events. The arena is kept quite cold for the ice, so spectators are advised to dress warmly even during winter months. Always check the official UVM EMS master schedule for up-to-date public skating and open recreation times.",
+      "nearby": "Patrick Gymnasium, Forbush Natatorium, University of Vermont Campus, Church Street Marketplace, Lake Champlain Waterfront (Stadium Journey, Hello Burlington)."
+    },
+    {
+      "name": "Billings Memorial Library (University of Vermont)",
+      "category": "University Library, Landmark",
+      "description": "The Billings Memorial Library, dedicated in 1885, is a masterpiece of Richardsonian Romanesque architecture designed by Henry Hobson Richardson. Originally the University of Vermont's main library, it now houses the Silver Special Collections Library, the Miller Center for Holocaust Studies, and other academic centers. The building is a centerpiece of the University Green Historic District and is listed on the National Register of Historic Places (Wikipedia, UVM History).",
+      "address": "48 University Place, Burlington, VT 05405",
+      "city": "Burlington",
+      "region": "UVM Campus / Hill Section",
+      "hours": "Silver Special Collections: Mon-Thu 10:00 am – 6:00 pm, Fri 10:00 am – 5:00 pm, Sat-Sun Closed; Billings North Lounge Study: Mon-Thu 9:00 am – 6:00 pm, Fri 9:00 am – 5:00 pm, Sat-Sun Closed (UVM Libraries)",
+      "days_open": "Monday - Friday (UVM Libraries)",
+      "admission": "Free (UVM Libraries)",
+      "website": "https://libraries.uvm.edu/special-collections",
+      "phone": "(802) 656-2138 (UVM Libraries)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/University_of_Vermont_Billings_Library.jpg",
+      "highlights": [
+        "'Designed by renowned architect Henry Hobson Richardson in his signature Romanesque style ([Wikipedia)', 'Listed on the National Register of Historic Places as an anchor of the University Green district (UVM History)', \"Features a monumental Syrian arch at the main entrance and distinctive 'eye-brow' dormers (UVM History)\", 'Landscaping for the site was designed by the firm of Frederick Law Olmsted (UVM History)', 'Home to the Silver Special Collections, which preserves rare books and Vermont history materials (UVM Libraries)', 'The interior retains many original 1885 gas lighting fixtures and a grand sandstone fireplace (UVM History)']"
+      ],
+      "tips": "Visitors should plan their visit on weekdays, as the building and its collections are typically closed on weekends. The North Lounge offers a stunning historic atmosphere for quiet study and research (UVM Libraries, UVM History).",
+      "nearby": "Ira Allen Chapel, Williams Hall, Old Mill, Fleming Museum of Art, and the University Green (Wikipedia)"
+    },
+    {
+      "name": "Delta Dental Diamond at Centennial Field Official Site",
+      "category": "Sports Stadium / Entertainment Wikipedia",
+      "description": "Delta Dental Diamond at Centennial Field is one of the oldest baseball stadiums in the United States, originally opened in 1906 on the University of Vermont campus. It serves as the historic home of the Vermont Lake Monsters and is celebrated for its classic 1922 concrete and steel grandstand that offers an intimate, traditional baseball experience. Official Site, Wikipedia",
+      "address": "287 Colchester Avenue Official Site",
+      "city": "Burlington Official Site",
+      "region": "UVM Campus / Hill Section",
+      "hours": "Non-Gamedays: Monday–Friday 11:00 AM – 5:00 PM; Gamedays: 11:00 AM – Game Time Official Site FAQ",
+      "days_open": "Daily during the baseball season (typically late May through early August) Official Site Schedule",
+      "admission": "Adults: $8.00 (Grandstand), $9.00 (Reserved); Seniors (60+): $6.00; Children (12 & Under): $5.00 MiLB.com",
+      "website": "https://vermontlakemonsters.com/",
+      "phone": "(802) 655-4200 Official Site",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Centennialf.JPG",
+      "highlights": [
+        "'One of the oldest ballparks in the U.S. still in continuous use, dating back to 1906 [Wikipedia', 'Historic concrete and steel grandstand erected in 1922 Official Site', 'Home field for the Vermont Lake Monsters of the Futures Collegiate Baseball League Official Site', 'Former training ground for baseball legends like Ken Griffey Jr., Barry Larkin, and Tris Speaker Wikipedia', \"Features family-friendly promotions including 'Hot Dog Heaven' nights with 25-cent hot dogs MiLB.com\"]"
+      ],
+      "tips": "Take advantage of the free shuttle service from Gutterson Fieldhouse or Trinity Campus, as on-site parking is limited and costs $5. Arrive at least an hour before gametime as gates typically open 60 minutes prior to first pitch. Official Site FAQ",
+      "nearby": "Centennial Woods Natural Area, University of Vermont Campus, ECHO Lake Aquarium and Science Center, Church Street Marketplace Hello Burlington"
+    },
+    {
+      "name": "Fleming Museum of Art",
+      "category": "Museum",
+      "description": "The Fleming Museum of Art at the University of Vermont has been a cultural anchor in Burlington since 1931, offering world-class art and anthropology collections Tripadvisor. With over 24,000 objects spanning 5,000 years of human history, it serves as a dynamic space for interdisciplinary learning and community engagement Hello Burlington.",
+      "address": "61 Colchester Ave, Burlington, VT 05405 University of Vermont",
+      "city": "Burlington",
+      "region": "UVM Campus / Hill Section",
+      "hours": "Tue: 10:00 AM – 4:00 PM, Wed: 10:00 AM – 7:00 PM, Thu: 10:00 AM – 4:00 PM, Fri: 10:00 AM – 4:00 PM, Sat: 12:00 PM – 4:00 PM, Sun-Mon: Closed University of Vermont",
+      "days_open": "Tuesday through Saturday University of Vermont",
+      "admission": "Free admission (Suggested donation of $5) University of Vermont",
+      "website": "https://www.uvm.edu/fleming",
+      "phone": "(802) 656-0750 University of Vermont",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/FlemingMuseumLogo.jpg",
+      "highlights": [
+        "'Extensive collections featuring over 24,000 works of art and cultural artifacts from across the globe [University of Vermont', '\"Photo-Secession\" exhibition showcasing early 20th-century painterly photography University of Vermont', '\"Memory Fields\" installation exploring the intersection of narrative and history University of Vermont', '\"Beyond Red Barns\" highlights the power of art to build community in Northern Vermont University of Vermont', '\"Rooted in Nature\" exhibit focusing on UVM\\'s natural history collecting traditions University of Vermont', 'Diverse artifacts from Ancient Egypt, Africa, Asia, and the Americas Wikipedia']"
+      ],
+      "tips": "Paid visitor parking is available via the ParkMobile app, but parking is free on Saturdays in the nearby Votey lot University of Vermont. The museum generally follows the UVM academic calendar and is closed during major holiday recesses, so check the official schedule before visiting Hello Burlington.",
+      "nearby": "UVM Medical Center, University of Vermont Green, Royal Tyler Theater, Church Street Marketplace, Burlington Waterfront Park, ECHO Leahy Center For Lake Champlain Tripadvisor"
+    },
+    {
+      "name": "Green Mountain Audubon Center",
+      "category": "Park / Nature Center",
+      "description": "Nestled in the foothills of the Green Mountains, the 255-acre Green Mountain Audubon Center is the oldest operating nature center in Vermont. It serves as a community hub for outdoor education and conservation, featuring five miles of trails through diverse natural communities such as hardwood forests and hemlock swamps. Audubon Vermont, Hello Burlington",
+      "address": "255 Sherman Hollow Road, Huntington, VT 05462",
+      "city": "Huntington",
+      "region": "UVM Campus / Hill Section",
+      "hours": "Visitor Center: Mon-Fri 8:00am - 4:00pm, Sat-Sun Closed; Trails: Daily Sunrise - Sunset Audubon Vermont",
+      "days_open": "Monday-Friday (Visitor Center); Daily (Trails) Audubon Vermont",
+      "admission": "Free (Donations appreciated) Happy Vermont, Audubon Vermont",
+      "website": "https://www.audubon.org/green-mountain",
+      "phone": "(802) 434-3068",
+      "image_url": "https://media.audubon.org/2025-12/Aud_Green-Mountain-Audubon-Center_250606-0049_Photo-Sydney-Walsh-Web%20size.jpg",
+      "highlights": [
+        "['Five miles of hiking trails through diverse habitats like hardwood forests and hemlock swamps', 'Bird-Friendly Sugarbush with a working sugarhouse for maple syrup production', 'Wildlife observation deck and pollinator garden for nature viewing', 'Educational programs including nature playgroups, youth conservation leadership, and summer camps', 'Recognized as an Important Bird Area supporting over 100 bird species', 'Beaver Pond wetlands offering critical breeding areas for amphibians']"
+      ],
+      "tips": "Canine hikers are welcome but must be leashed at all times. Binoculars are available for visitors to borrow at the center. Review center policies online before visiting to help steward the land. Audubon Vermont, Hello Burlington",
+      "nearby": "Birds of Vermont Museum, Huntington River, Camel's Hump State Park Seven Days, Audubon Vermont"
+    },
+    {
+      "name": "Ira Allen Chapel",
+      "category": "Landmark, University Building, Entertainment (Venue)",
+      "description": "The Ira Allen Chapel is a prominent secular chapel and architectural icon located on the campus of the University of Vermont. Designed by the renowned New York firm McKim, Mead and White, the building features a striking 165-foot gold-domed bell tower and serves as the university's largest ceremonial venue for lectures and performances. University of Vermont, Wikipedia",
+      "address": "26 University Place",
+      "city": "Burlington",
+      "region": "UVM Campus / Hill Section",
+      "hours": "Exterior: Open 24/7 (University of Vermont campus grounds); Interior: Accessible during scheduled events and ceremonies. Things to Do in Burlington, UVM Events",
+      "days_open": "Daily (Exterior/Campus access)",
+      "admission": "Free for exterior viewing; ticket prices for interior events and performances vary by event. UVM Commencement",
+      "website": "https://www.uvm.edu/~campus/iraallen/iraallenhistory.html",
+      "phone": "(802) 656-5667 (UVM Event Services) UVM Space Scheduling",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/University_of_Vermont_Ira_Allen_Chapel.jpg",
+      "highlights": [
+        "['Striking 165-foot bell tower topped with a gold-domed lantern and cupola.', 'Designed by the prestigious architectural firm McKim, Mead and White in the Colonial Revival style.', 'Listed on the National Register of Historic Places as part of the University Green Historic District.', \"Serves as UVM's largest auditorium with a seating capacity of approximately 1,100.\", 'Features a grand portico with six monumental 32-foot Ionic columns.', 'Houses a historic pipe organ and is used for major university ceremonies like Commencement.']"
+      ],
+      "tips": "Visit at sunset or at night when the bell tower is illuminated and visible from across the city. Check the university's online event calendar to plan your visit around public concerts or lectures to see the interior. MyCityHunt",
+      "nearby": "University Green, Billings Library, Fleming Museum of Art, Royall Tyler Theatre, Church Street Marketplace. Tripadvisor"
+    },
+    {
+      "name": "Marquis de Lafayette Statue (University of Vermont)",
+      "category": "Landmark",
+      "description": "The Marquis de Lafayette Statue is a monumental bronze sculpture dedicated in 1883 to commemorate the French general's 1825 visit to the University of Vermont, where he laid the cornerstone for the 'Old Mill' building. Created by renowned American sculptor John Quincy Adams Ward, the seven-foot-tall statue depicts Lafayette in 18th-century civilian dress, standing on a rusticated Quincy granite pedestal. Originally centered on the University Green, it was relocated to the north end in 1921 to accommodate the Ira Allen Statue and remains a central symbol of the university's historical connection to the American Revolutionary hero.",
+      "address": "University Green (near University Place and Colchester Avenue), Burlington, VT 05405",
+      "city": "Burlington",
+      "region": "UVM Campus / Hill Section",
+      "hours": "Open 24 hours (Outdoor public space)",
+      "days_open": "Monday - Sunday",
+      "admission": "Free",
+      "website": "https://www.uvm.edu/~hp206/2011/sites/1a.html",
+      "phone": "(802) 656-3131 (UVM General Switchboard)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/UVM_LafayetteStatue_20160629.jpg",
+      "highlights": [
+        "['Created by prominent American sculptor John Quincy Adams Ward and dedicated in 1883.', \"Commemorates General Lafayette's 1825 visit to UVM to lay the cornerstone of the Old Mill building.\", 'The statue stands over seven feet tall and is cast in bronze in Philadelphia.', 'Sited on a granite pedestal designed to overlook the campus green.', 'Successfully restored in 2013, including the replacement of its historically missing cane.', 'Located on the historic University Green, a central park-like setting for campus life and student expression.']"
+      ],
+      "tips": "The statue is best viewed during daylight hours to appreciate the bronze detail and its position on the University Green. Since it is located on an active university campus, visitors should check for any local parking restrictions or event closures on the UVM website. It is a popular spot for photos, especially given its proximity to the historic Old Mill and Ira Allen Chapel.",
+      "nearby": "Ira Allen Statue, Old Mill Building, Billings Library, Fleming Museum of Art, Church Street Marketplace, Lake Champlain waterfront."
+    },
+    {
+      "name": "Morrill Hall (University of Vermont)",
+      "category": "University",
+      "description": "Morrill Hall is a historic Neoclassical Revival academic building that serves as the home for the University of Vermont's College of Agriculture and Life Sciences. Constructed between 1904 and 1907, it was named after U.S. Senator Justin Smith Morrill, the author of the Land Grant College Act. The building is a contributing property to the University Green Historic District and remains a central hub for agricultural education and extension services in Vermont. UVM History, UVM Events",
+      "address": "146 University Place",
+      "city": "Burlington",
+      "region": "UVM Campus / Hill Section",
+      "hours": "Monday-Friday: 8:00 a.m. to 4:30 p.m.; Saturday-Sunday: Closed UVM CALS",
+      "days_open": "Monday-Friday UVM CALS",
+      "admission": "Free (campus building) UVM Events",
+      "website": "https://www.uvm.edu/cals",
+      "phone": "(802) 656-0321 UVM CALS",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Morrill_Hall_at_UVM.jpg",
+      "highlights": [
+        "'Neoclassical Revival architecture featuring buff brick and terra cotta enrichments [UVM History', 'Large polished granite Ionic columns flanking the central front pavilion UVM History', 'Listed on the National Register of Historic Places as part of the University Green Historic District UVM History', 'Named in honor of Senator Justin Smith Morrill, father of the Land Grant College Act UVM Events', 'Red terra cotta tile hipped roof with projecting flared eaves UVM History', 'Houses the UVM Agricultural Extension Service and various research labs UVM CALS']"
+      ],
+      "tips": "As an active academic building, visitors should be respectful of ongoing classes and research activities; the building is best viewed from the University Green for its architectural details. UVM History",
+      "nearby": "University Green, Dudley H. Davis Center, Billings Memorial Library, Fleming Museum of Art Mapcarta"
+    },
+    {
+      "name": "Redstone Campus (University of Vermont)",
+      "category": "University / Historic District",
+      "description": "Redstone Campus is a historic former estate turned residential complex at the University of Vermont, known for its iconic Richardsonian Romanesque architecture and vibrant student community. The campus features historic buildings like Redstone Hall and modern residential halls, all centered around the picturesque Redstone Green. (Wikipedia)) (UVM History)",
+      "address": "406 South Prospect Street",
+      "city": "Burlington",
+      "region": "UVM Campus / Hill Section",
+      "hours": "Monday - Friday: 07:30 AM - 03:30 PM, 04:30 PM - 08:30 PM; Saturday - Sunday: 10:00 AM - 03:30 PM, 04:30 PM - 08:00 PM (Dining hours) (UVM Dining)",
+      "days_open": "Monday - Sunday (UVM Dining)",
+      "admission": "Free for visitors; Dining hall prices: Breakfast $7.93, Lunch/Brunch $10.66, Dinner $13.08 (UVM Dining)",
+      "website": "https://www.uvm.edu/housingdining/hall-information",
+      "phone": "(802) 656-3234 (Redstone Dining) (UVM Dining)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Redstone_Hall_Burlington.jpg",
+      "highlights": [
+        "'Historic Richardsonian Romanesque architecture including Redstone Hall and Redstone Lodge ([Wikipedia))', 'Redstone Green, a large open green space used for recreation and student gatherings (Wikipedia))', 'Home to the Southwick Music Complex and its 350-seat recital hall (UVM History)', 'Multiple residential halls including the updated Wing, Davis, and Wilks (WDW) complex (Reddit)', 'On-campus dining options like Redstone Dining and Redstone Market (UVM Dining)', 'Two iconic water towers that serve as prominent landmarks on the university landscape (Wikipedia))']"
+      ],
+      "tips": "Use the tunnel system to reach the Davis Center quickly during winter months (UVM Bored). Mail for many Redstone residents is delivered to the Christie/Wright/Patterson (CWP) lobby (Reddit). Visit the historic water towers for a classic campus photo opportunity (Wikipedia)).",
+      "nearby": "Fleming Museum of Art, Dudley H. Davis Student Center, University of Vermont Main Campus, Waterfront Park, Church Street Marketplace (Tripadvisor)"
+    },
+    {
+      "name": "Royall Tyler Theatre University of Vermont",
+      "category": "Entertainment / University Theatre University of Vermont",
+      "description": "Named after the renowned American playwright Royall Tyler, this theatre is the primary performance venue for the University of Vermont's Program in Theatre and Dance. Originally built as a gymnasium in 1901, the historic red-brick building was converted into an intimate 290-seat thrust stage theatre in 1974. It is listed on the National Register of Historic Places and serves as a hub for student-led theatrical productions and dance showcases throughout the academic year University of Vermont, University of Vermont History.",
+      "address": "116 University Place, Burlington, VT 05405 University of Vermont",
+      "city": "Burlington University of Vermont",
+      "region": "UVM Campus / Hill Section",
+      "hours": "Wednesday - Saturday: 7:30 PM (Evening Performances); Saturday - Sunday: 2:00 PM (Matinee Performances) University of Vermont",
+      "days_open": "Wednesday – Sunday (Performance Days) University of Vermont",
+      "admission": "Adults: $22.00, Seniors (55+), UVM Faculty/Staff, and Non-UVM Students: $19.00, UVM Students: $10.00 University of Vermont",
+      "website": "https://www.uvm.edu/cas/theatreanddance/facilities",
+      "phone": "(802) 656-2094 University of Vermont",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Royall_Tyler_Theatre_UVM_5.JPG",
+      "highlights": [
+        "\"Historic 1901 red-brick architecture, originally serving as the university's gymnasium [University of Vermont History\", 'Intimate 290-seat thrust stage theatre design that brings the audience close to the action University of Vermont', 'Listed on the National Register of Historic Places for its architectural and cultural significance University of Vermont History', \"Named in honor of Royall Tyler, author of the first professionally produced American comedy, 'The Contrast' Wikipedia\", 'Fully equipped production facilities including a dedicated scene shop, costume shop, and lighting lab University of Vermont', 'Central venue for UVM’s diverse season of plays, musicals, and dance performances University of Vermont']"
+      ],
+      "tips": "Visitors are encouraged to arrive at least 15 minutes before curtain time as shows start promptly. For evening and weekend performances, the best place to park is the Allen House Lot at the corner of Main and Prospect Street; avoid parking directly in front of the theatre to prevent ticketing or towing University of Vermont, UVM Music Department Parking.",
+      "nearby": "Fleming Museum of Art, University Green, Samuel De Champlain Statue, and Lake Champlain Tripadvisor"
+    },
+    {
+      "name": "South End Arts District (South End Arts + Business Association)",
+      "category": "Arts District / Neighborhood Hello Burlington",
+      "description": "The South End Arts District is a vibrant cultural corridor in Burlington, Vermont, where artists, entrepreneurs, and businesses thrive in renovated industrial spaces. Historically an industrial hub, it now boasts the largest concentration of incubator businesses per square mile in Vermont and is home to a dense collection of artist studios, galleries, and craft breweries. SEABA, Seven Days",
+      "address": "404 Pine Street",
+      "city": "Burlington",
+      "region": "UVM Campus / Hill Section",
+      "hours": "District: 24/7; SEABA Center Gallery: Thursday-Saturday 11:00 AM - 4:00 PM; Art Hop 2026: Friday (Sept 11) 5-10 PM, Saturday (Sept 12) 10 AM-10 PM, Sunday (Sept 13) 11 AM-4 PM SEABA, SEABA",
+      "days_open": "Daily (SEABA Center Gallery is open Thursday-Saturday) SEABA",
+      "admission": "Free (Art Hop is free to attend; individual gallery admission may vary but is typically free; $10 suggested donation for some events) SEABA, SEABA",
+      "website": "https://www.seaba.com",
+      "phone": "+1 (802) 859-9222 Prospeo",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/56d05f5737013b0c6792348f/1628701850116-2W1S1X1X1X1X1X1X1X1X/SEABA+Logo+Square.png",
+      "highlights": [
+        "'South End Art Hop (Annual 3-day arts festival in September) [SEABA', 'The Soda Plant (Creative hub with studios and galleries) Seven Days', 'Pine Street Brewery Corridor (Densest concentration of breweries in VT) Hello Burlington', 'SEABA Center Gallery (Community hub for arts and events) SEABA', \"Public Murals and Street Art (Including the '...will you sing?' musician mural) Big Heavy World\", 'ArtsRiot Truck Stop (Weekly food truck event in summer) Seven Days']"
+      ],
+      "tips": "The best time to visit is during the annual Art Hop in September or for the Friday night Truck Stop events in the summer. Many studios and galleries are located along Pine Street, which is easily walkable or bikeable; free bike valets are often available during major events. Seven Days, SEABA",
+      "nearby": "Lake Champlain Waterfront Park, Church Street Marketplace, ECHO Leahy Center for Lake Champlain, Shelburne Museum Hello Burlington, Vermont Tourism"
+    },
+    {
+      "name": "University Green (University of Vermont)",
+      "category": "Landmark, Park, University",
+      "description": "The University Green is the historic and symbolic heart of the University of Vermont campus, spanning approximately nine acres of picturesque green space. Bounded by iconic campus buildings and historic architecture, it serves as a central hub for student life, relaxation, and public gatherings. The Green is listed on the National Register of Historic Places and offers stunning views of the surrounding area and the distant Adirondack Mountains.",
+      "address": "Bounded by University Place, Main Street, South Prospect Street, and Pearl Street",
+      "city": "Burlington",
+      "region": "UVM Campus / Hill Section",
+      "hours": "Open 24/7 (Outdoor campus space accessible year-round during daylight hours) Airial Travel",
+      "days_open": "7 days a week",
+      "admission": "Free Airial Travel",
+      "website": "https://www.uvm.edu/~campus/green/green.html",
+      "phone": "(802) 656-3131 UVM Contact",
+      "image_url": "https://www.uvm.edu/~campus/green/greenopt.jpg",
+      "highlights": [
+        "[\"Old Mill (the university's oldest academic building)\", 'Ira Allen Chapel and its prominent tower', 'The Marquis de Lafayette statue at the north end', 'The Central Fountain (site of historic student rituals)', \"Waterman Building (facing the Green's western edge)\", 'Historic architecture including Billings Library and Williams Hall']"
+      ],
+      "tips": "Pack a picnic and enjoy the open grass on a sunny afternoon; the Green is also one of the best spots in Burlington for fall foliage photography and offers great views of the Adirondacks to the west. Visit on a weekday to experience the buzz of campus life or on a weekend for a quieter atmosphere.",
+      "nearby": "Fleming Museum of Art, Royall Tyler Theatre, Church Street Marketplace, Waterfront Park, ECHO Leahy Center for Lake Champlain"
+    },
+    {
+      "name": "University of Vermont and State Agricultural College",
+      "category": "University",
+      "description": "Founded in 1791, the University of Vermont (UVM) is a premier public land-grant research university and the fifth oldest college in New England. The campus is known for its historic architecture, commitment to sustainability, and stunning views of Lake Champlain and the Adirondack Mountains.",
+      "address": "184 South Prospect Street",
+      "city": "Burlington",
+      "region": "UVM Campus / Hill Section",
+      "hours": "Monday: 8:00 AM - 4:30 PM, Tuesday: 8:00 AM - 4:30 PM, Wednesday: 8:00 AM - 4:30 PM, Thursday: 8:00 AM - 4:30 PM, Friday: 8:00 AM - 4:30 PM, Saturday: Hours vary (Contact Admissions), Sunday: Closed",
+      "days_open": "Monday - Saturday (Welcome Center closed Sundays)",
+      "admission": "Free",
+      "website": "https://www.uvm.edu",
+      "phone": "(802) 656-3131",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/UVM_-_Old_Mill_Main_Building_-_South_Prospect_Street_and_University_Place_at_Main_Street_-_DSC09257.JPG",
+      "highlights": [
+        "['Old Mill: The oldest and most iconic building on campus, originally built in 1825.', 'The University Green: A central historic park and gathering space surrounded by university buildings.', 'Dudley H. Davis Center: The vibrant, LEED Gold-certified student union and campus hub.', \"Fleming Museum of Art: Vermont's premier museum for art and anthropology, featuring diverse collections.\", 'Lake Champlain Views: Scenic overlooks throughout campus providing vistas of the lake and mountains.', 'UVM Greenhouse: A facility supporting research and education in plant biology and sustainability.']"
+      ],
+      "tips": "Start your visit at the Davis Center Welcome Center for information and maps. Use the 'ParkMobile' app for visitor parking in designated lots. A self-guided walking tour is highly recommended to explore the historic buildings and scenic views at your own pace. Visiting during the autumn foliage season offers particularly beautiful campus scenery.",
+      "nearby": "Church Street Marketplace, Waterfront Park, ECHO, Leahy Center for Lake Champlain, Burlington Bike Path"
+    },
+    {
+      "name": "Williams Hall (University of Vermont)",
+      "category": "University, Landmark, Art Gallery",
+      "description": "Williams Hall is a majestic three-and-a-half-story red brick building on the University of Vermont campus, originally constructed in 1896 as a science hall. Listed on the National Register of Historic Places, it now serves as the home for the Departments of Art and Art History, Anthropology, and the Francis Colburn Art Gallery. The building is renowned for its fireproof construction and elaborate Victorian Eclectic architecture, featuring ornate terra cotta ornamentation and gargoyles. (UVM History, UVM Events)",
+      "address": "72 University Pl, Burlington, VT 05405",
+      "city": "Burlington",
+      "region": "UVM Campus / Hill Section",
+      "hours": "Monday: 8:00 AM – 4:30 PM, Tuesday: 8:00 AM – 4:30 PM, Wednesday: 8:00 AM – 4:30 PM, Thursday: 8:00 AM – 4:30 PM, Friday: 8:00 AM – 4:30 PM, Saturday: Closed, Sunday: Closed (University of Vermont)",
+      "days_open": "Monday - Friday (University of Vermont)",
+      "admission": "Free (UVM Events)",
+      "website": "https://www.uvm.edu/cas/art/campus-art-facilities",
+      "phone": "(802) 656-2014 (UVM Art)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/UVM_Williams_Hall_building_20040101.jpg",
+      "highlights": [
+        "'Built in 1896 as the first fireproof building on a U.S. college campus ([Stephen Travels)', 'Listed on the National Register of Historic Places as part of the University Green Historic District (UVM History)', 'Features a grand Romanesque entrance arch and terra cotta medallions honoring noted American scientists Louis Agassiz, Samuel F.B. Morse, and Joseph Henry (UVM History)', 'Houses the Francis Colburn Art Gallery on the third floor, which showcases work from students and visiting artists (UVM Art)', 'Adorned with intricate Gothic ornamentation, including gargoyles at the bases of the gable parapets (UVM Events)']"
+      ],
+      "tips": "Visit the third floor to explore the Francis Colburn Art Gallery, which is free to the public during gallery hours. Be sure to examine the exterior facade to see the unique terra cotta reliefs and gargoyles. The building is best viewed as part of a walk along the historic University Row. (UVM Art, UVM Events)",
+      "nearby": "Billings Library, Old Mill Building, Fleming Museum of Art, University Green (UVM Art)"
+    },
+    {
+      "name": "Burlington Greenway (Burlington Bike Path)",
+      "category": "Park",
+      "description": "The Burlington Greenway is a scenic, 8-mile paved multi-use path that runs along the shore of Lake Champlain from south to north. It connects residential neighborhoods with downtown Burlington and several major parks, serving as a popular route for commuters, runners, and cyclists year-round (City of Burlington).",
+      "address": "645 Pine Street, Suite B (Parks & Recreation Office)",
+      "city": "Burlington",
+      "region": "Waterfront / Battery Park",
+      "hours": "Monday - Sunday: Dawn to Dusk (Burlington Parks, Recreation & Waterfront)",
+      "days_open": "Daily (Burlington Parks, Recreation & Waterfront)",
+      "admission": "Free (City of Burlington)",
+      "website": "https://www.burlingtonvt.gov/1048/Greenway-Multi-Use-Path",
+      "phone": "802-864-0123 (City of Burlington)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Island_Line_Trail.jpeg",
+      "highlights": [
+        "'8-mile paved path with spectacular views of Lake Champlain and the Adirondack Mountains ([Hello Burlington)', 'Direct connection to major parks including Oakledge Park, Waterfront Park, North Beach, and Leddy Park (Vermont Explored)', 'Part of the larger 14-mile Island Line Trail that extends onto the historic Colchester Causeway (Wikipedia)', 'Seasonal access to the Bike Ferry, which connects the trail to the Champlain Islands (Local Motion)', 'Plowed and maintained during winter for year-round recreational use (City of Burlington)', 'Features fitness stations and seasonal public restrooms along the route (City of Burlington)']"
+      ],
+      "tips": "Pedestrians have the right-of-way; cyclists must yield and alert others when passing. During summer, bring a swimsuit to enjoy the public beaches at North Beach or Oakledge Park. Bike rentals are available downtown at Local Motion and North Star Sports (City of Burlington).",
+      "nearby": "ECHO Leahy Center for Lake Champlain, Church Street Marketplace, Oakledge Park Earth Clock, North Beach Campground, Leddy Park Arena (Vermont Explored)"
+    },
+    {
+      "name": "Deep City Restaurant + Bar, Official Site",
+      "category": "Restaurant, Bar, Event Space, Official Site",
+      "description": "Deep City is a brunch restaurant and bar located in a historic 1800s lumber mill on the shores of Lake Champlain. In 2024, the restaurant partnered with Charles Reeves, founder of the beloved Penny Cluse Café, to bring back popular brunch staples to the Burlington waterfront. The space features a modern industrial design with exposed brick and beams, offering both indoor seating and a scenic patio. Official Site",
+      "address": "112 Lake St, Burlington, VT 05401, Official Site",
+      "city": "Burlington, Official Site",
+      "region": "Waterfront / Battery Park",
+      "hours": "Monday: 8:00 AM – 2:00 PM, Tuesday: Closed, Wednesday: Closed, Thursday: 8:00 AM – 2:00 PM, Friday: 8:00 AM – 2:00 PM, Saturday: 8:00 AM – 2:00 PM, Sunday: 8:00 AM – 2:00 PM, Official Site",
+      "days_open": "Monday, Thursday, Friday, Saturday, Sunday, Official Site",
+      "admission": "Free (Restaurant), Official Site",
+      "website": "https://www.deepcityvt.com",
+      "phone": "802-800-1454, Official Site",
+      "image_url": "https://cdn.prod.website-files.com/5dee662554c6bbb9c8f31aae/661f5b8fb1ebbd5c00ad86c8__DSC7447_sm-p-1600.jpg",
+      "highlights": [
+        "'Waterfront dining with views of Lake Champlain and the Adirondacks, [Hello Burlington', 'Menu hand-crafted by Charles Reeves, founder of the iconic Penny Cluse Café, Seven Days', 'Located in a beautifully renovated historic 1800s lumber mill building, Official Site', 'Project of the team behind Foam Brewers, located conveniently next to the brewery, Yelp', 'Features a modern, industrial interior design with original brick and post-and-beam construction, Official Site', 'Available for private events at night with a full bar and Foam Brewers selection, Official Site']"
+      ],
+      "tips": "The restaurant operates on a walk-in basis and does not accept reservations. If there is a wait, visitors can head next door to Foam Brewers, which opens at 10:00 AM on weekends. It is a popular spot for large groups due to its family-style tables. Official Site, Yelp",
+      "nearby": "Foam Brewers, Waterfront Park, Lake Champlain, ECHO Leahy Center for Lake Champlain, Church Street Marketplace, Andy A_DOG_Williams Skatepark, Tripadvisor"
+    },
+    {
+      "name": "ECHO, Leahy Center for Lake Champlain",
+      "category": "Science and Nature Museum, Aquarium",
+      "description": "ECHO, Leahy Center for Lake Champlain is Vermont’s premier science and nature museum located on the Burlington waterfront. The center features over 100 interactive exhibits and 70 species of live animals, focusing on the ecology and stewardship of the Lake Champlain Basin. Visitors can enjoy daily animal demonstrations, immersive 3D films, and hands-on learning spaces designed for all ages. Official Website",
+      "address": "1 College St., Burlington, VT 05401 Official Website",
+      "city": "Burlington",
+      "region": "Waterfront / Battery Park",
+      "hours": "Monday: 10:00 AM - 5:00 PM; Tuesday: 10:00 AM - 5:00 PM; Wednesday: 10:00 AM - 5:00 PM; Thursday: 10:00 AM - 5:00 PM; Friday: 10:00 AM - 5:00 PM; Saturday: 10:00 AM - 5:00 PM; Sunday: 10:00 AM - 5:00 PM Official Website",
+      "days_open": "Open Daily (7 days a week) Official Website",
+      "admission": "Adults: $23 ($20 for VT Residents); Students & Seniors: $21 ($18 for VT Residents); Children (3-17): $20 ($17 for VT Residents); Children 2 and under: Free; Members: Free; 3D Theater: $5 for non-members, $3 for members Official Website",
+      "website": "https://www.echovermont.org",
+      "phone": "1-802-864-1848 Official Website",
+      "image_url": "https://www.echovermont.org/wp-content/uploads/2025/09/ECHOChamp0825Final_DJI_0388-website-1536x640.jpg",
+      "highlights": [
+        "'Encounter more than 70 species of live fish, reptiles, and amphibians.', 'Explore over 100 interactive science and nature exhibits.', 'Watch immersive science and nature films in the 3D theater.', 'Experience hands-on engineering challenges in the \"Engineer It\" exhibit.', 'Visit \"Champ Lane,\" a dedicated early learning space for children.', 'Discover the \"Awesome Forces\" exhibit to learn about the geological history of the region. [Official Website']"
+      ],
+      "tips": "Purchase tickets online in advance to save time. Vermont residents should bring a valid ID to access discounted rates. Check the daily schedule for animal demonstrations, usually held at 10:30 am and 2:00 pm. Reciprocal admission is available for members of ASTC-affiliated museums. Official Website",
+      "nearby": "Burlington Waterfront Park, Spirit of Ethan Allen Cruises, Burlington Bike Path, Church Street Marketplace, Community Sailing Center Hello Burlington"
+    },
+    {
+      "name": "Spirit of Ethan Allen (Spirit of Ethan Allen)",
+      "category": "Entertainment / Boat Tours & Restaurant (TripAdvisor)",
+      "description": "The Spirit of Ethan Allen is Lake Champlain’s largest cruise ship and floating restaurant, offering a variety of scenic, lunch, brunch, and themed dinner cruises. Passengers enjoy panoramic views of the Vermont mountains while hearing narrated tales of the area's history, geology, and the legendary lake monster, Champ. (Spirit of Ethan Allen, TripAdvisor)",
+      "address": "1 College Street (Boat Location) / 348 Flynn Avenue (Office) (Spirit of Ethan Allen)",
+      "city": "Burlington (Spirit of Ethan Allen)",
+      "region": "Waterfront / Battery Park",
+      "hours": "Office: Mon-Fri 8:00 AM - 5:00 PM; Cruises: Scenic at 12:00 PM, 2:00 PM, 4:00 PM; Lunch/Brunch at 12:00 PM; Dinner/Sunset starts between 5:30 PM and 6:30 PM depending on season (Spirit of Ethan Allen, Spirit of Ethan Allen)",
+      "days_open": "Daily during the season from late April/May through October (Spirit of Ethan Allen)",
+      "admission": "Scenic Narrated: Adult $36.99, Child $15.99; Lunch: Adult $48.99, Child $25.99; Champagne Brunch: Adult $54.99, Child $25.99; Sunset Cruise: Adult $45.99, Child $25.99; Dinner Cruises: Adult $63.99-$69.99, Child $31.99-$45.99 (Note: a 6% fuel surcharge applies in 2026) (Spirit of Ethan Allen)",
+      "website": "https://soea.com/",
+      "phone": "(802) 862-8300 (Spirit of Ethan Allen)",
+      "image_url": "https://soea.com/",
+      "highlights": [
+        "'Panoramic views of Lake Champlain and the Green Mountains ([Spirit of Ethan Allen)', 'Narrated tours detailing local history, geology, and lake wildlife (Spirit of Ethan Allen)', 'Triple-deck luxury cruise ship with heated and air-conditioned interiors (Spirit of Ethan Allen)', 'On-board galley featuring fresh meals prepared by an Executive Chef (TripAdvisor)', 'Diverse themed events including Murder Mystery and Lobster Dinner cruises (Spirit of Ethan Allen)', '100% handicap accessibility on the Admiral Deck (Spirit of Ethan Allen)']"
+      ],
+      "tips": "Arrive 30-45 minutes before departure due to downtown construction; the business is strictly cashless (Visa, Mastercard, Discover only); buffets are single-trip rather than all-you-can-eat. (Spirit of Ethan Allen)",
+      "nearby": "ECHO, Leahy Center for Lake Champlain; Burlington Bike Path; Waterfront Park and Boardwalk; Community Sailing Center; Shanty on the Shore (Spirit of Ethan Allen)"
+    },
+    {
+      "name": "ArtsRiot",
+      "category": "Restaurant, Bar, Art Gallery, and Performance Space",
+      "description": "ArtsRiot is a vibrant community hub and \"functioning laboratory\" located in a renovated 20th-century brush factory warehouse in the heart of the South End Arts District. Operating under the motto \"Destroy Apathy,\" it combined a New American restaurant and craft distillery with a sprawling performance venue and art gallery. The space was renowned for hosting diverse cultural events, including live music, storytelling slams, and the popular seasonal \"Truck Stop\" food truck block party (Vermont.com, Seven Days).",
+      "address": "400 Pine Street",
+      "city": "Burlington",
+      "region": "South End / Shelburne",
+      "hours": "Historically: Wednesday – Sunday, 4:00 PM – 9:00 PM (Restaurant); Sunday Brunch: 10:00 AM – 2:00 PM; Special events and Truck Stop (Fridays 5:00 PM – 10:00 PM) (Seven Days, Facebook)",
+      "days_open": "Historically Wednesday – Sunday (Restaurant); Fridays (Truck Stop seasonal) (Seven Days)",
+      "admission": "Free entry to restaurant and gallery; Ticketed events typically $10 – $15 (Calendar of Events)",
+      "website": "",
+      "phone": "(802) 540-0406",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/56c75908b6aa606979672688/1456170664619-P028X5VPCGOK8W7YV35X/ArtsRiot_Building_Exterior.jpg",
+      "highlights": [
+        "'The \"Truck Stop\" seasonal Friday night food truck block party attracting up to 1,600 patrons weekly ([Seven Days)', 'Eclectic live entertainment schedule including national musical acts, storytelling events (The Moth), and film screenings (The Food Lens)', 'On-site distillery (Liquid Arts) and craft bar featuring creative cocktails like the chili-garlic \"Frojito\" (Wanderlog)', 'Rotating art exhibitions featuring local artists on the walls of the industrial-chic warehouse space (Seven Days)', 'Menu of globally-inspired New American fare such as pork belly gyros, hot chicken, and wood-fired pizza (Yelp)']"
+      ],
+      "tips": "Visit during the summer for the quintessential Friday \"Truck Stop\" experience; reservations are highly recommended for ticketed performances and special dining nights like Ethiopian Night (Yelp)",
+      "nearby": "The Soda Plant (S.P.A.C.E. Gallery), Zero Gravity Brewery, Citizen Cider, Echo Leahy Center for Lake Champlain (Wanderlog)"
+    },
+    {
+      "name": "Burlington Beer Company (BBCO)",
+      "category": "Restaurant, Bar, Brewery (BBCO)",
+      "description": "Burlington Beer Company is an independent craft brewery and restaurant established in 2014, known for its creative approach where \"fermentation meets imagination.\" Located in a historic 120-year-old brick building in Burlington's South End, the facility features a spacious taproom, restaurant, and barrelhouse (BBCO, VTDigger).",
+      "address": "180 Flynn Ave, Burlington, VT 05401",
+      "city": "Burlington (BBCO)",
+      "region": "South End / Shelburne",
+      "hours": "Sunday: 12pm – 7pm; Monday-Thursday: 12pm – 8pm; Friday-Saturday: 12pm – 9pm (BBCO)",
+      "days_open": "Open 7 days a week (BBCO)",
+      "admission": "Free (BBCO)",
+      "website": "https://www.burlingtonbeercompany.com/",
+      "phone": "802-863-2337 (Dig In Vermont)",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/5f2af0180df0a6772998c248/01eb6dad-202e-45c9-a1e9-592c5b09a13b/BBCO_CREST.png?format=1500w",
+      "highlights": [
+        "'Offers 25+ house beers on tap ranging from hazy IPAs to fruit beers and lagers ([Dig In Vermont)', 'Housed in the historic Lumière North American factory building, a site significant to the history of color photography and cinema (Hello Burlington)', 'Features a full restaurant menu with seasonal dishes and pub classics with a modern twist (Hello Burlington)', 'Includes a Natural Wine program and a selection of cocktails and guest taps like cider and hard kombucha (BBCO)', 'Spacious 22,000-square-foot facility with a barrelhouse and event space (VTDigger)']"
+      ],
+      "tips": "Table reservations can be made online via Resy; the venue is located near Oakledge Park with plenty of parking available (BBCO). Visitors can also join the 'Wizard Points' rewards program to redeem points at the Flynn Ave location (BBCO).",
+      "nearby": "Oakledge Park, Switchback Brewing Co., Zero Gravity Brewery, Lake Champlain Chocolates (BBCO, Where Are Those Morgans)"
+    },
+    {
+      "name": "Burlington Farmers Market",
+      "category": "Shopping / Farmers Market",
+      "description": "Since 1980, the Burlington Farmers Market has been a premier community destination in the South End of Burlington, Vermont. It features a vibrant marketplace where over 90 summer vendors offer fresh local produce, artisanal crafts, and diverse prepared foods every Saturday from late spring through autumn (Official Website, Tripadvisor).",
+      "address": "345 Pine Street, Burlington, VT 05401 (Summer); 180 Flynn Avenue, Burlington, VT 05401 (Winter)",
+      "city": "Burlington",
+      "region": "South End / Shelburne",
+      "hours": "Summer (May 9 - Oct 31, 2026): Saturday 9:00 AM - 2:00 PM; Winter (Select Saturdays Nov - April): 10:00 AM - 1:00 PM; Monday - Friday & Sunday: Closed (Official Website, NOFA-VT)",
+      "days_open": "Saturdays (Official Website)",
+      "admission": "Free (Official Website)",
+      "website": "https://burlingtonfarmersmarket.org",
+      "phone": "(802) 560-5904 (Official Website)",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/5ec1fee1d344aa7eb69b3679/6ac22420-a8ea-42b7-b8dc-d1ed93149ae0/dji_fly_20231014_113920_22_1697297968360_photo.jpg",
+      "highlights": [
+        "'Over 90 summer vendors offering certified organic produce, flowers, and nursery plants ([Vendor Directory)', 'Wide selection of local Vermont meats, cheeses, and artisanal maple syrup (Official Website)', 'Diverse prepared foods ranging from Nicaraguan and Ukrainian cuisine to authentic Mexican street food (Vendor Directory)', 'Unique handcrafted items including pottery, jewelry, woodwork, and fine art from local artisans (Official Website)', 'Festive community atmosphere with live music and local community organization tables (Vermont Tourism)', 'Year-round operation with an indoor winter market featuring hardy produce and winter crafts (Vermont Farm to Plate)']"
+      ],
+      "tips": "Arrive early to secure the best selection of fresh produce before peak crowds (Lake Champlain Chocolates). Market parking is limited to handicap spaces; visitors should use nearby street parking on South Champlain St or public lots like 585 Pine St (Location & Transit). The market is held rain or shine, so bring appropriate weather gear and reusable bags (Official Website).",
+      "nearby": "Church Street Marketplace, Burlington Beer Company, Lake Champlain Waterfront, South End Arts District, ECHO Leahy Center for Lake Champlain (Hello Burlington)"
+    },
+    {
+      "name": "Lake Champlain Chocolates",
+      "category": "Shopping",
+      "description": "Lake Champlain Chocolates is a premier Vermont chocolatier known for creating gourmet, handcrafted confections using fresh, local ingredients like Vermont cream, honey, and maple syrup. The Flagship Store on Pine Street offers a comprehensive experience where visitors can enjoy a hot chocolate bar, a bakery, award-winning ice cream, and guided tastings while watching chocolatiers at work in the Innovation Kitchen. As a Certified B Corporation, the company is dedicated to high standards of social and environmental performance. Lake Champlain Chocolates",
+      "address": "750 Pine Street, Burlington, VT 05401",
+      "city": "Burlington",
+      "region": "South End / Shelburne",
+      "hours": "Monday: 9:00 AM - 6:00 PM, Tuesday: 9:00 AM - 6:00 PM, Wednesday: 9:00 AM - 6:00 PM, Thursday: 9:00 AM - 6:00 PM, Friday: 9:00 AM - 6:00 PM, Saturday: 9:00 AM - 6:00 PM, Sunday: 9:00 AM - 6:00 PM Lake Champlain Chocolates",
+      "days_open": "Daily",
+      "admission": "Free for general store and cafe access; Guided Chocolate Tasting: $16.00 per ticket (plus taxes and fees) for all ages. Lake Champlain Chocolates",
+      "website": "https://www.lakechamplainchocolates.com",
+      "phone": "(802) 864-1807",
+      "image_url": "https://cdn11.bigcommerce.com/s-oyt6pom1dt/product_images/uploaded_images/handcrafting-chocolates-2.jpg",
+      "highlights": [
+        "['Guided chocolate tastings led by experts', \"Hot chocolate bar and café featuring 'America's Best' hot chocolate\", 'Innovation Kitchen where visitors can see chocolatiers at work', 'Award-winning small-batch Vermont ice cream available year-round', 'Factory seconds section with discounted chocolate favorites', 'Custom gift box curation for personalized chocolate selections']"
+      ],
+      "tips": "Book guided chocolate tastings in advance as they are popular and have limited seating. Be sure to check the factory seconds shelf for high-quality chocolates with minor cosmetic imperfections at a significant discount. The flagship store is located just steps from the Burlington Bike Path, making it a perfect pit stop for cyclists and walkers. Lake Champlain Chocolates",
+      "nearby": "Burlington Bike Path, Waterfront Park, ECHO Leahy Center for Lake Champlain, Foam Brewers, Zero Gravity Craft Brewery, Church Street Marketplace. Tripadvisor, Hello Burlington"
+    },
+    {
+      "name": "Magic Hat Brewing Company and Performing Arts Center",
+      "category": "Brewery",
+      "description": "Magic Hat Brewing Company is a legendary craft brewery founded in 1994, famous for its flagship #9 \"not quite pale ale\" and its whimsical, art-focused branding. The company's former headquarters, known as the Artifactory, served as a \"zany\" performance space and brewery destination that helped cement the Burlington area as a premier beer mecca. Although production moved to New York in 2020, the brand remains an iconic part of Vermont's craft brewing history. (Seven Days, American Craft Beer)",
+      "address": "5 Bartlett Bay Rd",
+      "city": "South Burlington",
+      "region": "South End / Shelburne",
+      "hours": "Monday: 10:00 AM - 6:00 PM; Tuesday: 10:00 AM - 6:00 PM; Wednesday: 10:00 AM - 6:00 PM; Thursday: 10:00 AM - 6:00 PM; Friday: 10:00 AM - 6:00 PM; Saturday: 10:00 AM - 6:00 PM; Sunday: 12:00 PM - 5:00 PM (Lone Pine Campsites, Art Map Burlington)",
+      "days_open": "Monday–Sunday (Art Map Burlington)",
+      "admission": "Free (Umbrella Terms)",
+      "website": "https://www.magichat.net",
+      "phone": "(802) 658-2739 (Hand Family Companies)",
+      "image_url": "https://www.magichat.net/static/93437bee46e0789e4cb6acf520a56010/07eba/magichat-logo.webp",
+      "highlights": [
+        "'The Artifactory: A unique visitors\\' center and taproom designed with a \"mad scientist\" aesthetic. ([Destination Accessible)', 'Brewery Tours: Historically offered both guided and self-guided tours along a ramp overlooking the production floor. (Absolute Beer)', 'Art Gallery: A curated space on the tour ramp showcasing rotating exhibits by local Vermont artists. (Art Map Burlington)', 'Pilot Batch Offerings: Exclusive, small-batch experimental beers that were only available on-tap at the brewery. (Tripadvisor)', \"Mardi Gras Celebration: The brewery was the longtime sponsor of Burlington's massive annual Mardi Gras parade. (Vermont Biz)\"]"
+      ],
+      "tips": "Please note that the physical Artifactory location in South Burlington was permanently closed in 2020 when production moved to Rochester, NY. The site is now occupied by Zero Gravity Craft Brewery. For historical fans, #9 can still be found at retailers nationwide. (Seven Days, Reddit)",
+      "nearby": "Shelburne Museum, Vermont Teddy Bear Factory, Zero Gravity Craft Brewery (Seven Days)"
+    },
+    {
+      "name": "Oakledge Park",
+      "category": "Park",
+      "description": "Oakledge Park is a scenic lakeside retreat situated along the picturesque shores of Lake Champlain in Burlington's South End. This local favorite features both rocky and sandy beaches, expansive lawns, and the world’s first universally accessible public community treehouse. Visitors can enjoy stunning waterfront views of the Adirondack Mountains while utilizing the park's extensive sports facilities and picnic areas (Hello Burlington, Vermonter).",
+      "address": "11 Flynn Ave",
+      "city": "Burlington",
+      "region": "South End / Shelburne",
+      "hours": "Monday - Friday: 7:00 AM - Sunset; Saturday - Sunday: 1 hour before sunrise - Sunset (Vermonter)",
+      "days_open": "Daily (Vermonter)",
+      "admission": "Free for entry; parking is $3 per hour from May through October 31 and free from November through May (City of Burlington). Shelter rentals are available for half-day ($190) or full-day ($275) periods (Hello Burlington).",
+      "website": "https://www.burlingtonvt.gov/735/Parks-Recreation-Waterfront",
+      "phone": "(802) 864-0123 (Hello Burlington)",
+      "image_url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,q_75,w_1200/v1/crm/vermont/Oakledge-Park-2100x1334-3ad91fcb-8d75-42ce-b609-fdc3e694adb8_363A8D8B-5056-A36A-08E4886FFC6B88A7-363a86cc5056a36_363a979b-5056-a36a-0884a5b3b2131f3c.jpg",
+      "highlights": [
+        "'Burlington Earth Clock: A massive granite sundial and calendar located along the waterfront path ([Atlas Obscura).', 'Universally Accessible Playground: An inclusive playspace designed for children of all abilities (Oakledge For All).', 'Two Public Beaches: Access to both Blanchard Beach and Oakledge Cove for swimming and kayaking (Vermont.com).', 'Burlington Greenway: Direct access to the 8-mile paved multi-use bike path that runs through the heart of the park (Trail Finder).', 'Sports Courts: Facilities for tennis, volleyball, bocce, and an active kickball league (City of Burlington).', \"Accessible Treehouse: The world's first public universally accessible community treehouse (The Treehouse Guys).\"]"
+      ],
+      "tips": "Parking is paid via kiosks or the ParkMobile app (Zone 5818) during peak months. For the best experience, visit at sunset to see the sun dip behind the Adirondacks, and keep dogs on a leash at all times (City of Burlington, Tripadvisor).",
+      "nearby": "Red Rocks Park, Pine Street Arts District, World's Largest Filing Cabinet, Burlington Waterfront Park, Echo Leahy Center for Lake Champlain (Vermont Condo Pros, Yelp)."
+    },
+    {
+      "name": "Queen City Brewery",
+      "category": "Bar, Entertainment",
+      "description": "Queen City Brewery opened in June 2014 and is located in a renovated warehouse in Burlington's historically industrial South End. The brewery produces a variety of traditional ales and lagers, as well as several unique specialty beers, offering over 16 taps in a comfortable pub setting. (Official Website)",
+      "address": "703-B Pine Street, Burlington, VT 05401",
+      "city": "Burlington",
+      "region": "South End / Shelburne",
+      "hours": "Sunday: 1:00 PM - 8:00 PM, Monday: 1:00 PM - 8:00 PM, Tuesday: 1:00 PM - 8:00 PM, Wednesday: 1:00 PM - 8:00 PM, Thursday: 1:00 PM - 8:00 PM, Friday: 12:00 PM - 9:00 PM, Saturday: 12:00 PM - 9:00 PM (Official Website)",
+      "days_open": "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",
+      "admission": "Free (Viator)",
+      "website": "https://queencitybrewery.net",
+      "phone": "(802) 540-0280 (Official Website)",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/5863d68febbd1ab7ab564bba/1482952670711-59C23D6ZRUBXJ1RYG8GV/IMG_1205.JPG?format=1500w",
+      "highlights": [
+        "'Over 16 rotating taps featuring traditional European and American beer styles. ([Official Website)', 'Located in a beautifully renovated warehouse in the historic South End. (Official Website)', 'Large event space capable of hosting up to 80 guests for private gatherings. (Official Website)', 'Dog-friendly atmosphere where pets are welcome both inside and out. (Travel Like a Local VT)', 'Features a 50-year-old mahogany bar and a new outdoor biergarten. (Vermont Brewers Association)', 'Close collaboration with nearby Pizza 44 for food options. (Official Website)']"
+      ],
+      "tips": "The brewery does not serve hot food, but patrons are encouraged to order takeout from Pizza 44 (located in the same building area) or bring their own food. It is highly dog-friendly, even indoors, with dogs often seen relaxing on beds or at the bar. Parking is available on-site but can be limited; additional free street parking is usually available on Pine Street and nearby side streets in the South End. (Travel Like a Local VT, Reddit)",
+      "nearby": "Pizza 44, Zero Gravity Craft Brewery, Switchback Brewing Co., Citizen Cider, Burlington Surf Club, Lake Champlain. (Hello Burlington, Official Website)"
+    },
+    {
+      "name": "Switchback Brewing Co.",
+      "category": "Brewery, Restaurant, Bar (Switchback Brewing Co.)",
+      "description": "Switchback Brewing Co. is a 100% employee-owned brewery that has been brewing unfiltered and naturally carbonated beers in Burlington since 2002. It features an on-site Beer Garden & Smokehouse serving house-smoked, Southern-style BBQ paired with a full lineup of award-winning beers and spirits. (Switchback Brewing Co.)",
+      "address": "160 Flynn Ave, Burlington, VT 05401",
+      "city": "Burlington",
+      "region": "South End / Shelburne",
+      "hours": "Monday: Closed; Tuesday: 5:00 PM – 9:00 PM; Wednesday – Saturday: 12:00 PM – 9:00 PM; Sunday: 12:00 PM – 8:00 PM (Note: Kitchen closes one hour earlier than the bar) (Switchback Brewing Co.)",
+      "days_open": "Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday (Switchback Brewing Co.)",
+      "admission": "Free (Switchback Brewing Co.)",
+      "website": "https://www.switchbackvt.com",
+      "phone": "(802) 540-6965 (Beer Garden), (802) 651-4114 (Main Office) (Switchback Brewing Co.)",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/62f27fb00061bb5884465f09/a6d928cf-b688-40e5-89cd-f2f25c5ce4b7/IMG_4230.jpg",
+      "highlights": [
+        "'100% employee-owned and operated brewery ([Switchback Brewing Co.)', 'Home to the iconic Switchback Ale, naturally carbonated and unfiltered (Switchback Brewing Co.)', 'On-site Smokehouse serving Southern-style BBQ smoked daily (Switchback Brewing Co.)', 'Dog-friendly outdoor patio with propane heaters (Switchback Brewing Co.)', 'Regular community events including live music and trivia nights (Switchback Brewing Co.)', \"Located in the heart of Burlington's South End Arts District (Hello Burlington)\"]"
+      ],
+      "tips": "Seating is first come, first serve; guests should order food and drinks at the inside bar. Dogs are welcome on the outdoor patio but are not allowed inside the food service area. The kitchen closes one hour before the brewery's closing time. (Switchback Brewing Co.)",
+      "nearby": "Burlington Beer Company, Oakledge Park, Pine Street Arts District, Lake Champlain Waterfront, Lake Champlain Chocolates (Hello Burlington)"
+    },
+    {
+      "name": "The Spot (also known as The Spot on the Road)",
+      "category": "Restaurant",
+      "description": "The Spot is a surf-themed restaurant located in a renovated 1950s gas station that offers a unique Hawaiian-style ambiance. It is known as the \"West Coast of New England,\" featuring surfboards, palm trees, and tropical fish tanks. The restaurant specializes in fresh, local breakfast favorites and colorful lunch options like fish tacos.",
+      "address": "210 Shelburne Road",
+      "city": "Burlington, VT",
+      "region": "South End / Shelburne",
+      "hours": "Monday: 8:00 AM - 2:00 PM, Tuesday: 8:00 AM - 2:00 PM, Wednesday: 8:00 AM - 2:00 PM, Thursday: 8:00 AM - 2:00 PM, Friday: 8:00 AM - 2:00 PM, Saturday: 8:00 AM - 2:00 PM, Sunday: 8:00 AM - 2:00 PM",
+      "days_open": "Monday - Sunday (7 days a week)",
+      "admission": "Free (Restaurant)",
+      "website": "https://www.thespotvt.com",
+      "phone": "802-540-1778",
+      "image_url": "https://www.thespotvt.com/assets/images/food-lunch.jpg",
+      "highlights": [
+        "['Located in a renovated 1950s bat-wing style gas station', 'Surfer-themed interior with tropical fish tanks and surfboards', 'Famous for fresh tilapia fish tacos with mango salsa', 'Offers outdoor seating under the protective bat-wing canopy', 'Serves a popular breakfast menu including Huevos Rancheros and The Rincon burrito', 'Lively and \"chill\" atmosphere with garage doors that roll up on warm days']"
+      ],
+      "tips": "The restaurant is very popular for breakfast, so arrive early on weekends to avoid a long wait. Try the 'The Peahi' fish tacos, which are a fan favorite. Parking is free and ample on-site. On hot days, enjoy the open-air seating provided by the rolled-up garage doors.",
+      "nearby": "Lake Champlain, Church Street Marketplace, Shelburne Museum, Shelburne Farms, Vermont Teddy Bear Factory, Whistling Man Schooner Co., Hula Innovation Hub, Spot on the Dock"
+    },
+    {
+      "name": "Zero Gravity Craft Brewery",
+      "category": "Brewery Hello Burlington",
+      "description": "Zero Gravity Craft Brewery is a staple of Burlington's craft beer scene, known for its dedication to classic styles and high-quality ingredients. Since opening its Pine Street beer hall in 2015, it has provided a cozy yet spacious environment for guests to enjoy fresh drafts, delicious food, and a vibrant community atmosphere. Hello Burlington, Zero Gravity Craft Brewery",
+      "address": "716 Pine St Zero Gravity Craft Brewery",
+      "city": "Burlington",
+      "region": "South End / Shelburne",
+      "hours": "Monday: 8:00 AM – 9:00 PM, Tuesday: 8:00 AM – 9:00 PM, Wednesday: 8:00 AM – 9:00 PM, Thursday: 8:00 AM – 9:00 PM, Friday: 8:00 AM – 9:00 PM, Saturday: 8:00 AM – 9:00 PM, Sunday: 8:00 AM – 9:00 PM Zero Gravity Craft Brewery",
+      "days_open": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday Zero Gravity Craft Brewery",
+      "admission": "Free Viator",
+      "website": "https://www.zerogravitybeer.com",
+      "phone": "802.497.0054 Zero Gravity Craft Brewery",
+      "image_url": "https://www.zerogravitybeer.com/zero-gravity-beerhall",
+      "highlights": [
+        "'Flagship beers like Green State Lager and Conehead IPA [Tripadvisor', 'Daily coffee and waffle service starting at 8:00 AM Zero Gravity Craft Brewery', 'Expansive outdoor seating area that is dog-friendly Vermont Brewers Association', 'Indoor recreation including free pool and shuffleboard Tripadvisor', 'Commitment to social causes with portions of beer sales donated Tripadvisor']"
+      ],
+      "tips": "No reservations are taken, so arrive early for first-come, first-served seating. Leashed dogs are only allowed on the outdoor patio, and the brewery is one of the few places in the area serving craft beer as early as 8:00 AM. Zero Gravity Craft Brewery, Tripadvisor",
+      "nearby": "Queen City Brewery, World's Tallest Filing Cabinet, Citizen Cider, Oakledge Park, Burlington Bike Path Tripadvisor"
+    },
+    {
+      "name": "Ethan Allen Homestead Museum",
+      "category": "Museum, Landmark",
+      "description": "The Ethan Allen Homestead Museum preserves the final residence of Ethan Allen, a key founder of Vermont and leader of the Green Mountain Boys. The site functions as a cultural center that interprets the history of the Winooski Intervale, including the lives of its indigenous inhabitants and frontier settlers (Official Site, Wikipedia).",
+      "address": "1 Ethan Allen Homestead, Burlington, VT 05408",
+      "city": "Burlington",
+      "region": "Winooski / Essex",
+      "hours": "Monday: 10:00 AM – 4:00 PM, Tuesday: 10:00 AM – 4:00 PM, Wednesday: 10:00 AM – 4:00 PM, Thursday: 10:00 AM – 4:00 PM, Friday: 10:00 AM – 4:00 PM, Saturday: 10:00 AM – 4:00 PM, Sunday: 10:00 AM – 4:00 PM (Seasonal: May 1 – Oct 31) (Official Site).",
+      "days_open": "Daily (May 1st – October 31st)",
+      "admission": "Adults: $15, Students (5-17): $7, Under 5: Free. Active duty military receive free admission (Official Site).",
+      "website": "https://ethanallenhomestead.org",
+      "phone": "(802) 865-4556 (Official Site)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/EthanAllenHomestead_crop.JPG",
+      "highlights": [
+        "'Guided tours of the restored 1785 farmhouse where Ethan Allen lived his final years ([Official Site).', 'Fanny’s Garden, an interpretation of an 18th-century herb, flax, flower, and vegetable garden (Official Site).', 'Negôni Alnôbaakik, a recreated Abenaki hunting village and ceremonial site (Official Site).', 'An extensive network of walking trails throughout the 100-acre park along the Winooski River (Airial Travel).', 'Monthly living history reenactments and a free lecture series (Official Site).']"
+      ],
+      "tips": "Visitors are encouraged to arrive 30 minutes before scheduled tour times (10:30 am, 11:50 am, 1:10 pm, and 2:30 pm) to watch introductory films. The historic Allen House is only accessible via guided tours, which typically last about an hour (Official Site).",
+      "nearby": "Ethan Allen Tower, Heritage Winooski Mill Museum, Church Street Marketplace, Lake Champlain, Shelburne Farms (Airial Travel, Official Site)."
+    },
+    {
+      "name": "Uncommon Coffee Co. (Successor to Uncommon Grounds)",
+      "category": "Restaurant / Coffee Shop",
+      "description": "Uncommon Coffee is a specialty coffee shop and roastery that serves as a successor to the long-standing Uncommon Grounds of Burlington. Located in the Essex Experience, it offers house-roasted coffee, loose-leaf teas, and a menu of breakfast sandwiches and pastries made from scratch. The spacious 5,500-square-foot dining room provides a comfortable environment for community gathering, reading, or working.",
+      "address": "19 Essex Way, Unit 4",
+      "city": "Essex",
+      "region": "Winooski / Essex",
+      "hours": "Mon-Thu: 7:00 AM - 3:00 PM; Fri: 7:00 AM - 4:00 PM; Sat-Sun: 8:00 AM - 4:00 PM; Kitchen closes at 1:00 PM daily",
+      "days_open": "Monday-Sunday (7 days a week)",
+      "admission": "Free",
+      "website": "https://uncommonvt.com",
+      "phone": "(802) 662-5892",
+      "image_url": "https://uncommonvt.com/cdn/shop/files/logo_360x.jpg?v=1613543407",
+      "highlights": [
+        "['In-house roastery producing fresh single-origin and blended coffees', 'Scratch-made menu including fresh bread, scones, and house-made mocha syrup', 'Spacious 5,500-square-foot dining area with a cozy, library-like atmosphere', 'Specialty beverage options including ube lattes and CBD-infused drinks', 'Successor to the iconic Uncommon Grounds which served Burlington for 25 years', 'Located within the vibrant Essex Experience hub for shopping and entertainment']"
+      ],
+      "tips": "Arrive before 1:00 PM if you want to order from the kitchen menu. It is a highly recommended spot for those looking for a quiet space to read or work. Try their signature maple lattes or seasonal specials like the ube latte.",
+      "nearby": "ArtHound Gallery, The Essex Resort & Spa, Purple Sage Salt Cave, T-Rex Theater, Essex Experience shopping area"
+    }
+  ]
+}

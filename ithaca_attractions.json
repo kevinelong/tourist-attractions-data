@@ -1,0 +1,1494 @@
+{
+  "title": "Ithaca, NY Area Tourist Attractions",
+  "generated": "2026-05-12",
+  "total_attractions": 78,
+  "regions_covered": [
+    "Cornell University Campus",
+    "Downtown Ithaca / Commons",
+    "Cayuga Lake / Waterfront"
+  ],
+  "attractions": [
+    {
+      "name": "Barton Hall",
+      "category": "University, Landmark, Athletic Facility",
+      "description": "Barton Hall is an iconic field house on the Cornell University campus, originally constructed in 1915 as the New York State Armory and Drill Hall. Today, it serves as a premier indoor track and field facility, housing the Cornell Police, three ROTC detachments, and the Wortham Military Museum. It is also a legendary venue for major campus events and concerts, famously hosting the Grateful Dead's 1977 performance. Wikipedia, Cornell Athletics",
+      "address": "117 Statler Drive",
+      "city": "Ithaca, NY 14853",
+      "region": "Cornell University Campus",
+      "hours": "Monday: 9:00 AM – 11:00 PM; Tuesday: 9:00 AM – 11:00 PM; Wednesday: 9:00 AM – 11:00 PM; Thursday: 9:00 AM – 11:00 PM; Friday: 9:00 AM – 11:00 PM; Saturday: 9:00 AM – 11:00 PM; Sunday: 9:00 AM – 11:00 PM (Hours vary significantly based on university events and exam schedules). Waze, Cornell Events Calendar",
+      "days_open": "Daily",
+      "admission": "Free for general building access and military museum; tickets required for concerts and select athletic events. Vivid Seats, Cornell Big Red",
+      "website": "https://cornellbigred.com/facilities/barton-hall/2",
+      "phone": "607-255-7775 (Athletics), 607-255-1111 (Cornell Police) Cornell Athletics, CUPD",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Barton_Hall_from_Schoellkopf_Field.jpg",
+      "highlights": [
+        "'Historic armory architecture designed by Lewis Pilcher, featuring a massive unpillared interior. [Wikipedia', 'State-of-the-art 200-meter indoor track surface renovated in 2016 for NCAA-qualifying performances. Cornell Athletics', \"Home to the Wortham Military Museum and Hart Memorial Library, showcasing Cornell's military history. Veterans Memorials\", 'Legendary concert venue that has hosted acts like the Grateful Dead, Bob Dylan, and Santana. Wikipedia', \"Headquarters for Cornell University's Army, Navy, and Air Force ROTC programs. Cornell ROTC\", 'Features an indoor challenge course for team and leadership training. Wikipedia']"
+      ],
+      "tips": "Always check the official Barton Hall calendar before visiting, as the track and main floor are frequently closed for exams, varsity practices, or special events. Visitors wishing to see the military museum should contact the ROTC offices in advance. Use the Garden Avenue entrance for accessible entry without stairs. Finger Lakes Runners Club, Cornell Commencement",
+      "nearby": "Schoellkopf Field, Statler Hotel & Statler Hall, Cornell Botanic Gardens, Sage Chapel, and the Herbert F. Johnson Museum of Art. Visit Ithaca"
+    },
+    {
+      "name": "Beebe Lake and Woods",
+      "category": "Landmark, Park, University Area",
+      "description": "Beebe Lake is a scenic 17-acre man-made reservoir and sanctuary located in the heart of the Cornell University campus, managed by the Cornell Botanic Gardens. It offers a peaceful retreat with a one-mile loop trail, historic bridges, and picturesque views of Triphammer Falls and the surrounding forested floodplains. Cornell Botanic Gardens, Wikipedia)",
+      "address": "124 Comstock Knoll Drive (Nevin Welcome Center) or Forest Home Drive (Toboggan Lodge lot)",
+      "city": "Ithaca, NY",
+      "region": "Cornell University Campus",
+      "hours": "Gardens and grounds: Dawn to dusk, Monday - Sunday Cornell Botanic Gardens",
+      "days_open": "Monday - Sunday Cornell Botanic Gardens",
+      "admission": "Free (All tiers) Cornell Botanic Gardens",
+      "website": "https://cornellbotanicgardens.org/location/beebe-lake-and-woods",
+      "phone": "(607) 255-2400 Cornell Botanic Gardens",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Fall_Reflection_in_Beebe_Lake_%28Ithaca%2C_New_York%29_%284015202262%29.jpg",
+      "highlights": [
+        "'One-mile loop trail popular for hiking and jogging [Ithaca Trails', 'Historic Sackett Bridge offering scenic overlooks of Hemlock Gorge Cornell Botanic Gardens', 'Views of Triphammer Falls and the Beebe Dam The Humble Fabulist', 'Werly Island, a small man-made island designed for sediment management Cornellians', 'Rich biodiversity of native plants and abundant wildflowers Cornell Botanic Gardens', 'Opportunities for bird watching and wildlife viewing, including herons and beavers Tripadvisor']"
+      ],
+      "tips": "The lake is very shallow (mostly 6-10 inches deep), making it unsuitable for swimming, which is strictly prohibited. For the best views of the fall foliage, visit in October and walk the south shore trail. Parking is available at the Nevin Welcome Center or the Toboggan Lodge lot on Forest Home Drive. Cornellians, Tripadvisor, Ithaca Trails",
+      "nearby": "Cornell Botanic Gardens, Triphammer Falls, F.R. Newman Arboretum, Cornell University Campus, Cascadilla Gorge Trail Ithaca Trails, Where Are Those Morgans"
+    },
+    {
+      "name": "Cascadilla Gorge Natural Area",
+      "category": "Park / Natural Area (Cornell Botanic Gardens)",
+      "description": "Cascadilla Gorge is a picturesque natural area featuring a trail that ascends 400 feet through a deeply cut gorge of ancient bedrock. The trail connects downtown Ithaca to the Cornell University campus, passing by eight to ten waterfalls and lush plant communities along historic stone staircases. (Cornell Botanic Gardens, Go Finger Lakes)",
+      "address": "Linn St (Treman Triangle Park) or College Ave & Oak Ave (Cornell Campus)",
+      "city": "Ithaca",
+      "region": "Cornell University Campus",
+      "hours": "Dawn to dusk (Cornell Botanic Gardens, Go Finger Lakes)",
+      "days_open": "Daily, early spring to late November (Closed in winter) (Visit Ithaca, Go Finger Lakes)",
+      "admission": "Free (Cornell Botanic Gardens, Where Are Those Morgans)",
+      "website": "https://cornellbotanicgardens.org/location/cascadilla-gorge",
+      "phone": "(607) 387-6739 (Visit Ithaca)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Cascadilla_Gorge.jpg",
+      "highlights": [
+        "'Eight to ten cascading waterfalls ranging from 8 to 80 feet in height ([Go Finger Lakes, Where Are Those Morgans)', 'Historic stone trails and staircases constructed in the late 1920s (Cornell Botanic Gardens)', 'Exposed 400-million-year-old sedimentary rock layers of shale, siltstone, and sandstone (Cornell Botanic Gardens)', 'Serves as a scenic pedestrian corridor between downtown Ithaca and Cornell University (Visit Ithaca)', 'Unique flora adapted to the cool, moist gorge environment (Cornell Botanic Gardens)']"
+      ],
+      "tips": "The lower gorge trail is closed during winter months (typically mid-December to mid-April) due to icy conditions. Swimming is strictly prohibited in the gorge at all times for safety. Wear sturdy hiking shoes as the stone steps can be steep and slippery when wet. (Cornell Botanic Gardens, Gorge Safety)",
+      "nearby": "Ithaca Commons, Cornell University Campus, Fall Creek Gorge, Stewart Avenue Bridge, Schwartz Center for the Performing Arts (Visit Ithaca, Go Finger Lakes)"
+    },
+    {
+      "name": "Cascadilla Gorge Trail (Cornell Botanic Gardens)",
+      "category": "Park / Natural Area (Cornell Botanic Gardens)",
+      "description": "The Cascadilla Gorge Trail is a picturesque connective corridor that drops 400 feet from the Cornell University campus to downtown Ithaca. It features a series of six to eight waterfalls carved through ancient bedrock of shale, siltstone, and sandstone that dates back 400 million years. (Cornell Botanic Gardens, Visit Ithaca)",
+      "address": "Treman Triangle, Linn St & E Court St, Ithaca, NY 14850",
+      "city": "Ithaca (Cornell Botanic Gardens)",
+      "region": "Cornell University Campus",
+      "hours": "Dawn to Dusk (Cornell Botanic Gardens)",
+      "days_open": "Daily (seasonal, typically April-November) (Cornell Botanic Gardens, NYFalls)",
+      "admission": "Free (Cornell Botanic Gardens, Go Finger Lakes)",
+      "website": "https://cornellbotanicgardens.org/location/cascadilla-gorge/",
+      "phone": "(607) 255-2400 (Cornell Botanic Gardens), (607) 387-6739 (Visit Ithaca) (Cornell Botanic Gardens, Visit Ithaca)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/CascadillaCreek6.jpg",
+      "highlights": [
+        "'Series of six to eight diverse waterfalls ranging from 8 to 80 feet in height ([Go Finger Lakes)', 'Historic stone staircases and trails constructed in the late 1920s (Visit Ithaca)', 'Exposed sedimentary rock layers of shale, siltstone, and sandstone (Cornell Botanic Gardens)', 'Stewart Falls, a narrow 22-foot cascade (NYFalls)', \"Historic stone bridge at the trail's midpoint (Go Finger Lakes)\", 'A 1,200-pound artistic gate at the base of the trail (Wikipedia)']"
+      ],
+      "tips": "The lower section of the trail is closed during winter due to dangerous icy conditions; always check for seasonal closures before visiting. Swimming is strictly prohibited in the gorge for safety. Wear sturdy footwear as the trail involves many steep stone steps that can be slippery when wet. (Cornell Botanic Gardens, Gorge Safety)",
+      "nearby": "Cornell University Campus, Stewart Park, Ithaca Falls, Sciencenter, Cayuga Lake (Visit Ithaca, Tripadvisor)"
+    },
+    {
+      "name": "Cornell Botanic Gardens",
+      "category": "Botanical Garden and Arboretum",
+      "description": "Cornell Botanic Gardens is a living museum that includes cultivated specialty gardens, the 100-acre F. R. Newman Arboretum, and over 3,600 acres of biologically diverse natural areas. It serves as a vital resource for Cornell University and the public, promoting plant conservation and environmental education through its vast collections and scenic landscapes (Cornell Botanic Gardens, Wikipedia).",
+      "address": "124 Comstock Knoll Drive, Ithaca, New York, 14850",
+      "city": "Ithaca",
+      "region": "Cornell University Campus",
+      "hours": "Gardens and Natural Areas: Daily, dawn to dusk. Nevin Welcome Center: Tuesday–Saturday, 10:00 a.m. – 4:00 p.m. (Cornell Botanic Gardens)",
+      "days_open": "Daily (Gardens and Natural Areas); Tuesday–Saturday (Welcome Center) (Cornell Botanic Gardens)",
+      "admission": "Free (Cornell Botanic Gardens)",
+      "website": "https://cornellbotanicgardens.org",
+      "phone": "(607) 255-2400 (Cornell Botanic Gardens)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Nevin_Welcome_Center_at_the_Cornell_Botanic_Gardens.jpg",
+      "highlights": [
+        "'Robison Herb Garden featuring 17 themed beds of herbs ([Wikipedia)', 'F. R. Newman Arboretum with extensive tree collections and panoramic overlooks (Cornell Botanic Gardens)', 'Mundy Wildflower Garden showcasing native plants in a woodland setting (Cornell Botanic Gardens)', 'Cascadilla Gorge Trail and Fall Creek Gorge (Cornell Botanic Gardens)', 'Mullestein Winter Garden for year-round interest (Cornell Botanic Gardens)']"
+      ],
+      "tips": "Plan on two to four hours to explore the main destinations. Use the ParkMobile app to pay for parking ($1.50/hour) and wear comfortable walking shoes as surfaces and slopes vary across the site (Cornell Botanic Gardens, Tripadvisor).",
+      "nearby": "Beebe Lake, Fall Creek Gorge, Cascadilla Falls, Cornell University campus, Herbert F. Johnson Museum of Art (Wikipedia)"
+    },
+    {
+      "name": "Cornell University",
+      "category": "University",
+      "description": "Cornell University is a private Ivy League research university co-founded in 1865 by Ezra Cornell and Andrew Dickson White. It is located on East Hill in Ithaca, New York, offering stunning views of Cayuga Lake and the surrounding Finger Lakes region. (Wikipedia) (Cornell University)",
+      "address": "616 Thurston Avenue",
+      "city": "Ithaca",
+      "region": "Cornell University Campus",
+      "hours": "Monday - Friday: 8:00 AM - 5:00 PM; Saturday: 8:00 AM - 3:00 PM (Closed Saturdays in Dec/Jan) (Cornell University)",
+      "days_open": "Monday - Saturday (Cornell University)",
+      "admission": "Free (Campus and Welcome Center), Tuition applies for enrolled students (Cornell University)",
+      "website": "https://www.cornell.edu",
+      "phone": "(607) 254-4636",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Cornell_University_logo.svg",
+      "highlights": [
+        "'Student-led campus tours of the historic Ithaca campus ([Cornell University)', 'Herbert F. Johnson Museum of Art featuring 40,000 works of art (Herbert F. Johnson Museum of Art)', 'Cornell Botanic Gardens, including the F.R. Newman Arboretum (Cornell University)', 'The iconic McGraw Tower and Uris Library overlooking Libe Slope (Wikipedia)', 'Beebe Lake and its surrounding scenic trails (Cornell University)']"
+      ],
+      "tips": "Visitors should register in advance for student-led tours as capacity is limited. Comfortable walking shoes are recommended for the hilly terrain, and public parking is available for a fee on weekdays but free on weekends. (Cornell University)",
+      "nearby": "Cayuga Lake, Cascadilla Gorge Trail, Ithaca Commons, Stewart Park, Taughannock Falls State Park (Cornell University)"
+    },
+    {
+      "name": "Cornell University (Main Campus)",
+      "category": "University / Landmark",
+      "description": "Cornell University is a private Ivy League research university located in Ithaca, New York, renowned for its diverse academic programs and stunning 745-acre main campus. Nestled on East Hill, the campus is famous for its picturesque blend of historic architecture, vibrant student life, and natural features like gorges and waterfalls. Cornell University, Wikipedia",
+      "address": "616 Thurston Ave, Ithaca, NY 14853 (Martin Y. Tang Welcome Center)",
+      "city": "Ithaca",
+      "region": "Cornell University Campus",
+      "hours": "Monday: 8:00 AM – 5:00 PM; Tuesday: 8:00 AM – 5:00 PM; Wednesday: 8:00 AM – 5:00 PM; Thursday: 8:00 AM – 5:00 PM; Friday: 8:00 AM – 5:00 PM; Saturday: 8:00 AM – 3:00 PM; Sunday: Closed (Welcome Center hours; campus grounds are accessible 24/7) Cornell Visit",
+      "days_open": "Monday - Sunday (Campus grounds open daily; Welcome Center closed Sundays) Cornell Visit",
+      "admission": "Free (General campus access and official student-led tours are free; advance registration is required for tours) Cornell Visit",
+      "website": "https://www.cornell.edu",
+      "phone": "(607) 254-4636 (Visitor Relations) Cornell Visit",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Mcgraw.jpg",
+      "highlights": [
+        "'The Arts Quad, featuring historic buildings like Morrill Hall and statues of founders Ezra Cornell and Andrew Dickson White [Wikipedia', 'McGraw Tower and the Cornell Chimes, an iconic 173-foot clock tower offering daily bell performances Wikipedia', 'Herbert F. Johnson Museum of Art, an I.M. Pei-designed landmark with free admission and panoramic views Johnson Museum', 'Cornell Botanic Gardens, including the Nevin Welcome Center, arboretum, and specialty gardens Cornell Botanic Gardens', 'Beebe Lake and the surrounding gorge trails, offering scenic hiking in the heart of campus Cornell Gorges', 'Libe Slope, a popular gathering spot for watching sunsets over West Campus and the city of Ithaca Cornell Visit']"
+      ],
+      "tips": "Wear comfortable walking shoes as the campus is hilly; check the Cornell Events calendar for public lectures or performances; and register for student-led tours well in advance due to high demand. Cornell Visit",
+      "nearby": "Ithaca Falls, The Ithaca Commons, Buttermilk Falls State Park, TCAT Bus System, Stewart Park, Cascadilla Gorge Trail TripAdvisor"
+    },
+    {
+      "name": "Edmund Ezra Day Hall (Day Hall)",
+      "category": "University Administration",
+      "description": "Edmund Ezra Day Hall serves as the central administrative headquarters for Cornell University. Completed in 1947 and designed in the Stripped Classical style, it houses the offices of the president and other senior leadership. The building is a primary hub for student services, including the registrar and bursar offices.",
+      "address": "144 Feeney Way (formerly East Avenue)",
+      "city": "Ithaca",
+      "region": "Cornell University Campus",
+      "hours": "Monday–Friday: 8:00 AM – 5:00 PM; Saturday–Sunday: Closed",
+      "days_open": "Monday–Friday",
+      "admission": "Free",
+      "website": "https://www.cornell.edu/",
+      "phone": "(607) 255-5201 (Office of the President), (607) 255-2000 (General Information)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Day_Hall_01.jpg",
+      "highlights": [
+        "['Office of the President and senior university leadership', 'Home to the Office of the University Registrar and the Office of the Bursar', 'Architectural example of the \"Stripped Classical\" style by Frederick L. Ackerman', 'Central location at the intersection of Feeney Way and Tower Road', 'Houses various student service departments and the Vice Provost for Undergraduate Education']"
+      ],
+      "tips": "As an administrative building, Day Hall is best visited for official university business; general campus visitors are encouraged to start at the Martin Y. Tang Welcome Center. Some student service offices within the building, such as the Registrar and Bursar, may have more limited public walk-in hours (typically 9:00 AM–1:00 PM and 2:00 PM–4:00 PM).",
+      "nearby": "Sage Chapel, Willard Straight Hall, The Statler Hotel, Sage Hall, Uris Library"
+    },
+    {
+      "name": "Fall Creek Gorge",
+      "category": "Park / Landmark",
+      "description": "Fall Creek Gorge is a breathtaking natural area featuring a series of six waterfalls, including the 150-foot Ithaca Falls and the iconic Triphammer Falls. Carved into the landscape over millions of years, the gorge drops nearly 200 feet in depth and serves as a vital ecological and recreational corridor through the Cornell University campus. (Cornell Botanic Gardens, Wikipedia))",
+      "address": "124 Comstock Knoll Drive (Welcome Center) / Fall Creek Drive (Trailhead)",
+      "city": "Ithaca",
+      "region": "Cornell University Campus",
+      "hours": "Dawn to dusk daily (Cornell Botanic Gardens)",
+      "days_open": "Daily (Cornell Botanic Gardens)",
+      "admission": "Free (Cornell Botanic Gardens, NYFalls)",
+      "website": "https://cornellbotanicgardens.org/location/fall-creek-gorge",
+      "phone": "(607) 255-2400 (Cornell Botanic Gardens)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Fall_Creek_%2834237013%29.jpg",
+      "highlights": [
+        "'Features six major waterfalls: Flume, Triphammer, Rocky, Foaming, Forest, and Ithaca Falls. ([Wikipedia))', \"The 150-foot-high pedestrian suspension bridge offers dramatic bird's-eye views of the gorge and falls. (Cornell Botanic Gardens)\", 'Designated as a New York State Recreational River, protecting its natural beauty and habitats. (Cornell Botanic Gardens)', 'Historically served as a power source for early mills and still houses a functioning hydroelectric plant. (NYFalls)', 'Rich geological site showcasing the Ithaca Formation with visible layers of shale and siltstone. (Cornell Botanic Gardens)']"
+      ],
+      "tips": "Swimming is strictly prohibited due to dangerous currents; stay on marked trails at all times. Use the Rim Trail for high-angle views or the Risley Trail for creek-level access. Parking is limited, so consider using public lots at Beebe Lake or nearby city streets. (Cornell Botanic Gardens, NYFalls)",
+      "nearby": "Beebe Lake, Stewart Park, Cornell University Campus, Cascadilla Gorge, Ithaca Commons (Visit Ithaca)"
+    },
+    {
+      "name": "Hemlock Gorge at Cornell Botanic Gardens",
+      "category": "Park / Natural Area",
+      "description": "Hemlock Gorge is a scenic natural area featuring a 16-foot cascading waterfall on Fall Creek, stewarded by the Cornell Botanic Gardens. The gorge is surrounded by an ancient forest containing 300-year-old beeches, hemlocks, and sugar maples, and is a defining feature of the Cornell University campus. (Cornell Botanic Gardens)",
+      "address": "124 Comstock Knoll Drive",
+      "city": "Ithaca",
+      "region": "Cornell University Campus",
+      "hours": "Dawn to dusk daily (Cornell Botanic Gardens)",
+      "days_open": "Every day (Cornell Botanic Gardens)",
+      "admission": "Free (Cornell Botanic Gardens)",
+      "website": "https://cornellbotanicgardens.org/location/hemlock-gorge",
+      "phone": "(607) 255-2400 (Cornell Botanic Gardens)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Ithaca_Hemlock_Gorge.JPG",
+      "highlights": [
+        "'16-foot cascading waterfall on Fall Creek ([Cornell Botanic Gardens)', 'Ancient forests featuring trees over 300 years old (Cornell Botanic Gardens)', 'Scenic views from trails around Beebe Lake (Cornell Botanic Gardens)', 'Proximity to the erosion-resistant Flat Rocks terrace (Cornell Botanic Gardens)', 'Managed as part of a 3,600-acre biologically diverse landscape (Cornell Botanic Gardens)']"
+      ],
+      "tips": "Visitors must stay on marked trails and follow all gorge safety guidelines, as swimming is strictly prohibited and the terrain can be hazardous. Use the interactive Garden Map to locate parking and trail entrances. (Cornell Botanic Gardens, Gorge Safety)",
+      "nearby": "Beebe Lake, Mundy Wildflower Garden, F. R. Newman Arboretum, Ithaca Falls"
+    },
+    {
+      "name": "Herbert F. Johnson Museum of Art (Herbert F. Johnson Museum of Art)",
+      "category": "Museum (Herbert F. Johnson Museum of Art)",
+      "description": "The Herbert F. Johnson Museum of Art at Cornell University houses a permanent collection of over 40,000 works spanning six millennia and six continents. Designed by renowned architect I. M. Pei, the museum is known for its distinctive concrete facade and panoramic views of Cayuga Lake and the Cornell campus (Herbert F. Johnson Museum of Art).",
+      "address": "114 Central Avenue, Ithaca, NY 14853 (Herbert F. Johnson Museum of Art)",
+      "city": "Ithaca (Herbert F. Johnson Museum of Art)",
+      "region": "Cornell University Campus",
+      "hours": "Tuesday–Friday: 10AM–5PM, Saturday–Sunday: 12–4PM (Herbert F. Johnson Museum of Art)",
+      "days_open": "Tuesday–Sunday (Herbert F. Johnson Museum of Art)",
+      "admission": "Free (Herbert F. Johnson Museum of Art)",
+      "website": "https://museum.cornell.edu/",
+      "phone": "(607) 255-6464 (Herbert F. Johnson Museum of Art)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Johnson-museum-of-art-cornell.JPG",
+      "highlights": [
+        "'Extensive collection of Asian art, considered one of the most robust in the country ([Cornellians)', \"I. M. Pei's Brutalist architecture and the cantilevered fifth floor (Wikipedia)\", 'Panoramic views of Cayuga Lake and Ithaca from the fifth-floor galleries (Lonely Planet)', 'The Morgan Japanese Garden, which abstracts the story of the Three Laughers of the Tiger Glen (Herbert F. Johnson Museum of Art)', 'Cosmos, an LED installation by Leo Villareal inspired by Carl Sagan (Cornellians)', 'Notable works such as William-Adolphe Bouguereau’s \"Goose Girl\" and Alberto Giacometti’s \"Walking Man II\" (Cornellians)']"
+      ],
+      "tips": "Head to the fifth floor for the best panoramic views. Note that large bags, food, and water bottles must be left in lockers in the lobby. Photography is permitted without flash (Herbert F. Johnson Museum of Art, Lonely Planet).",
+      "nearby": "Cornell Botanic Gardens, Ithaca Commons, Cascadilla Gorge Trail, Fall Creek, and Stewart Park (Town & Tourist, Lonely Planet)"
+    },
+    {
+      "name": "James Lynah Rink",
+      "category": "Entertainment / Sports Arena",
+      "description": "James Lynah Rink is the historic home of Cornell University's Big Red men's and women's ice hockey teams. Opened in 1957 and significantly renovated in 2006, the arena is legendary in college hockey for its intimate, high-energy atmosphere created by the \"Lynah Faithful\" fans. The facility serves as both a premier NCAA competition venue and a hub for campus recreation, including public skating sessions. Cornell Athletics, Wikipedia",
+      "address": "536 Campus Rd, Ithaca, NY 14853",
+      "city": "Ithaca",
+      "region": "Cornell University Campus",
+      "hours": "Public Skating: Typically Mon-Fri 12:00 PM - 1:00 PM (subject to seasonal changes); Hockey Games: Doors typically open 1 hour before puck drop (often 7:00 PM on Fri/Sat); Ticketing Office: Wed-Thu 10:00 AM - 4:00 PM. Cornell Athletics, Consequence Concerts, BigRedTix",
+      "days_open": "Varies by event schedule; Public skating typically held on weekdays; Hockey games primarily on Fridays and Saturdays. Cornell Events Calendar, Cornell Daily Sun",
+      "admission": "Public Skating: $3.00 - $4.00 (Free for Wellness Recreation Members); Skate Rental: $2.00; Hockey Game Tickets: Approximately $20.00 for single games, with season ticket tiers ranging from $359.00 to $499.00. Cornell Athletics, Stadium Journey, BigRedTix",
+      "website": "https://cornellbigred.com/facilities/lynah-rink/9",
+      "phone": "(607) 255-3793 (Skating Info), (607) 255-5984 (Main Office) Cornell Recreational Services, Consequence Concerts",
+      "image_url": "https://cornellbigred.com/images/2019/7/25/LynahRink_02.JPG",
+      "highlights": [
+        "\"Home to the 'Lynah Faithful,' widely considered some of the most dedicated and raucous fans in college hockey. [Cornell Athletics\", 'Boasts a seating capacity of 4,267, providing an intense and loud environment that has witnessed two NCAA championships. Wikipedia', 'Features state-of-the-art facilities including specialized training rooms, a skating treadmill, and ten premium viewing areas. Cornell Athletics', 'Renowned for its unique traditions, such as the synchronized cheering and historical chants that intimidate opposing teams. Cornellians', 'The rink has hosted numerous ECAC and Ivy League championship teams since its inaugural game in 1957. Cornell Athletics']"
+      ],
+      "tips": "Arrive at least 45-60 minutes early for hockey games to experience the full pre-game atmosphere. Park at the Hoy Road parking garage for convenient access. Dress in layers as the arena is kept quite cold to maintain the ice quality. Check the official athletics website or call ahead for the most current public skating schedule, as hours can be limited during the academic semester. Stadium Journey, Reddit r/Cornell",
+      "nearby": "Schoellkopf Field (The Crescent), Bartels Hall, Cornell Botanic Gardens, Beebe Lake, and the Cornell Dairy Bar. Cornell Athletics, Wanderlog"
+    },
+    {
+      "name": "John M. Olin Library",
+      "category": "University Library",
+      "description": "Olin Library is the largest library in the Cornell University Library system and serves as the primary research library for the social sciences and humanities. It houses a vast collection of nearly 2,000,000 print volumes, 2,000,000 microforms, and 650,000 maps to support the teaching and research needs of the university community. Official Website, Wikipedia",
+      "address": "161 Ho Plaza, Ithaca, NY 14853",
+      "city": "Ithaca",
+      "region": "Cornell University Campus",
+      "hours": "Monday - Thursday: 8:00 AM – 12:00 AM; Friday: 8:00 AM – 12:00 AM; Saturday: 10:00 AM – 12:00 AM; Sunday: 10:00 AM – 12:00 AM Official Website",
+      "days_open": "Daily",
+      "admission": "Free (Visitors can use materials, databases, and resources on-site) Official Website",
+      "website": "https://olinuris.library.cornell.edu",
+      "phone": "(607) 255-4245 (Circulation), (607) 255-4144 (Information) Official Website",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Cornell_Olin_Library_2.jpg",
+      "highlights": [
+        "'Houses nearly 2,000,000 print volumes and 650,000 maps [Wikipedia', 'Primary research library for social sciences and humanities at Cornell Official Website', 'Home to \"The Bather\" sculpture by Jacques Lipchitz Official Website', 'Extensive collection of microforms and digital research tools Official Website', 'Located on the historic Cornell Arts Quad adjacent to McGraw Tower Official Website']"
+      ],
+      "tips": "Public visitors are welcome to use materials on-site, though borrowing privileges are primarily for the Cornell community. The building is wheelchair accessible via the main entrance. Be sure to check for seasonal schedule changes during university breaks. Official Website",
+      "nearby": "Uris Library, McGraw Tower (Cornell Chimes), Herbert F. Johnson Museum of Art, Cornell Botanic Gardens, Cascadilla Gorge Trail Official Website, Visit Ithaca"
+    },
+    {
+      "name": "McGraw Tower",
+      "category": "Landmark / University Building",
+      "description": "McGraw Tower is a historic 173-foot landmark on Cornell University's campus, known for housing the 21-bell Cornell Chimes. Designed by William Henry Miller and completed in 1891, the Romanesque Revival tower serves as an iconic symbol of the university and offers panoramic views of Ithaca and Cayuga Lake from its observation level (Cornell Daily Sun, Cornell Chimes).",
+      "address": "136 Ho Plaza",
+      "city": "Ithaca",
+      "region": "Cornell University Campus",
+      "hours": "Chimes ring every 15 minutes from 7:00 AM to 11:00 PM daily. Live concerts (typically 15 minutes) follow this academic schedule: Mon-Fri: 7:45 AM, 1:10 PM, 6:00 PM; Sat: 10:10 AM, 6:00 PM; Sun: 10:10 AM, 12:00 PM, 6:00 PM (Cornell Chimes).",
+      "days_open": "Daily (Cornell Chimes)",
+      "admission": "Free (Cornell Chimes)",
+      "website": "",
+      "phone": "(607) 255-5350 (Cornell Chimes)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Cornell_Mcgraw_USA.jpg",
+      "highlights": [
+        "['21-bell Cornell Chimes played live by student chimesmasters', '161 steps leading to an observation level with panoramic views of campus and Cayuga Lake', 'The historic 1875 Seth Thomas clock and its 14-foot pendulum housed within the tower rooms', 'The site of the famous 1997 \"Great Pumpkin\" prank where a pumpkin was impaled on the spire', \"Dynamic LED lighting system that changes the tower's appearance for holidays and campus events\", 'Integral part of the Uris Library complex, designed in the Romanesque Revival style by William Henry Miller']"
+      ],
+      "tips": "Wear comfortable shoes for the strenuous 161-step climb; visitors should arrive at the 136 Ho Plaza entrance approximately 10 minutes before a scheduled concert to gain entry. Always check the official online schedule as performance times are reduced during university breaks and summer (Cornell Chimes, Airial Travel).",
+      "nearby": "Uris Library, A.D. White Library, Libe Slope, Arts Quad, Sage Chapel, Herbert F. Johnson Museum of Art (Visit Ithaca)"
+    },
+    {
+      "name": "Triphammer Falls Cornell Botanic Gardens",
+      "category": "Landmark Visit Ithaca, Wikipedia",
+      "description": "Triphammer Falls is a dramatic 55-to-80-foot waterfall located on Fall Creek within the heart of the Cornell University campus in Ithaca, New York. It is a unique man-made cascade formed by the dam at Beebe Lake and is easily accessible via the Triphammer Footbridge and surrounding campus trails. The falls are named after a 19th-century industrial triphammer forge that once operated at the site, reflecting the area's rich history of water-powered industry. Cornell Botanic Gardens, Wikipedia",
+      "address": "University Ave and East Ave, Ithaca, NY 14850 Tripadvisor",
+      "city": "Ithaca Cornell Botanic Gardens",
+      "region": "Cornell University Campus",
+      "hours": "Monday: Dawn - Dusk, Tuesday: Dawn - Dusk, Wednesday: Dawn - Dusk, Thursday: Dawn - Dusk, Friday: Dawn - Dusk, Saturday: Dawn - Dusk, Sunday: Dawn - Dusk Visit Ithaca",
+      "days_open": "Daily Cornell Botanic Gardens",
+      "admission": "Free Visit Ithaca",
+      "website": "https://cornellbotanicgardens.org/location/triphammer-falls",
+      "phone": "(607) 255-2400 Cornell Botanic Gardens",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Triphammer_Falls_Cornell_July_2015_002.jpg",
+      "highlights": [
+        "'55-foot multiple cascading waterfall centerpiece of the campus [Visit Ithaca', 'Iconic Triphammer Footbridge providing panoramic views Wikipedia', 'Historical site of the 1820s Triphammer Forge Cornell Botanic Gardens', 'Proximity to the scenic Beebe Lake and its peaceful trails Visit Ithaca', 'Views of the historic Hydraulic Lab ruins near the base Roadtrippers']"
+      ],
+      "tips": "Best viewed from the Triphammer Footbridge; wear comfortable walking shoes for campus trails; be prepared for mist and spray which can make surfaces slippery; parking on campus can be limited and may require a fee during business hours. Visit Ithaca, Airial Travel",
+      "nearby": "Beebe Lake, Cornell Botanic Gardens, Johnson Museum of Art, Ithaca Falls, Cascadilla Gorge Trail Tripadvisor"
+    },
+    {
+      "name": "Uris Library",
+      "category": "University Library / Landmark",
+      "description": "Opened in 1891 as Cornell University's first library building, Uris Library is a historic landmark designed by William Henry Miller. It is famous for housing the A.D. White Reading Room, a gothic masterpiece often described as a 'dark academia' sanctuary reminiscent of a Harry Potter library. (Cornell University Library)",
+      "address": "161 Ho Plaza, Ithaca, NY 14853",
+      "city": "Ithaca",
+      "region": "Cornell University Campus",
+      "hours": "Sunday: 12:00 PM – 11:00 PM; Monday – Tuesday: 8:00 AM – 11:00 PM; Wednesday: Closed (varies for events like Slope Day); Thursday – Friday: 8:00 AM – 11:00 PM; Saturday: 10:00 AM – 11:00 PM (Cornell University Library)",
+      "days_open": "Daily (Hours vary by academic schedule) (Cornell University Library)",
+      "admission": "Free (Airial Travel)",
+      "website": "https://olinuris.library.cornell.edu",
+      "phone": "(607) 255-4144",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Cornell_University_-_Entrance_to_Uris_Library.jpg",
+      "highlights": [
+        "[\"A.D. White Reading Room: A stunning gothic 'library within a library' with wrought-iron spiral staircases.\", 'McGraw Tower: The iconic clock tower attached to the library, home to the Cornell Chimes.', 'Panoramic Views: Offers breathtaking vistas of downtown Ithaca and the Cornell Slope.', \"Arthur H. Dean Room: Features portraits of Cornell's presidents and a grand reading space.\", 'Mui Ho Fine Arts Library: A hidden gem located within the library complex.', \"'Song of the Vowels' Sculpture: A notable bronze sculpture by Jacques Lipschitz on the plaza between Olin and Uris.\"]"
+      ],
+      "tips": "Maintain a quiet environment for students; flash photography is strictly prohibited in the A.D. White Reading Room. Weekday afternoons are typically the best time for a serene visit. (Airial Travel)",
+      "nearby": "Olin Library, McGraw Tower, Cornell Arts Quad, The Slope, Herbert F. Johnson Museum of Art (Cornell University Library)"
+    },
+    {
+      "name": "Willard Straight Hall Cornell University",
+      "category": "University Student Union, Landmark Cornell University",
+      "description": "Willard Straight Hall is a Gothic-style student union at Cornell University, serving as the central hub for campus activities and social life. Known as the 'living room' of the campus, it was one of the first student unions in North America and features intricate stonework, woodwork, and a variety of public lounges. The building houses dining facilities, an art gallery, a cinema, and administrative offices, providing a humanizing space for the university community. Cornell University",
+      "address": "136 Ho Plaza, Ithaca, NY 14853 Wikipedia",
+      "city": "Ithaca Cornell University",
+      "region": "Cornell University Campus",
+      "hours": "Monday - Sunday: 7:00 AM - 11:00 PM Cornell University",
+      "days_open": "Every day Cornell University",
+      "admission": "Free (Public Building Lounges); Cornell Cinema: $10 General, $8 Students/Seniors, $6 Kids Cornell Cinema",
+      "website": "https://scl.cornell.edu/residential-life/housing/community-centers/willard-straight-hall-student-union",
+      "phone": "(607) 255-0620 Cornell University",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Willard_Straight_Hall%2C_Cornell_University.jpg",
+      "highlights": [
+        "'Memorial Room: A grand ballroom-style space with ornate wooden ceilings used for major events and social gatherings. [Cornell University', \"Cornell Cinema: A nationally acclaimed theater located in the building's basement, offering diverse film screenings. Cornell Cinema\", 'Ivy Terrace: An outdoor seating area providing spectacular views of downtown Ithaca and Cayuga Lake. Cornell University', 'Browsing Library: A cozy, student-managed library perfect for quiet study or casual reading. Cornell University', 'Art Gallery: A space on the 4th floor that displays student art and rotating collections. Cornell University', 'Okenshields: The main dining hall within the building, offering an all-you-care-to-eat experience. Cornell University']"
+      ],
+      "tips": "Be sure to look up at the wood beams in the Memorial Room to see caricatures of past professors. Visit the Ivy Terrace during sunset for some of the best views in Ithaca. The Browsing Library is an excellent quiet spot for studying away from busier campus areas. Cornell University",
+      "nearby": "Cornell Botanic Gardens, Cascadilla Gorge Trail, Sage Chapel, McGraw Tower, Ithaca Falls Tripadvisor, Reddit"
+    },
+    {
+      "name": "Agava Restaurant (Historic/Closed)",
+      "category": "Restaurant",
+      "description": "Agava was a popular farm-to-table restaurant located in the historic East Ithaca Train Depot, known for its Southwestern-inspired cuisine and wood-fired oven. The restaurant emphasized locally sourced ingredients and featured a vibrant, community-minded atmosphere with unique decor including murals by local artist Bill Benson. Wanderlog, 14850 Dining",
+      "address": "381 Pine Tree Road",
+      "city": "Ithaca",
+      "region": "Downtown Ithaca / Commons",
+      "hours": "Closed permanently as of late 2022. Final known regular hours: Monday-Wednesday: Closed; Thursday: 4:00 PM – 9:00 PM; Friday: 4:00 PM – 10:00 PM; Saturday: 11:00 AM – 10:00 PM (Brunch & Dinner); Sunday: 11:00 AM – 3:00 PM (Brunch Only). Agava Facebook, Ithaca Week",
+      "days_open": "Monday - Sunday (Seasonal/Historical); Thursday - Saturday (Final known schedule) Agava Facebook, Ithaca Week",
+      "admission": "Free (No cover charge; menu prices vary, approx. $25-$30 per person for dinner) World Tasters, Cornell Vet",
+      "website": "http://www.agavarestaurant.com",
+      "phone": "(607) 319-4366",
+      "image_url": "https://www.worldtasters.net/wp-content/uploads/2012/06/agava-exterior.jpg",
+      "highlights": [
+        "'Historic setting in a renovated 1800s railroad depot [14850 Dining', 'Signature wood-fired flatbreads and Southwest-themed tacos Wanderlog', 'Popular weekend brunch featuring sweet and savory plates and cocktails Travel Around Places', 'Weekly \"Salsa Night\" on Wednesdays featuring music and dancing Frog\\'s Way B&B', 'Spacious, pet-friendly outdoor patio that was fully covered and enclosed BringFido', 'Customized murals by local artist Bill Benson and reclaimed barn wood interior Travel Around Places']"
+      ],
+      "tips": "The restaurant did not typically take reservations for small parties, so arriving early for brunch or dinner was recommended. It was highly regarded for its extensive gluten-free and vegan options, though visitors with Celiac disease were advised to confirm kitchen protocols. Travel Around Places, Find Me Gluten Free",
+      "nearby": "East Hill Plaza, Cornell University Campus, Cascadilla Gorge Trail, Ithaca Commons Tripadvisor, Argos Inn"
+    },
+    {
+      "name": "Cascadilla Gorge Trail (Cascadilla Gorge Natural Area)",
+      "category": "Park / Natural Area (Cornell Botanic Gardens)",
+      "description": "The iconic Cascadilla Gorge Trail connects downtown Ithaca with the Cornell University campus, following Cascadilla Creek as it drops 400 feet through ancient bedrock. This historic pathway features a series of stone staircases and walkways that lead hikers past six sizable waterfalls ranging from 8 to 80 feet in height. Originally donated to Cornell in 1909, it offers a dramatic natural landscape of shale and sandstone within a short, three-quarters-of-a-mile walk. (Cornell Botanic Gardens, Visit Ithaca)",
+      "address": "Treman Triangle Park, Linn St, Ithaca, NY 14850",
+      "city": "Ithaca",
+      "region": "Downtown Ithaca / Commons",
+      "hours": "Dawn to dusk, daily (Cornell Botanic Gardens, Go Finger Lakes)",
+      "days_open": "Daily (Lower section closed in winter, upper section open year-round) (Cornell Botanic Gardens, Ithaca Trails)",
+      "admission": "Free (Cornell Botanic Gardens, NYFalls.com)",
+      "website": "https://cornellbotanicgardens.org/location/cascadilla-gorge",
+      "phone": "(607) 387-6739 (Visit Ithaca)",
+      "image_url": "https://cornellbotanicgardens.org/sites/default/files/2025-04/lr_cascadilla_formed.jpg",
+      "highlights": [
+        "'Six sizable waterfalls ranging from 8 to 80 feet in height ([Cornell Botanic Gardens)', 'Historic stone staircases and pathways constructed in the late 1920s (Visit Ithaca)', 'Dramatic 400-foot elevation change through 400-million-year-old bedrock (Cornell Botanic Gardens)', 'Direct scenic connection between downtown Ithaca and the Cornell campus (Go Finger Lakes)', 'Unique gorge-adapted plant communities and lush forest canopy (Cornell Botanic Gardens)', \"Voted 'Ithaca’s favorite gorge' by local residents (Ithaca Trails)\"]"
+      ],
+      "tips": "Wear sturdy footwear with excellent grip as the stone steps and slate surfaces can be very slippery when wet. Swimming is strictly prohibited due to dangerous and unpredictable currents. The lower section of the trail is typically closed during winter months (late November to early spring) due to ice hazards. For an easier return, start at the Linn Street entrance to hike uphill and enjoy a downhill walk back. (Cornell Botanic Gardens, Go Finger Lakes)",
+      "nearby": "Ithaca Commons, Cornell University Campus, Cornell Botanic Gardens, Schwartz Center for the Performing Arts, Fall Creek Gorge (Visit Ithaca, Ithaca Trails)"
+    },
+    {
+      "name": "Cinemapolis",
+      "category": "Entertainment / Movie Theater",
+      "description": "Cinemapolis is a first-run movie theater located in the heart of Downtown Ithaca, specializing in independent, foreign, and locally-produced films. As a community-supported non-profit, it serves as a cultural institution where the art of film is used to educate, entertain, and celebrate the human experience. Cinemapolis",
+      "address": "120 East Green St, Ithaca, NY 14850",
+      "city": "Ithaca",
+      "region": "Downtown Ithaca / Commons",
+      "hours": "Typically opens 30 minutes before the first screening and closes after the final show starts. Daily showtimes generally range from matinees starting around 2:00 PM (earlier on select days) to evening shows starting around 8:30 PM. Cinemapolis",
+      "days_open": "Daily Cinemapolis",
+      "admission": "Adult (Evening): $12.00, Adult (Matinee): $11.00, Senior (64+): $9.00, Student: $11.00, Members: $8.00 ($6.00 on Mondays). Note: An additional $1.25 booking fee applies per ticket. Cinemapolis",
+      "website": "https://www.cinemapolis.org",
+      "phone": "607-277-6115",
+      "image_url": "https://indy-systems.imgix.net/8ml4rus0soqk6itss4ik4k54di0y?w=400&auto=format,compress",
+      "highlights": [
+        "'Features five screens with stadium seating and digital projection [Visit Ithaca', 'Specializes in independent, international, and locally-produced films Cinemapolis', 'Member-supported non-profit cinema operated by the Seventh Art Corporation of Ithaca Cinemapolis', \"Famous for 'Ithaca’s best popcorn' with gourmet toppings and Red Zinger iced tea Visit Ithaca\", 'Located within the Green Street parking garage complex for convenient, weather-protected access Visit Ithaca', 'Hosts special events, film festivals, and community discussions Cinemapolis']"
+      ],
+      "tips": "Park on the second level of the Green Street parking garage to access the theater directly and stay dry in bad weather. Arrive early to sample their famous popcorn with gourmet nutritional yeast or other toppings. Members enjoy significant discounts on tickets and concessions, including $6 movies on Mondays. Visit Ithaca, Cinemapolis",
+      "nearby": "Ithaca Commons, State Theatre of Ithaca, Sagan Planet Walk, Moosewood Restaurant, Dewitt Park. Visit Ithaca"
+    },
+    {
+      "name": "Collegetown",
+      "category": "Neighborhood / Commercial District",
+      "description": "Collegetown is a vibrant neighborhood and commercial district located directly adjacent to Cornell University's campus in Ithaca, New York. Known for its lively student energy, the area features a dense concentration of restaurants, bars, shops, and apartments that cater to both students and locals. It serves as a bridge between the university and downtown Ithaca, offering a unique urban feel within the hilly Finger Lakes landscape.",
+      "address": "409 College Ave, Ithaca, NY 14850",
+      "city": "Ithaca",
+      "region": "Downtown Ithaca / Commons",
+      "hours": "Monday: Open 24 hours, Tuesday: Open 24 hours, Wednesday: Open 24 hours, Thursday: Open 24 hours, Friday: Open 24 hours, Saturday: Open 24 hours, Sunday: Open 24 hours (Neighborhood access; business hours vary)",
+      "days_open": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
+      "admission": "Free",
+      "website": "https://cccithaca.com",
+      "phone": "(607) 272-1313",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Collegetown%2C_Ithaca.jpg",
+      "highlights": [
+        "[\"Proximity to Cornell University's historic campus and landmarks like McGraw Tower.\", 'Access to the scenic Cascadilla Gorge Trail and its stunning waterfalls.', 'A diverse array of international dining options and iconic local eateries like Collegetown Bagels.', 'The Schwartz Center for the Performing Arts, a hub for theater and dance.', 'Historic architecture including Sheldon Court and other early 20th-century buildings.', 'Vibrant nightlife with numerous bars and social gathering spots.']"
+      ],
+      "tips": "Wear comfortable walking shoes to navigate the steep hills; use the Dryden Road parking garage for convenient vehicle access; be sure to walk the Cascadilla Gorge Trail for a direct and scenic route to downtown.",
+      "nearby": "Cornell University, Cascadilla Falls, Ithaca Commons, Cornell Botanic Gardens, Stewart Park"
+    },
+    {
+      "name": "Collegetown Bagels (Collegetown Bagels)",
+      "category": "Restaurant (Tripadvisor)",
+      "description": "Collegetown Bagels (CTB) is an iconic Ithaca institution and family-owned eatery that has been serving the community since 1976. Known for its freshly baked bagels, extensive sandwich menu, and vibrant social atmosphere, it serves as a central hub for Cornell students, locals, and visitors alike (The Cornell Daily Sun). The business is committed to green practices and providing a living wage to its employees while sourcing local ingredients (Collegetown Bagels).",
+      "address": "420 College Ave, Ithaca, NY 14850 (Collegetown Bagels)",
+      "city": "Ithaca (Collegetown Bagels)",
+      "region": "Downtown Ithaca / Commons",
+      "hours": "Sunday - Saturday: 6:30 AM - 12:00 AM (Collegetown Bagels)",
+      "days_open": "Daily (Collegetown Bagels)",
+      "admission": "Free (Tripadvisor)",
+      "website": "https://www.collegetownbagels.com",
+      "phone": "(607) 273-0982 (Collegetown Bagels)",
+      "image_url": "https://www.collegetownbagels.com/",
+      "highlights": [
+        "'Famous Rosemary Salt and Long Island (Everything) bagels ([Tripadvisor)', 'Extensive menu featuring breakfast sandwiches, grain bowls, and specialty paninis (Collegetown Bagels)', 'Wide selection of vegan, vegetarian, and gluten-free options (Tripadvisor)', 'Serves fair-trade coffee, craft beer, wine, and seasonal smoothies (Collegetown Bagels)', 'Bustling atmosphere with indoor and outdoor seating near the Cornell campus (Tripadvisor)', 'Ships bagels nationwide via Goldbelly (Collegetown Bagels)']"
+      ],
+      "tips": "On Saturday mornings, the line can get long, so it's best to arrive early or pack your patience (Tripadvisor). For a scenic reward, hike the Cascadilla Gorge Trail from downtown up to the shop for a post-hike bagel or beer (Travel and Leisure). Don't miss the Rosemary Salt bagel, a local favorite (Tripadvisor).",
+      "nearby": "Cascadilla Gorge Trail, Cornell University campus, Cornell Botanic Gardens, Ithaca Falls (Tripadvisor, Happy in the Hollow)"
+    },
+    {
+      "name": "De Witt Park Historic District",
+      "category": "Park",
+      "description": "DeWitt Park is the historic heart of downtown Ithaca, originally established as the town square by Simeon DeWitt in the early 19th century. This \"Quiet Use Park\" is surrounded by significant architectural landmarks and serves as a focal point for the city's religious, educational, and governmental history. It is a peaceful green space that notably hosted orations by Frederick Douglass and continues to be a central gathering place for the community (Wikipedia, Historic Ithaca).",
+      "address": "315 N Cayuga St (bounded by E. Buffalo, E. Court, N. Cayuga, and N. Tioga Streets)",
+      "city": "Ithaca",
+      "region": "Downtown Ithaca / Commons",
+      "hours": "Daily: Dawn to Dusk; Ithaca Farmers Market (May-Oct): Tuesdays 9:00 AM – 2:00 PM (Yelp, Downtown Ithaca)",
+      "days_open": "Daily (City of Ithaca)",
+      "admission": "Free (City of Ithaca)",
+      "website": "https://www.cityofithacany.gov",
+      "phone": "607-272-1718 (City of Ithaca Parks & Forestry)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/DeWitt_Park%2C_Ithaca%2C_New_York.jpg",
+      "highlights": [
+        "\"Designated as Ithaca's first local historic district in 1971 ([Historic Ithaca)\", 'Site of historical orations by abolitionist Frederick Douglass (Wikipedia)', 'Hosts the Ithaca Farmers Market every Tuesday from May through October (Downtown Ithaca)', 'Surrounded by iconic buildings including the DeWitt Mall (former high school) and the Second Tompkins County Courthouse (Wikipedia)', 'Features the Mission Monument and markers commemorating early non-indigenous settlers (PocketSights)', 'Part of a 0.6-mile architectural walking tour highlighting diverse building styles (PocketSights)']"
+      ],
+      "tips": "Visit on Tuesdays during the warmer months to experience the local Farmers Market. For dining and shopping, explore the adjacent DeWitt Mall, home to the world-famous Moosewood Restaurant. The park is designated as a \"Quiet Use Park,\" making it a perfect spot for reading or peaceful relaxation (Downtown Ithaca, City of Ithaca).",
+      "nearby": "DeWitt Mall (Moosewood Restaurant), Second Tompkins County Courthouse, The Ithaca Commons, Tompkins Center for History & Culture, Cascadilla Gorge Trail (Visit Ithaca)"
+    },
+    {
+      "name": "DeWitt Park Historic District",
+      "category": "Landmark / Historic District",
+      "description": "The DeWitt Park Historic District is a significant urban area in downtown Ithaca containing 45 buildings surrounding a central park. It is noted for its diversity of architectural styles dating from 1820 to 1930 and its association with city founder Simeon DeWitt. The district serves as the heart of Ithaca's religious, educational, and governmental activities. Historic Ithaca, Living Places",
+      "address": "102 E Court St (approximate central address)",
+      "city": "Ithaca",
+      "region": "Downtown Ithaca / Commons",
+      "hours": "Dawn to Dusk (Park); Individual buildings vary Airial Travel",
+      "days_open": "Daily Airial Travel",
+      "admission": "Free Tripadvisor, Airial Travel",
+      "website": "https://www.historicithaca.org/post/dewitt-park-historic-district",
+      "phone": "(607) 273-6464 Trip.com",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/DeWitt_Park%2C_Ithaca%2C_New_York.jpg",
+      "highlights": [
+        "\"DeWitt Park, the city's oldest park and central green space [Historic Ithaca\", 'Old Tompkins County Courthouse, the oldest surviving Gothic Revival courthouse in NY Living Places', 'The DeWitt Mall (former high school) housing the world-famous Moosewood Restaurant Visit Ithaca', 'Boardman House, home of the first dean of Cornell Law School Living Places', 'Tompkins County Civil War Memorial in DeWitt Park Wikimedia Commons)', 'First Baptist Church and other significant religious architecture City of Ithaca']"
+      ],
+      "tips": "Visit during summer Tuesday afternoons for the seasonal farmers market and live music in the park. The district is best explored via an architectural walking tour. Airial Travel, Historic Ithaca",
+      "nearby": "Ithaca Commons, Tompkins Center for History & Culture, Ithaca Falls, Cornell University Visit Ithaca"
+    },
+    {
+      "name": "Gimme Coffee Cooperative",
+      "category": "Cafe / Restaurant",
+      "description": "Founded in 2000, Gimme! Coffee is a renowned specialty coffee roaster and retailer based in Ithaca, New York, that transitioned to a worker-owned cooperative in 2022 (Gimme! Coffee). Known for its commitment to ethical sourcing and \"world-class neighborhood coffee,\" the cafe offers a quintessential Finger Lakes experience with its award-winning brews and community-focused atmosphere (Visit Ithaca).",
+      "address": "430 N Cayuga St, Ithaca, NY 14850",
+      "city": "Ithaca",
+      "region": "Downtown Ithaca / Commons",
+      "hours": "Cayuga St: Daily 7:00 am - 4:30 pm; MLK St: Daily 7:30 am - 5:00 pm; Gates Hall: Mon-Fri 8:00 am - 4:00 pm (Gimme! Coffee)",
+      "days_open": "Open Daily (Gimme! Coffee)",
+      "admission": "Free (TripAdvisor)",
+      "website": "",
+      "phone": "607-277-8393 (Gimme! Coffee)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Gimmecoffee.JPG",
+      "highlights": [
+        "'Worker-owned cooperative business model since 2022 ([Gimme! Coffee)', 'Named 2013 Macro Roaster of the Year by Roast Magazine (Gimme! Coffee)', 'Commitment to ethical sourcing and certified living-wage practices (Gimme! Coffee)', 'Features locally roasted specialty coffee and organic teas (Visit Ithaca)', 'Original Cayuga Street location is a historic neighborhood landmark (Gimme! Coffee)']"
+      ],
+      "tips": "The scones are a local favorite and highly recommended for visitors (TripAdvisor). The original Cayuga Street location is perfect for people-watching and is conveniently located near the base of the Cascadilla Gorge Trail (TripAdvisor).",
+      "nearby": "Cascadilla Gorge Trail, Downtown Ithaca Commons, Cornell University, Ithaca Falls (Visit Ithaca, TripAdvisor)"
+    },
+    {
+      "name": "Ithaca Bakery",
+      "category": "Restaurant / Bakery (Visit Ithaca)",
+      "description": "A beloved fixture in New York’s Finger Lakes region since 1910, Ithaca Bakery is a family-owned establishment known for its artisan breads, bagels, and signature sandwiches. The flagship Meadow Street location offers an extensive international menu featuring daily-changing soups, salads, and prepared entrées alongside a wide selection of pastries and cheeses. As a recognized Living Wage employer, it remains a cornerstone of the Ithaca community, serving both locals and visitors with a commitment to quality and sustainability (Ithaca Bakery, Visit Ithaca).",
+      "address": "400 N Meadow St, Ithaca, NY 14850",
+      "city": "Ithaca",
+      "region": "Downtown Ithaca / Commons",
+      "hours": "Monday - Saturday: 6:30 AM - 8:00 PM; Sunday: 6:30 AM - 8:00 PM (Ithaca Bakery)",
+      "days_open": "Open daily (Ithaca Bakery)",
+      "admission": "Free (Ithaca Bakery)",
+      "website": "https://www.ithacabakery.com",
+      "phone": "607-273-7110 (Ithaca Bakery)",
+      "image_url": "https://www.ithacabakery.com/img/large/sign_1.jpg",
+      "highlights": [
+        "'Artisan breads and bagels, including the signature Rosemary Salt bagel ([Reddit)', 'Signature sandwiches like Augie’s New Spiedie and the vegan Susie’s Garden (14850.com)', 'Extensive daily selection of homemade soups, salads, and hot entrées (Ithaca Bakery)', 'Handcrafted pastries, cakes, and tortes such as Carrot Cake and Chocolate Regal (Ithaca Bakery)', 'International cheese department and organic fair-trade coffee and tea (Yelp)', 'Community-focused, family-owned business for over 115 years (Ithaca Bakery)']"
+      ],
+      "tips": "Check the daily-changing soup and entrée menus online before visiting. The Meadow Street location is the flagship where breads are baked fresh, and online ordering is available for quick pickup or delivery (Ithaca Bakery, 14850.com).",
+      "nearby": "Ithaca Commons, Cascadilla Falls, Sciencenter, Stewart Park, Cayuga Waterfront Trail (Tripadvisor)"
+    },
+    {
+      "name": "Ithaca College",
+      "category": "University",
+      "description": "Ithaca College is a private liberal arts college founded in 1892 as a music conservatory. Located on South Hill overlooking Cayuga Lake, the institution is renowned for its programs in communications, music, and performing arts, offering over 100 degree programs across five specialized schools (Wikipedia).",
+      "address": "953 Danby Road",
+      "city": "Ithaca",
+      "region": "Downtown Ithaca / Commons",
+      "hours": "Monday–Friday: 8:00 a.m.–7:00 p.m.; Saturday: 10:00 a.m.–7:00 p.m. (Information Desk) (Ithaca College)",
+      "days_open": "Monday–Saturday (Official visitor services) (Ithaca College)",
+      "admission": "Free (General campus visit); $60 Application Fee (Sallie)",
+      "website": "https://www.ithaca.edu",
+      "phone": "(607) 274-3011",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Dillingham_Center_and_fountains%2C_Ithaca_College.jpg",
+      "highlights": [
+        "'Top-ranked Roy H. Park School of Communications ([Ithaca College)', 'Renowned School of Music, Theatre, and Dance with world-class performances (Ithaca College)', 'Sustainable campus featuring LEED Platinum-certified buildings like the School of Business (Wikipedia)', 'Stunning panoramic views of Cayuga Lake and the city of Ithaca from South Hill (Visit Ithaca)', \"Award-winning student-led media outlets, including 'The Ithacan' newspaper (Wikipedia)\", 'Active campus life with over 200 student organizations and NCAA Division III athletics (Ithaca College)']"
+      ],
+      "tips": "Prospective students should register for a student-led tour in advance to explore the campus and potentially qualify for a visit grant (Ithaca College). Be sure to wear comfortable walking shoes as the campus is situated on a steep hill with many stairs (Ithaca College). Don't miss the iconic Dillingham Center fountains for one of the best photo spots on campus (Wikipedia).",
+      "nearby": "Buttermilk Falls State Park, Robert H. Treman State Park, Cornell University, Downtown Ithaca Commons, Cayuga Lake, Cascadilla Gorge (Visit Ithaca)"
+    },
+    {
+      "name": "Ithaca Commons",
+      "category": "Shopping, Dining, and Entertainment District (Visit Ithaca)",
+      "description": "Ithaca Commons is an award-winning, four-block pedestrian shopping area located in the heart of downtown Ithaca, New York. It serves as a vibrant cultural and economic center, featuring over 100 independently owned shops, boutiques, restaurants, art galleries, and service providers. (Downtown Ithaca)",
+      "address": "171 E. State St. PMB #136, Ithaca, NY 14850",
+      "city": "Ithaca",
+      "region": "Downtown Ithaca / Commons",
+      "hours": "Pedestrian mall open 24/7. Visitors Center: Monday-Saturday 10:00 AM - 5:00 PM. (Downtown Ithaca)",
+      "days_open": "Daily (District accessibility); Specific business hours vary (Downtown Ithaca)",
+      "admission": "Free (Downtown Ithaca)",
+      "website": "https://www.downtownithaca.com/visit-downtown/the-commons/",
+      "phone": "(607) 277-8679 (Downtown Ithaca Alliance)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Ithaca_Commons_%28New_York%29.jpg",
+      "highlights": [
+        "'Over 100 independent shops and boutiques ([Downtown Ithaca)', 'Sagan Planet Walk, a walkable scale model of the solar system (Downtown Ithaca)', 'Bernie Milton Pavilion for outdoor concerts and events (I Love NY)', 'Diverse dining options ranging from casual eateries to fine cuisine (Visit Ithaca)', 'Public art and building murals throughout the district (Visit Ithaca)', 'Signature annual festivals like the Apple Harvest Festival and Chili Cook-Off (Downtown Ithaca)']"
+      ],
+      "tips": "Take advantage of the free community Wi-Fi available throughout the Commons. Visit during the summer for free weekly concerts or in the fall for the famous Apple Harvest Festival. (Downtown Ithaca)",
+      "nearby": "Cornell University, Ithaca College, Ithaca Falls, Sciencenter, and State Theatre of Ithaca (Visit Ithaca, Tripadvisor)"
+    },
+    {
+      "name": "Ithaca Falls Natural Area",
+      "category": "Landmark, Park",
+      "description": "Ithaca Falls is a massive 150-foot tall and 175-foot wide cataract waterfall, making it the most powerful in the Finger Lakes region. Located in a scenic amphitheater formed by shale cliffs, it marks the final plunge of Fall Creek before it enters Cayuga Lake. The site is a popular destination for both sightseers and fly-fishers, offering a natural oasis just steps from downtown Ithaca.",
+      "address": "Lake Street at E Falls Street",
+      "city": "Ithaca, NY 14850",
+      "region": "Downtown Ithaca / Commons",
+      "hours": "Open year-round; typically accessible during daylight hours.",
+      "days_open": "Open Daily",
+      "admission": "Free",
+      "website": "https://www.visitithaca.com/listing/ithaca-falls-on-fall-creek/3265/",
+      "phone": "(607) 272-1313",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Ithaca_Falls_Ithaca_New_York.JPG/1200px-Ithaca_Falls_Ithaca_New_York.JPG",
+      "highlights": [
+        "['150-foot high and 175-foot wide cataract waterfall, the most powerful in the region.', 'Historic ruins of 19th-century mills visible on the south bank.', 'Popular spot for fly fishing, especially for lake-run trout and salmon.', 'Short and easy 0.2-mile out-and-back trail to the base of the falls.', 'Best views available from the Lake Street bridge or the adjacent footpath.', 'Open year-round, featuring impressive ice formations in the winter months.']"
+      ],
+      "tips": "Wear sturdy shoes as the path to the base is rocky and can be slippery. Stay on the designated gravel trails to avoid lead contamination in the surrounding soil from the former Ithaca Gun factory. Swimming is strictly prohibited and can be dangerous due to unpredictable currents. Parking is available in a small lot on Lake Street or on nearby city streets.",
+      "nearby": "Stewart Park, Cornell University, Fall Creek Gorge, Triphammer Falls, Cascadilla Gorge Trail, Johnson Museum of Art."
+    },
+    {
+      "name": "Kevin Long (Context Summary)",
+      "category": "User Profile and Context Summary",
+      "description": "A comprehensive summary of user kevinelong@gmail.com, a software architect and developer specializing in AI agents and web automation.",
+      "address": "Portland, Oregon",
+      "city": "Portland",
+      "region": "Downtown Ithaca / Commons",
+      "hours": "",
+      "days_open": "",
+      "admission": "",
+      "website": "",
+      "phone": "",
+      "image_url": "",
+      "highlights": [
+        "['Technical expert in AI/LLM agents and autonomous systems.', 'Based in Portland, Oregon with a focus on web scraping and data collection.', 'Professional background in game design, SaaS architecture, and curriculum development.', 'Active in content creation and local/cloud-based AI deployment research.']"
+      ],
+      "tips": "Use this context to maintain continuity in AI agent development and market research tasks.",
+      "nearby": ""
+    },
+    {
+      "name": "Kitchen Theatre Company",
+      "category": "Entertainment (Professional Theatre)",
+      "description": "The Kitchen Theatre Company is a critically acclaimed, nationally recognized year-round professional theater specializing in regional and world premiere plays and musicals. Known as 'Central New York's Off-Broadway theater,' it operates in an intimate 99-seat LEED-certified 'green' building that fosters bold and engaging artistic experiences Visit Ithaca, Kitchen Theatre Co.",
+      "address": "417 W State St (also known as W Martin Luther King Jr St)",
+      "city": "Ithaca, NY 14850",
+      "region": "Downtown Ithaca / Commons",
+      "hours": "Box Office Phone: Tue-Fri 10 am–3 pm; In-Person: One hour prior to showtime; Lobby & Bar: Open one hour before and stays open after performances Kitchen Theatre Co",
+      "days_open": "Year-round; performances typically Wednesday through Sunday during show runs Kitchen Theatre Co",
+      "admission": "Mainstage Tickets: $45–$55 (Midweek: $45, Weekends: $50–$55); Student & Artist Tickets: $20; Community Tickets: $10; Name Your Price tickets available for preview performances Kitchen Theatre Co",
+      "website": "https://www.kitchentheatre.org",
+      "phone": "(607) 272-0570",
+      "image_url": "https://static.wixstatic.com/media/1bc386_475a146415e74e8d8ab669a74617240f~mv2.png/v1/crop/x_0,y_0,w_1114,h_330/fill/w_176,h_50,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/KTC%20Logo%20Purple%20and%20Black.png",
+      "highlights": [
+        "\"Intimate 99-seat thrust stage venue for an 'up close and personal' experience [Idealist\", \"Housed in a beautifully renovated, LEED-certified 'green' building in the West End Visit Ithaca\", \"Produces 5 mainstage plays per season plus 'Kitchen Sink' experimental programming Kitchen Theatre Co\", 'Features the Judith Holliday Lobby Gallery and a hospitality bar for patrons Unique Lodging of Ithaca', 'Committed to accessibility with specific pricing tiers for students, artists, and the community Kitchen Theatre Co', 'First theater in Ithaca to own its own permanent space Kitchen Theatre Co']"
+      ],
+      "tips": "Arrive at least 15 minutes early as unclaimed tickets may be released to a waitlist 5 minutes after start time. On-street parking is free on Sundays and after 6 pm on weekdays Kitchen Theatre Co.",
+      "nearby": "The State Theatre of Ithaca, The Ithaca Commons, and various West End restaurants Tripadvisor, Visit Ithaca"
+    },
+    {
+      "name": "Moosewood Restaurant",
+      "category": "Restaurant",
+      "description": "Moosewood Restaurant is an internationally recognized pioneer in vegetarian and plant-forward dining, founded in 1973 as a worker collective. Located in the historic DeWitt Mall, it is famous for its series of award-winning cookbooks and its commitment to seasonal, locally sourced ingredients.",
+      "address": "215 N Cayuga St, Ithaca, NY 14850",
+      "city": "Ithaca",
+      "region": "Downtown Ithaca / Commons",
+      "hours": "Monday: 11:30 AM - 3:00 PM (Lunch), 5:00 PM - 9:00 PM (Dinner); Tuesday: Closed; Wednesday - Friday: 11:30 AM - 3:00 PM (Lunch), 5:00 PM - 9:00 PM (Dinner); Saturday - Sunday: 10:30 AM - 2:30 PM (Brunch), 5:00 PM - 9:00 PM (Dinner)",
+      "days_open": "Monday, Wednesday, Thursday, Friday, Saturday, Sunday (Closed Tuesdays)",
+      "admission": "Free (Restaurant)",
+      "website": "https://www.moosewoodrestaurant.com/",
+      "phone": "+1 (607) 273-9610",
+      "image_url": "https://static1.squarespace.com/static/619ec35532d88c039366110a/t/620d18f51a774b706f9d34e2/1645025525547/Moosewood-251.jpg",
+      "highlights": [
+        "[\"James Beard Foundation 'America's Classics' Award winner\", 'Author of over 14 influential vegetarian cookbooks with millions of copies sold', 'Located in the historic DeWitt Mall, a former 19th-century school building', 'Rotating seasonal menu featuring locally sourced Finger Lakes produce', 'Extensive selection of vegan and gluten-free options clearly labeled on the menu', 'Offers a popular weekend brunch with unique rotating specials']"
+      ],
+      "tips": "Reservations are highly recommended, especially during graduation weekends (Cornell and Ithaca College) and peak summer months. Note that the main entrance is on Seneca Street, while the accessible entrance is on the Buffalo Street side near Greenstar. Check the chalkboard for daily specials and local purveyors.",
+      "nearby": "Ithaca Commons, Cornell University, Ithaca College, Cascadilla Falls, Sciencenter, Farmers Market at Steamboat Landing"
+    },
+    {
+      "name": "Myers Park",
+      "category": "Park",
+      "description": "Myers Park is a scenic 31-acre recreational area located on the eastern shore of Cayuga Lake in Lansing, New York. The park features extensive lake frontage, tree-shaded grounds, and a variety of facilities including a large marina, a swimming beach with seasonal lifeguards, and numerous pavilions for group events. Visitors can enjoy activities such as camping, boating, and fishing, as well as seasonal Thursday night concerts and paddle craft rentals. Town of Lansing",
+      "address": "1 Lansing Park Rd.",
+      "city": "Lansing",
+      "region": "Downtown Ithaca / Commons",
+      "hours": "Monday - Sunday: 8:00 AM - 10:00 PM. RecDesk Lansing",
+      "days_open": "Daily",
+      "admission": "Lansing Residents: Free; Non-residents: $8.00 per car; Non-resident Season Pass: $40.00; Non-resident Senior Season Pass (62+): $25.00; Boat Launch (Non-resident): $8.00; Camping (Non-resident): $32.00 - $50.00 per night. Town of Lansing 2026 Pricing",
+      "website": "https://www.lansingrec.com/parksrec/page/myers-park",
+      "phone": "(607) 533-7388",
+      "image_url": "https://www.lansingrec.com/sites/default/files/styles/gallery500/public/imageattachments/parksrec/page/2899/myers_park_stone_2.jpg",
+      "highlights": [
+        "['31 acres of grass-covered and tree-shaded parkland with Cayuga Lake frontage.', 'Large marina with three paved launching ramps and boat slip rentals.', 'Swimming area with lifeguards on duty during the summer season.', '20 campsites equipped with electricity, water, and WiFi.', 'Seven pavilions available for reservation and public use.', 'Sports facilities including volleyball nets, basketball courts, and horseshoe pits.']"
+      ],
+      "tips": "Non-residents should bring cash for the $8 per car entry fee if they don't have a season pass. Thursday nights in the summer often feature \"Music in the Park\" concerts. If you're planning to use a barbecue grill, remember to bring your own charcoal and follow the \"trash in, trash out\" policy. Town of Lansing",
+      "nearby": "Ludlowville Park (and falls), Salt Point Natural Area, Salmon Creek, Taughannock Falls State Park (across the lake), Cedarview Golf Course. Visit Ithaca"
+    },
+    {
+      "name": "Pete's Cayuga Bar",
+      "category": "Bar (Yelp)",
+      "description": "Pete's Cayuga Bar is a historic fixture of the Ithaca nightlife scene, established in 1975 as a quintessential neighborhood dive bar. Known for its laid-back atmosphere and \"old-school\" charm, it attracts a diverse crowd ranging from longtime locals to college students. The venue offers a simple, welcoming environment perfect for cheap drinks, a game of pool, or casual conversation. (Downtown Ithaca Alliance, Wanderlog)",
+      "address": "116 S Cayuga St, Ithaca, NY 14850-5508",
+      "city": "Ithaca (Tripadvisor)",
+      "region": "Downtown Ithaca / Commons",
+      "hours": "Monday - Sunday: 5:00 PM - 1:00 AM; Friday: 12:00 PM - 1:00 AM (Evendo, Reddit)",
+      "days_open": "Monday - Sunday (Reddit)",
+      "admission": "Free (Evendo)",
+      "website": "https://www.facebook.com/Petes-Cayuga-Bar-108846745824538/",
+      "phone": "(607) 272-9697 (Downtown Ithaca Alliance)",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/K6O9L8X6Z7Y8Z9-7Y8Z9A/o.jpg",
+      "highlights": [
+        "['Established in 1975, maintaining a classic dive bar aesthetic.', 'Features multiple pool tables and a dartboard for entertainment.', 'Known for some of the most affordable drink prices in downtown Ithaca.', 'Recently renovated bathrooms for improved visitor comfort.', \"Eclectic social environment with a mix of 'townie' and student regulars.\", 'Friendly and informative bar staff known for local recommendations.']"
+      ],
+      "tips": "This establishment is often cash-only, so it is recommended to bring cash for transactions. It can get very crowded on Friday and Saturday nights when students visit, so arrive early for a more relaxed experience. (Evendo, Reddit)",
+      "nearby": "Ithaca Commons, Sagan Planet Walk, State Theatre of Ithaca, Dewitt Park (Evendo)"
+    },
+    {
+      "name": "Purity Ice Cream Co.",
+      "category": "Restaurant (Ice Cream Parlor, Bakery, & Cafe) Official Website",
+      "description": "Founded in 1936 by Cornell graduate Leo Guentert, Purity Ice Cream Co. is a beloved Ithaca institution known as the 'Ice Cream of the Finger Lakes.' The historic parlor features a nostalgic 1950s soda fountain ambiance and serves small-batch homemade ice cream, fresh-baked goods, and an all-day breakfast menu. Official Website, Visit Ithaca",
+      "address": "700 Cascadilla Street",
+      "city": "Ithaca",
+      "region": "Downtown Ithaca / Commons",
+      "hours": "Monday: 7:30 am – 10:00 pm, Tuesday: 7:30 am – 10:00 pm, Wednesday: 7:30 am – 10:00 pm, Thursday: 7:30 am – 10:00 pm, Friday: 7:30 am – 10:00 pm, Saturday: 7:30 am – 10:00 pm, Sunday: 7:30 am – 10:00 pm Official Website",
+      "days_open": "Daily (Monday–Sunday) Official Website",
+      "admission": "Free (pay per item) Official Website",
+      "website": "https://purityicecream.com/",
+      "phone": "(607) 272-1545 Official Website",
+      "image_url": "https://www.purityicecream.com/uploads/b/76c077d0-1c04-11ec-9297-75b7147c2a74/4b543370-f792-11ef-b19f-eb10eed54647.pdf",
+      "highlights": [
+        "'Historic 1950s retro soda fountain ambiance with iconic red and white decor [Official Website', 'Extensive menu of over 30 small-batch homemade ice cream flavors, including vegan and gluten-free options Official Website', \"Birthplace of the ice cream sundae (Ithaca tradition) with unique treats like the 'Hurricane' and 'Boston' shakes Visit Ithaca\", 'All-day breakfast and weekday lunch offerings featuring locally sourced ingredients Official Website', 'On-site bakery producing fresh cupcakes, pies, muffins, and cookies daily Official Website', 'Charming outdoor seating area with signature red picnic tables Wanderlog']"
+      ],
+      "tips": "Visit early to enjoy the full breakfast menu or coffee before the ice cream rush. Be prepared for potential lines during peak summer hours and weekends, though service is generally efficient. Check their rotating seasonal flavors and vegan options for unique treats. Wanderlog",
+      "nearby": "Ithaca Commons, Buttermilk Falls State Park, Robert H. Treman State Park, Cascadilla Creek Tripadvisor"
+    },
+    {
+      "name": "Restaurant Row (Aurora Street)",
+      "category": "Restaurant / Dining District",
+      "description": "Restaurant Row, located on North Aurora Street in downtown Ithaca, serves as the city's premier dining destination and a vibrant social hub. This eclectic block features a dense concentration of chef-owned eateries, bars, and specialty shops just steps away from the pedestrian-only Ithaca Commons. During the warmer months, the street often transforms into a \"streatery,\" where restaurants expand their service onto the sidewalks to accommodate al fresco dining.",
+      "address": "100 block of North Aurora Street",
+      "city": "Ithaca",
+      "region": "Downtown Ithaca / Commons",
+      "hours": "Hours vary by establishment; most restaurants are open for lunch (approx. 11:30 AM – 2:30 PM) and dinner (approx. 5:00 PM – 10:00 PM) daily.",
+      "days_open": "Daily (individual restaurant hours vary)",
+      "admission": "Free",
+      "website": "https://www.downtownithaca.com/visit-downtown/restaurant-row/",
+      "phone": "(607) 277-8679 (Downtown Ithaca Alliance)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ithaca_Commons_%28north_end%29.JPG/1200px-Ithaca_Commons_%28north_end%29.JPG",
+      "highlights": [
+        "['Eclectic selection of international cuisines including Mexican, Asian, French, Italian, and Southern comfort food.', 'The \"Aurora Streatery\" program provides extensive outdoor dining spaces during spring and summer months.', \"Historic district home to Bool's Flower Shop, downtown Ithaca's oldest retailer established in 1894.\", 'Host to major annual community events like the Chowder Cook-Off and the Chili Cook-Off.', 'Central location within walking distance of the Ithaca Commons, major hotels, and local theaters.']"
+      ],
+      "tips": "Reservations are highly recommended for weekend evenings as popular spots fill up quickly. For easier access, use the nearby Seneca Street public parking garage. Check individual restaurant websites for specific weekly schedules, as some establishments close on Tuesdays or Wednesdays.",
+      "nearby": "Ithaca Commons, Tompkins Center for History and Culture, State Theatre of Ithaca, DeWitt Park, Sagan Planet Walk"
+    },
+    {
+      "name": "Revelry Yards",
+      "category": "Restaurant, Brewpub, Beer Garden Revelry Yards",
+      "description": "Revelry Yards is a vibrant American dining destination and microbrewery located in the heart of downtown Ithaca. The venue features an on-site brewery crafting rotating beers, a warm modern dining room, and an expansive outdoor beer garden with firepits and lawn games. Revelry Yards",
+      "address": "109-111 N Aurora Street",
+      "city": "Ithaca",
+      "region": "Downtown Ithaca / Commons",
+      "hours": "Monday: 11:00 AM – 10:00 PM; Tuesday: 11:00 AM – 10:00 PM; Wednesday: 11:00 AM – 10:00 PM; Thursday: 11:00 AM – 10:00 PM; Friday: 11:00 AM – 11:00 PM; Saturday: 10:00 AM – 11:00 PM; Sunday: 10:00 AM – 10:00 PM Revelry Yards",
+      "days_open": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday Revelry Yards",
+      "admission": "Free (Menu prices typically $20-$40 per entrée) Revelry Yards",
+      "website": "https://www.revelryyards.com",
+      "phone": "(607) 793-4132 Revelry Yards",
+      "image_url": "https://www.revelryyards.com/uploads/1/1/7/1/117192306/revelry-yards-long-white-logo.png",
+      "highlights": [
+        "'On-site microbrewery producing up to 12 rotating house beers on tap [Revelry Yards', \"'The Yards' outdoor beer garden featuring a container bar, firepits, and lawn games Revelry Yards\", 'Culinary menu focusing on wood-fired pizzas, sharing plates, and American gastropub fare Revelry Yards', \"Vibrant atmosphere just steps from the historic Ithaca Commons on 'Restaurant Row' Revelry Yards\", 'Full bar offering craft cocktails, local wine on tap, and spirits Revelry Yards', 'Dog-friendly patio and wheelchair-accessible facilities Revelry Yards']"
+      ],
+      "tips": "Reservations are recommended for dinner and weekend brunch, which can be made via OpenTable. The outdoor beer garden is a popular spot for groups and is dog-friendly. Revelry Yards",
+      "nearby": "Ithaca Commons, State Theatre of Ithaca, Cascadilla Gorge Trail, Cornell University, Cinemapolis Visit Ithaca"
+    },
+    {
+      "name": "Sciencenter",
+      "category": "Museum Sciencenter, Wikipedia",
+      "description": "The Sciencenter is a hands-on science museum that cultivates a broad community of curious, collaborative, and critical thinkers. It features over 250 interactive exhibits, an outdoor science playground, and live animal habitats showcasing global biodiversity Sciencenter, Wikipedia",
+      "address": "601 1st Street, Ithaca, NY 14850 Sciencenter, Tripadvisor",
+      "city": "Ithaca Sciencenter",
+      "region": "Downtown Ithaca / Commons",
+      "hours": "Tuesday – Sunday: 10:00 am – 5:00 pm; Closed Mondays (except during school breaks); Closed on Labor Day, Thanksgiving, Christmas, and New Year's Day Sciencenter",
+      "days_open": "Tuesday – Sunday Sciencenter",
+      "admission": "General Admission: $12.50 per person; Members: Free; Kids Under 2: Free; EBT Card Holders: $3 per person (up to 4 people); NY K-8 Teachers: One free preview admission per year; Active-duty military families: Free through Blue Star Museums (Armed Forces Day to Labor Day) Sciencenter, Sciencenter Access",
+      "website": "https://sciencenter.org/",
+      "phone": "(607) 272-0600 Sciencenter",
+      "image_url": "https://sciencenter.org/wp-content/uploads/sc-sign-photo1.jpg",
+      "highlights": [
+        "'Over 250 interactive science exhibits [Sciencenter', 'Two-story outdoor Science Park playground Sciencenter', 'Tidepool Touch Tank and Saltonstall Animal Room Sciencenter', 'Sagan Planet Walk, a 1.2 km scale model of the solar system Sciencenter', 'Seasonal 18-hole Sciencenter Mini-Golf course Sciencenter', 'Curiosity Corner specifically designed for children ages 4 and under Sciencenter']"
+      ],
+      "tips": "Check the online calendar for daily interactive science activities; Note that mini-golf requires an additional fee and is not included in general admission; Monday hours may be available during school breaks, so contact the museum to verify Sciencenter, Sciencenter Events",
+      "nearby": "Ithaca Farmers Market, Ithaca Falls Natural Area, Cascadilla Gorge Trail, Cornell Botanic Gardens, Museum of the Earth Visit Ithaca, Tripadvisor"
+    },
+    {
+      "name": "Six Mile Creek Natural Area (Visit Ithaca)",
+      "category": "Park / Natural Area (Visit Ithaca)",
+      "description": "Six Mile Creek Natural Area is a diverse 52-square-mile watershed and ecological preserve that serves as the primary source of drinking water for the City of Ithaca (City of Ithaca). The area features dramatic gorge landscapes, multiple waterfalls including the 50-foot Gorge Falls, and the Mulholland Wildflower Preserve (MyHikes). It offers miles of rugged trails through forests, marshlands, and meadows, providing a serene escape near the city's urban center (Visit Ithaca).",
+      "address": "501 Giles St, Ithaca, NY 14850 (MyHikes)",
+      "city": "Ithaca (Visit Ithaca)",
+      "region": "Downtown Ithaca / Commons",
+      "hours": "Dawn to dusk, daily (Ithaca Trails)",
+      "days_open": "Monday - Sunday (Ithaca Trails)",
+      "admission": "Free (Tripadvisor)",
+      "website": "https://www.cityofithacany.gov/301/Six-Mile-Creek-Watershed",
+      "phone": "(607) 272-1313 (Visit Ithaca)",
+      "image_url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,q_75,w_1200/v1/crm/ithacany/Snowy-Falls_236F1C27-5056-A36A-0958E5010FB427EB-236f1ba05056a36_236f1c81-5056-a36a-09cbc246c2be071f.jpg",
+      "highlights": [
+        "'Mulholland Wildflower Preserve ([MyHikes)', \"First and Second (60') Dams (Atlas Obscura)\", 'Potters Fall Reservoir (City of Ithaca)', '50-foot Gorge Falls (MyHikes)', 'Unique wildlife viewing and birdwatching (Ithaca Trails)', 'Scenic cliffside and creekside hiking trails (Visit Ithaca)']"
+      ],
+      "tips": "Park at the Mulholland Wildflower Preserve lot on Giles Street, but arrive early as parking is limited (Atlas Obscura). Stay on the blue-blazed trails to avoid dangerous cliffs and respect the protected watershed area (Visit Ithaca). Dogs are welcome but must be kept on a leash at all times (Ithaca Trails).",
+      "nearby": "Ithaca Commons, Cornell University, Cascadilla Gorge Trail, Buttermilk Falls State Park, South Hill Recreation Way (Where Are Those Morgans)"
+    },
+    {
+      "name": "Six Mile Creek Vineyard & Distillery",
+      "category": "Winery & Distillery",
+      "description": "Six Mile Creek Vineyard & Distillery is Ithaca's oldest winery, featuring a tasting room housed in a beautifully restored 19th-century Dutch Colonial barn. The estate produces a diverse selection of wines and small-batch spirits, including vodka, gin, and limoncello, all crafted on-site. Visitors can enjoy panoramic views of the valley and vineyards from the outdoor deck or explore the scenic grounds, which include a picturesque pond and walking paths (Six Mile Creek Vineyard).",
+      "address": "1551 Slaterville Rd, Ithaca, NY 14850",
+      "city": "Ithaca",
+      "region": "Downtown Ithaca / Commons",
+      "hours": "May 1 – Oct 31: Mon-Sun 10:00 AM - 6:00 PM; Nov 1 – Apr 30: Sun-Fri 11:00 AM - 6:00 PM, Sat 10:00 AM - 6:00 PM (Six Mile Creek Vineyard)",
+      "days_open": "Daily (Six Mile Creek Vineyard)",
+      "admission": "Free entry to grounds; Wine Tasting: $10 for 6 selections; Spirit Tastings: $2 each (limit 3) (Six Mile Creek Vineyard)",
+      "website": "https://sixmilecreek.com",
+      "phone": "607-272-9463 (Six Mile Creek Vineyard)",
+      "image_url": "https://img1.wsimg.com/isteam/ip/31ebc961-8d76-41a5-a3b4-ab385712be84/lakeviewbetter.jpg",
+      "highlights": [
+        "\"Recognized as Ithaca's oldest winery and distillery, operating for over thirty years ([Six Mile Creek Vineyard)\", \"Awarded the prestigious New York Governor's Cup in 2019 for their Cabernet Franc (Six Mile Creek Vineyard)\", 'Features a unique selection of spirits distilled from local grapes, such as Grappa and Orangecello (Visit Ithaca)', 'Offers a dog-friendly environment in both the tasting room and across the estate grounds (Six Mile Creek Vineyard)', 'Boasts stunning views of the surrounding Finger Lakes landscape and a peaceful on-site pond (Visit Ithaca)']"
+      ],
+      "tips": "Reservations are necessary for groups of six or more; smaller parties are served on a first-come, first-serve basis (Six Mile Creek Vineyard). Plan for a tasting to last approximately 20-45 minutes and arrive by 5:30 PM for the last small-party service. Note that outside alcohol is strictly prohibited on the property (Six Mile Creek Vineyard).",
+      "nearby": "Cornell Botanic Gardens, Cascadilla Gorge Trail, Buttermilk Falls State Park, Ithaca Farmers Market (Tripadvisor)"
+    },
+    {
+      "name": "State Theatre of Ithaca, Inc.",
+      "category": "Entertainment / Historic Theatre",
+      "description": "The State Theatre of Ithaca is a historic, 1,600-seat performing arts venue in the heart of downtown Ithaca, NY. It hosts a wide variety of events including concerts, comedy shows, and community gatherings, serving as a cultural hub for the Finger Lakes region since 1928. Official Website, Visit Ithaca",
+      "address": "107 West State Street, Ithaca, NY 14850",
+      "city": "Ithaca",
+      "region": "Downtown Ithaca / Commons",
+      "hours": "Box Office: Wednesday – Friday, 9am – 4pm. Show Days: Open 2 hours before and 1 hour after show time. Official Website, Contact Info",
+      "days_open": "Wednesday – Friday (Box Office); Event-dependent for shows. Official Website",
+      "admission": "Prices vary by event; tickets can be purchased online, by phone, or at the Box Office. Official Website, Visit Ithaca",
+      "website": "https://stateofithaca.org",
+      "phone": "607-277-8283",
+      "image_url": "https://stateofithaca.org/wp-content/uploads/2021/04/State-Logo_1.png",
+      "highlights": [
+        "'Historic 1,600-seat venue originally built in 1928. [Official Website', 'Hosts over 75 events annually, including concerts, comedians, and lectures. Visit Ithaca', 'Extensive restoration history including rigging, plaster, and restroom upgrades. Official Website', 'Enhanced ADA accessibility with compliant seating and companion options. Official Website', 'Designed by local architect Henry N. Hinckley, originally as a garage/showroom. Official Website']"
+      ],
+      "tips": "Check the event calendar online for the latest show announcements and purchase tickets directly at the Box Office during business hours to potentially avoid some online processing fees. Official Website, Visit Ithaca",
+      "nearby": "Ithaca Commons, Cayuga Lake, Cornell University, Ithaca Falls. Visit Ithaca"
+    },
+    {
+      "name": "Sweedler and Thayer Preserves at Lick Brook",
+      "category": "Park / Nature Preserve (Visit Ithaca)",
+      "description": "Lick Brook Falls is a \"hidden gorge\" in Ithaca featuring three major waterfalls (up to 140 feet tall) and a wild, undeveloped landscape. The Sweedler and Thayer Preserves protect over 5,000 feet of the Lick Brook corridor, showcasing dramatic geologic history from the last ice age and a diverse forest of eastern hemlocks and white pines. (Finger Lakes Land Trust, Visit Ithaca)",
+      "address": "Town Line Rd (and Sandbank Rd trailheads)",
+      "city": "Ithaca",
+      "region": "Downtown Ithaca / Commons",
+      "hours": "Sunrise to Sunset (Daylight hours) (NYFalls)",
+      "days_open": "Daily, year-round (Finger Lakes Land Trust)",
+      "admission": "Free (Finger Lakes Land Trust)",
+      "website": "https://www.fllt.org/preserves/sweedler-and-thayer-preserves-at-lick-brook/",
+      "phone": "607-275-9487 (Finger Lakes Land Trust)",
+      "image_url": "https://www.fllt.org/wp-content/uploads/2015/02/Sweedler_Waterfall_Deborah-Littlejohn.jpg",
+      "highlights": [
+        "['Three spectacular waterfalls, with the tallest ranging from 93 to 140 feet.', 'Over 2 miles of trails through 155 acres of diverse old-growth forest.', 'Part of Ithaca\\'s \"Emerald Necklace\" of permanently conserved lands.', 'Direct connection to the Finger Lakes Trail for long-distance hiking.', 'Scenic vistas and a serene, less-crowded alternative to popular state parks.', 'Habitat for unique bird species like the hermit thrush and black-throated green warbler.']"
+      ],
+      "tips": "Visit in spring or after heavy rainfall for the best waterfall flow, as the brook can run dry in summer. Wear sturdy hiking boots for the strenuous 500-foot elevation gain and stay away from cliff edges, as there are no safety railings. Tick protection is recommended for the meadow sections of the trail. (Finger Lakes Land Trust, Visit Ithaca)",
+      "nearby": "Buttermilk Falls State Park, Robert H. Treman State Park, Tapan Mitra Preserve, Cornell Botanic Gardens, Cayuga Lake (Go Finger Lakes)"
+    },
+    {
+      "name": "The DeWitt Mall",
+      "category": "Shopping / Mixed-Use Building (The DeWitt Mall)",
+      "description": "The DeWitt Mall is a historic mixed-use building in downtown Ithaca, originally built in 1914 as the Ithaca City High School. Repurposed in the 1970s, it now houses a unique collection of independent shops, restaurants, and offices while retaining much of its original school architecture. It is most famously known as the home of the legendary Moosewood Restaurant.",
+      "address": "215 N Cayuga St, Ithaca, NY 14850",
+      "city": "Ithaca",
+      "region": "Downtown Ithaca / Commons",
+      "hours": "Monday: 8:00 AM - 9:00 PM; Tuesday: 8:00 AM - 9:00 PM; Wednesday: 8:00 AM - 9:00 PM; Thursday: 8:00 AM - 9:00 PM; Friday: 8:00 AM - 9:00 PM; Saturday: 9:00 AM - 8:00 PM; Sunday: 9:00 AM - 8:00 PM (Note: Individual merchant hours vary; most retail shops open between 10:00 AM and 11:30 AM) (The DeWitt Mall)",
+      "days_open": "Monday - Sunday (The DeWitt Mall)",
+      "admission": "Free (Visit Ithaca)",
+      "website": "http://www.thedewittmall.com",
+      "phone": "607-273-6464 (The DeWitt Mall)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/DeWitt_Mall_Ithaca_NY.jpg",
+      "highlights": [
+        "['Home to the world-famous Moosewood Restaurant, a pioneer in vegetarian cuisine.', 'Housed in a beautifully preserved 1914 high school building with historic architectural features.', 'Features Buffalo Street Books, a community-owned independent bookstore.', 'Includes GreenStar Co-op, providing fresh local groceries and prepared foods.', 'A hub for local arts and music, featuring shops like Ithaca Guitar Works and IthacaMade.', 'Part of the DeWitt Park Historic District in the heart of downtown Ithaca.']"
+      ],
+      "tips": "Street parking is available nearby but can be limited during peak hours. Be sure to explore the hallway kiosks for local baked goods and notice the architectural remnants of the building's past life as a school. Check individual merchant hours on the official website before visiting, as they vary significantly.",
+      "nearby": "DeWitt Park, Ithaca Commons, The History Center in Tompkins County, Sciencenter Sagan Planet Walk (Tripadvisor)"
+    },
+    {
+      "name": "The History Center in Tompkins County (The History Center)",
+      "category": "Museum, Research Center (The History Center)",
+      "description": "The History Center in Tompkins County is a dynamic museum and research space that preserves and highlights the rich histories of the Finger Lakes region. Located in the Tompkins Center for History & Culture, it connects the community to its shared past through engaging exhibits, educational programs, and extensive archival collections. (Visit Ithaca, The History Center)",
+      "address": "110 North Tioga St, Suite 204A, Ithaca, NY 14850 (The History Center)",
+      "city": "Ithaca (The History Center)",
+      "region": "Downtown Ithaca / Commons",
+      "hours": "Wednesday–Saturday: 10:00 AM – 6:00 PM; Research Library: Saturdays 10:00 AM – 2:00 PM or by appointment; Closed Sunday–Tuesday (The History Center)",
+      "days_open": "Wednesday, Thursday, Friday, Saturday (The History Center)",
+      "admission": "Free (donations based); Research Library: Free for Tompkins County residents, $10/day for non-residents (The History Center, Archives and Library)",
+      "website": "https://www.thehistorycenter.net/",
+      "phone": "(607) 273-8284 (The History Center)",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/66c769735bd4f520791c68cf/96540c53-fcc9-484d-ab1d-776810fe863d/THC_logo+blue+no+background+%281%29.png?format=1500w",
+      "highlights": [
+        "'Annual themed exhibits such as \"The Power of Water: A Dam Good Exhibit\" ([The History Center)', 'Local History Research Library and Archives with over 100,000 historic photographs (The History Center)', 'The Eight Square Schoolhouse, a historic one-room schoolhouse built in 1827 (The History Center)', 'HistoryForge, an interactive platform mapping historic demographic data (The History Center)', 'Signature local history walking tours in Downtown Ithaca (Tripadvisor)']"
+      ],
+      "tips": "Plan for at least an hour to explore the Exhibit Hall. The Research Library is best accessed by appointment, though walk-ins are welcome on Saturdays. Street and garage parking (Seneca or Green Street) are recommended nearby. (The History Center)",
+      "nearby": "Tompkins Center for History & Culture, Downtown Ithaca Alliance (The Ithaca Commons), Visit Ithaca's Downtown Visitor Center, Sciencenter Sagan Planet Walk, State Theatre of Ithaca (Tripadvisor, Evendo)"
+    },
+    {
+      "name": "The Ithaca Ale House, Grill & Taproom (The Ithaca Ale House)",
+      "category": "Restaurant, Bar (The Ithaca Ale House)",
+      "description": "The Ithaca Ale House is a popular dining destination located in the City Centre building in downtown Ithaca, known for its unique 'Aurora Street Style' and modern industrial décor. It offers an extensive selection of 20 rotating craft beers on tap alongside an exquisite menu featuring signature burgers, pizzas, and larger entrees. The atmosphere is designed to be comfortable and inviting, perfect for lunch, dinner, or a night out with friends and family. (The Ithaca Ale House)",
+      "address": "301 E State St Suite 1, Ithaca, NY 14850, USA (The Ithaca Ale House)",
+      "city": "Ithaca (The Ithaca Ale House)",
+      "region": "Downtown Ithaca / Commons",
+      "hours": "Monday: 11:00 AM - 11:00 PM; Tuesday: 11:00 AM - 11:00 PM; Wednesday: 11:00 AM - 11:00 PM; Thursday: 11:00 AM - 1:00 AM; Friday: 11:00 AM - 1:00 AM; Saturday: 11:00 AM - 1:00 AM; Sunday: 11:00 AM - 11:00 PM (The Ithaca Ale House)",
+      "days_open": "Monday - Sunday (The Ithaca Ale House)",
+      "admission": "Free (The Ithaca Ale House Menu)",
+      "website": "http://www.ithacaalehouse.com",
+      "phone": "(607) 256-7977 (The Ithaca Ale House)",
+      "image_url": "http://www.ithacaalehouse.com/sites/default/files/ale-house-logo-transparent-dark-bg-250.png",
+      "highlights": [
+        "'Extensive 20-tap rotating craft beer selection ([The Ithaca Ale House)', \"Award-winning 'Perfect' Burger with bacon and cheddar (The Ithaca Ale House Menu)\", \"Hand-stretched specialty pizzas like the 'Shroomin and Hot Honey Pie (The Ithaca Ale House Menu)\", 'Modern industrial décor in a spacious 5,300 square foot location (The Ithaca Ale House, Downtown Ithaca)', 'Late-night menu available on Fridays and Saturdays until 12:00 AM (The Ithaca Ale House)', 'Outdoor patio seating available on warm summer nights (The Ithaca Ale House)']"
+      ],
+      "tips": "Tables are first-come, first-serve, though reservations can be made via Resy. For take-out, customers should call and select option #2. Try the signature skillet wings recommended with 'garbage' sauce. (The Ithaca Ale House, The Ithaca Ale House Menu)",
+      "nearby": "The Commons, Ithaca City Centre, Downtown Ithaca Alliance (Downtown Ithaca)"
+    },
+    {
+      "name": "The Rook",
+      "category": "Restaurant, Bar",
+      "description": "The Rook is a small neighborhood restaurant in downtown Ithaca serving upscale comfort food and drinks with casual vibes. Established in 2016 and recently relocated to Library Place, it features a meat-centric menu with global roots, highlighted by their flagship duck fat fried chicken and handmade pasta.",
+      "address": "105 W. Court St, Suite 100",
+      "city": "Ithaca",
+      "region": "Downtown Ithaca / Commons",
+      "hours": "Tuesday - Thursday: 5:00 PM - 9:00 PM; Friday - Saturday: 5:00 PM - 9:30 PM; Sunday - Monday: Closed",
+      "days_open": "Tuesday - Saturday",
+      "admission": "Free (Menu prices apply)",
+      "website": "https://www.rookfoodanddrink.com",
+      "phone": "607.319.0180",
+      "image_url": "https://static.wixstatic.com/media/d0caa6_82288b4b5ec44d71b184b6d242753c57~mv2.jpg/v1/crop/x_0,y_105,w_1411,h_1154/fill/w_759,h_621,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_0962_edited.jpg",
+      "highlights": [
+        "['Flagship Duck Fat Fried Chicken', 'Handmade Cavatelli and Seasonal Pasta', 'Creative Craft Cocktail Program', 'Recently Relocated to Modern Library Place Facility', 'Casual, Neighborhood Atmosphere', 'Outdoor Seasonal Seating']"
+      ],
+      "tips": "The restaurant does not accept reservations and operates on a first-come, first-served basis; ensure your entire party is present to be seated. Take-out is no longer offered, but seasonal outdoor seating is available weather-permitting.",
+      "nearby": "Kitchen Theatre Company, State Theatre of Ithaca, Odyssey Bookstore"
+    },
+    {
+      "name": "Thompson and Bleecker Pizza and Wine Tavern",
+      "category": "Restaurant",
+      "description": "Thompson and Bleecker is an upscale, full-service Neapolitan pizzeria and organic wine tavern located in the heart of downtown Ithaca. The restaurant is known for its artisanal, personal-sized pizzas baked in a wood-burning oven and its cozy, NYC-inspired atmosphere. It was founded by local entrepreneurs who named the spot after the Manhattan intersection where they shared their first apartment. Thompson and Bleecker, The Cornell Daily Sun",
+      "address": "211 East Seneca Street, Ithaca, New York 14850, United States",
+      "city": "Ithaca",
+      "region": "Downtown Ithaca / Commons",
+      "hours": "Monday: Closed; Tuesday: 5:00 PM - 9:00 PM; Wednesday: 5:00 PM - 9:00 PM; Thursday: 5:00 PM - 9:00 PM; Friday: 5:00 PM - 9:00 PM; Saturday: 5:00 PM - 9:00 PM; Sunday: 5:00 PM - 9:00 PM Tripadvisor",
+      "days_open": "Tuesday - Sunday",
+      "admission": "Free Thompson and Bleecker",
+      "website": "https://thompsonandbleeckerpizza.com",
+      "phone": "(607) 319-0851",
+      "image_url": "https://img1.wsimg.com/isteam/ip/1c6f46a2-4f60-40a0-ac98-b27cdf227f23/ig_17893568125557246.jpg",
+      "highlights": [
+        "['Authentic Neapolitan pizzas baked in a signature wood-burning tiled oven.', 'House-made mozzarella prepared fresh using locally sourced milk.', 'Extensive curated selection of organic wines and craft beers.', 'Located on the vibrant Ithaca Commons, offering a lively urban dining experience.', 'Unique NYC-bistro ambiance featuring mismatched china and warm, thoughtful lighting.']"
+      ],
+      "tips": "The restaurant operates on a first-come, first-served basis and does not accept reservations, so arriving early is recommended. Vegan cheese and Mike's Hot Honey are popular add-ons available for any pizza. Be sure to try the house-made Tiramisu or Baklava for dessert. Thompson and Bleecker, Tripadvisor",
+      "nearby": "Ithaca Commons, The History Center in Tompkins County, Cascadilla Gorge Trail, Cornell University Tripadvisor"
+    },
+    {
+      "name": "Tompkins Center for History and Culture",
+      "category": "Museum / Cultural Center",
+      "description": "The Tompkins Center for History and Culture is a downtown community hub that celebrates the rich history, heritage, and culture of Tompkins County. It serves as a collective home for over a dozen local organizations, featuring a museum, art gallery, and a visitor center within a beautifully renovated historic bank building. (About Us, Visit Ithaca)",
+      "address": "110 North Tioga Street, Bank Alley on the Ithaca Commons",
+      "city": "Ithaca",
+      "region": "Downtown Ithaca / Commons",
+      "hours": "Downtown Visitor Center: Mon-Sat 10am-5pm; CAP ArtSpace: Mon-Sat 10am-5pm; The History Center Exhibit Hall: Wed-Sat 10am-5pm (Tompkins Center Visit)",
+      "days_open": "Monday - Saturday (Visitor Center); Wednesday - Saturday (Exhibit Hall) (Tompkins Center)",
+      "admission": "Free / Donation-based (The History Center, Plan Your Visit)",
+      "website": "https://www.tompkins-center.net",
+      "phone": "607-209-0008 (Visitor Center), 607-273-8284 (The History Center) (Contact Us, NY Heritage)",
+      "image_url": "https://www.tompkins-center.net/wp-content/uploads/2018/12/TCHC_Logo_Pos_3L_rev-color_1x.png",
+      "highlights": [
+        "'The History Center Exhibit Hall featuring rotating local history displays and artifacts ([The History Center)', 'CAP ArtSpace, a multi-use gallery showcasing works by local and regional artists (Community Arts Partnership)', \"The 'Tommy' Plane, a restored 1918 Thomas-Morse biplane on public display (Ithaca Aviation Heritage Foundation)\", \"Wharton Studio Museum multimedia installation celebrating Ithaca's early filmmaking history (Wharton Studio Museum)\", 'Downtown Visitor Center providing maps and tourist information for the region (Visit Ithaca)', 'Cornell Local History Research Library & Archives available for deep historical research (Research Library)']"
+      ],
+      "tips": "Admission to the main exhibit hall is free but donations are welcome. The center is located right on the pedestrian-only Ithaca Commons, so street or garage parking nearby (like Seneca Street or Green Street garages) is recommended. Be sure to check out the historic bank vaults used for displays inside the museum area. (Plan Your Visit, Uncovering New York)",
+      "nearby": "Ithaca Commons, Bernie Milton Pavilion, Sagan Planet Walk, Cascadilla Gorge Trail, State Theatre of Ithaca, Dewitt Mall (Visit Ithaca, Tripadvisor)"
+    },
+    {
+      "name": "Visit Ithaca (Ithaca/Tompkins County Convention & Visitors Bureau)",
+      "category": "Tourism Bureau / Region",
+      "description": "Ithaca is the heart of the Finger Lakes region, famously declared as \"gorges\" for its stunning landscape of over 150 waterfalls and deep limestone gorges. The area offers a unique blend of natural beauty, world-class education through Cornell University, and a vibrant, eclectic downtown culture featuring the pedestrian Ithaca Commons. Visit Ithaca",
+      "address": "110 N Tioga St, Ithaca Commons, Ithaca, NY 14850",
+      "city": "Ithaca",
+      "region": "Downtown Ithaca / Commons",
+      "hours": "Monday: 10:00 AM - 5:00 PM, Tuesday: 10:00 AM - 5:00 PM, Wednesday: 10:00 AM - 5:00 PM, Thursday: 10:00 AM - 5:00 PM, Friday: 10:00 AM - 5:00 PM, Saturday: 10:00 AM - 5:00 PM, Sunday: Closed. Visit Ithaca",
+      "days_open": "Monday - Saturday (Downtown Visitor Center)",
+      "admission": "Free (Visitor Center and local city parks); New York State Parks in the area typically charge a $9.00 vehicle entry fee per car. Visit Ithaca",
+      "website": "https://www.visitithaca.com",
+      "phone": "(607) 273-7482",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Taughannock_Falls_State_Park_-_New_York_-_5728156615.jpg",
+      "highlights": [
+        "['Taughannock Falls State Park, featuring a 215-foot waterfall that is three stories taller than Niagara Falls.', 'The Ithaca Commons, a four-block pedestrian shopping, dining, and cultural district in the heart of downtown.', 'Over 150 waterfalls within a 10-mile radius, including the accessible Ithaca Falls and the plunging cascades of Buttermilk Falls.', 'Cayuga Lake, the longest of the Finger Lakes, offering extensive boating, fishing, and scenic waterfront trails.', 'The campuses of Cornell University and Ithaca College, which provide panoramic views and diverse cultural attractions.', 'A renowned farm-to-table culinary scene supported by local wineries, breweries, and the historic Ithaca Farmers Market.']"
+      ],
+      "tips": "Check the Gorge Trail year-round for accessible waterfall views, but be aware that some stone steps may close in winter due to ice. Visit the Downtown Visitor Center inside the Tompkins Center for History & Culture for local maps and \"Ithaca is Gorges\" souvenirs. Use the New York State Parks Explorer App for real-time updates on park closures and trail conditions. Visit Ithaca",
+      "nearby": "Cornell University, Buttermilk Falls State Park, Robert H. Treman State Park, Cascadilla Gorge Trail, Cayuga Nature Center, Museum of the Earth. Visit Ithaca"
+    },
+    {
+      "name": "Viva Taqueria & Cantina",
+      "category": "Restaurant / Bar",
+      "description": "Established in 1995, Viva Taqueria & Cantina has been a cornerstone of the Ithaca dining scene, offering fresh, healthy Mexican-inspired cuisine at affordable prices. The restaurant features a from-scratch kitchen where all meats, salsas, and guacamole are prepared in-house using fresh ingredients. With both a full-service Cantina and a dedicated takeout counter, it serves as a popular gathering spot for locals and visitors alike on the Ithaca Commons. (Viva Taqueria & Cantina, I Love NY)",
+      "address": "215 E State Street, Ithaca, NY 14850",
+      "city": "Ithaca",
+      "region": "Downtown Ithaca / Commons",
+      "hours": "Tue-Wed: 11:30 AM - 9:00 PM; Thu-Sat: 11:30 AM - 10:00 PM; Sun-Mon: Closed (Viva Taqueria & Cantina)",
+      "days_open": "Tuesday - Saturday (Viva Taqueria & Cantina)",
+      "admission": "Free (Viva Taqueria & Cantina)",
+      "website": "https://www.vivataqueria.com",
+      "phone": "607.277.1752 (Viva Taqueria & Cantina)",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/685961934b890b1d246cdd0e/2688a599-983c-4bfb-98d1-0ea567ae123c/Nachos.jpg",
+      "highlights": [
+        "'Over 50 premium blanco, reposado, and añejo tequilas plus various mezcals ([Viva Taqueria & Cantina)', 'Famous fresh-squeezed margaritas and signature fruit sangria (Viva Taqueria & Cantina)', 'Extensive menu of vegetarian and vegan options, including the popular calabacitas (Viva Taqueria & Cantina)', 'Festive atmosphere with colorful decor and a vibrant outdoor patio on the Commons (Tripadvisor)', 'From-scratch kitchen preparing all sauces, beans, and fillings in-house daily (Viva Taqueria & Cantina)']"
+      ],
+      "tips": "Viva operates on a first-come, first-served basis and does not take standard reservations. Happy Hour runs from 4-6 PM on weekdays, offering significant discounts on house margaritas, draft beers, and sangria. For families, the restaurant provides a dedicated kids' menu and changing tables in a dining area separate from the bar. (Viva Taqueria & Cantina)",
+      "nearby": "Downtown Ithaca Commons, State Theatre of Ithaca, Cornell University, Cascadilla Falls, Sciencenter"
+    },
+    {
+      "name": "West Hill Neighborhood",
+      "category": "Neighborhood / Residential Area",
+      "description": "West Hill is a scenic and diverse neighborhood situated on the western slope of Ithaca, offering a blend of mid-century homes, modern townhouses, and tranquil farmland. Known for its picturesque hillsides and friendly community spirit, the area provides residents and visitors with stunning panoramic sunset views over Cayuga Lake. It serves as a peaceful retreat that remains conveniently close to downtown Ithaca and major amenities like the Cayuga Medical Center.",
+      "address": "150 West Village Place, Ithaca, NY 14850 (West Hill Community Center)",
+      "city": "Ithaca",
+      "region": "Downtown Ithaca / Commons",
+      "hours": "Daily, 24/7 (Residential Neighborhood)",
+      "days_open": "Daily (7 days a week)",
+      "admission": "Free (Residential Neighborhood)",
+      "website": "https://westhillithacaneighborhood.org",
+      "phone": "(607) 273-1747 (Town of Ithaca Planning Dept)",
+      "image_url": "https://files.hellonetcdn.com/st/expt/neigh_living/19.jpg",
+      "highlights": [
+        "['Conley Park: A central green space featuring a playground, basketball court, and picnic areas for local families.', 'Black Diamond Trail: Direct access to this scenic multi-use trail that connects the neighborhood to Taughannock Falls State Park.', 'Cayuga Lake Overlooks: Numerous vantage points offering some of the best sunset views in the Finger Lakes region.', 'West Hill Community Garden: A popular local hub for sustainable gardening and community engagement.', 'A Taste of Thai Express: A well-loved local eatery providing authentic Thai cuisine within the neighborhood hub.', 'Rural-Urban Blend: A unique mix of wooded trails, agricultural heritage, and convenient city access.']"
+      ],
+      "tips": "The neighborhood is characterized by steep terrain, so be prepared for hilly walks and drives. For the best experience, visit the overlooks along Elm Street or Cliff Street during sunset to enjoy the views of East Hill and Cayuga Lake. Bicyclists should utilize the Black Diamond Trail for a flatter, more scenic route toward the lakefront and state parks.",
+      "nearby": "Cayuga Nature Center, Cass Park, Ithaca Farmers Market, Downtown Ithaca Commons, Taughannock Falls State Park, Cayuga Medical Center."
+    },
+    {
+      "name": "Allan H. Treman State Marine Park",
+      "category": "Park / Marina",
+      "description": "Allan H. Treman State Marine Park is one of the largest inland marinas in New York State, offering 91 acres of scenic waterfront on Cayuga Lake. It features extensive boating facilities, including hundreds of slips and an eight-lane launch ramp, alongside opportunities for picnicking and birdwatching. NY State Parks, Visit Ithaca",
+      "address": "805 Taughannock Blvd. (Rt 89)",
+      "city": "Ithaca",
+      "region": "Cayuga Lake / Waterfront",
+      "hours": "Dawn to Dusk daily. Marina/Slips: May 1 – Oct 15. NY State Parks",
+      "days_open": "Open daily, year-round. NY State Parks",
+      "admission": "Vehicle Use Fee: $8.00 (typically charged seasonal/weekends); Free for pedestrians/cyclists; Empire Pass accepted ($80/year). NY State Parks, KidTripster",
+      "website": "https://parks.ny.gov/parks/35/details.aspx",
+      "phone": "(607) 272-1460 NY State Parks",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Allan_H._Treman_State_Marine_Park.jpg",
+      "highlights": [
+        "['One of the largest inland marinas in New York State with 430 boat slips.', 'An eight-lane boat launch ramp for easy Cayuga Lake access.', 'Excellent birdwatching opportunities at the Hog Hole wetland and lake shoreline.', 'Access to the Cayuga Waterfront Trail for walking and biking.', 'Scenic picnic areas with grills and lakefront views.', 'Dedicated dog park area for off-leash exercise nearby.']"
+      ],
+      "tips": "Commonly confused with Robert H. Treman State Park (which has waterfalls but no lake access); this park is strictly for marina and lakefront use. Bring binoculars for birdwatching waterfowl in the wetlands. Visit Ithaca",
+      "nearby": "Robert H. Treman State Park, Cass Park, Cayuga Waterfront Trail, Museum of the Earth, Stewart Park. Visit Ithaca"
+    },
+    {
+      "name": "Americana Vineyards & Winery",
+      "category": "Winery & Vineyard",
+      "description": "Americana Vineyards is a cozy winery located in a meticulously restored 1820s swing barn that was moved and rebuilt at its current site. It offers a wide variety of over 20 award-winning wines, homemade fudge, and a welcoming atmosphere featuring friendly resident Labrador greeters. Visit Ithaca, Official Website",
+      "address": "4367 East Covert Road",
+      "city": "Interlaken",
+      "region": "Cayuga Lake / Waterfront",
+      "hours": "Monday: 12:00 PM - 4:00 PM; Tuesday: 12:00 PM - 4:00 PM; Wednesday: 11:00 AM - 5:00 PM (seasonal/holiday openings); Thursday: 11:00 AM - 5:30 PM; Friday: 11:00 AM - 5:30 PM; Saturday: 11:00 AM - 5:30 PM; Sunday: 11:00 AM - 5:00 PM. Official Website",
+      "days_open": "Monday - Sunday",
+      "admission": "Entry to the grounds and gift shop is Free. Wine tastings typically cost around $3 for eight tastes or $10 per person, while specialty wine pours are approximately $1 each. Visit Ithaca, American Winery Guide",
+      "website": "http://www.americanavineyards.com",
+      "phone": "607-387-6801",
+      "image_url": "http://www.americanavineyards.com/images/pagepictures/labels/chardony.jpg",
+      "highlights": [
+        "'Housed in a beautifully restored 1820s swing barn rescued from demolition. [Visit Ithaca', 'Offers over 20 varieties of wine, ranging from dry Chardonnay to sweet dessert wines. Official Website', 'Features a shop with over 20 varieties of homemade chocolate fudge. Visit Ithaca', 'Home to the Crystal Lake Cafe, which serves farm-house-style meals using local ingredients. Official Website', 'Dog-friendly environment with resident Labrador greeters like Maverick. Wanderlog', 'Founding member of the Cayuga Lake Wine Trail. Official Website']"
+      ],
+      "tips": "Try the wine and fudge pairing for a unique tasting experience. Visit during the summer for live music events and to enjoy the outdoor patio at the Crystal Lake Cafe. Groups of more than 12-15 people should call ahead to schedule a tasting. Wanderlust, Official Website",
+      "nearby": "Lucas Vineyards, Finger Lakes Cider House, Sheldrake Point Winery, Taughannock Falls State Park. Tripadvisor"
+    },
+    {
+      "name": "Buttermilk Falls State Park",
+      "category": "Park",
+      "description": "Buttermilk Falls State Park takes its name from the foaming cascade formed by Buttermilk Creek as it flows down the steep valley side toward Cayuga Lake. The park features ten distinct waterfalls, including its 165-foot centerpiece, and offers a diverse landscape ranging from rugged gorge trails to peaceful wetlands. New York State Parks, NYFalls.com",
+      "address": "112 E. Buttermilk Falls Rd.",
+      "city": "Ithaca",
+      "region": "Cayuga Lake / Waterfront",
+      "hours": "Monday: Dawn – Dusk, Tuesday: Dawn – Dusk, Wednesday: Dawn – Dusk, Thursday: Dawn – Dusk, Friday: Dawn – Dusk, Saturday: Dawn – Dusk, Sunday: Dawn – Dusk New York State Parks",
+      "days_open": "Daily, year-round",
+      "admission": "Vehicle Entry Fee (April 1 – Nov 30): Cars: $10, Bus Fee: $35, Seasonal Bus Permit: $75. Free entry during the off-season or with an Empire Pass ($80). New York State Parks",
+      "website": "https://parks.ny.gov/parks/buttermilkfalls/details.aspx",
+      "phone": "(607) 273-5761",
+      "image_url": "https://parks.ny.gov/sites/default/files/styles/1x1_450/public/2025-10/Spring-Buttermilk%20Falls.jpg.webp",
+      "highlights": [
+        "['The spectacular 165-foot Buttermilk Falls cascade visible from the lower parking area.', 'A natural swimming pool at the base of the falls, open seasonally with lifeguards.', 'The scenic Gorge Trail, which ascends 600 feet past multiple waterfalls and unique rock formations.', 'Lake Treman, a tranquil lake in the upper park surrounded by woodland hiking trails.', 'Larch Meadows, a wetland area featuring a self-guided nature trail for wildlife viewing.', 'Pinnacle Rock, a 42-foot high spire created by erosion standing in the creek bed.']"
+      ],
+      "tips": "It is recommended to hike the Gorge Trail up to view the waterfalls and take the Rim Trail back down for an easier descent. Be prepared for over 500 steps on the Gorge Trail. Swimming is seasonal (usually July through Labor Day) and subject to water quality closures. To avoid crowds, visit early on weekdays or during the spring when water flow is highest. NYFalls.com, Visit Ithaca",
+      "nearby": "Robert H. Treman State Park, Ithaca Beer Co., Cascadilla Gorge Trail, Cornell University, Ithaca Farmers Market, Taughannock Falls State Park Tripadvisor"
+    },
+    {
+      "name": "Cass Park",
+      "category": "Park",
+      "description": "Cass Park is a regionally active recreation center located on the scenic waterfront of the Cayuga Inlet in Ithaca, New York. It features a wide array of facilities including a covered ice rink, an Olympic-sized swimming pool, multiple athletic fields, and access to major fitness trails. The park serves as a hub for community health and recreation, managed by the Ithaca Youth Bureau.",
+      "address": "701 Taughannock Blvd, Ithaca, NY 14850",
+      "city": "Ithaca",
+      "region": "Cayuga Lake / Waterfront",
+      "hours": "Public Ice Skating (seasonal): Mon 11:45am-2:15pm & 2:30-5pm; Tue-Thu 9:15-11:30am, 11:45am-2:15pm, & 2:30-5pm; Fri 11:45am-2:15pm, 2:30-5pm, & 7:45-9:45pm; Sat 12:00-2pm, 2:30-4:30pm, 5:00-6:45pm, & 8:30-10pm; Sun 12:00-2pm, 2:30-4:30pm, & 5:00-6:45pm. Public Swimming (seasonal): Mon-Fri 1:00-7pm; Sat-Sun 12:30-6pm.",
+      "days_open": "Open daily during specific seasons (Ice Rink: late October to mid-March; Pool: late June to mid-August; Roller Skating: June to October). Outdoor fields and trails are generally accessible year-round.",
+      "admission": "Public Ice Skating (2025-26): Residents (Ithaca) - Infant FREE, Toddler $1.00, Child $3.00, Student $4.00, Adult $5.00, Senior $4.00. Non-residents: Infant $1.00, Toddler $2.00, Child $4.00, Student $5.50, Adult $6.50, Senior $5.50. Public Swimming (2025): Residents (Ithaca) - Infant FREE, Toddler $2.00, Child $3.00, Student $4.00, Adult $5.00, Senior $4.00. Non-residents: Infant $1.00, Toddler $3.00, Child $4.00, Student $5.50, Adult $6.50, Senior $5.50. (All tiers require pre-registration on Community Pass).",
+      "website": "https://www.casspark.org",
+      "phone": "(607) 273-1090",
+      "image_url": "https://www.casspark.org/uploads/1/3/4/0/13404179/published/cass-outdoor-enclosed.jpeg?1571404172",
+      "highlights": [
+        "['Olympic-sized swimming pool with a water slide and diving board', 'Covered ice rink for seasonal ice skating and roller skating', '32 athletic fields, including four with lighting for evening play', \"Ithaca Children's Garden, a free and interactive nature space\", 'Direct access to the Cayuga Waterfront Trail and Black Diamond Trail', 'Four outdoor tennis and pickleball courts and two playgrounds']"
+      ],
+      "tips": "Pre-registration on the Community Pass system is required for pool and ice rink sessions to ensure a spot. Residents of the City and Town of Ithaca should provide proof of address to receive discounted admission rates. The park is a major hub for the Cayuga Waterfront Trail, making it an excellent starting point for biking or walking along the inlet.",
+      "nearby": "Ithaca Children's Garden, Allan H. Treman State Marine Park, Hangar Theatre, Stewart Park, Ithaca Farmers Market, Taughannock Falls State Park (via Black Diamond Trail)."
+    },
+    {
+      "name": "Cayuga Lake",
+      "category": "Landmark / Park / Body of Water",
+      "description": "Cayuga Lake is the longest of New York's Finger Lakes and the second deepest, spanning approximately 38 miles through the heart of the region. Formed by glacial activity during the last ice age, it serves as a central hub for boating, fishing, and world-class viticulture along its scenic shores.",
+      "address": "1 James L Gibbs Dr (Stewart Park) / 805 Taughannock Blvd (Allan H. Treman State Marine Park)",
+      "city": "Ithaca",
+      "region": "Cayuga Lake / Waterfront",
+      "hours": "Stewart Park: 5:00 AM - 10:00 PM Daily; Allan H. Treman State Marine Park: Dawn to Dusk Daily",
+      "days_open": "Open daily year-round",
+      "admission": "Free for general access and Stewart Park; Vehicle entry fees (typically $8) may apply at some New York State Park access points during peak season.",
+      "website": "https://www.visitithaca.com/things-to-do/outdoor-recreation/cayuga-lake/",
+      "phone": "(607) 273-7482 (Visit Ithaca) / (607) 272-1460 (Allan H. Treman State Marine Park)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/CayugaLake.jpg",
+      "highlights": [
+        "['Cayuga Lake Scenic Byway (87-mile loop)', 'Stewart Park (accessible playground, bird sanctuary, and lake views)', 'Allan H. Treman State Marine Park (one of the largest inland marinas in NY)', 'Cayuga Lake Wine Trail (the first wine trail in the United States)', 'Taughannock Falls State Park (featuring a 215-foot waterfall and lake access)', 'Discover Cayuga Lake boat cruises and educational tours']"
+      ],
+      "tips": "Visit during the summer for sunset cruises with Discover Cayuga Lake, and explore the wineries on the west shore for some of the region's best Rieslings. Use the Cayuga Waterfront Trail for a scenic walk or bike ride between Ithaca's major parks.",
+      "nearby": "Taughannock Falls State Park, Ithaca Falls, Cornell University, Ithaca Farmers Market, Museum of the Earth"
+    },
+    {
+      "name": "Cayuga Lake Scenic Byway, Inc.",
+      "category": "Landmark / Scenic Route",
+      "description": "The Cayuga Lake Scenic Byway is an 87-mile loop surrounding Cayuga Lake, featuring scenic views of the lake, rural landscapes, and numerous historic and natural attractions. Designated a New York State Scenic Byway in 2002, it offers travelers an opportunity to explore glacial-formed landscapes, visit local wineries, and access extensive recreational resources.",
+      "address": "121 E. Court Street",
+      "city": "Ithaca",
+      "region": "Cayuga Lake / Waterfront",
+      "hours": "Open 24/7 (Roadway); associated visitor centers and parks have varying seasonal hours.",
+      "days_open": "Daily (Year-round)",
+      "admission": "Free; though some associated state parks charge a vehicle use fee (typically $8 to $10) or accept the Empire Pass.",
+      "website": "https://cayugalake.com",
+      "phone": "(607) 227-5750 (Main Office), (800) 28-ITHACA (Ithaca Visitor Bureau)",
+      "image_url": "https://cayugalake.com/wp-content/uploads/clsbbiker1.jpg",
+      "highlights": [
+        "['87-mile loop around Cayuga Lake with spectacular views of waterfalls and vineyards.', 'Access to Cayuga Lake Blueway Trail with 24 paddling trips across 12 public sites.', 'Educational Geocaching Trail with 20 caches placed strategically around the lake.', 'Proximity to Montezuma National Wildlife Refuge and Taughannock Falls State Park.', 'Features the Kids Cayuga Lake Puzzle Book, a family-friendly scavenger hunt program.', 'Passes through historic villages and provides access to the Cayuga Lake Wine Trail.']"
+      ],
+      "tips": "Download or pick up a printable map and the Kids Cayuga Lake Puzzle Book for family adventures. Consider purchasing an Empire Pass if planning to visit multiple state parks along the route, and check for seasonal hours at specific attractions like the Taughannock Falls Overlook Visitor Center.",
+      "nearby": "Taughannock Falls State Park, Montezuma National Wildlife Refuge, Ithaca Farmers Market, Cornell University, Cayuga Lake Wine Trail, Museum of the Earth."
+    },
+    {
+      "name": "Cayuga Lake State Park",
+      "category": "Park",
+      "description": "Cayuga Lake State Park offers a flat lakeshore with a swimming beach and sun lawns, sloping gently uphill to campsites and cabins with expansive views of the lake. It is a popular destination for fishing, camping, and water sports, with amenities such as a boat launch, playgrounds, and picnic areas available for year-round recreation (NYS Parks).",
+      "address": "2632 Lower Lake Road",
+      "city": "Seneca Falls",
+      "region": "Cayuga Lake / Waterfront",
+      "hours": "Park Grounds: Dusk to Dawn daily; Swimming: 10:00 AM - 6:00 PM daily (Seasonal: June 21 - Sept 1); Boat Launch: May 1 - Oct 31 (NYS Parks)",
+      "days_open": "Daily (Dusk to Dawn) (NYS Parks)",
+      "admission": "Vehicle Entry Fee: $7 per car, $35 per bus (collected seasonally); Boat Launch: $7; Camping: $17-$24/night (+$5 for non-NYS residents); Cabins: $210-$428/week (+$28 for non-NYS residents); Empire Pass: $80 for unlimited access (NYS Parks)",
+      "website": "https://parks.ny.gov/parks/cayugalake/details.aspx",
+      "phone": "(315) 568-5163",
+      "image_url": "https://parks.ny.gov/sites/default/files/styles/1x1_450/public/2025-10/CayugaLake_Drone_080124-2.jpg.webp?h=3e8da8cb&itok=EHDtyIaO",
+      "highlights": [
+        "'Expansive views of Cayuga Lake, the longest of the Finger Lakes ([NYS Parks)', 'Swimming beach with lifeguards during the summer season (NYS Parks)', 'Excellent fishing opportunities for bass, bullheads, carp, and lake trout (Finger Lakes Tourism Alliance)', 'Over 250 campsites and 14 cabins available for overnight stays (Discover Upstate NY)', 'Boat launch providing easy access for boating and aquatic adventures (NYS Parks)', 'Winter recreation including sledding, cross-country skiing, and ice fishing (NYFalls.com)']"
+      ],
+      "tips": "Pets are allowed (maximum two) on a leash up to 6 feet, provided proof of rabies inoculation is available. Visitors are encouraged to call ahead to verify swimming availability, as it is subject to water quality and lifeguard coverage. Bringing rechargeable fans is recommended for those camping in hot and humid conditions (NYS Parks, TripAdvisor).",
+      "nearby": "Women's Rights National Historical Park, Montezuma National Wildlife Refuge, It's A Wonderful Life Museum, Taughannock Falls State Park (TripAdvisor, NYS Parks)"
+    },
+    {
+      "name": "Cayuga Lake Wine Trail",
+      "category": "Entertainment / Landmark (Wine Trail) Visit Ithaca",
+      "description": "Established in 1983, the Cayuga Lake Wine Trail is the first organized and longest-running wine trail in America. It features a diverse collection of wineries, distilleries, and cideries along the scenic shores of Cayuga Lake in the Finger Lakes region. Cayuga Lake Wine Trail, Visit Ithaca",
+      "address": "2770 Ernsberger Road, Romulus, NY 14541 (Physical); PO Box 123, Fayette, NY 13065 (Mailing) I Love NY, Cayuga Lake Wine Trail",
+      "city": "Romulus / Fayette Cayuga Lake Wine Trail, I Love NY",
+      "region": "Cayuga Lake / Waterfront",
+      "hours": "Typically 10:00 AM - 5:00 PM daily (varies by winery and season; some open until 6:00 PM) Cayuga Lake Wine Trail FAQ, FLX Chamber",
+      "days_open": "Daily (Year-round; individual winery hours vary) Tripadvisor",
+      "admission": "Free to travel the trail; Individual winery tasting fees typically range from $5 to $15+; Spring Wine Pass: $50 for 4 tastings at 10 participating wineries Cayuga Lake Wine Trail, Cayuga Lake Wine Trail FAQ",
+      "website": "https://cayugawinetrail.com",
+      "phone": "315-549-3034 Cayuga Lake Wine Trail",
+      "image_url": "https://media.cmsmax.com/jtovjwqfbdxvetae04hoq/backfront.png",
+      "highlights": [
+        "\"America's first organized wine trail, established in 1983 [Cayuga Lake Wine Trail\", 'Over 5,000 national and international medals won by member wineries Visit Ithaca', 'Breathtaking views of Cayuga Lake and surrounding waterfalls Visit Ithaca', \"Dog-friendly wineries and seasonal events like 'Wag Your Tail Along the Trail' Wandercuse\", 'A variety of member establishments including wineries, a cidery, meadery, and distilleries Visit Ithaca']"
+      ],
+      "tips": "Use a designated driver or book a limousine service for a safe experience; download the official trail brochure and map before your visit; check individual winery websites for reservation requirements, especially for larger groups. Tripadvisor, Cayuga Lake Wine Trail FAQ",
+      "nearby": "Taughannock Falls State Park, Ithaca Bakery, Montezuma National Wildlife Refuge, Auburn Public Theater Cayuga Lake Wine Trail Attractions, Cayuga Lake Wine Trail Dining"
+    },
+    {
+      "name": "Cayuga Nature Center",
+      "category": "Nature Center & Museum",
+      "description": "The Cayuga Nature Center is an educational institution and public education venue of the Paleontological Research Institution that addresses nature and environmental issues. Located on 120 acres on the west shore of Cayuga Lake, it provides opportunities for visitors of all ages to learn about local ecology through interactive exhibits, live animal ambassadors, and extensive hiking trails (Wikipedia, Official Website).",
+      "address": "1420 Taughannock Blvd.",
+      "city": "Ithaca",
+      "region": "Cayuga Lake / Waterfront",
+      "hours": "Monday - Sunday: Dawn to Dusk (Trails & TreeTops Treehouse); Lodge: Closed for the 2026 calendar year (Official Website).",
+      "days_open": "Daily",
+      "admission": "Pay-what-you-wish, donation-based admission (Official Website)",
+      "website": "https://www.cayuganaturecenter.org",
+      "phone": "607-273-6260",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/CNC_Lodge_3.jpg",
+      "highlights": [
+        "['TreeTops: A unique six-story treehouse providing a bird’s-eye view of the forest canopy.', 'Over 5 miles of hiking trails through woodlands, meadows, and past waterfalls.', 'Live Animal Ambassadors representing species native to the Cayuga Basin.', 'Direct connection to the Black Diamond Trail for hiking and biking.', 'A proud member of the Ithaca Discovery Trail.']"
+      ],
+      "tips": "The Lodge is currently closed for the year, but outdoor areas remain open. Pets are not allowed in the courtyard or on certain trails to protect campers and animal ambassadors. Visitors can reach the center via TCAT Route 22 during the summer months (Official Website).",
+      "nearby": "Taughannock Falls State Park, Museum of the Earth, Sciencenter, Cornell Botanic Gardens, Ithaca Children’s Garden (Wikipedia, Uncovering New York)."
+    },
+    {
+      "name": "Cayuga Waterfront Trail",
+      "category": "Park",
+      "description": "The Cayuga Waterfront Trail is an 8-mile, ADA-compliant multi-use trail that connects popular waterfront destinations along the southern shore of Cayuga Lake in Ithaca. The paved, 10-12 foot wide path offers scenic views, interpretive signage, and benches, serving as a vital non-motorized transportation and recreation route for the community. (Ithaca Trails, Friends of Stewart Park)",
+      "address": "701 Taughannock Blvd",
+      "city": "Ithaca",
+      "region": "Cayuga Lake / Waterfront",
+      "hours": "5:00 AM - 10:00 PM (Friends of Stewart Park)",
+      "days_open": "Monday - Sunday (Ithaca Trails)",
+      "admission": "Free (Ithaca Trails)",
+      "website": "https://www.friendsofstewartpark.org/cwthome",
+      "phone": "607-273-1313 (Visit Ithaca), 607-319-4766 (Friends of Stewart Park)",
+      "image_url": "https://ithacatrails.org/wp-content/uploads/2025/05/Katie-Becker-Photography-Priority-Two-21347.jpg",
+      "highlights": [
+        "'Connects major sites like Stewart Park, Cass Park, and the Ithaca Farmers Market ([Ithaca Trails)', '8-mile paved, ADA-compliant path suitable for walking, biking, and skating (Friends of Stewart Park)', 'Features 5 major trailheads with kiosks and interpretive signage (Friends of Stewart Park)', 'Certified Pollinator Pathway with native plantings (Friends of Stewart Park)', 'Includes scenic overlooks like Priscilla Point and Inlet Overlook (Friends of Stewart Park)', 'Links to the 8-mile Black Diamond Trail for extended adventures (Ithaca Trails)']"
+      ],
+      "tips": "Visitors can access the trail by car at Stewart Park, Cass Park, or the Ithaca Farmers Market; dogs are welcome on a short leash, and restrooms are available at Stewart and Cass Parks. (Ithaca Trails, Tripadvisor)",
+      "nearby": "Stewart Park, Cass Park, Ithaca Farmers Market, Ithaca Children’s Garden, Allan H. Treman State Marine Park (Friends of Stewart Park)"
+    },
+    {
+      "name": "Cornell Lab of Ornithology",
+      "category": "Museum, Science Research Center, and Nature Sanctuary Visit Ithaca",
+      "description": "The Cornell Lab of Ornithology is a world leader in the study, appreciation, and conservation of birds, located within the 220-acre Sapsucker Woods Sanctuary. Visitors can explore interactive indoor exhibits about bird biology and conservation or hike over five miles of trails through diverse habitats like forests and wetlands. Birds, Cornell Lab of Ornithology Visit Ithaca",
+      "address": "159 Sapsucker Woods Rd",
+      "city": "Ithaca, NY 14850",
+      "region": "Cayuga Lake / Waterfront",
+      "hours": "Tuesday–Sunday: 10:00 AM – 4:00 PM; Closed Mondays. Trails are open daily from dawn to dusk. Birds, Cornell Lab of Ornithology",
+      "days_open": "Tuesday through Sunday Birds, Cornell Lab of Ornithology",
+      "admission": "Free admission for all visitors Birds, Cornell Lab of Ornithology",
+      "website": "https://www.birds.cornell.edu/home/visit/",
+      "phone": "(607) 254-2473 Birds, Cornell Lab of Ornithology",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Cornell_Lab_of_Ornithology.jpg/1200px-Cornell_Lab_of_Ornithology.jpg",
+      "highlights": [
+        "'Wall of Birds: A massive mural featuring nearly 300 bird species from around the world [Birds, Cornell Lab of Ornithology', 'Adelson Library: A specialized research library with extensive collections on ornithology and natural history Birds, Cornell Lab of Ornithology', 'Sapsucker Woods Sanctuary: Over 220 acres of protected habitat with 5+ miles of accessible trails Ithaca Trails', 'Indoor Observatory: Comfortable viewing area overlooking the Feeder Garden and Sapsucker Woods Pond Birds, Cornell Lab of Ornithology', 'Bird Discovery Lab: Interactive exhibits focusing on the science of bird senses and behavior Birds, Cornell Lab of Ornithology', 'Andy Goldsworthy Cairn: A unique stone sculpture located along the outdoor trails Birds, Cornell Lab of Ornithology']"
+      ],
+      "tips": "No dogs or bicycles are allowed on the trails to protect wildlife. Borrow binoculars for free at the Visitor Center and use the Merlin Bird ID app to help identify local species. Birds, Cornell Lab of Ornithology",
+      "nearby": "Cornell Botanic Gardens, Herbert F. Johnson Museum of Art, Cascadilla Gorge Trail, Fall Creek Suspension Bridge, and Ithaca Falls. Tripadvisor"
+    },
+    {
+      "name": "Experience Cortland (Cortland County Convention & Visitors Bureau)",
+      "category": "Tourism Promotion Agency / Visitors Center",
+      "description": "Experience Cortland is the official tourism promotion agency for Cortland County, serving as the Eastern Gateway to the Finger Lakes region. It offers comprehensive travel resources, local expertise, and curated itineraries to help visitors discover the area's rich history, vibrant arts scene, and scenic outdoor adventures.",
+      "address": "42 Main Street, Cortland, NY 13045",
+      "city": "Cortland",
+      "region": "Cayuga Lake / Waterfront",
+      "hours": "Monday: 9:00 AM - 4:00 PM, Tuesday: 9:00 AM - 4:00 PM, Wednesday: 9:00 AM - 4:00 PM, Thursday: 9:00 AM - 4:00 PM, Friday: 9:00 AM - 4:00 PM, Saturday: Closed, Sunday: Closed",
+      "days_open": "Monday - Friday",
+      "admission": "Free",
+      "website": "https://www.experiencecortland.com",
+      "phone": "(607) 753-8463",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Downtown_Cortland.JPG",
+      "highlights": [
+        "['Explore the grand Victorian architecture and history of The 1890 House Museum.', 'Visit the CNY Living History Center to see the Homeville Museum and Brockway Truck collection.', 'Hike through diverse ecosystems and view outdoor art at Lime Hollow Nature Center.', 'Experience year-round adventure at Greek Peak Mountain Resort and Cascades Indoor Waterpark.', 'Shop local produce and handmade goods at the Cortland Farmers Market or nearby agritourism farms.', 'Walk through the historic Village of Homer for unique boutiques and local dining.']"
+      ],
+      "tips": "Visit the Visitors Center at 42 Main Street to pick up a free printed Travel Guide and local maps. If the office is closed, guides are often available next door at 40 Main Street. Check the official events calendar for seasonal festivals like the Great Cortland Pumpkinfest or Brockway Truck Show.",
+      "nearby": "Ithaca (NY), Syracuse (NY), Village of Homer, Tinkers Falls (Tully)"
+    },
+    {
+      "name": "Fall Creek Neighborhood",
+      "category": "Neighborhood",
+      "description": "Fall Creek is one of Ithaca’s most beloved neighborhoods, renowned for its unique blend of historic charm and vibrant community spirit. Located just north of downtown, it features tree-lined streets adorned with beautifully preserved Victorian homes, classic Craftsman bungalows, and inviting porches. Life in the neighborhood moves at a neighborly pace, characterized by its walkability, sustainability, and strong sense of community. (Fall Creek Neighborhood, C.S.P. Management)",
+      "address": "202 King St, Ithaca, NY 14850 (central landmark: Fall Creek Elementary School)",
+      "city": "Ithaca",
+      "region": "Cayuga Lake / Waterfront",
+      "hours": "Open 24/7 (Fall Creek Neighborhood)",
+      "days_open": "Open daily (Fall Creek Neighborhood)",
+      "admission": "Free (Fall Creek Neighborhood)",
+      "website": "https://fallcreekithacaneighborhood.org",
+      "phone": "(607) 274-2214 (Fall Creek Elementary School) (Ithaca City School District)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Ithaca_Falls_2008.jpg/1200px-Ithaca_Falls_2008.jpg",
+      "highlights": [
+        "'Ithaca Falls: A 150-foot powerful cascading waterfall located at the edge of the neighborhood. ([Visit Ithaca)', 'Cascadilla Gorge Trail: A scenic trail with stone stairways and multiple waterfalls connecting the neighborhood to downtown and Cornell University. (Fall Creek Neighborhood)', 'Gimme! Coffee: A locally celebrated neighborhood cafe and a cornerstone of Fall Creek social life. (Fall Creek Neighborhood)', 'Porchfest: An annual community music event where local bands perform from porches throughout the neighborhood. (C.S.P. Management)', 'Thompson Park: A central urban green space featuring a playground, basketball court, and picnic areas. (Fall Creek Neighborhood)', 'Fall Creek Elementary School: A historic and beloved public school that serves as a focal point for neighborhood families. (Fall Creek Neighborhood)']"
+      ],
+      "tips": "Fall Creek is exceptionally walkable and bikeable, making a car unnecessary for local travel. If visiting during Porchfest in late September, arrive early as parking becomes very limited. Be sure to explore the hidden local gardens and historic architecture throughout the side streets. (Fall Creek Neighborhood, Homes.com)",
+      "nearby": "Ithaca Commons, Cornell University, Stewart Park, Sciencenter, Ithaca Farmers Market (C.S.P. Management)"
+    },
+    {
+      "name": "Finger Lakes National Forest (Forest Service)",
+      "category": "Park / National Forest (Forest Service)",
+      "description": "The Finger Lakes National Forest is the only national forest in New York State, encompassing over 16,000 acres of diverse landscapes including pastures, woodlands, and deep ravines. Positioned along the ridges between Seneca and Cayuga Lakes, it offers over 30 miles of interconnecting trails for year-round recreation such as hiking, camping, and wildlife watching. The forest is unique for its multiple-use philosophy, featuring free-ranging cattle in pastures during the summer and vibrant fall foliage in the autumn (Forest Service, Wikipedia).",
+      "address": "5218 State Route 414, Hector, NY 14841 (Forest Service)",
+      "city": "Hector (Forest Service)",
+      "region": "Cayuga Lake / Waterfront",
+      "hours": "Forest: Open 24/7. Ranger Station: Mon, Wed, Fri 8:00 AM - 12:00 PM & 12:30 PM - 4:30 PM; Tue, Thu, Sat, Sun Closed (Forest Service, Forest Service)",
+      "days_open": "Daily for forest access; Monday, Wednesday, Friday for Ranger Station (Forest Service, Forest Service)",
+      "admission": "Free for forest access and hiking; Camping fees apply (e.g., $15/night at Blueberry Patch Campground) (Forest Service, Recreation.gov)",
+      "website": "https://www.fs.usda.gov/r09/gmfl/recreation/finger-lakes-hector-district",
+      "phone": "(607) 546-4470 (Forest Service)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Fingerlakesnationalforest-trail.jpg",
+      "highlights": [
+        "'Only National Forest in New York State ([Wikipedia)', '30+ miles of interconnecting multi-use trails for hiking, biking, and skiing (Forest Service)', 'Scenic vistas overlooking Seneca and Cayuga Lakes (Visit Ithaca)', 'Unique mix of open pastures, deep ravines, and diverse woodlands (NYSDEC)', 'Home to a wide variety of wildlife and bird species (Forest Service)', 'Seasonal grazing of free-ranging cattle in designated forest pastures (NYSDEC)']"
+      ],
+      "tips": "Visit in autumn for spectacular fall colors or in winter for cross-country skiing. Be prepared for 'mud season' in early spring when trails can be intensely wet. If camping at Blueberry Patch, arrive early as sites are first-come, first-served, and bring your own drinking water as it may not be available on-site (Forest Service, Recreation.gov).",
+      "nearby": "Watkins Glen State Park, Taughannock Falls State Park, Seneca Lake, Cayuga Lake, and Cayuga Nature Center (Tripadvisor, The Daydream Diaries)"
+    },
+    {
+      "name": "Hangar Theatre",
+      "category": "Entertainment / Regional Theatre",
+      "description": "The Hangar Theatre is a non-profit regional theatre located in a unique, renovated municipal airport hangar. Celebrating over 50 years, it produces world-class musicals, dramas, and children's theatre while training the next generation of artists through its renowned education programs and fellowships (Hangar Theatre, Visit Ithaca).",
+      "address": "801 Taughannock Blvd, Ithaca, NY 14850",
+      "city": "Ithaca",
+      "region": "Cayuga Lake / Waterfront",
+      "hours": "Box Office (performance days): Opens 2 hours before show start. Phone Hours (post-Memorial Day): Mondays & Wednesdays 10:00 AM – 12:00 PM. Additional seasonal phone hours vary by event (Hangar Theatre).",
+      "days_open": "Dependent on performance schedule; seasonal summer focus with year-round special events (Wikipedia, Hangar Theatre).",
+      "admission": "2026 Mainstage Musicals: $67 (Regular), $60 (Previews/Matinees), $22 (Students). 2026 Mainstage Plays: $58 (Regular), $50 (Previews/Matinees), $22 (Students). KIDDSTUFF 2025: $18 (All tickets; Free for children 3 and under on lap). Pay What You Will (PWYW) tickets available for all Mainstage & KIDDSTUFF performances (Hangar Theatre).",
+      "website": "https://hangartheatre.org",
+      "phone": "607-273-2787",
+      "image_url": "https://hangartheatre.org/wp-content/uploads/hangar-theatre-logo-50th.png",
+      "highlights": [
+        "['Professional Mainstage musical and play productions', \"KIDDSTUFF children's theatre series based on favorite stories\", 'The Wedge series for experimental and new theatrical works', 'Extensive education programs including summer camps and school tours', 'Historic venue housed in a former 1912 municipal airport hangar', 'Collaborative community partnerships with organizations like Opera Ithaca and Ithaca Ballet']"
+      ],
+      "tips": "Arrive at least 15 minutes early as late seating is restricted; dress in layers for potentially chilly indoor temperatures; free parking is available onsite with overflow at Cass Park (Hangar Theatre).",
+      "nearby": "Cayuga Lake, Cass Park, Taughannock Falls State Park, Downtown Ithaca Commons, Cornell University, Ithaca College (Hangar Theatre)."
+    },
+    {
+      "name": "Inn at Taughannock Falls (formerly Taughannock Farms Inn)",
+      "category": "Restaurant, Hotel, Landmark",
+      "description": "Inn at Taughannock Falls is a luxurious lakeside retreat and 19th-century Victorian estate nestled on 12 acres in the heart of the Finger Lakes wine region. The property features a historic 1873 mansion, casual fine dining with American-Mediterranean influences, and sweeping panoramic views of Cayuga Lake. It is uniquely situated adjacent to Taughannock Falls State Park, offering guests direct private access to the tallest single-drop waterfall east of the Rockies.",
+      "address": "2030 Gorge Rd.",
+      "city": "Trumansburg",
+      "region": "Cayuga Lake / Waterfront",
+      "hours": "Monday: 5:00 PM - 9:00 PM, Tuesday: Closed, Wednesday: Closed, Thursday: 5:00 PM - 9:00 PM, Friday: 5:00 PM - 9:00 PM, Saturday: 5:00 PM - 9:00 PM, Sunday: 5:00 PM - 9:00 PM (Restaurant hours). Inn remains open 24/7 for overnight guests.",
+      "days_open": "Thursday - Monday (Restaurant); 7 days a week (Inn/Lodging)",
+      "admission": "Free for grounds and trail access; restaurant and lodging prices vary by selection and season.",
+      "website": "https://www.inntfalls.com/",
+      "phone": "607-387-7711",
+      "image_url": "https://assets.milestoneinternet.com/the-inn-at-taughannock-falls/victorian-mansion.jpeg",
+      "highlights": [
+        "['Panoramic 180-degree views of Cayuga Lake and the surrounding gorge.', 'Direct private hiking path leading into Taughannock Falls State Park.', 'Historic 1873 Victorian mansion featuring original woodwork and antique charm.', 'Award-winning casual fine dining restaurant serving Mediterranean-inspired American cuisine.', 'Enchantment event garden featuring a stone fireplace and Gatsby-style sailcloth tent.', 'Located directly on the Cayuga Lake Wine Trail with proximity to over 100 wineries.']"
+      ],
+      "tips": "Guests are encouraged to use the private path from the inn to the Taughannock Falls Gorge Trail for a scenic 10-minute walk to the base of the falls. Arrive before sunset to enjoy cocktails by the outdoor fire pits overlooking the lake. Reservations for the restaurant are highly recommended, especially on weekends and during the peak summer season.",
+      "nearby": "Taughannock Falls State Park, Cayuga Lake, Finger Lakes Wine Trail, Cornell University, Ithaca College, Buttermilk Falls State Park."
+    },
+    {
+      "name": "Ithaca Beer Company",
+      "category": "Restaurant, Bar, Brewery (I Love NY)",
+      "description": "Ithaca Beer Co. is a renowned Finger Lakes craft brewery founded in 1998, specializing in world-class ales and lagers. The facility features a state-of-the-art brew system and a lively brewpub restaurant, \"The Taproom,\" which serves farm-to-table American fare using locally sourced ingredients (Official Website, Yelp).",
+      "address": "122 Ithaca Beer Drive, Ithaca, NY 14850, United States",
+      "city": "Ithaca",
+      "region": "Cayuga Lake / Waterfront",
+      "hours": "Wednesday – Thursday: 4:00 PM – 9:00 PM; Friday – Saturday: 12:00 PM – 9:00 PM; Sunday: 12:00 PM – 6:00 PM (Official Website)",
+      "days_open": "Wednesday, Thursday, Friday, Saturday, Sunday (Official Website)",
+      "admission": "Free (General entry and seating); Beer and food are priced per item (Official Website, Tripadvisor)",
+      "website": "https://ithacabeer.com",
+      "phone": "607-273-0766 (Official Website)",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/5c141151697a988d8b67272a/1545084983279-G1P96XJ9J6W6I6G6J6S6/Taproom+Entrance-4500x3000.jpg",
+      "highlights": [
+        "'Flagship Flower Power IPA, recognized as one of the \"25 Most Important American Craft Beers\" ([Official Website)', 'The Taproom, featuring farm-to-table dishes and locally sourced ingredients (Official Website)', 'Spacious outdoor beer garden with picnic tables and a lawn for games like cornhole (Yelp, Airial Travel)', 'State-of-the-art 50bbl brewing system producing about 20,000 barrels annually (Official Website)', 'Wide variety of seasonal releases, including the \"Box of Sours\" and limited \"Random Acts\" series (Official Website)', 'Family-friendly and dog-friendly environment (dogs allowed on the outdoor lawn) (Official Website)']"
+      ],
+      "tips": "Try a beer flight to sample various flagship and seasonal brews. The kitchen often closes before the restaurant, so arrive at least an hour early if you plan to eat. Well-behaved dogs on leashes are permitted on the outdoor lawn and under the tent, but only service animals are allowed indoors (Official Website, Yelp, Airial Travel).",
+      "nearby": "Buttermilk Falls State Park, Robert H. Treman State Park, Cascadilla Gorge Trail, Ithaca Farmers Market, Cornell Botanic Gardens (Tripadvisor, Visit Ithaca)"
+    },
+    {
+      "name": "Lively Run Goat Dairy Farm & Creamery",
+      "category": "Farm & Creamery",
+      "description": "Lively Run Goat Dairy is a family-owned farm and creamery in Interlaken, New York, that has been pioneering artisan goat cheese in the United States since 1982. Visitors can explore the scenic Finger Lakes farm, interact with friendly goats and sheep, and enjoy tastings of award-winning cheeses like Cayuga Blue and Finger Lakes Gold. The farm also hosts seasonal events such as spring shearing and educational tours led by the head cheese-maker. (Lively Run Dairy, Visit Ithaca)",
+      "address": "8978 County Road 142, Interlaken, NY 14847",
+      "city": "Interlaken",
+      "region": "Cayuga Lake / Waterfront",
+      "hours": "Tuesday - Saturday: 12:00 PM - 5:00 PM (May 1 - October 25). Closed Sunday and Monday. Tasting room closed November - April. (Lively Run Dairy, Yelp)",
+      "days_open": "Tuesday - Saturday (Seasonal: May - October) (Lively Run Dairy)",
+      "admission": "Free farm entry; Tastings: $5-$6; Saturday \"Meet the Cheese-maker\" tour: $7.50; Saturday \"Cheese O'clock\": $25; Group discount (15+): $5/person. (Kids Out and About Rochester, Lively Run Dairy)",
+      "website": "https://livelyrun.com",
+      "phone": "(607) 532-4647 (Lively Run Dairy)",
+      "image_url": "https://livelyrun.com/wp-content/uploads/2025/07/Export-49-615x410-1.jpg",
+      "highlights": [
+        "'Meet and pet friendly dairy goats and sheep in the barn ([Lively Run Dairy)', 'Taste award-winning artisan goat and cow milk cheeses (Lively Run Dairy)', 'Educational \"Meet the Cheese-maker\" tours offered on Saturdays (Kids Out and About Rochester)', 'Scenic farm ambiance in the heart of the Finger Lakes region (Tripadvisor)', 'Unique seasonal events like Spring Shearing and \"Cheese O\\'clock\" tastings (Lively Run Dairy)', 'On-site shop featuring local honey, goat milk chocolates, and specialty meats (Yelp)']"
+      ],
+      "tips": "Visit in the spring to see the newborn goat kids. The farm is a perfect pairing stop for visitors exploring the Cayuga Lake Wine Trail. In the off-season, cheese can still be purchased online for farm pickup. (Lively Run Dairy, Yelp)",
+      "nearby": "Finger Lakes Cider House, Americana Vineyards, Lucas Vineyards, Cayuga Lake Scenic Byway, Taughannock Falls State Park (Tripadvisor, Cayuga Lake Scenic Byway)"
+    },
+    {
+      "name": "Lucifer Falls at Robert H. Treman State Park Official Website",
+      "category": "Park / Landmark Official Website",
+      "description": "Lucifer Falls is a magnificent 115-foot multi-tiered cascading waterfall located within the rugged Enfield Glen gorge. It is the centerpiece of the park, surrounded by dramatic shale and sandstone cliffs and accessible via scenic trails featuring historic stonework. Official Website, NYFalls.com",
+      "address": "105 Enfield Falls Rd. Official Website",
+      "city": "Ithaca Official Website",
+      "region": "Cayuga Lake / Waterfront",
+      "hours": "Dawn to Dusk daily; Vehicle entry fees collected 6:00 AM – 6:30 PM (April – Nov) Official Website",
+      "days_open": "Daily, year-round Official Website",
+      "admission": "$10 per vehicle Official Website",
+      "website": "https://parks.ny.gov/parks/roberttreman/details.aspx",
+      "phone": "(607) 273-3440 Official Website",
+      "image_url": "https://parks.ny.gov/parks/roberttreman/details.aspx",
+      "highlights": [
+        "'115-foot multi-tiered cascade waterfall [Official Website', 'Scenic Gorge Trail with extensive stone staircases Official Website', 'Historic Grist Mill (circa 1839) in the upper park Official Website', 'Natural swimming pool at the base of Lower Falls Official Website', 'Over 12 waterfalls throughout the Enfield Glen gorge Ithaca Trails', 'Stunning views from the Rim and Gorge trail overlooks FingerLakes.com']"
+      ],
+      "tips": "Park at the upper entrance (near the Old Mill) for the shortest and most direct hike to the falls. The Gorge Trail offers the best views but closes in winter due to ice; the Rim Trail provides excellent high-elevation overlooks. Wear sturdy footwear for the many stone steps. FingerLakes.com, NYFalls.com",
+      "nearby": "Buttermilk Falls State Park, Taughannock Falls State Park, Cornell University, Ithaca Farmers Market Tripadvisor"
+    },
+    {
+      "name": "Ludlowville Park (Ludlowville Falls) Town of Lansing, Visit Ithaca",
+      "category": "Park, Landmark Town of Lansing, Visit Ithaca",
+      "description": "Ludlowville Park is a scenic community space in Lansing that offers views of a 35-foot multi-plume waterfall on Salmon Creek. The falls are characterized by a hard limestone cap overhanging a cave formed by the erosion of soft shale, and they famously served as a backdrop for silent movies in the early 1900s. Town of Lansing, Visit Ithaca",
+      "address": "75 Mill St. Adventures in New York, Yelp",
+      "city": "Lansing Town of Lansing, Visit Ithaca",
+      "region": "Cayuga Lake / Waterfront",
+      "hours": "Monday: Dawn to Dusk, Tuesday: Dawn to Dusk, Wednesday: Dawn to Dusk, Thursday: Dawn to Dusk, Friday: Dawn to Dusk, Saturday: Dawn to Dusk, Sunday: Dawn to Dusk NYFalls.com",
+      "days_open": "Daily NYFalls.com, Under The Sun",
+      "admission": "Free NYFalls.com, Under The Sun",
+      "website": "https://www.lansingrec.com/parksrec/page/ludlowville-park",
+      "phone": "(607) 533-7388 Town of Lansing",
+      "image_url": "https://assets.simpleviewinc.com/simpleview/image/upload/v1/crm/ithacany/973-1_0865f995-5056-a36a-09f7dacc70a0a49e.jpg",
+      "highlights": [
+        "'35-foot multi-plume cascade waterfalls [Visit Ithaca', 'Unique limestone cap with an overhang cave and plunge pool Visit Ithaca', 'Historical backdrop for early 1900s silent movies Town of Lansing', 'Park amenities including a playground, gazebo, pavilion, and picnic tables Town of Lansing', 'Popular local spot for fishing on Salmon Creek Visit Ithaca', 'Extremely easy accessibility with a short walk from the parking lot Tripadvisor']"
+      ],
+      "tips": "The falls are most impressive after heavy rain; visitors should stay within the public park boundaries as surrounding land is private property. Visit Ithaca, Tripadvisor",
+      "nearby": "Myers Park, Salt Point, Cayuga Lake, and the Cayuga Lake Scenic Byway. Town of Lansing, Cayuga Lake Scenic Byway"
+    },
+    {
+      "name": "Museum of the Earth",
+      "category": "Museum",
+      "description": "The Museum of the Earth provides a unique opportunity to explore Earth and its prehistoric past through engaging and interactive displays, hands-on features, and stunning fossils. Its permanent exhibition takes visitors on a journey through 4.5 billion years of history, from the Earth’s origin to the present day, emphasizing how our species affects the natural world. Visit Ithaca",
+      "address": "1259 Trumansburg Rd, Ithaca, NY 14850, USA",
+      "city": "Ithaca",
+      "region": "Cayuga Lake / Waterfront",
+      "hours": "Thursday: 10am – 5pm, Friday: 10am – 5pm, Saturday: 10am – 5pm, Sunday: 10am – 5pm, Monday: 10am – 5pm, Tuesday: Closed, Wednesday: Closed (Note: Dino Zone closes at 4:30pm daily) Museum of the Earth",
+      "days_open": "Thursday – Monday (Closed Tuesday and Wednesday) Museum of the Earth",
+      "admission": "Adults: $12.50, Seniors (65+): $9.50, College Students (with ID): $9.50, Youth (4-17): $7.50, Children (3 and under): Free, PRI Members: Free, EBT Cardholders: $1 (reserve in person) Museum of the Earth",
+      "website": "https://www.museumoftheearth.org/",
+      "phone": "607-273-6623 Museum of the Earth",
+      "image_url": "https://static.wixstatic.com/media/8939c3_5b232c8c4a4c4b8e8b2b7a9b0a7b4f5d~mv2.jpg/v1/fill/w_640,h_480,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/8939c3_5b232c8c4a4c4b8e8b2b7a9b0a7b4f5d~mv2.jpg",
+      "highlights": [
+        "['Hyde Park Mastodon – one of the most complete mastodon skeletons ever found', 'Right Whale #2030 – a 44-foot long North Atlantic right whale skeleton', 'Rock of Ages, Sands of Time – a 500-foot mural depicting 540 million years of history', 'Dino Zone – a Jurassic-themed early-learner area featuring Steggy the Stegosaurus', 'Coral Reef Exhibits – exploring the diversity of life and climate change impacts', 'Fossil Preparation Laboratory – where visitors can watch specimens being uncovered']"
+      ],
+      "tips": "Wear a mask on the second Monday of each month ('Mask Monday'). Download audio tours or a museum map before arrival to save time. Eating and drinking are permitted only in designated areas, and pets are not allowed on the grounds. Museum of the Earth",
+      "nearby": "Cayuga Lake, Taughannock Falls State Park, Cayuga Medical Center, Cornell University, Sciencenter, Cass Park Visit Ithaca"
+    },
+    {
+      "name": "Robert H. Treman State Park (Enfield Glen)",
+      "category": "State Park",
+      "description": "Robert H. Treman State Park is a 1,110-acre area of wild beauty featuring the rugged Enfield Glen as its scenic highlight. The park is home to 12 waterfalls, including the 115-foot Lucifer Falls, and offers nine miles of hiking trails along with a unique stream-fed swimming pool. ReserveAmerica, Wikipedia",
+      "address": "105 Enfield Falls Rd.",
+      "city": "Ithaca",
+      "region": "Cayuga Lake / Waterfront",
+      "hours": "Park: Dawn to dusk (Daily); Campsites/Gate: 7:00 AM – 9:00 PM (In-season). Tripadvisor, Campros Tent",
+      "days_open": "Year-round (Gorge trails closed November–mid-May). Go Finger Lakes",
+      "admission": "$9 per vehicle (collected April to mid-November); Campsites: $18–$28/night (+$5 for non-NYS residents); Cabins: $238–$400/week (+$7/night or $28/week for non-NYS residents). Dominican Abroad, ReserveAmerica",
+      "website": "https://parks.ny.gov/parks/roberthtreman/",
+      "phone": "(607) 273-3440 Visit Ithaca",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Lucifer_Falls%2C_Robert_Treman_State_Park.jpg",
+      "highlights": [
+        "'Lucifer Falls (115-foot waterfall)', 'Enfield Glen (rugged scenic gorge)', 'Stream-fed swimming pool beneath Lower Falls (seasonal)', 'Historic Gristmill Museum with interpretive signs', 'Over 9 miles of hiking trails (Gorge and Rim trails)', 'Civilian Conservation Corps (CCC) exhibit [Visit Ithaca, Dominican Abroad']"
+      ],
+      "tips": "Park at the Upper Entrance for a shorter hike to Lucifer Falls; use the Lower Entrance for the swimming area. Check current trail status before visiting, as gorge trails are closed in winter and early spring. Dominican Abroad, Go Finger Lakes",
+      "nearby": "Buttermilk Falls State Park, Taughannock Falls State Park, Cornell Botanic Gardens, Sciencenter, Cayuga Nature Center. Tripadvisor"
+    },
+    {
+      "name": "Robert H. Treman State Park (New York State Parks)",
+      "category": "Park (New York State Parks)",
+      "description": "Robert H. Treman State Park is a 1,110-acre state park known for its wild beauty and the rugged Enfield Glen gorge. The park features nine miles of hiking trails that wind past 12 waterfalls, including the impressive 115-foot Lucifer Falls. Visitors can also enjoy camping, picnicking, and swimming in a unique stream-fed pool beneath a waterfall (New York State Parks, Wikipedia).",
+      "address": "105 Enfield Falls Rd. (New York State Parks)",
+      "city": "Ithaca (New York State Parks)",
+      "region": "Cayuga Lake / Waterfront",
+      "hours": "Monday: Dawn to Dusk, Tuesday: Dawn to Dusk, Wednesday: Dawn to Dusk, Thursday: Dawn to Dusk, Friday: Dawn to Dusk, Saturday: Dawn to Dusk, Sunday: Dawn to Dusk; Swimming (seasonal): 11:00 AM – 7:00 PM (New York State Parks)",
+      "days_open": "Daily (New York State Parks)",
+      "admission": "Vehicle entry fee: $10 per car (collected April 1 – November 30, 6:00 AM – 6:30 PM); Bus: $35; Seasonal bus pass: $75; Empire Pass: $80 (New York State Parks)",
+      "website": "https://parks.ny.gov/parks/135/details.aspx",
+      "phone": "(607) 273-3440 (New York State Parks)",
+      "image_url": "https://parks.ny.gov/sites/default/files/styles/1x1_450/public/2025-10/LuciferFalls-RHT.jpeg.webp",
+      "highlights": [
+        "'Enfield Glen, a deep and rugged gorge ([New York State Parks)', '115-foot Lucifer Falls (New York State Parks)', 'Nine miles of hiking trails including the scenic Gorge and Rim trails (New York State Parks)', 'Stream-fed swimming area at the base of Lower Falls (New York State Parks)', 'Historic 19th-century Grist Mill and museum (New York State Parks)', 'Camping facilities with 70 sites and 14 cabins (New York State Parks)']"
+      ],
+      "tips": "Advance reservations are strongly recommended for campsites and required for all cabins. Swimming is seasonal, typically open from late June through Labor Day, and is only permitted when lifeguards are on duty. Be sure to check the official website for seasonal trail closures, as the Gorge Trail often closes during winter and early spring due to ice and hazardous conditions (New York State Parks, Visit Ithaca).",
+      "nearby": "Buttermilk Falls State Park, Taughannock Falls State Park, Ithaca Falls, Cascadilla Gorge Trail, Cayuga Lake (New York State Parks, Tripadvisor)"
+    },
+    {
+      "name": "Seneca Falls Heritage & Tourism Center / Seneca Museum of Waterways and Industry",
+      "category": "Museum, Visitor Center",
+      "description": "The Seneca Museum of Waterways and Industry is dedicated to educating audiences about the rich industrial and waterways history of Seneca Falls. It explores the story of the Cayuga-Seneca Canal and its role in connecting the Finger Lakes to global trade, showcasing how this connection fostered local inventions and innovations. Seneca Museum & Tourism Center",
+      "address": "89 Fall St, Seneca Falls, NY 13148",
+      "city": "Seneca Falls",
+      "region": "Cayuga Lake / Waterfront",
+      "hours": "Monday - Saturday: 10:00 AM - 4:00 PM; Sunday: 12:00 PM - 4:00 PM (Summer Hours) Finger Lakes Tourism Alliance",
+      "days_open": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday (Summer Hours: April - September) Finger Lakes Tourism Alliance",
+      "admission": "Free (Donations appreciated; nominal fee for guided tours) Finger Lakes Tourism Alliance, Whichmuseum",
+      "website": "https://senecamuseum.com/tourism-center/",
+      "phone": "(315) 568-1510 Seneca Museum & Tourism Center",
+      "image_url": "https://senecamuseum.com/wp-content/uploads/2024/06/logo-seneca-museum.webp",
+      "highlights": [
+        "'Interactive exhibits on the Cayuga-Seneca Canal and local industry [Seneca Museum & Tourism Center', 'Three floors of history, including local manufacturing artifacts and fire equipment Tripadvisor', 'Amenities for boaters visiting via the canal Seneca Museum & Tourism Center', \"Photo opportunities related to 'It’s a Wonderful Life' Tripadvisor\", 'Exhibits on early American manufacturing, from rulers to mechanical lathes Tripadvisor', \"Boaters' amenities and visitor orientation for the Finger Lakes region Seneca Museum & Tourism Center\"]"
+      ],
+      "tips": "Start your visit here for maps and area orientation. The museum is housed in a former shoe factory and offers boaters' amenities on the bottom floor. It's a great place to learn about the 'missing falls' of Seneca Falls. Tripadvisor, Seneca Museum & Tourism Center",
+      "nearby": "Women's Rights National Historical Park, It's A Wonderful Life Museum, National Women's Hall of Fame, Seneca Falls Historical Society, Cayuga-Seneca Canal, Ludovico Sculpture Trail Seneca Museum & Tourism Center, Tripadvisor"
+    },
+    {
+      "name": "Stewart Park",
+      "category": "Park",
+      "description": "Stewart Park is a scenic municipal park located on the southern shore of Cayuga Lake, offering expansive flat grounds and iconic willow trees. It features a wide range of recreational amenities, including a historic carousel, an inclusive playground, and bird sanctuaries, making it a central hub for community gatherings and outdoor activities in Ithaca (Wikipedia), City of Ithaca).",
+      "address": "1 James L Gibbs Dr, Ithaca, NY 14850",
+      "city": "Ithaca",
+      "region": "Cayuga Lake / Waterfront",
+      "hours": "5:00 AM - 10:00 PM daily (Friends of Stewart Park)",
+      "days_open": "Open daily (Friends of Stewart Park)",
+      "admission": "Free (Park entry); $1 per ride (Carousel) (City of Ithaca, Friends of Stewart Park)",
+      "website": "https://www.cityofithacany.gov/516/Stewart-Park",
+      "phone": "(607) 273-8364 (City of Ithaca)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Willows_after_the_rain.jpg",
+      "highlights": [
+        "['Historic 1952 Stewart Park Carousel', 'Inclusive and accessible playground with a splash pad', 'Cayuga Waterfront Trail for walking and biking', 'Fuertes Bird Sanctuary and Renwick Wildwood for birdwatching', 'Historic Cascadilla Boathouse', 'Picnic pavilions and lakefront grills']"
+      ],
+      "tips": "Swimming is strictly prohibited due to water safety concerns. The historic carousel operates seasonally from Memorial Day to Labor Day. The park is a popular spot for viewing sunsets over the lake (Friends of Stewart Park, Tripadvisor).",
+      "nearby": "Newman Municipal Golf Course, Ithaca Falls Natural Area, Ithaca Farmers Market, Sciencenter, Cascadilla Gorge Trail (Tripadvisor, Ithaca Trails)"
+    },
+    {
+      "name": "Taughannock Falls State Park",
+      "category": "Park, Landmark",
+      "description": "Taughannock Falls State Park features a spectacular 215-foot waterfall that plunges through a 400-foot gorge carved from ancient sandstone and shale. Located in the Finger Lakes region, the park offers diverse activities including hiking, camping, and swimming in Cayuga Lake, making it one of the most outstanding natural attractions in the Northeast. Official Website, Visit Ithaca",
+      "address": "1740 Taughannock Blvd.",
+      "city": "Trumansburg",
+      "region": "Cayuga Lake / Waterfront",
+      "hours": "Dawn to dusk, daily Official Website",
+      "days_open": "Open daily, year-round",
+      "admission": "$9.00 per vehicle (parking fee) Official Website, Where Are Those Morgans",
+      "website": "https://parks.ny.gov/parks/taughannockfalls/details.aspx",
+      "phone": "(607) 539-4078 Official Website",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Taughannock_Falls_State_park%2C_NYS_%2848949621638%29.jpg",
+      "highlights": [
+        "'Tallest single-drop waterfall east of the Rocky Mountains at 215 feet [Scott Dawson', 'The Gorge Trail, an easy 1.8-mile round-trip walk leading directly to the falls A Life Of Adventures', 'Scenic overlooks providing views of the 400-foot deep gorge Visit Ithaca', 'Cayuga Lake access with a swimming beach and seasonal boat rentals Official Website', 'Multi-use trails popular for cross-country skiing and bird watching in winter Taughannock.com']"
+      ],
+      "tips": "The Gorge Trail is relatively flat and accessible, but Rim Trails involve steep sections and may be closed in winter due to ice. For the best views without a long hike, visit the Falls Overlook which is a short walk from the paved parking lot. Visit Ithaca, A Life Of Adventures",
+      "nearby": "Overlook at Taughannock Visitor Center, Trumansburg Farmer's Market, Idiot Brothers Cider, Cayuga Lake Wineries Tripadvisor"
+    },
+    {
+      "name": "Watkins Glen State Park",
+      "category": "Park",
+      "description": "Watkins Glen State Park is the most famous of the Finger Lakes State Parks, renowned for its dramatic gorge where a stream descends 400 feet past 200-foot cliffs. Within just two miles, the park features 19 waterfalls, including the iconic Rainbow Falls, and is celebrated for its intricate man-made stone walls and arched bridges (New York State Parks, Wikipedia).",
+      "address": "1009 N Franklin St, Watkins Glen, NY 14891",
+      "city": "Watkins Glen",
+      "region": "Cayuga Lake / Waterfront",
+      "hours": "Park: Mon-Sun: Dawn to Dusk; 2026 Pool (June 27 – Sept 7): Mon-Fri: 12:00 PM – 5:45 PM, Sat-Sun: 11:30 AM – 6:45 PM (New York State Parks)",
+      "days_open": "Daily (Year-round; Gorge Trail is seasonal mid-May to mid-October) (New York State Parks)",
+      "admission": "Vehicle Entrance Fee: $10 (includes pool access), Non-commercial bus: $35, Commercial bus: $35, Non-profit seasonal bus pass: $75, Empire Pass: $80 (unlimited day-use entry), Shuttle: $6 per person each way, Pavilion rentals: $75–$150 (New York State Parks)",
+      "website": "https://parks.ny.gov/parks/watkinsglen",
+      "phone": "(607) 535-4511",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Watkins_Glen_by_Peter_Rivera.jpg",
+      "highlights": [
+        "['19 waterfalls within a 2-mile gorge stretch', 'Iconic Gorge Trail with Cavern Cascade and Rainbow Falls', 'Olympic-sized swimming pool (seasonal)', 'Picturesque stone bridges and staircases winding through the canyon', 'Scenic rim trails overlooking the glen and Finger Lakes landscape', 'Year-round camping and picnic facilities']"
+      ],
+      "tips": "Pets are strictly prohibited on the Gorge Trail. It is recommended to wear sturdy footwear due to the many stone steps and often damp conditions. Visitors can use the seasonal shuttle service ($6/person) to travel between the three park entrances (New York State Parks).",
+      "nearby": "Seneca Lake (boating and fishing), Taughannock Falls State Park, Long Point State Park - Finger Lakes, Finger Lakes Wine Country (New York State Parks)"
+    }
+  ]
+}

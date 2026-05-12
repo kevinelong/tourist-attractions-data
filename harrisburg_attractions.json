@@ -1,0 +1,1420 @@
+{
+  "title": "Harrisburg, PA Area Tourist Attractions",
+  "generated": "2026-05-12",
+  "total_attractions": 74,
+  "regions_covered": [
+    "Downtown / Capitol Complex",
+    "Midtown / Riverfront",
+    "West Shore",
+    "Hershey / Derry Township",
+    "Cumberland Valley"
+  ],
+  "attractions": [
+    {
+      "name": "1700 Degrees Steakhouse",
+      "category": "Restaurant / Steakhouse",
+      "description": "1700 Degrees Steakhouse is a premier dining destination in central Pennsylvania, specializing in Midwestern prime beef, dry-aged cuts, and sustainable seafood. The restaurant's elegant atmosphere features stunning floor-to-ceiling windows overlooking Market Square and a massive glass wine wall. Guests can enjoy a sophisticated yet comfortable experience with a diligently trained staff and an award-winning wine list (Official Site).",
+      "address": "1 N 2nd St",
+      "city": "Harrisburg",
+      "region": "Downtown / Capitol Complex",
+      "hours": "Monday: 5:00 PM - 9:00 PM, Tuesday: 5:00 PM - 9:00 PM, Wednesday: 5:00 PM - 9:00 PM, Thursday: 5:00 PM - 9:00 PM, Friday: 5:00 PM - 9:00 PM, Saturday: 5:00 PM - 9:00 PM, Sunday: Closed (Official Site, Tripadvisor)",
+      "days_open": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",
+      "admission": "Free entry; menu pricing applies (e.g., $45 Ribeye, $26 Foie Gras) (Tripadvisor)",
+      "website": "https://www.1700restaurant.com",
+      "phone": "717-237-6400",
+      "image_url": "https://www.1700restaurant.com/wp-content/uploads/2016/04/1700_color.jpg",
+      "highlights": [
+        "'Features Midwestern prime, dry-aged, and certified Angus beef ([Official Site)', 'Eight-foot high glass wine wall with over 1,000 bottles (Official Site)', 'Stunning large windows overlooking Market Square (Official Site)', 'Complimentary valet parking for dinner guests (Official Site)', 'Modern rustic decor with leather and cowhide finishes (Tripadvisor)', 'Named OpenTable’s Diners’ Choice Award winner (Official Site)']"
+      ],
+      "tips": "Dinner guests receive complimentary valet parking; reservations are highly recommended. The restaurant features an iPad-based menu that allows diners to see pictures of items and customize their orders (Official Site, Tripadvisor).",
+      "nearby": "City Island, Whitaker Center, Open Stage, Market Square Presbyterian Church (Tripadvisor)"
+    },
+    {
+      "name": "3rd in the Burg (Harrisburg Arts District)",
+      "category": "Arts District / Cultural Event",
+      "description": "3rd in the Burg is Harrisburg’s monthly celebration of arts, culture, and community, held every third Friday of the month. Dozens of galleries, small businesses, performance spaces, and restaurants throughout Downtown and Midtown open their doors with special programming, live music, and extended hours. 3rd in the Burg, ExploreHBG",
+      "address": "920 N. 3rd Street, Harrisburg, PA 17102",
+      "city": "Harrisburg",
+      "region": "Downtown / Capitol Complex",
+      "hours": "Third Friday of each month: 6:00 PM – 9:00 PM (Individual venue hours may vary, some opening as early as 4 PM or staying open until midnight) ExploreHBG",
+      "days_open": "Third Friday of every month",
+      "admission": "Free (Most events and gallery openings are free to the public) Visit Hershey & Harrisburg",
+      "website": "http://thirdintheburg.org",
+      "phone": "(717) 695-2576",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/5134dd4de4b060819b144d64/1540907815538-RDKYVT32RIBV0SP3ZE9T/3rdBurg+New+Logo.jpg",
+      "highlights": [
+        "['Dozens of participating venues including art galleries, museums, and shops', 'Live music performances and theater previews across the city', 'A walkable district featuring over 30 public murals and 20 monuments', 'Special monthly programming such as street art tours and movie nights', 'Free on-street parking in the Downtown Improvement District after 5 PM', 'Year-round event regardless of weather or season']"
+      ],
+      "tips": "Download the Harrisburg Arts District app for a free map and audio tours of murals and monuments. Take advantage of free on-street parking after 5 PM in the Downtown Improvement District. Wear comfortable shoes as the event spans multiple neighborhoods. Visit Hershey & Harrisburg",
+      "nearby": "Pennsylvania State Capitol, Broad Street Market, Susquehanna Art Museum, Whitaker Center for Science and the Arts, City Island, Midtown Scholar Bookstore"
+    },
+    {
+      "name": "Appalachian Brewing Company (ABC) - Harrisburg",
+      "category": "Bar, Live Music Venue, Brewery",
+      "description": "Appalachian Brewing Company (ABC) is a landmark craft brewery in Harrisburg, housed in a historic former printing plant. While the main brewpub's dining area closed in 2025, the site continues to serve as a production facility and hosts the upstairs Abbey Bar, a premier venue for live music and special events in Central Pennsylvania.",
+      "address": "50 N Cameron St, Harrisburg, PA 17101",
+      "city": "Harrisburg",
+      "region": "Downtown / Capitol Complex",
+      "hours": "The Abbey Bar typically opens on event days (Friday - Sunday) around 7:00 PM; Brewery tours are held Saturdays at 1:00 PM. (Note: Main dining is closed; check event schedule for specific show times).",
+      "days_open": "Friday - Sunday (The Abbey Bar events usually occur on weekends); Brewery tours on Saturdays.",
+      "admission": "Free (Brewery tours are free on Saturdays at 1 PM); Ticket prices for live shows at The Abbey Bar vary by event, typically ranging from $15 to $45.",
+      "website": "https://abcbrew.com/harrisburg",
+      "phone": "(717) 221-1080",
+      "image_url": "https://abcbrew.com/images/logos/abc-logo-home-200x180.png",
+      "highlights": [
+        "['Historic three-story brewery building, originally a printing plant', 'Upstairs Abbey Bar hosting a diverse range of live musical performances and concerts', 'Handcrafted lagers and ales brewed on-site in small batches', 'Free brewery tours offered on Saturdays, including beer and soda samples', 'Specialty craft sodas produced at their SodaWorks facility', 'Moon Peak Productions management ensuring a high-quality live music experience']"
+      ],
+      "tips": "Shows at The Abbey Bar are generally 21+ unless accompanied by an adult over 25. It is highly recommended to check the online events calendar and purchase tickets in advance for popular shows. Free, well-lit parking is available in two large lots behind the building.",
+      "nearby": "The National Civil War Museum, Broad Street Market, Pennsylvania State Capitol, State Museum of Pennsylvania, Whitaker Center for Science and the Arts."
+    },
+    {
+      "name": "Artsfest (Artsfest of Greater Harrisburg)",
+      "category": "Entertainment / Festival",
+      "description": "Artsfest is Harrisburg's premier annual celebration of the arts, featuring over 150 juried artisans and craftsmen from across the country. Held in Riverfront Park overlooking the Susquehanna River, the festival offers a diverse array of handcrafted works, live music, and family-friendly activities. (City of Harrisburg, Explore HBG)",
+      "address": "200 S Front St, Harrisburg, PA 17104",
+      "city": "Harrisburg",
+      "region": "Downtown / Capitol Complex",
+      "hours": "Saturday: 10:00 AM - 7:00 PM; Sunday: 10:00 AM - 7:00 PM; Monday: 10:00 AM - 5:00 PM (Explore HBG, City of Harrisburg)",
+      "days_open": "Saturday, Sunday, Monday (Memorial Day Weekend) (Explore HBG)",
+      "admission": "Free admission; no tickets required (Explore HBG, City of Harrisburg)",
+      "website": "https://harrisburgpa.gov/artsfest",
+      "phone": "(717) 255-3040 (City of Harrisburg)",
+      "image_url": "https://assets.simpleviewinc.com/simpleview/image/upload/v1/clients/harrisburg/colorful_cocktails_96ab48dd-fa9c-4eff-a5ee-c52be9ff3c9d.png",
+      "highlights": [
+        "['Over 150 juried artisans selling handcrafted works in 15+ categories', 'Jazzfest Stage featuring local jazz groups and musicians', 'UPMC Entertainment Stage with 17 live music and dance groups', 'Kidsfest area offering free face painting, balloon animals, and crafts', 'Community Art Project allowing attendees to contribute to local murals or installations', 'Over 25 local food trucks and a beer & wine garden']"
+      ],
+      "tips": "Metered street parking is free on Sunday and Monday of the festival weekend; use the code LUVHBG in the Parkmobile app for free Saturday parking. A free ADA-accessible shuttle bus typically loops between City Island and the festival grounds. Dogs are generally not permitted at the festival. (Explore HBG, City of Harrisburg)",
+      "nearby": "City Island, Susquehanna Art Museum, Whitaker Center for Science and the Arts, Pennsylvania State Capitol, Art Association of Harrisburg (Explore HBG, TripAdvisor)"
+    },
+    {
+      "name": "Benjamin Olewine III Nature Center (Official Website)",
+      "category": "Nature Center / Museum (Dauphin County)",
+      "description": "The Benjamin Olewine III Nature Center is a leading interpretive facility located within the 229-acre Wildwood Park. It features an exhibit hall displaying the workings of freshwater wetlands, an indoor bird viewing area, a children's discovery area, and a nature shop, all designed to foster environmental education and appreciation for local wildlife. (Official Website, Dauphin County)",
+      "address": "100 Wildwood Way, Harrisburg, PA 17110 (Official Website)",
+      "city": "Harrisburg (Official Website)",
+      "region": "Downtown / Capitol Complex",
+      "hours": "Tuesday – Sunday: 10:00 am – 4:00 pm; Monday: Closed (Official Website)",
+      "days_open": "Tuesday - Sunday (Closed Mondays and Holidays) (Official Website)",
+      "admission": "Free (Official Website)",
+      "website": "https://explorewildwoodpark.org/about/olewine-nature-center/",
+      "phone": "(717) 221-0292 (Official Website)",
+      "image_url": "https://explorewildwoodpark.org/wp-content/uploads/2021/04/wildwood-park-logo.png",
+      "highlights": [
+        "'Interactive Exhibit Hall displaying freshwater wetland ecosystems ([Official Website)', 'Indoor bird viewing area equipped with binoculars and bird guides (Official Website)', \"Children's Discovery Area with a tree diorama and crawl-through tunnel (Official Website)\", 'Nature Shop offering unique gifts and nature-related items (Official Website)', 'Access to 6 miles of trails and 1.5 miles of handicapped-accessible boardwalks (Dauphin County)', \"Annual 'Art in the Wild' outdoor art installation competition (Official Website)\"]"
+      ],
+      "tips": "The park trails are open daily from dawn to dusk, even when the Nature Center is closed. It is a great spot for birdwatching and wildlife photography, especially for viewing great blue herons and wood ducks. Dogs are allowed on leashes, and bikes are permitted only on the paved Wildwood Way Trail. (Official Website, TripAdvisor)",
+      "nearby": "Wildwood Park, National Civil War Museum, Reservoir Park, Fort Hunter Mansion and Park, Millworks, Susquehanna River (Wanderboat AI, TripAdvisor)"
+    },
+    {
+      "name": "Boyd Big Tree Preserve Conservation Area",
+      "category": "Park",
+      "description": "The 1,025-acre Boyd Big Tree Preserve Conservation Area straddles Blue Mountain and serves as a habitat for numerous large tree species and deep forest birds, particularly warblers. It features an extensive 12-mile trail system for hiking and cross-country skiing, a spring-fed pond, and a large wildflower meadow that attracts butterflies and field birds during late summer. PA DCNR, Visit Hershey & Harrisburg",
+      "address": "401 Fishing Creek Valley Rd, Harrisburg, PA 17112",
+      "city": "Harrisburg",
+      "region": "Downtown / Capitol Complex",
+      "hours": "Monday: Sunrise - Sunset, Tuesday: Sunrise - Sunset, Wednesday: Sunrise - Sunset, Thursday: Sunrise - Sunset, Friday: Sunrise - Sunset, Saturday: Sunrise - Sunset, Sunday: Sunrise - Sunset PA DCNR",
+      "days_open": "Daily",
+      "admission": "Free PA DCNR, Airial Travel",
+      "website": "https://www.pa.gov/agencies/dcnr/recreation/where-to-go/state-parks/find-a-park/boyd-big-tree-preserve-conservation-area.html",
+      "phone": "717-865-6470 PA DCNR",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Boyd_Big_Tree_Preserve_meadow.jpg",
+      "highlights": [
+        "['1,025 acres of protected forest habitat on Blue Mountain.', 'Extensive 12-mile trail system ranging from easy to difficult.', 'Large wildflower field attracting various butterflies and field birds.', 'Spring-fed pond that serves as a popular watering hole for wildlife.', 'Habitat for deep forest birds, especially warblers.', 'Seasonal hunting and trapping opportunities on approximately 800 acres.']"
+      ],
+      "tips": "Bring your own water as there are no drinking fountains on-site; restrooms are available at the trailhead. During hunting seasons, visitors should wear blaze orange for safety. Cell service can be unpredictable, so it is recommended to download a park map before visiting. Tripadvisor, PA DCNR",
+      "nearby": "Fort Hunter Mansion and Park, Wildwood Park, Pennsylvania State Museum, Memorial Lake State Park, Gifford Pinchot State Park PA DCNR"
+    },
+    {
+      "name": "Capital Area Greenbelt CAGA",
+      "category": "Park / Trail System Visit Hershey & Harrisburg",
+      "description": "The Capital Area Greenbelt is a scenic 20-mile loop trail that encircles Pennsylvania's capital city, connecting various neighborhoods, parks, and historical landmarks. Conceived in the early 1900s as part of the \"City Beautiful\" movement, the trail offers a diverse mix of paved paths, wooded sections, and riverfront views for cyclists and pedestrians. CAGA, Susquehanna Greenway",
+      "address": "1346 S 19th St, Harrisburg, PA 17104 (Major Trailhead) Waze, CAGA",
+      "city": "Harrisburg CAGA",
+      "region": "Downtown / Capitol Complex",
+      "hours": "Sunrise to Sunset (Daily) CAGA, Triple Crown Corp",
+      "days_open": "Daily CAGA",
+      "admission": "Free CAGA, Uncovering PA",
+      "website": "https://caga.org",
+      "phone": "(717) 921-4733 CAGA",
+      "image_url": "https://caga.org/wp-content/uploads/cropped-Greenbelt_Logo_Thumbnail.png",
+      "highlights": [
+        "'Five Senses Garden: A unique sensory botanical garden featuring plants that appeal to sight, smell, sound, touch, and taste [CAGA', 'Riverfront Park: A 5-mile stretch offering breathtaking views of the Susquehanna River and historic architecture Visit Hershey & Harrisburg', 'Wildwood Park: A 210-acre wildlife sanctuary with a nature center and extensive boardwalks Visit Hershey & Harrisburg', 'National Civil War Museum: Located along the trail in Reservoir Park, offering panoramic views of the city TripAdvisor', 'Walnut Street Bridge: A historic \"People\\'s Bridge\" connecting City Island to the downtown riverfront Susquehanna Greenway', 'Parkway Trail System: A section of the Greenbelt featuring challenging mountain bike trails maintained by volunteers CAGA']"
+      ],
+      "tips": "The loop includes some on-road sections with traffic, so riders should be comfortable with street cycling. It is recommended to ride counter-clockwise to avoid the steepest hills, and visitors should carry water as public restrooms are limited along the route. TrailLink, TripAdvisor",
+      "nearby": "City Island, Pennsylvania State Capitol, Broad Street Market, and the Pennsylvania Farm Show Complex & Expo Center TripAdvisor, Waze"
+    },
+    {
+      "name": "Capital Area Transit (rabbittransit Capital Region)",
+      "category": "Public Transportation",
+      "description": "rabbittransit Capital Region, formerly known as Capital Area Transit (CAT), is the primary public transportation provider for the Harrisburg metropolitan area. The system operates a network of fixed-route buses and paratransit services throughout Dauphin and Cumberland counties, connecting residents to employment, healthcare, and shopping hubs. Wikipedia), rabbittransit",
+      "address": "901 North Cameron Street",
+      "city": "Harrisburg",
+      "region": "Downtown / Capitol Complex",
+      "hours": "Customer Service: Mon-Fri 7:00 AM – 7:00 PM, Sat 7:45 AM – 3:00 PM; Administrative Office: Mon-Fri 8:00 AM – 4:00 PM rabbittransit",
+      "days_open": "Monday - Saturday rabbittransit",
+      "admission": "Regular Fare: $1.80; Half Fare: $0.90 (Seniors 65+ and children under 44\" ride for FREE) rabbittransit",
+      "website": "https://www.rabbittransit.org",
+      "phone": "1-800-632-9063 rabbittransit",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/CAT_bus_1902_at_Market_Square_Transfer_Center.jpeg",
+      "highlights": [
+        "'Extensive network of 29 fixed routes serving Harrisburg and its surrounding counties. [rabbittransit', 'Real-time bus tracking and trip planning available through the myStop mobile app. rabbittransit', 'Contactless fare payment options using the Token Transit mobile app. Token Transit', 'Dedicated shared ride and paratransit services for seniors and individuals with disabilities. rabbittransit', 'Centralized ticket sales and customer support at the Strawberry Square office in downtown Harrisburg. rabbittransit']"
+      ],
+      "tips": "Download the myStop app to see real-time bus locations and minimize wait times at stops. If paying with cash, be sure to have the exact fare ready as drivers do not carry change. Seniors should carry their Senior PA Transit ID to take advantage of free rides. rabbittransit",
+      "nearby": "Pennsylvania State Capitol, State Museum of Pennsylvania, Whitaker Center for Science and the Arts, National Civil War Museum, City Island Visit Hershey & Harrisburg"
+    },
+    {
+      "name": "City Island",
+      "category": "Park",
+      "description": "City Island is a 63-acre recreational park and landmark situated in the middle of the Susquehanna River in Harrisburg, Pennsylvania. It offers a nostalgic \"Americana\" experience with professional baseball, miniature golf, riverboat tours, and historic rides. The island serves as a central hub for family fun and provides panoramic views of the Harrisburg city skyline (Visit Hershey Harrisburg, Visit Pennsylvania).",
+      "address": "City Island, Harrisburg, PA 17101",
+      "city": "Harrisburg",
+      "region": "Downtown / Capitol Complex",
+      "hours": "Island Park: Sunrise to Sunset daily; Individual attractions (Baseball, Mini Golf, Train): Seasonal from April/May through September/October (Pine Ridge Campground, City of Harrisburg)",
+      "days_open": "Daily",
+      "admission": "Island Access: Free; Attractions: Baseball tickets from ~$10, Mini Golf ~$8-10, City Island Railroad $3.50 (Adults) / $2.50 (Ages 1-12), Carousel rides priced individually (Pine Ridge Campground, Macaroni KID)",
+      "website": "https://www.visithersheyharrisburg.org/things-to-do/family-fun/city-island/",
+      "phone": "(717) 232-3017",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/City_Island_Riverside_Harrisburg_July_2021.jpg",
+      "highlights": [
+        "'FNB Field: Home of the Harrisburg Senators, the AA affiliate of the Washington Nationals ([Visit Hershey Harrisburg)', 'Water Golf: An 18-hole championship-style miniature golf course with riverfront views (Visit Hershey Harrisburg)', 'Pride of the Susquehanna: An authentic paddlewheel riverboat offering sightseeing and dinner cruises (Visit Pennsylvania)', 'City Island Railroad & Carousel: A miniature steam train and a beautifully restored antique carousel (Visit Hershey Harrisburg)', 'Harrisburg Beach Club: A waterfront venue featuring food trucks, craft beer, and seasonal events (Explore HBG)']"
+      ],
+      "tips": "Parking is free in the North Lot after 11 AM on weekdays and all day on weekends, except during stadium events when a $5 fee applies. For the best views, use the historic Walnut Street pedestrian bridge to walk to the island from downtown Harrisburg (Visit Hershey Harrisburg).",
+      "nearby": "Pennsylvania State Capitol, State Museum of Pennsylvania, Riverfront Park, Broad Street Market (Visit Hershey Harrisburg)"
+    },
+    {
+      "name": "City Island (City Island Park)",
+      "category": "Park, Entertainment, Recreation Area",
+      "description": "City Island is a mile-long recreational hub located in the Susquehanna River between Harrisburg and Wormleysburg. It offers a diverse mix of family-friendly entertainment, including minor league baseball, miniature golf, a historic riverboat, and scenic trails with panoramic skyline views. The island serves as a nostalgic \"Americana\" destination and a central gathering place for sports and leisure activities. Wikipedia), Visit Hershey Harrisburg",
+      "address": "201 Championship Way (also accessed via Station Rd)",
+      "city": "Harrisburg",
+      "region": "Downtown / Capitol Complex",
+      "hours": "Monday: 6:00 AM - 10:00 PM, Tuesday: 6:00 AM - 10:00 PM, Wednesday: 6:00 AM - 10:00 PM, Thursday: 6:00 AM - 10:00 PM, Friday: 6:00 AM - 10:00 PM, Saturday: 6:00 AM - 10:00 PM, Sunday: 6:00 AM - 10:00 PM (Note: Individual attraction hours vary seasonally). Chamber of Commerce, Yelp",
+      "days_open": "Daily",
+      "admission": "Island access: Free. Individual attractions are priced separately: Harrisburg Senators baseball tickets from ~$10, Water Golf mini-golf ~$8-10, Pride of the Susquehanna riverboat cruises and seasonal rides also have separate fees. Visit Hershey Harrisburg, Pine Ridge Campground",
+      "website": "https://www.visithersheyharrisburg.org/things-to-do/family-fun/city-island/",
+      "phone": "717-255-3020",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Harrisburg_and_Susquehanna_River_Aerial_-_June_2016_-_City_Island.jpg",
+      "highlights": [
+        "['FNB Field, home of the Harrisburg Senators minor league baseball team (AA affiliate of the Washington Nationals).', 'Water Golf, a 18-hole championship-style miniature golf course with scenic river views.', 'The Pride of the Susquehanna, an authentic paddle-wheel riverboat offering sightseeing cruises.', 'City Island Railroad, a miniature steam train that takes visitors on tours around the island.', 'Harrisburg Beach Club, a waterfront venue featuring live music, craft beer, and casual dining.', 'Antique Carousel and Harbortown Playground for young children.']"
+      ],
+      "tips": "Parking is free in the North Lot on weekends and after 11 AM on weekdays for island patrons, but a $5 fee typically applies during baseball games and special events. The island is easily accessible by walking or biking across the historic Walnut Street Bridge (pedestrian-only) from downtown Harrisburg. Visit Hershey Harrisburg",
+      "nearby": "Riverfront Park, Pennsylvania State Capitol, Whitaker Center for Science and the Arts, Harrisburg Arts District (mural walk). Visit Hershey Harrisburg"
+    },
+    {
+      "name": "City Island Railroad",
+      "category": "Entertainment / Landmark",
+      "description": "The City Island Railroad is a charming miniature version of a Civil War-era steam train that offers a scenic, 10-minute tour around the northern end of City Island. Passengers can enjoy panoramic views of the Susquehanna River, the Harrisburg skyline, and various island attractions from the comfort of the open-air cars (Visit Hershey & Harrisburg).",
+      "address": "1 Riverside Drive (Station Rd), Harrisburg, PA 17101",
+      "city": "Harrisburg",
+      "region": "Downtown / Capitol Complex",
+      "hours": "Monday - Friday: Closed, Saturday - Sunday: 12:00 PM – Sunset (Seasonal) (Macaroni KID)",
+      "days_open": "Saturdays and Sundays (Seasonal: Spring through Fall) (Pine Ridge Campground)",
+      "admission": "Adults: $3.50, Children (Ages 1-12): $2.50, Children under age 1: Free (Macaroni KID)",
+      "website": "https://www.visithersheyharrisburg.org/things-to-do/family-fun/city-island/",
+      "phone": "(717) 232-3017 (City of Harrisburg Parks & Recreation) (Yelp)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/City_Island_Railroad_Train.jpg",
+      "highlights": [
+        "['Scenic 10-minute loop around the northern end of City Island', 'Replica Civil War-era American steam locomotive design', 'Panoramic views of the Susquehanna River and Harrisburg skyline', 'Located at the historic Walnut Street Station near the pedestrian bridge', 'Family-friendly attraction suitable for all ages']"
+      ],
+      "tips": "Park in the North Lot for free on weekends and after 11 AM on weekdays; however, expect a $5 fee during Harrisburg Senators home games or special events (Visit Hershey & Harrisburg). The train typically operates from late spring through fall, so check seasonal availability before visiting (Pine Ridge Campground).",
+      "nearby": "Harrisburg Senators Baseball at FNB Field, Water Golf Miniature Golf, Pride of the Susquehanna Riverboat, City Island Carousel, Harrisburg Beach Club (Visit Hershey & Harrisburg)"
+    },
+    {
+      "name": "Discover Lancaster Visitors Center Discover Lancaster",
+      "category": "Entertainment, Landmark, Visitor Center Discover Lancaster",
+      "description": "The Discover Lancaster Visitors Center serves as the official destination hub for Lancaster County and Pennsylvania Dutch Country, offering expert travel advice and regional resources. It features a retail shop with local goods, an art gallery showcasing regional talent, and a theater showing a short film about the area's unique heritage. Discover Lancaster",
+      "address": "501 Greenfield Road, Lancaster, Pennsylvania 17601 Discover Lancaster",
+      "city": "Lancaster Discover Lancaster",
+      "region": "Downtown / Capitol Complex",
+      "hours": "Monday: 9:00 AM - 4:00 PM, Tuesday: 9:00 AM - 4:00 PM, Wednesday: 9:00 AM - 4:00 PM, Thursday: 9:00 AM - 4:00 PM, Friday: 9:00 AM - 4:00 PM, Saturday: 9:00 AM - 4:00 PM, Sunday: Closed Discover Lancaster",
+      "days_open": "Monday - Saturday Discover Lancaster",
+      "admission": "Free Discover Lancaster",
+      "website": "https://www.discoverlancaster.com",
+      "phone": "(800) 723-8824 Discover Lancaster",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Lancaster_Pennsylvania_Dutch_Country.jpg",
+      "highlights": [
+        "'Expert travel consultants providing personalized advice and maps [Discover Lancaster', 'Retail shop with locally made jams, jellies, and handcrafted gifts Discover Lancaster', 'Art gallery featuring rotating collections of local and regional artwork Discover Lancaster', \"Theater screening 'A Patchwork of Neighbors,' a short film on Lancaster's essence Discover Lancaster\", 'Historic 1810 Grandfather Clock crafted by prominent clockmaker John Eberman Jr. Discover Lancaster', 'Free multi-language visitor guides available in eight different languages Discover Lancaster']"
+      ],
+      "tips": "Make this your first stop to collect maps, discount coupons, and brochures for local attractions. The facility is fully accessible and offers a quiet environment for planning your day trip. Discover Lancaster",
+      "nearby": "Dutch Wonderland, Sight & Sound Theatre, American Music Theater, Historic Rock Ford, Amish Farm and House Historic Rock Ford"
+    },
+    {
+      "name": "Fort Hunter Mansion & Park",
+      "category": "Park and Museum",
+      "description": "Fort Hunter Mansion and Park is a 40-acre historic site situated on a bluff overlooking the Susquehanna River and Blue Mountain. Originally a frontier fort during the French and Indian War, the site evolved into a prosperous farm and private estate, and now serves as a public museum and recreational park featuring an elegantly restored 19th-century Federal-style mansion. Official Website, Visit Hershey & Harrisburg",
+      "address": "5300 N. Front St, Harrisburg, PA 17110",
+      "city": "Harrisburg",
+      "region": "Downtown / Capitol Complex",
+      "hours": "Park: Daily, Dawn to Dusk. Mansion Tours (May 1 – Dec 23): Tuesday–Saturday: 10:00 AM – 4:30 PM; Sunday: 12:00 PM – 4:30 PM; Monday: Closed. Official Website",
+      "days_open": "Park: Daily; Mansion: Tuesday - Sunday (May 1 – December 23) Official Website",
+      "admission": "Park: Free. Mansion Tours: $8.00 Adults, $7.00 Seniors/Military/AAA, $7.00 Dauphin County Library Member, $5.00 Students and Children. Official Website",
+      "website": "https://forthunter.org",
+      "phone": "(717) 599-5751",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Fort_Hunter%2C_Pennsylvania_%285656723609%29.jpg",
+      "highlights": [
+        "['Guided tours of the elegantly restored 19th-century Federal-style mansion and its original furnishings.', '40 acres of scenic parkland with views of the Susquehanna River and Blue Mountain.', 'Historic structures including the Centennial Barn, Tavern House, and Henniger Farm Covered Bridge.', 'Walking trails along the river and the old Pennsylvania Canal towpath.', 'Public recreational facilities including two playgrounds and picnic pavilions.', 'Non-motorized boat launch for canoe and kayak access to the river.']"
+      ],
+      "tips": "Mansion tours are only available seasonally from May through late December and reservations are strongly recommended. Dogs are welcome on the grounds but must be leashed at all times. The first floor of the mansion is wheelchair accessible with advance notice. Official Website, Dauphin County",
+      "nearby": "Wildwood Park, Boyd Big Tree Conservation Area, Whitaker Center for Science and the Arts, Susquehanna River. Apartments.com"
+    },
+    {
+      "name": "Fort Hunter Mansion and Park (Fort Hunter Mansion & Park)",
+      "category": "Museum, Park, and Landmark (Fort Hunter Mansion & Park)",
+      "description": "Fort Hunter Mansion and Park is a 40-acre historic estate and recreational destination situated on a bluff overlooking the Susquehanna River. The site features a grand Federal-style mansion built between 1786 and 1870, alongside several other historic structures that reflect its past as a frontier fort, commerce hub, and private residence. (Fort Hunter Mansion & Park), (Susquehanna Greenway)",
+      "address": "5300 North Front Street, Harrisburg, PA 17110 (Fort Hunter Mansion & Park)",
+      "city": "Harrisburg (Fort Hunter Mansion & Park)",
+      "region": "Downtown / Capitol Complex",
+      "hours": "Park: Daily, Dawn – Dusk; Mansion (May 1 – Dec 23): Tue–Sat 10:00 AM – 4:30 PM, Sun 12:00 PM – 4:30 PM, Mon Closed (Fort Hunter Mansion & Park)",
+      "days_open": "Park: Daily; Mansion: Tuesday through Sunday (May 1 – December 23) (Fort Hunter Mansion & Park)",
+      "admission": "Park: Free; Mansion Tours: $8.00 Adults, $7.00 Seniors/Military/AAA, $5.00 Students/Children (Fort Hunter Mansion & Park)",
+      "website": "https://forthunter.org",
+      "phone": "(717) 599-5751 (Fort Hunter Mansion & Park)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/McAllister_Mansion_Ft_Hunter_PA.JPG",
+      "highlights": [
+        "['Guided tours of the historic Federal-style mansion and its 19th-century furnishings.', 'Scenic 40-acre park with walking trails and magnificent views of the Susquehanna River and Blue Mountain.', 'Historic structures including the 1876 Centennial Barn and the recreated Evergreen Covered Bridge.', 'Access to the Pennsylvania Canal Trail and the Capital Area Greenbelt for hiking and cycling.', 'Seasonal festivals and events such as the May Day Festival and elegantly decorated Christmas tours.']"
+      ],
+      "tips": "Mansion tours are only available seasonally from May through December; the park itself remains open year-round. Restrooms are located near the park parking lot as there are no public facilities inside the mansion. The park is dog-friendly provided pets remain on a leash. (Dauphin County), (Tripadvisor)",
+      "nearby": "Rockville Bridge, Fort Hunter Conservancy, Wildwood Park, and the Pennsylvania State Capitol (Tripadvisor), (Fort Hunter Mansion & Park)"
+    },
+    {
+      "name": "Gettysburg National Military Park",
+      "category": "Park, Landmark, Museum",
+      "description": "Gettysburg National Military Park preserves the site of the 1863 Battle of Gettysburg, a pivotal Union victory and the bloodiest battle of the American Civil War. The park features over 1,300 monuments, the iconic Gettysburg National Cemetery, and the site of President Abraham Lincoln's famous Gettysburg Address. It serves as a profound memorial to the soldiers who fought there and a gateway to understanding a turning point in United States history. (National Park Service)",
+      "address": "1195 Baltimore Pike, Gettysburg, PA 17325",
+      "city": "Gettysburg",
+      "region": "Downtown / Capitol Complex",
+      "hours": "Park Grounds & Roads: Daily, 30 minutes before sunrise to 30 minutes after sunset. Museum & Visitor Center (March–November): Mon-Sun 8:00 AM – 5:00 PM; (December–February): Mon-Sun 9:00 AM – 4:00 PM. (National Park Service, Gettysburg Foundation)",
+      "days_open": "Daily (Closed Thanksgiving, Christmas Day, and New Year's Day; early closure at 1:00 PM on Christmas Eve). (Gettysburg Foundation)",
+      "admission": "Park Grounds: Free. Museum, Film & Cyclorama Experience: Adults (13-64) $20.75, Seniors (65+) $19.75, Veterans $19.75, Youth (6-12) $15.75, Children (5 and under) Free, Active Duty Military Free. (Gettysburg Foundation)",
+      "website": "https://www.nps.gov/gett/",
+      "phone": "717-334-2436 or 877-874-2478",
+      "image_url": "https://www.gettysburgfoundation.org/getmedia/a1a849df-0294-496c-a9c8-f8ece783460e/mvc-exterior_8-2019-5-1110.jpg",
+      "highlights": [
+        "[\"Gettysburg National Cemetery, site of Lincoln's Gettysburg Address\", \"Little Round Top and Devil's Den battlefield landmarks\", \"Gettysburg Cyclorama, a massive 360-degree painting of Pickett's Charge\", \"Gettysburg Museum of the American Civil War's extensive artifact collection\", \"Pickett’s Charge and the 'High Water Mark' of the Confederacy memorial\", 'Licensed Battlefield Guide tours available by car or bus']"
+      ],
+      "tips": "Reserve timed tickets for the Film, Cyclorama, and Museum experience at least 15 minutes in advance. Dress for variable weather and extensive walking, and be sure to bring water, sunscreen, and insect repellent during summer visits. Maintain a respectful and quiet demeanor when visiting the hallowed grounds of the National Cemetery. (Gettysburg Foundation, National Park Service)",
+      "nearby": "Eisenhower National Historic Site, David Wills House, Seminary Ridge Museum, Gettysburg Heritage Center, and the Susquehanna National Heritage Area. (National Park Service)"
+    },
+    {
+      "name": "Great Country Farms (located in Bluemont, VA) Great Country Farms",
+      "category": "Entertainment, Farm, Park Great Country Farms",
+      "description": "Great Country Farms is a 400-acre working farm and educational play area located at the base of the Blue Ridge Mountains in Bluemont, Virginia. It offers a wide variety of family-friendly activities, including seasonal pick-your-own produce, animal encounters, and festive weekend events. The farm is a premier day trip destination known for its massive play area and fresh farm-to-table treats like its famous apple cider donuts. Great Country Farms",
+      "address": "34345 Snickersville Turnpike, Bluemont, VA 20135 (approximately 1.5 hours from Harrisburg, PA) Great Country Farms",
+      "city": "Bluemont Great Country Farms",
+      "region": "Downtown / Capitol Complex",
+      "hours": "Daily: 9:00 AM – 5:00 PM (Bakery & Play Area); Henway Cider Barn: Friday–Monday, 11:00 AM – 6:00 PM Great Country Farms",
+      "days_open": "Daily (Seasonal, March through November) Great Country Farms",
+      "admission": "Online: $12.00 (Children 3-10), $14.00 (Adults); Gate: $14.00 - $16.00 (varies by event); Children 2 and under are Free Great Country Farms",
+      "website": "https://greatcountryfarms.com/",
+      "phone": "(540) 554-2073 Great Country Farms",
+      "image_url": "https://greatcountryfarms.com/wp-content/uploads/2021/04/farm-babies-scaled.jpg",
+      "highlights": [
+        "'15-acre Farm Play Area featuring the \"Farm Ninja\" obstacle course [Great Country Farms', 'Two giant jumping pillows and steep rustic megaslides Yelp', 'Seasonal Pick-Your-Own fruits including strawberries, peaches, apples, and pumpkins Great Country Farms', 'Interactive animal encounters with goats, pigs, and sheep, including weekend pig races Airial Travel', \"Scenic wagon rides through the farm's orchards and regenerative fields Great Country Farms\", 'Knead It Farm Bakery and Market offering award-winning apple cider donuts Yelp']"
+      ],
+      "tips": "Purchase tickets online in advance to save on gate prices and ensure entry during busy festival weekends. Check the \"Now Picking\" status on the official website before visiting to verify crop availability. Bringing a wagon is highly recommended for families due to the expansive size of the farm grounds. Great Country Farms, Airial Travel",
+      "nearby": "Bluemont Vineyard, Dirt Farm Brewing, Henway Hard Cider, Appalachian Trail (Bears Den Park), Plaster Museum of Bluemont's Heritage Expedia"
+    },
+    {
+      "name": "Harrisburg Area Community College (HACC)",
+      "category": "University",
+      "description": "Harrisburg Area Community College (HACC), also known as Central Pennsylvania's Community College, is the oldest and largest community college in Pennsylvania. Established in 1964, it provides more than 100 associate degree, certificate, and diploma programs to thousands of students across multiple campuses and online Wikipedia, HACC About.",
+      "address": "One HACC Drive, Harrisburg, PA 17110-2999",
+      "city": "Harrisburg",
+      "region": "Downtown / Capitol Complex",
+      "hours": "Monday - Thursday: 8:00 AM - 4:30 PM, Friday: 9:00 AM - 4:30 PM, (Wednesday extended phone service until 6:30 PM) HACC Welcome Center",
+      "days_open": "Monday - Friday",
+      "admission": "Free (Campus access), Tuition varies by program HACC Tuition",
+      "website": "https://www.hacc.edu",
+      "phone": "717-780-2300 or 800-ABC-HACC HACC Contact",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Cooper_Student_Center%2C_Harrisburg.jpg",
+      "highlights": [
+        "'First community college established in Pennsylvania (1964) [Wikipedia', 'Home to the Rose Lehrman Arts Center, a major regional venue for performing arts Rose Lehrman Arts Center', 'Offers over 100 academic and workforce development programs HACC Home', 'Includes the Midtown Trade and Technology Center for specialized urban learning Plexuss', 'Features intercollegiate sports in the NJCAA Region XIX Wikipedia', 'Accredited by the Middle States Commission on Higher Education Wikipedia']"
+      ],
+      "tips": "New visitors should stop by the Welcome Center in the Cooper Student Center; parking permits are required for regular use, but visitor parking is available in designated lots HACC Parking, HACC Safety.",
+      "nearby": "Pennsylvania Farm Show Complex & Expo Center, Wildwood Park, National Civil War Museum, Susquehanna River Tripadvisor"
+    },
+    {
+      "name": "Harrisburg Arts District",
+      "category": "Arts & Cultural District",
+      "description": "The Harrisburg Arts District is a vibrant, walkable cultural hub spanning the city's downtown, midtown, and riverfront neighborhoods. It serves as a living gallery with a rich collection of over 30 public murals and 20 monuments, alongside premier museums, independent galleries, and world-class performing arts venues. Visit Hershey & Harrisburg",
+      "address": "22 North Second Street (Central Downtown Location), Harrisburg, PA 17101",
+      "city": "Harrisburg",
+      "region": "Downtown / Capitol Complex",
+      "hours": "Public District/Murals: 24/7. Individual venue hours vary; typically 10:00 AM – 5:00 PM for museums/galleries. 3rd in the Burg: 6:00 PM – 9:00 PM (Third Friday of every month). Explore HBG, Visit Hershey & Harrisburg",
+      "days_open": "Daily (Public Art); Venue-specific for indoor locations",
+      "admission": "Free for public art and outdoor monuments; individual museum and performance venue prices vary (e.g., Whitaker Center Science Center: $16 Adults, $13 Juniors). Many galleries offer free admission, especially during 3rd in the Burg events. Whitaker Center, Visit Hershey & Harrisburg",
+      "website": "https://www.visithersheyharrisburg.org/trails/harrisburg-arts-district/",
+      "phone": "(717) 231-7788 (Visit Hershey & Harrisburg), (717) 236-9762 (Downtown Improvement District)",
+      "image_url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,h_333,q_75,w_500/v1/clients/harrisburg/Harrisburg_Mural_ebebaffd-18b8-4a16-b4a4-895ee765a863.jpg",
+      "highlights": [
+        "['Over 30 vibrant public murals and 20 historical monuments along the streets.', '3rd in the Burg: A monthly citywide arts celebration held every third Friday.', 'Home to major cultural venues like the Whitaker Center for Science and the Arts and the Forum Auditorium.', 'A diverse community of independent galleries, such as the Art Association of Harrisburg and Vivi on Verbeke.', 'A dedicated mobile app featuring a free audio tour and interactive map for mural walks.', 'Scenic walkable paths connecting the riverfront with downtown and midtown business corridors.']"
+      ],
+      "tips": "Download the free Harrisburg Arts District app to access the audio tour and map for self-guided mural walks. Visit on the third Friday of any month for '3rd in the Burg' to enjoy extended gallery hours and special live performances. On-street parking in the Downtown Improvement District is free after 5:00 PM, Monday through Saturday. Explore HBG",
+      "nearby": "Pennsylvania State Capitol, Broad Street Market, Riverfront Park, City Island, Susquehanna Art Museum. Explore HBG"
+    },
+    {
+      "name": "Harrisburg Cemetery (Mount Kalmia Cemetery)",
+      "category": "Landmark (National Historic District, Rural Cemetery, and Arboretum)",
+      "description": "Harrisburg Cemetery, also known as Mount Kalmia Cemetery, is a prominent 19th-century rural cemetery and national historic district in Harrisburg, Pennsylvania. Founded in 1845, it features a park-like setting designed with picturesque landscape philosophies and serves as an arboretum with over 600 trees. The grounds contain the remains of numerous governors, politicians, and veterans from the Revolutionary War and Civil War. Wikipedia, Official Website",
+      "address": "521 North 13th Street",
+      "city": "Harrisburg",
+      "region": "Downtown / Capitol Complex",
+      "hours": "Grounds: 8:30 AM - 4:30 PM daily; Staff availability: Monday - Friday and the 2nd Saturday morning of the month Official Website",
+      "days_open": "Daily Official Website",
+      "admission": "Free (The cemetery is an active burial ground and listed as a historic district, with no mention of admission fees for visiting the grounds) Find a Grave, Pennsylvania Historic Preservation",
+      "website": "https://sites.google.com/view/hbgcemetery",
+      "phone": "(717) 234-8661 Official Website",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Harrisburg_Cemetery_gate.jpg",
+      "highlights": [
+        "'Final resting place of four Pennsylvania governors and numerous local and state politicians. [Pennsylvania Historic Preservation', \"Features 156 Civil War soldiers' graves, including 15 Confederate soldiers. Visit Cumberland Valley\", \"Home to a historic Caretaker's Cottage built in 1850 and designed by famed architect Andrew Jackson Downing in Gothic Revival style. Wikipedia\", 'Designated as an arboretum with a collection of over 600 trees, many of which are labeled with QR codes for visitor information. Official Website', \"The cemetery's grounds offer a scenic bluff-top view of the city of Harrisburg. Pennsylvania Historic Preservation\", 'Listed on the National Register of Historic Places since 1985. Wikipedia']"
+      ],
+      "tips": "Photography on the grounds is prohibited without prior permission from the Association. Visitors are advised to stay on the drives and avoid parking on the grass. Dogs are permitted but must be kept on a leash and cleaned up after. Be mindful of your footing as the historic grounds may have depressions or uneven terrain. Official Website",
+      "nearby": "State Street Bridge, PA State Capitol, Pennsylvania State Museum, Susquehanna River, and the Allison Hill neighborhood. Tripadvisor, Pennsylvania Historic Preservation"
+    },
+    {
+      "name": "Harrisburg University of Science and Technology",
+      "category": "University",
+      "description": "Harrisburg University of Science and Technology is a private STEM-focused university that addresses the need for increased educational opportunities in science, technology, engineering, and math careers. Its downtown Harrisburg campus features a state-of-the-art, 16-story Academic Center designed to provide a comprehensive and career-focused learning environment (Wikipedia).",
+      "address": "326 Market Street, Harrisburg, PA 17101",
+      "city": "Harrisburg",
+      "region": "Downtown / Capitol Complex",
+      "hours": "Monday–Friday: 8:00 AM – 5:00 PM; Select Saturdays: 9:00 AM – 2:00 PM (Harrisburg University Records & Registration)",
+      "days_open": "Monday - Friday (plus select Saturdays) (Harrisburg University)",
+      "admission": "Free for general campus visits and tours; undergraduate full-time tuition is $12,300 per semester (Harrisburg University)",
+      "website": "https://www.harrisburgu.edu/",
+      "phone": "(717) 901-5100 (Harrisburg University)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/4th_Street_towards_Pennsylvania_State_Capitol_Building%2C_Harrisburg%2C_PA_-_52441723198.jpg",
+      "highlights": [
+        "'16-story, 371,000-square-foot state-of-the-art Academic Center in downtown Harrisburg ([Wikipedia)', 'Specialized research centers including the Center for Advanced Entertainment and Learning Technologies (Wikipedia)', 'Designated as a National Security Agency (NSA) Center of Academic Excellence in Cyber Defense (Wikipedia)', \"Offers 15 bachelor's, 13 master's, and 3 doctoral degrees in STEM fields (Wikipedia)\", 'Campus features cutting-edge labs and contemporary apartment housing (Harrisburg University)']"
+      ],
+      "tips": "Prospective students can schedule guided campus tours, sit in on a class, and explore cutting-edge labs; visitors can also leverage the dining and fitness facilities at the adjacent Strawberry Square (Harrisburg University).",
+      "nearby": "Whitaker Center for Science and the Arts, Pennsylvania State Capitol, State Museum of Pennsylvania, Riverfront Park, Strawberry Square (Wikipedia, Harrisburg University)"
+    },
+    {
+      "name": "Hershey Gardens",
+      "category": "Park / Botanical Garden",
+      "description": "Opened in 1937, Hershey Gardens is a 23-acre botanical garden and arboretum overlooking the town of Hershey. It features a stunning variety of flowers, shrubs, and rare trees, along with indoor attractions like the Butterfly Atrium. (Hershey Gardens)",
+      "address": "170 Hotel Road",
+      "city": "Hershey",
+      "region": "Downtown / Capitol Complex",
+      "hours": "Jan 1 – Feb 28: 9 a.m. – 4 p.m. daily; Mar 1 – May 22: 9 a.m. – 5 p.m. daily; May 23 – Sep 7: 9 a.m. – 6 p.m. daily; Sep 8 – Dec 31: 9 a.m. – 5 p.m. daily; Christmas Eve: 9 a.m. – 3 p.m. (Hershey Gardens)",
+      "days_open": "Daily, year-round (except Thanksgiving and Christmas Day) (Hershey Gardens)",
+      "admission": "Regular (ages 13-61): $17.50; Senior (ages 62+): $16.50; Junior (ages 3-12): $13.50; Children (2 and under): FREE; Hershey Gardens Members: FREE; Active duty military: FREE; Non-active military/veterans/first responders: $3 off; Teachers: $3 off; Museums for All (EBT card): $5 for adults, $3 for juniors (Hershey Gardens)",
+      "website": "https://www.hersheygardens.org",
+      "phone": "717-534-3492",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Hershey_Gardens.jpg",
+      "highlights": [
+        "['23 acres of themed gardens and arboretum', 'Milton & Catherine Hershey Conservatory', 'Indoor Butterfly Atrium with hundreds of tropical butterflies', \"The Children's Garden with whimsical features\", 'More than 3,500 rose bushes in seasonal bloom', 'Scenic views of Hersheypark and the town of Hershey']"
+      ],
+      "tips": "Last entry to the Butterfly Atrium is 15 minutes before closing; strollers are not allowed inside the Atrium. Food is prohibited inside the gardens, but picnic tables are available outside the entrance. Parking is free on-site. (Hershey Gardens)",
+      "nearby": "The Hotel Hershey, Hersheypark, The Hershey Story Museum, Chocolate Town USA (Hershey Gardens)"
+    },
+    {
+      "name": "High Point Mansion (Milton S. Hershey Mansion)",
+      "category": "Landmark, Museum",
+      "description": "High Point Mansion was the home of Milton and Catherine Hershey, built in 1908 on a rise overlooking the original Hershey chocolate factory. The house served as their residence until Milton's death in 1945 and now offers guided tours that showcase its historic grandeur and original furnishings. The Hershey Story, Hershey Archives",
+      "address": "100 E Mansion Road, Hershey, PA 17033 The Hershey Story, Milton Hershey School",
+      "city": "Hershey",
+      "region": "Downtown / Capitol Complex",
+      "hours": "Tours held on select Saturdays; duration is 60-75 minutes (Note: Tours are currently on temporary hiatus for renovation, expected to resume Summer 2026) The Hershey Story",
+      "days_open": "Select Saturdays The Hershey Story",
+      "admission": "Regular (ages 13-61): $17.50; Seniors (62+), Juniors (3-12), and Military/First Responders: $15; Members of The Hershey Story: FREE; Hershey History Special (Mansion + Museum): $30 The Hershey Story",
+      "website": "https://hersheystory.org/tour-high-point-mansion/",
+      "phone": "717-534-8939 The Hershey Story",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/High_Point_Hershey_PA.jpg",
+      "highlights": [
+        "['Guided tours of the historic home of Milton and Catherine Hershey', 'Elegant interiors including a graceful rounded entry hall and octagonal breakfast room', \"Original furnishings and stories about the Hershey family's daily life and entertaining\", 'Designated National Historic Landmark status since 1978', 'Scenic views of the town and the original chocolate factory site']"
+      ],
+      "tips": "Tickets must be purchased online in advance as they are not sold at the mansion; arrive 10 minutes early; photography is strictly prohibited inside the building; the tour involves significant walking and standing. The Hershey Story",
+      "nearby": "The Hershey Story Museum, Hershey's Chocolate World, Hersheypark, Hershey Gardens, Hershey Theatre, ZooAmerica Visit Hershey & Harrisburg"
+    },
+    {
+      "name": "Historic Ephrata Cloister",
+      "category": "Museum / Historic Site",
+      "description": "Founded in 1732 by Conrad Beissel, the Historic Ephrata Cloister was a unique communal religious society of celibate Brothers and Sisters and married Householders. Today, this National Historic Landmark preserves one of the most significant collections of 18th-century Germanic-style architecture in the United States. Visitors can explore the community's rich legacy of original a cappella music, intricate Fraktur art, and early American printing history. Official History, Discover Lancaster",
+      "address": "632 West Main Street, Ephrata, PA 17522",
+      "city": "Ephrata",
+      "region": "Downtown / Capitol Complex",
+      "hours": "Wednesday – Saturday: 9:00 AM – 4:00 PM; Sunday: 12:00 PM – 4:00 PM; Monday – Tuesday: Closed. Official Website",
+      "days_open": "Wednesday, Thursday, Friday, Saturday, Sunday",
+      "admission": "Adults (ages 12-64): $10.00, Senior Citizens (65+) & AAA Members: $9.00, Youth (ages 3-11): $6.00, Children (under 3): Free. Active duty military and their families are also admitted free. Official Website, PA Bucket List",
+      "website": "https://ephratacloister.org",
+      "phone": "(717) 733-6600",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Main_buildings_of_Ephrata_Cloister.jpg",
+      "highlights": [
+        "[\"The Saron (Sisters' House) and Saal (Meetinghouse), two of the largest 18th-century Germanic-style buildings in America.\", 'A significant legacy of original a cappella music and German calligraphic art known as Fraktur.', \"The site of an ambitious printing establishment that produced 'Martyrs Mirror,' the largest book printed in colonial America.\", 'Its role as a hospital for nearly 250 American soldiers during the Revolutionary War.', 'Interactive visitor experiences including an orientation video and the Museum Store.']"
+      ],
+      "tips": "Guided tours are the only way to see the interior of the main historic buildings and typically last about 1 hour and 15 minutes. Plan to spend at least 1.5 to 2 hours total to view the introductory video and explore the grounds. Photography is permitted on the grounds for personal use, but flash and tripods are not allowed inside buildings. Official Visit Page, Lonely Planet",
+      "nearby": "Green Dragon Farmers Market (open Fridays), Ephrata Performing Arts Center, Winters Leadership Memorial, Wolf Sanctuary of PA (Lititz), and Landis Valley Village & Farm Museum. Discover Lancaster, Tripadvisor"
+    },
+    {
+      "name": "Italian Lake Park",
+      "category": "Park",
+      "description": "Italian Lake is a scenic 9.5-acre public park in Harrisburg's Uptown section, known for its serene atmosphere and formal Italian Renaissance-style gardens. The park features a picturesque Japanese-style bridge, a classical fountain once owned by Milton Hershey, and a paved walking path that encircles the lake. It serves as a popular destination for leisure walks, wildlife viewing, and community events like summer concert series. (Wikipedia), Visit Hershey & Harrisburg)",
+      "address": "2960 N 3rd St",
+      "city": "Harrisburg",
+      "region": "Downtown / Capitol Complex",
+      "hours": "Monday - Sunday: 06:00 AM - 10:00 PM (City of Harrisburg RecDesk)",
+      "days_open": "Daily (City of Harrisburg RecDesk)",
+      "admission": "Free (Uncovering PA)",
+      "website": "http://harrisburgpa.gov/bureau-of-parks-recreation/",
+      "phone": "717-232-3017 (City of Harrisburg)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Italian_Lake_2022.jpg",
+      "highlights": [
+        "'Japanese-style footbridge representing harmony between nature and man ([Wikipedia))', '\"The Dance of Eternal Spring\" fountain designed by Giuseppe Donato (Wikipedia))', \"Dauphin County Veteran's Memorial Obelisk (Wikipedia))\", 'Paved loop walkway popular for strolling and bird watching (Yelp)', 'Italian Renaissance-style formal gardens and antique streetlights (Wikipedia))', 'Summer concert series hosted by Harrisburg Young Professionals (HYP)']"
+      ],
+      "tips": "Free parking is available along 3rd Street and surrounding residential streets. It is an excellent spot for photography, particularly on the Japanese bridge, and for feeding the local waterfowl. Visit during the summer months to enjoy free bi-weekly concerts held in the park. (Tripadvisor, Reddit)",
+      "nearby": "Wildwood Park, Pennsylvania National Fire Museum, Riverfront Park), Broad Street Market"
+    },
+    {
+      "name": "John Harris-Simon Cameron Mansion",
+      "category": "Museum, Landmark",
+      "description": "Built around 1766 by John Harris Jr., the founder of Harrisburg, this National Historic Landmark is one of the oldest stone houses in the region. It was later purchased in 1863 by Simon Cameron, Abraham Lincoln's first Secretary of War, who transformed it into a grand Victorian-style mansion. Today, it serves as the headquarters for the Historical Society of Dauphin County and displays a vast collection of period furnishings and artifacts. (Historical Society of Dauphin County)",
+      "address": "219 South Front Street, Harrisburg, PA 17104-1619",
+      "city": "Harrisburg",
+      "region": "Downtown / Capitol Complex",
+      "hours": "Monday: Closed; Tuesday: 1:00 PM - 4:00 PM (Tours at 1, 2, 3); Wednesday: 1:00 PM - 4:00 PM (Tours at 1, 2, 3); Thursday: 1:00 PM - 4:00 PM (Tours at 1, 2, 3); Friday: 1:00 PM - 4:00 PM (Tours at 1, 2, 3); Saturday: Closed; Sunday: 1:00 PM - 4:00 PM (Mansion tours on 2nd Sunday of each month only) (Historical Society of Dauphin County)",
+      "days_open": "Tuesday, Wednesday, Thursday, Friday, and Select Sundays (2nd of the month for Mansion tours) (Historical Society of Dauphin County)",
+      "admission": "Adults: $8.00, Seniors (65+): $7.00, Children (6-12): $6.00, Children (0-5): Free (WhichMuseum, Tripadvisor)",
+      "website": "https://dauphincountyhistory.org",
+      "phone": "(717) 233-3462",
+      "image_url": "http://dauphincountyhistory.org/2015/wp-content/uploads/2015/10/MANSION-AERIAL-VIEW-FOR-MAGNET.jpg",
+      "highlights": [
+        "['Designated as a National Historic Landmark in 1976.', 'Original Georgian-style stone architecture dating back to 1766.', 'Extensive Victorian renovations including a solarium and grand staircase added by Simon Cameron.', 'Over 15,000 historical items, artifacts, and family furnishings on display.', 'Beautifully maintained historical gardens and a riverside gazebo.', 'Scenic views of the Susquehanna River from the front of the property.']"
+      ],
+      "tips": "Guided tours are the only way to see the interior and are offered at specific times (1, 2, and 3 PM). Free parking is conveniently located in a lot behind the mansion. Be sure to use the 17104 zip code when using GPS to ensure you are directed to the correct riverfront location. (Historical Society of Dauphin County)",
+      "nearby": "Pennsylvania State Capitol, The State Museum of Pennsylvania, City Island, Whitaker Center for Science and the Arts, Susquehanna Art Museum (Tripadvisor)"
+    },
+    {
+      "name": "Karns Fresh Foods (formerly Karns Quality Foods)",
+      "category": "Shopping (Supermarket)",
+      "description": "Karns Quality Foods is a family-owned and operated supermarket chain that has been serving the Central Pennsylvania region since 1959. Known as the \"Fresh Experts,\" the store specializes in a full-service meat department, fresh local produce from Pennsylvania farms, and a wide variety of locally made products. The Paxton Square location in Harrisburg is a community staple offering a traditional grocery experience with an emphasis on quality perishable items and value. Karns Foods Official Site, Wikipedia",
+      "address": "6001 Allentown Blvd, Harrisburg, PA 17112, USA",
+      "city": "Harrisburg",
+      "region": "Downtown / Capitol Complex",
+      "hours": "Monday - Sunday: 7:00 AM – 10:00 PM Karns Foods",
+      "days_open": "7 days a week",
+      "admission": "Free",
+      "website": "https://www.karnsfoods.com",
+      "phone": "(717) 545-4731 Karns Foods",
+      "image_url": "https://www.karnsfoods.com/images/Karns-Logo.png",
+      "highlights": [
+        "'Full-service meat department featuring USDA Choice and Prime Beef and Grade A Chicken. [Karns Foods', 'Fresh produce sourced from local Central Pennsylvania farms. Karns Foods', 'Full-service bakery department with custom cakes and hand-made pies. Karns Foods', 'Extensive seafood department with fresh deliveries. Karns Foods', 'Double coupons everyday up to $1.00. Karns Foods', 'Seniors (65+) receive a 5% discount on Tuesdays for purchases of $10 or more. Karns Foods']"
+      ],
+      "tips": "Visit on Tuesdays if you are 65+ to take advantage of the senior discount. Check the weekly ad online before visiting to find the best deals on meats and seasonal produce. Recycling glass milk bottles from local farms is encouraged. Karns Foods, Yelp",
+      "nearby": "Applebee's Grill + Bar, Fort Hunter Mansion and Park, Wildwood Park, City Island, and Kohl's. Tripadvisor, Waze"
+    },
+    {
+      "name": "Kipona Festival",
+      "category": "Festival / Entertainment",
+      "description": "Kipona is Harrisburg's premier end-of-summer celebration, a three-day festival held annually over Labor Day weekend along the Susquehanna River. The event features a diverse array of cultural performances, a Native American pow-wow, art vendors, and a signature fireworks and drone show over the water City of Harrisburg, Explore HBG.",
+      "address": "107 N Front St (Riverfront Park) and City Island",
+      "city": "Harrisburg",
+      "region": "Downtown / Capitol Complex",
+      "hours": "Saturday: 11:00 am - 7:00 pm; Sunday: 11:00 am - 8:00 pm (fireworks to follow); Monday: 11:00 am - 6:00 pm City of Harrisburg",
+      "days_open": "Saturday, Sunday, and Monday (Labor Day Weekend)",
+      "admission": "Free admission for the majority of activities; specific events like the Chili Cook-Off require a $10 ticket Explore HBG, City of Harrisburg",
+      "website": "https://harrisburgpa.gov/kipona",
+      "phone": "(717) 255-3040 City of Harrisburg",
+      "image_url": "https://harrisburgpa.gov/Kipona%20Facebook%20Event.png?t=202512090929340",
+      "highlights": [
+        "'Native American Festival on City Island featuring traditional foods, crafts, and dances [City of Harrisburg', 'Multicultural Celebration showcasing global diversity through music and dance performances Explore HBG', 'Art in the Park with over 70 artisans selling handcrafted goods along the riverfront City of Harrisburg', 'Giant Puppet Parade with water-themed costumes and artistic creations Explore HBG', 'Spectacular Sunday night drone and fireworks show over the Susquehanna River City of Harrisburg', 'Keystone Dock Dogs competition featuring canine aquatic athletics Explore HBG']"
+      ],
+      "tips": "Metered street parking is free on Sunday and Monday; on Saturday, it is free after 5:00 pm. Utilize the free ADA accessible shuttle bus that loops between City Island and the riverfront festival grounds throughout the event City of Harrisburg, Explore HBG.",
+      "nearby": "Pride of the Susquehanna Riverboat, City Island Mini Golf and Railroad, Harrisburg Beach Club, Pennsylvania State Capitol, State Museum of Pennsylvania Explore HBG"
+    },
+    {
+      "name": "Lake Tobias Wildlife Park Lake Tobias Official Website",
+      "category": "Park / Zoo Lake Tobias Official Website",
+      "description": "Established in 1965, Lake Tobias Wildlife Park is a unique family attraction set on 150 acres of rolling hills and woodlands. The park features an open-air safari tour where visitors can see over 500 mammals and birds roaming free, alongside extensive zoo exhibits and educational facilities. Lake Tobias Official Website",
+      "address": "760 Tobias Road, Halifax, PA 17032 Lake Tobias Official Website",
+      "city": "Halifax Lake Tobias Official Website",
+      "region": "Downtown / Capitol Complex",
+      "hours": "Mon-Fri: 10 a.m. - 5 p.m. (May - Labor Day); Sat-Sun: 10 a.m. - 6 p.m. (May - Sept); Sat-Sun: 10 a.m. - 5 p.m. (Oct); Sat-Sun: 10 a.m. - 3 p.m. (April & Nov, Drive-Thru Only) Lake Tobias Official Website",
+      "days_open": "Daily (May through Labor Day); Weekends Only (September and October) Lake Tobias Official Website",
+      "admission": "Zoo Exhibits + Safari Tour: $21.00 (Ages 3+); Zoo Exhibits Only: $11.00 (Ages 3+); Drive-Thru Safari: $10.00 (Ages 3+); Military (Active Duty & Veterans): FREE; Children 2 & Under: FREE Lake Tobias Official Website",
+      "website": "https://www.laketobias.com",
+      "phone": "717.362.9126 Lake Tobias Official Website",
+      "image_url": "https://www.laketobias.com/visitor-information/hours/",
+      "highlights": [
+        "'Open-air Safari Tours on converted school buses through 150 acres of land [Lake Tobias Official Website', 'J.R. Tobias Museum & Education Center featuring a 500-gallon aquarium with stingrays Lake Tobias Official Website', 'Reptiles and Exotics facility housing diverse species including white lions and baboons Lake Tobias Official Website', 'Interactive Petting Zoo for hands-on animal encounters Lake Tobias Official Website', 'Catch & Release Fishing at the stocked park lake Lake Tobias Official Website', 'Giraffe feeding deck for a close-up experience with the herd Lake Tobias Official Website']"
+      ],
+      "tips": "Admissions and Safari tours close one hour before the park's closing time. It is recommended to arrive early to ensure you have enough time to explore both the zoo exhibits and take the 45-minute safari tour. Lake Tobias Official Website",
+      "nearby": "Armstrong Valley Vineyard & Winery, Fort Hunter Mansion & Park Visit Hershey & Harrisburg, Fort Hunter Mansion & Park"
+    },
+    {
+      "name": "Little Buffalo State Park",
+      "category": "Park",
+      "description": "Little Buffalo State Park is a 923-acre scenic destination in Perry County, Pennsylvania, offering a blend of historical charm and outdoor recreation. Visitors can explore the 19th-century Shoaff’s Mill and the Clay Covered Bridge, or enjoy the 88-acre Holman Lake for fishing and boating. The park is a popular year-round spot for families to picnic, swim, and experience the natural beauty of the ridge and valley region. PA DCNR",
+      "address": "1579 State Park Road, Newport, PA 17074-9428",
+      "city": "Newport",
+      "region": "Downtown / Capitol Complex",
+      "hours": "Park: Sunrise to sunset daily. Pool (seasonal): 11:00 AM to 7:00 PM. PA DCNR",
+      "days_open": "Open every day of the year. PA DCNR",
+      "admission": "Park entry is Free. Swimming pool (cash only): Weekdays $6.00, Weekends/Holidays $7.00, Seniors $4.00, Late arrival (after 4:00 PM) $5.00, Children under 42 inches Free. Season passes: Adult $60.00, Under 12 $42.00, Senior $50.00, Family $210.00. PA DCNR",
+      "website": "https://www.pa.gov/agencies/dcnr/recreation/where-to-go/state-parks/find-a-park/little-buffalo-state-park",
+      "phone": "717-567-9255",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/ShoaffsMillLittleBuffaloStatePark.jpg",
+      "highlights": [
+        "'Shoaff’s Mill: A restored 1840s gristmill that offers milling demonstrations and apple cider pressing during events. [PA DCNR', 'Clay Covered Bridge: An 82-foot historic wooden bridge built in 1890 that spans Little Buffalo Creek. Tripadvisor', \"Holman Lake: An 88-acre lake designated as a 'Big Bass Lake' for fishing, also available for electric motor boating. PA DCNR\", 'Swimming Pool & Sprayground: A state-of-the-art pool featuring two waterslides and a sprayground, open seasonally. PA DCNR', 'Hiking Trails: Over 8 miles of trails including the Mill Race Trail and Buffalo Ridge Trail with historic charcoal hearths. PA DCNR', 'Old Fashioned Apple Festival: A popular annual event held in October featuring apple butter making and historical crafts. PA DCNR']"
+      ],
+      "tips": "Swimming is cash only, so be sure to bring physical currency. The pool often reaches capacity on weekends and holidays, so mid-week visits are recommended for a quieter experience. Don't miss the apple butter demonstrations at Shoaff’s Mill during the October Apple Festival. PA DCNR",
+      "nearby": "Boyd Big Tree Preserve Conservation Area, Colonel Denning State Park, Fowlers Hollow State Park, Tuscarora State Forest, and the Perry County Chamber of Commerce. PA DCNR"
+    },
+    {
+      "name": "Mangia Qui (Mangia Qui)",
+      "category": "Restaurant (Yelp)",
+      "description": "Mangia Qui is a sophisticated Italian restaurant in Harrisburg, Pennsylvania, offering an intimate and elegant dining experience focused on authentic regional flavors. The kitchen utilizes fresh, seasonal ingredients to craft a frequently changing menu of handmade pastas, artisan meats, and refined seafood dishes. Located directly across from the State Capitol, it provides a scenic backdrop for both casual upscale dining and private events (Mangia Qui, Tripadvisor).",
+      "address": "272 North Street, Harrisburg, PA 17101 (Mangia Qui)",
+      "city": "Harrisburg (Mangia Qui)",
+      "region": "Downtown / Capitol Complex",
+      "hours": "Tuesday - Friday: 11:00 AM - 10:00 PM; Saturday: 5:00 PM - 10:00 PM; Sunday: 10:00 AM - 2:00 PM; Monday: Closed (Yelp, Cvent)",
+      "days_open": "Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday (Yelp)",
+      "admission": "Free (Tripadvisor)",
+      "website": "https://www.mangiaqui.com",
+      "phone": "717-233-7358 (Mangia Qui)",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/595e3f021b10e33a3b281e1a/1604266271530-IZATQ538B49CLQNY6ABY/IMG_7328final.jpg",
+      "highlights": [
+        "'Authentic regional Italian cuisine with modern culinary techniques ([Nova Circle)', 'Seasonal, locally sourced ingredients used in a frequently updated menu (AAA)', 'Prime location directly across from the Pennsylvania State Capitol building (Yelp)', 'Comprehensive selection of Italian wines and creative craft cocktails (Nova Circle)', 'On-site sister establishment Suba Tapas Bar located on the upper floor (Cvent)', 'Elegant, intimate atmosphere suitable for special occasions and private gatherings (Mangia Qui)']"
+      ],
+      "tips": "Reservations are highly recommended as seating is limited; complimentary valet parking is often available on Friday and Saturday evenings. Guests can also find Mangia Qui's signature dishes at its sister restaurant, Rubicon, located next door at 270 North Street (Yelp, Mangia Qui).",
+      "nearby": "Pennsylvania State Capitol, Susquehanna River, Broad Street Market, Midtown Scholar Bookstore (AAA, Yelp)"
+    },
+    {
+      "name": "Market Street Bridge",
+      "category": "Landmark",
+      "description": "The Market Street Bridge is a historic stone-faced concrete arch bridge that spans the Susquehanna River, connecting downtown Harrisburg to City Island and Wormleysburg. Constructed in 1928, the bridge is the second oldest remaining in the city and is celebrated for its monumental urban design and vibrant nighttime illumination. Wikipedia), PennDOT",
+      "address": "Market Street & Front Street",
+      "city": "Harrisburg",
+      "region": "Downtown / Capitol Complex",
+      "hours": "Monday - Sunday: Open 24 hours",
+      "days_open": "Daily",
+      "admission": "Free",
+      "website": "https://www.pa.gov/agencies/penndot/projects-near-you/district-8-projects/market-street-bridge",
+      "phone": "717-787-2838 (PennDOT District 8)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Market_Street_Bridge_%28Harrisburg%29_HAER_color_1.jpg",
+      "highlights": [
+        "'Listed on the National Register of Historic Places since 1988. [Wikipedia)', 'Features a stunning nighttime light display over the Susquehanna River. Airial Travel', 'Provides a vital pedestrian and bicycle link to City Island and its amenities. PennDOT', 'Constructed with a decorative stone facade over a concrete arch structure. Historic Bridges', 'Offers panoramic views of the Harrisburg skyline and the Susquehanna River. Yelp', 'Part of the BicyclePA Route J network. Historic Harrisburg Association']"
+      ],
+      "tips": "Visit after dark to see the bridge's colorful illumination. Be cautious when walking as some sidewalk sections are uneven. It is generally advised not to park directly underneath the bridge. Airial Travel",
+      "nearby": "City Island, FNB Field, Riverfront Park, Pennsylvania State Capitol, Pride of the Susquehanna Riverboat. Visit Hershey Harrisburg"
+    },
+    {
+      "name": "Millersburg Ferry (Official: Millersburg Ferry Boat Association)",
+      "category": "Landmark, Entertainment, Historic Site (Millersburg Ferry)",
+      "description": "The Millersburg Ferry is the last operating all-wooden, double-sternwheel paddle boat ferry in the United States, crossing the mile-wide Susquehanna River since 1817. Listed on the National Register of Historic Places, it connects Millersburg in Dauphin County to the Perry County shore near Liverpool, offering a nostalgic and scenic journey through American history. (Millersburg Ferry)",
+      "address": "1 North St, Millersburg, PA 17061, USA (Millersburg Ferry)",
+      "city": "Millersburg (Millersburg Ferry)",
+      "region": "Downtown / Capitol Complex",
+      "hours": "Monday: 11:00 AM - 5:00 PM (approximately); Friday: 11:00 AM - 5:00 PM; Saturday & Sunday: 11:00 AM - 5:00 PM; Closed Tuesday-Thursday. Note: Operates seasonally May-October; schedule is weather and water-level dependent. (TheBurg, Millersburg Ferry)",
+      "days_open": "Monday, Friday, Saturday, Sunday (May through October) (TheBurg)",
+      "admission": "Walk-on Passenger (4+): $5.00 One-way / $10.00 Round-trip; Motorcycle & Golf-Carts + Rider: $15.00 One-way / $30.00 Round-trip; Car / Pickup / SUV / Van + Driver: $20.00 One-way / $40.00 Round-trip; Horse & Buggy + Driver: $30.00 One-way / $60.00 Round-trip; Additional Passengers (4+): $5.00 One-way / $10.00 Round-trip; Children under 3: Free (Millersburg Ferry Rates)",
+      "website": "https://www.millersburgferry.org",
+      "phone": "(717) 692-2442 (Millersburg Ferry)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Millersburg_Ferry_-_Roaring_Bull_V.jpg/1280px-Millersburg_Ferry_-_Roaring_Bull_V.jpg",
+      "highlights": [
+        "'Last operating all-wooden, double-sternwheel paddle boat ferry in the U.S. ([Millersburg Ferry)', 'Listed on the National Register of Historic Places since 1972 (Millersburg Ferry)', 'Continuous operation since 1817, connecting Dauphin and Perry counties (Millersburg Ferry)', 'Features two historic vessels: the Roaring Bull V and the Falcon III (Millersburg Ferry)', 'Accommodates passengers, vehicles, motorcycles, and even horse-and-buggies (Millersburg Ferry)', 'Offers a scenic 15–25 minute crossing of the Susquehanna River (Millersburg Ferry)']"
+      ],
+      "tips": "Cash is the preferred and fastest payment method. Arrive 10-15 minutes early during peak summer weekends. Check the official website or call the ferry hotline at (717) 692-2442 to confirm operation, as service depends on water levels and weather. (Millersburg Ferry)",
+      "nearby": "Ned Smith Center for Nature and Art, Little Buffalo State Park, Ferry Boat Campsites, Historic Millersburg Walking Tour, Downtown Millersburg Dining (Millersburg Ferry)"
+    },
+    {
+      "name": "National Watch & Clock Museum",
+      "category": "Museum",
+      "description": "The National Watch & Clock Museum features the largest and most comprehensive horological collection in North America, with over 13,000 timepieces from across the globe. Visitors can explore the art, science, and history of timekeeping, ranging from early non-mechanical tools to modern atomic clocks and intricate pocket watches. Official Site, Wikipedia",
+      "address": "514 Poplar Street",
+      "city": "Columbia",
+      "region": "Downtown / Capitol Complex",
+      "hours": "Spring/Summer/Fall (Apr 1–Nov 30): Tue-Thu & Sat 10 AM–5 PM, Fri 10 AM–4 PM, Sun 10 AM–4 PM; Winter (Dec 1–Mar 31): Thu-Sat 10 AM–4 PM, Sun 10 AM–4 PM. Official Site",
+      "days_open": "Tuesday through Sunday (April–November); Thursday through Sunday (December–March). Closed Mondays and major holidays. Official Site",
+      "admission": "Adults: $15; Seniors (65+): $12; Children (6-17): $9; Under 6: Free; Veterans (with ID): $8; Active Military Families: Free; AAA Members: $12; NAWCC & AAM Members: Free; Family (2 Adults & Children): $36. Official Site",
+      "website": "https://www.nawcc.org/visit/",
+      "phone": "717-684-8261",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/National_Watch_and_Clock_Museum_Columbia_PA.jpg",
+      "highlights": [
+        "['Engle Clock: The first monumental clock built in America, featuring daily automated demonstrations.', \"North America's largest collection of horological artifacts, with over 13,000 items.\", 'Extensive exhibits of American and European clocks and pocket watches dating back to the 16th century.', 'James Bond watch collection and specialized temporary horological exhibits.', 'Interactive displays explaining the mechanics of timekeeping and its impact on sea travel and daily life.', \"Fortunat Mueller-Maerki Library & Research Center, one of the world's pre-eminent horological libraries.\"]"
+      ],
+      "tips": "Plan your visit around the scheduled Engle Clock demonstrations (check at the front desk for times); AAA members and seniors can receive a discounted rate; the museum typically closes an hour earlier on Fridays than other weekdays. Official Site, Yelp",
+      "nearby": "Turkey Hill Experience, Chickies Rock Park, Burning Bridge Antiques Market, Columbia Crossing River Trail Center, Wright's Ferry Mansion. Tripadvisor"
+    },
+    {
+      "name": "Pennsylvania Farm Show Complex & Expo Center",
+      "category": "Entertainment / Exhibition Center",
+      "description": "The Pennsylvania Farm Show Complex & Expo Center is a premier multi-purpose venue in Harrisburg, spanning over one million square feet with 11 halls and 3 arenas. It hosts more than 250 events annually, including the iconic Pennsylvania Farm Show, the largest indoor agricultural exposition in the United States (Official Website, Wikipedia).",
+      "address": "2300 North Cameron Street, Harrisburg, PA 17110",
+      "city": "Harrisburg",
+      "region": "Downtown / Capitol Complex",
+      "hours": "Hours vary by event. For the annual Farm Show: Mon-Fri: 8 AM – 9 PM; Sat: 8 AM – 9 PM; Sun: 8 AM – 8 PM; Final Sat: 8 AM – 5 PM (Official Website).",
+      "days_open": "Daily (Open during scheduled events)",
+      "admission": "Annual Farm Show: Free Admission; Parking: $15. Other events: Admission varies by event (Official Website, Visit Hershey & Harrisburg).",
+      "website": "https://www.pa.gov/agencies/farmshow",
+      "phone": "717-787-5373",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/PA_Farm_Show_Expo_Complex_Maclay_St_Lobby.jpg",
+      "highlights": [
+        "'Over 1 million square feet of climate-controlled indoor event space ([Official Website).', 'Features 11 exhibition halls and 3 major arenas, including the New Holland Arena (Official Website).', 'Host of the largest indoor agricultural exposition in the United States (Wikipedia).', 'Home to the famous PA Preferred Food Court featuring Pennsylvania-grown specialties (Official Website).', 'Capacity for over 8,500 vehicles across on-site and off-site parking lots (Official Website).', 'Versatile venue for trade shows, sporting events, and large-scale conventions (Official Website).']"
+      ],
+      "tips": "The best time to arrive is between 9 AM and noon to avoid the heaviest crowds. Wear comfortable walking shoes as the facility is very large. Check the official calendar for specific event times and ticket information (Official Website, Visit Hershey & Harrisburg).",
+      "nearby": "Pennsylvania State Capitol, National Civil War Museum, Wildwood Park, Broad Street Market, City Island (Tripadvisor)."
+    },
+    {
+      "name": "Pennsylvania Governor's Residence Commonwealth of Pennsylvania",
+      "category": "Landmark / Official Residence Commonwealth of Pennsylvania",
+      "description": "The Pennsylvania Governor’s Residence is a 29,000-square-foot Georgian-style mansion situated along the Susquehanna River in Harrisburg. Built in the late 1960s, it serves as the official home of the Governor and a welcoming space for community events, educational programs, and public tours. Commonwealth of Pennsylvania, Wikipedia",
+      "address": "2035 N. Front St. Commonwealth of Pennsylvania",
+      "city": "Harrisburg Commonwealth of Pennsylvania",
+      "region": "Downtown / Capitol Complex",
+      "hours": "Monday: Closed; Tuesday: 10:00 a.m. – 2:00 p.m. (Guided tours by request); Wednesday: Closed; Thursday: Closed; Friday: Closed; Saturday: Closed; Sunday: Closed (Note: Tours are currently temporarily paused due to a 2025 arson attack) Commonwealth of Pennsylvania",
+      "days_open": "Tuesdays (for guided tours, by request) Commonwealth of Pennsylvania",
+      "admission": "Free (Advance scheduling and background check required) Commonwealth of Pennsylvania",
+      "website": "https://www.pa.gov/agencies/residence",
+      "phone": "717-787-1192 Commonwealth of Pennsylvania",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Pennsylvania_Governor%27s_Residence.jpg",
+      "highlights": [
+        "\"Neo-Georgian architecture designed by architect George M. Ewing [Wikipedia\", 'Beautiful gardens featuring native plants and sustainable initiatives Commonwealth of Pennsylvania', 'Extensive art collections with works by renowned Pennsylvania artists dating back to the 18th century Commonwealth of Pennsylvania', \"Two Steinway grand pianos used for concerts and entertaining guests Wikipedia\", 'Scenic location on the banks of the Susquehanna River Commonwealth of Pennsylvania', \"Annual holiday tours featuring elaborate decorations Wikipedia\"]"
+      ],
+      "tips": "All tours must be scheduled in advance and require a background check by the Pennsylvania State Police. Visitors must bring a government-issued ID and arrive 15 minutes early; backpacks and large bags are prohibited. Commonwealth of Pennsylvania",
+      "nearby": "Pennsylvania State Capitol, State Museum of Pennsylvania, Riverfront Park, Broad Street Market Tripadvisor, Visit Hershey Harrisburg"
+    },
+    {
+      "name": "Pennsylvania Renaissance Faire",
+      "category": "Entertainment / Festival",
+      "description": "The Pennsylvania Renaissance Faire is an immersive 16th-century English village experience featuring jousting knights, royal delights, and hundreds of colorfully costumed characters. Held on the 35-acre grounds of the Mount Hope Estate & Winery, it offers a magical environment with musical, stunt, and theatrical performances across multiple stages Wikipedia, Official Site.",
+      "address": "2775 Lebanon Road Mount Hope Estate",
+      "city": "Manheim",
+      "region": "Downtown / Capitol Complex",
+      "hours": "11:00 AM – 8:00 PM (Merchants and food begin closing at 7:00 PM) Official Site",
+      "days_open": "Saturdays & Sundays, August 15 – October 25, 2026 Official Site",
+      "admission": "Aug 15–Sept 13: Adults (12+) $38.95, Children (5–11) $21.95; Sept 19–Oct 25: Adults $42.95, Children $23.95; Children 4 & under Free; Sunset Admission (after 4PM): $23.95–$27.95 Official Site",
+      "website": "https://parenfaire.com",
+      "phone": "717-665-7021 Official Site",
+      "image_url": "https://upload.wikimedia.org/wikipedia/en/2/23/Parenfairelogo.jpg",
+      "highlights": [
+        "'Daily jousting tournaments and swashbuckling swordplay shows [Official Site', 'Over 100 unique artisan merchants offering hand-crafted wares and live demonstrations Official Site', 'Themed weekends including Pirate King, Highland Fling, and Halloween Days Official Site', \"Professional 'Bacchanalian' acting company performing Shakespearean dramas and improvised scenarios Official Site\", 'Authentic Tudor-style buildings and formal gardens at the historic Mount Hope Estate Wikipedia', 'On-site Swashbuckler Brewing Company and Mount Hope Estate & Winery tastings Wikipedia']"
+      ],
+      "tips": "Tickets must be purchased online in advance as there are no gate sales. Wear comfortable walking shoes to navigate the 35-acre grounds, and download the 'Daily Writ' schedule to plan your show visits Official Site, DiscoverNEPA .",
+      "nearby": "Mount Hope Estate & Winery (on-site), Hersheypark (14 miles west), Lancaster Amish Country (15 miles south), Spooky Nook Sports (Manheim) Discover Lancaster"
+    },
+    {
+      "name": "Pennsylvania State Capitol Building",
+      "category": "Landmark, Government Building",
+      "description": "The Pennsylvania State Capitol is a majestic architectural treasure and the seat of government for the Commonwealth of Pennsylvania. Designed in a Beaux-Arts style by architect Joseph Miller Huston and dedicated in 1906, it was famously described by President Theodore Roosevelt as \"the handsomest building I ever saw.\" (Wikipedia, Official Website)",
+      "address": "501 North 3rd Street, Harrisburg, PA 17120",
+      "city": "Harrisburg",
+      "region": "Downtown / Capitol Complex",
+      "hours": "Monday - Friday: 7:00 AM – 6:00 PM (Tours: 8:30 AM – 4:00 PM every half hour); Saturday, Sunday & most holidays: 9:00 AM – 4:00 PM (Tours: 9:00 AM, 11:00 AM, 1:00 PM, 3:00 PM) (Official Website, Commonwealth of PA)",
+      "days_open": "Open daily except New Year's Day, Easter Sunday, Thanksgiving Day, and Christmas Day (Official Website)",
+      "admission": "Free (Official Website, Visit Hershey & Harrisburg)",
+      "website": "https://www.pacapitol.com",
+      "phone": "(800) 868-7672 (Official Website)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Pennsylvania_State_Capitol_-_West_side.jpg",
+      "highlights": [
+        "'A massive 272-foot dome modeled after St. Peter’s Basilica in Rome, featuring a 52-million-pound structure. ([Visit Hershey & Harrisburg)', 'The \"Carpet of History\" Moravian-tile floor containing nearly 400 unique pictures depicting Pennsylvania\\'s history. (Visit Hershey & Harrisburg)', 'A grand Italian marble staircase inspired by the Paris Opera House. (Visit Hershey & Harrisburg)', 'Opulent legislative chambers for the House and Senate, featuring original mahogany desks and gold leafing. (Visit Hershey & Harrisburg)', 'The Interactive Welcome Center in the East Wing, where visitors can engage with hands-on exhibits about the legislative process. (Official Website)', 'Extensive collections of artwork, including murals by Edwin Austin Abbey and Violet Oakley. (Wikipedia)']"
+      ],
+      "tips": "Tours are free but fill quickly; it is highly recommended to schedule in advance online. On weekends and holidays, only the main Rotunda entrance at 3rd and State Streets is open. Self-guided tours are allowed on weekdays but not on weekends or holidays. (Official Website, Visit Hershey & Harrisburg)",
+      "nearby": "The State Museum of Pennsylvania, Soldiers' and Sailors' Memorial Grove, Susquehanna River, Strawberry Square, and the Forum Building. (Wikipedia)"
+    },
+    {
+      "name": "Pennsylvania State University at Harrisburg — Capital College",
+      "category": "University",
+      "description": "Penn State Harrisburg, officially known as the Pennsylvania State University at Harrisburg—Capital College, is a comprehensive undergraduate college and graduate school. Situated on a 218-acre suburban campus near the Susquehanna River, it offers more than 70 degree programs and serves as a major educational hub in the Capital Region.",
+      "address": "777 West Harrisburg Pike",
+      "city": "Middletown",
+      "region": "Downtown / Capitol Complex",
+      "hours": "Administrative Offices: Monday - Friday: 8:00 AM - 5:00 PM, Saturday - Sunday: Closed. Library (May 2026 Schedule): Monday - Thursday: 8:00 AM - 5:00 PM, Friday: 8:00 AM - 4:00 PM, Saturday - Sunday: Closed. Penn State Harrisburg, Penn State Libraries",
+      "days_open": "Monday - Sunday (Campus grounds); Monday - Friday (Administrative offices and library) Penn State Harrisburg, Penn State Libraries",
+      "admission": "Free (Visitor Access) Penn State Harrisburg (Note: Visitor parking is $2/day at kiosks) Penn State Harrisburg",
+      "website": "https://harrisburg.psu.edu/",
+      "phone": "717-948-6000 Penn State Harrisburg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Vartan_Plaza_at_Penn_State_Harrisburg.jpg",
+      "highlights": [
+        "'Offers over 70 undergraduate and graduate degree programs [Penn State Harrisburg', 'Home to the 115,000-square-foot Madlyn L. Hanes Library Wikipedia', 'Features the Mukund S. Kulkarni Theatre for performing arts Penn State Harrisburg', 'Athletic teams compete in NCAA Division III as the Nittany Lions Wikipedia', 'Campus is located on the historic site of the former Olmsted Air Force Base Wikipedia']"
+      ],
+      "tips": "Visitors should park in designated visitor spaces or purchase a daily permit for $2 at campus kiosks. The campus is conveniently located less than two miles from Harrisburg International Airport. Check the official events calendar for public performances at the Kulkarni Theatre or exhibitions in campus galleries. Penn State Harrisburg, Penn State Harrisburg",
+      "nearby": "Indian Echo Caverns (5.2 miles), Hersheypark (10 miles), Hershey Gardens (11 miles), National Civil War Museum (7.8 miles), City Island (8.8 miles) Penn State Harrisburg"
+    },
+    {
+      "name": "Railroad Museum of Pennsylvania",
+      "category": "Museum",
+      "description": "The Railroad Museum of Pennsylvania chronicles the Commonwealth's rich railroading history by preserving more than 100 historic locomotives and railroad cars. Visitors can explore interactive exhibits, view restoration activities, and learn about the industry's role in building the nation. Wikipedia",
+      "address": "300 Gap Road, Strasburg, PA 17579",
+      "city": "Strasburg",
+      "region": "Downtown / Capitol Complex",
+      "hours": "Wed-Sat: 10:00 AM - 4:00 PM; Sun: 12:00 PM - 4:00 PM (Last entry 3:30 PM); Mon-Tue: Closed Official Website",
+      "days_open": "Wednesday through Sunday Official Website",
+      "admission": "Adults (12-64): $10, Seniors (65+): $9, Youth (3-11): $8, Ages 2 & Under: Free Official Website",
+      "website": "https://www.rrmuseumpa.org",
+      "phone": "717-687-8628 Official Website",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Railroad_Museum_of_Pennsylvania_Entrance_-_September_2025.jpg",
+      "highlights": [
+        "'Collection of more than 100 historic locomotives and railroad cars [Official Website', 'Interactive educational exhibits and hands-on learning center Wikipedia', 'Viewable restoration activities and closed-circuit television gallery Wikipedia', 'Large-scale model railroad layouts on display Yelp', 'Outdoor railyard and restoration areas Wikipedia']"
+      ],
+      "tips": "The museum is closed on Mondays and Tuesdays; ensure you arrive before the last entry at 3:30 PM. It is conveniently located directly across the street from the Strasburg Rail Road. Official Website, Tripadvisor",
+      "nearby": "Strasburg Rail Road, National Toy Train Museum, Choo Choo Barn, Red Caboose Motel PA Bucket List"
+    },
+    {
+      "name": "Reservoir Park Wikipedia)",
+      "category": "Park Wikipedia)",
+      "description": "Reservoir Park is the oldest and largest municipal park in Harrisburg, spanning approximately 85 acres in the Allison Hill neighborhood. It serves as a central hub for outdoor festivals, cultural events, and the National Civil War Museum, while offering panoramic views of the city skyline, Susquehanna River, and Blue Mountains Wikipedia), Kupi.com.",
+      "address": "100 Concert Drive, Harrisburg, PA 17103 Harrisburg RecDesk",
+      "city": "Harrisburg Harrisburg RecDesk",
+      "region": "Downtown / Capitol Complex",
+      "hours": "Monday: 06:00 AM - 10:00 PM, Tuesday: 06:00 AM - 10:00 PM, Wednesday: 06:00 AM - 10:00 PM, Thursday: 06:00 AM - 10:00 PM, Friday: 06:00 AM - 10:00 PM, Saturday: 06:00 AM - 10:00 PM, Sunday: 06:00 AM - 10:00 PM Harrisburg RecDesk",
+      "days_open": "Daily Harrisburg RecDesk",
+      "admission": "Park: Free. National Civil War Museum: Adults (18+): $18.00, Seniors (60+): $17.00, Students (6+): $16.00, Family Pass (2 adults and up to 3 students): $68.00 National Civil War Museum",
+      "website": "https://harrisburgpa.gov/parks-recreation/",
+      "phone": "717-232-3017 Harrisburg RecDesk",
+      "image_url": "https://commons.wikimedia.org/wiki/File:Harrisburg_(2643390032",
+      "highlights": [
+        "'National Civil War Museum [Wikipedia)', 'Levitt Pavilion open-air amphitheater for concerts and movies ExploreHBG', 'Overlooks with panoramic views of the Susquehanna River and Blue Mountains Kupi.com', 'Walk of Valor memorial Wanderlog', 'The Art Village and Artist Studios ExploreHBG', 'Basketball and tennis courts Harrisburg RecDesk']"
+      ],
+      "tips": "Visit the park's overlooks at sunset for the best panoramic views of the city. Check the local summer event calendar for free concerts like 'Jazz Under the Stars' at the Levitt Pavilion. Wear comfortable walking shoes as the park connects to the 20-mile Capital Area Greenbelt trail ExploreHBG, Triple Crown Corporation",
+      "nearby": "State Capitol Building, Susquehanna River, City Island, Italian Lake ExploreHBG, VisitPA"
+    },
+    {
+      "name": "Riverfront Park Wikipedia)",
+      "category": "Park Wikipedia)",
+      "description": "Riverfront Park is a scenic public park in Harrisburg, Pennsylvania, that stretches for miles along the Susquehanna River. It features a concrete esplanade, lush green spaces, and well-maintained trails perfect for walking, running, and biking. The park is a central hub for outdoor recreation and hosts many of the city's major annual festivals and community events Explore Harrisburg, Wikipedia).",
+      "address": "Vaughn to Hanna Streets, Harrisburg, PA 17101 City of Harrisburg RecDesk",
+      "city": "Harrisburg City of Harrisburg RecDesk",
+      "region": "Downtown / Capitol Complex",
+      "hours": "Monday - Sunday: 6:00 AM – 9:00 PM Pacer Walking App",
+      "days_open": "Daily Pacer Walking App",
+      "admission": "Free Tripadvisor (Special events and concerts may require tickets Live Nation)",
+      "website": "https://harrisburgpa.gov/services/parks_recreation/index.php",
+      "phone": "(717) 232-3017 City of Harrisburg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Hbg_Riverfront_Park_7-4-21.jpg",
+      "highlights": [
+        "'Scenic walking and biking paths along the Susquehanna River [Tripadvisor', 'Host venue for major annual festivals like Kipona and ArtsFest Wikipedia)', 'Beautiful Sunken Gardens and numerous public art installations Harrisburg Magazine', 'Integral part of the 20-mile Capital Area Greenbelt Wikipedia)', 'Historic monuments, including the John Harris Sr. gravesite and Kunkel Memorial Plaza Wikipedia)', 'Panoramic views of the river, City Island, and Blue Mountain Wikipedia)']"
+      ],
+      "tips": "Visit during sunset for the best views over the Susquehanna River Uncovering PA. Use City Island or downtown garages for parking to avoid street meters Airial Travel. The paved paths are highly accessible for wheelchairs and strollers Airial Travel.",
+      "nearby": "City Island, Walnut Street Bridge, Pennsylvania State Capitol, and the State Museum of Pennsylvania Tripadvisor, Visit Hershey Harrisburg"
+    },
+    {
+      "name": "Rockville Bridge Viewpoint (Fort Hunter Mansion & Park)",
+      "category": "Landmark",
+      "description": "The Rockville Bridge is the world's longest stone masonry arch railroad viaduct, spanning 3,820 feet across the Susquehanna River with 48 distinct arches. Completed in 1902 by the Pennsylvania Railroad, this historic structure remains a vital, active crossing for Norfolk Southern freight and Amtrak passenger trains Wikipedia, Visit Hershey & Harrisburg/2084/)",
+      "address": "5300 N. Front St",
+      "city": "Harrisburg",
+      "region": "Downtown / Capitol Complex",
+      "hours": "Park: Every day, Dawn - Dusk; Mansion: Tue-Sat 10:00 AM - 4:30 PM, Sun 12:00 PM - 4:30 PM Fort Hunter Mansion & Park",
+      "days_open": "Park: Every day; Mansion: Tuesday - Sunday (May 1 - Dec 23) Fort Hunter Mansion & Park",
+      "admission": "Park: Free; Mansion Tours: $8 Adults, $7 Seniors/Military/AAA/Library Members, $5 Students and Children Fort Hunter Mansion & Park",
+      "website": "https://forthunter.org",
+      "phone": "(717) 599-5751",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Rockville_Bridge_03.jpg",
+      "highlights": [
+        "[\"World's longest stone masonry arch railroad viaduct at 3,820 feet\", 'Listed on the National Register of Historic Places since 1975', 'Designated a National Historic Civil Engineering Landmark in 1979', 'Constructed with 48 stone arches and 220,000 tons of stone', \"Active rail crossing for Norfolk Southern and Amtrak's Pennsylvanian route\", 'Panoramic public viewpoint located at Fort Hunter Mansion & Park']"
+      ],
+      "tips": "The best public viewing area is at the southern end of Fort Hunter Mansion & Park near the historical marker. Railfans may also find excellent views from the Marysville boat launch or the Bridgeview Bed & Breakfast on the west shore Spotatrain",
+      "nearby": "Fort Hunter Mansion, Susquehanna Statue of Liberty, Capital Area Greenbelt, Wildwood Park Susquehanna Greenway"
+    },
+    {
+      "name": "Second Street Restaurant Row",
+      "category": "Restaurant & Entertainment District Wikipedia",
+      "description": "Second Street Restaurant Row is the heart of Harrisburg’s nightlife and dining scene, located in the historic downtown Capital District. This vibrant corridor features a dense collection of over 50 establishments ranging from farm-to-fork gastropubs and upscale dining to lively cocktail bars and nightclubs Inn on Church Road, The Central Hotel.",
+      "address": "North 2nd Street (between Market and Forster Streets) Wikipedia",
+      "city": "Harrisburg Wikipedia",
+      "region": "Downtown / Capitol Complex",
+      "hours": "Monday: 11:00 AM - 2:00 AM; Tuesday: 11:00 AM - 2:00 AM; Wednesday: 11:00 AM - 2:00 AM; Thursday: 11:00 AM - 2:00 AM; Friday: 11:00 AM - 2:00 AM; Saturday: 11:00 AM - 2:00 AM; Sunday: 11:00 AM - 2:00 AM (Individual establishment hours vary; restaurants typically serve lunch and dinner while bars remain open until 2:00 AM) Tripadvisor, Visit Hershey & Harrisburg",
+      "days_open": "Daily Visit Hershey & Harrisburg",
+      "admission": "Free Visit Hershey & Harrisburg",
+      "website": "https://harrisburgdid.com",
+      "phone": "717-236-9762 (Harrisburg DID) Harrisburg DID",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Harrisburg%2C_PA_2nd_Street_2019.jpg",
+      "highlights": [
+        "'Farm-to-fork dining and diverse culinary options [Visit Hershey & Harrisburg', 'Dense concentration of bars, pubs, and nightlife Wikipedia', \"Home to major events like Harrisburg Restaurant Week and Saint Patrick's Day Parade Wikipedia\", 'Outdoor dining programs including \"Saturday Nights in the City\" Wikipedia', 'Centrally located within walking distance of the State Capitol and Whitaker Center LoopNet']"
+      ],
+      "tips": "Street parking in downtown Harrisburg is free after 5:00 PM, providing more time to explore the various restaurants and bars Visit Hershey & Harrisburg. The area is most active on weekend nights, often drawing thousands of visitors for nightlife and special events Wikipedia.",
+      "nearby": "Pennsylvania State Capitol, Whitaker Center for Science and the Arts, Strawberry Square, Riverfront Park, City Island The Central Hotel"
+    },
+    {
+      "name": "SoMa District (South of Market Street)",
+      "category": "Neighborhood / Arts & Entertainment District",
+      "description": "The SoMa District is a vibrant urban neighborhood in downtown Harrisburg that has undergone significant revitalization into a hub for arts, dining, and boutique shopping. Centered around South Third Street, the district is known for its historic architecture, monthly block parties, and unique pop-up tasting rooms featuring Pennsylvania's craft beverages (Harristown, Explore HBG).",
+      "address": "19-23 S. Third St, Harrisburg, PA 17101",
+      "city": "Harrisburg",
+      "region": "Downtown / Capitol Complex",
+      "hours": "Neighborhood: Open 24/7; Business hours vary by establishment (Representative anchor hours: Wed-Fri: 4:00 PM - 10:00 PM, Sat: 12:00 PM - 10:00 PM, Sun-Tue: Closed) (Sara Bozich, Central Penn Business Journal)",
+      "days_open": "Daily (Explore HBG)",
+      "admission": "Free (Explore HBG)",
+      "website": "https://www.harristown.net/projects/",
+      "phone": "(717) 255-1038 (Harristown)",
+      "image_url": "https://www.harristown.net/wp-content/uploads/2023/09/Soma-Main.jpg",
+      "highlights": [
+        "'Monthly SoMa Block Parties with live music and food trucks ([Sara Bozich)', 'Sip@SoMa pop-up tasting rooms for PA breweries and wineries (Explore HBG)', 'Unique boutique shopping at Found Collab and Tamara Boutique (Central Penn Business Journal)', 'Upscale residential apartments in restored historic row buildings (Harristown)', 'Authentic dining options including El Sol Mexican Restaurant (Explore HBG)', 'Vibrant streetscape with decorative overhead lighting and murals (Sara Bozich)']"
+      ],
+      "tips": "Plan your visit for the third Friday of the month (\"3rd in the Burg\") to enjoy the district's signature block parties and special events. Parking is most convenient in the nearby Walnut Street or Chestnut Street garages (Sara Bozich, Apartments.com).",
+      "nearby": "Strawberry Square, Whitaker Center for Science and the Arts, Pennsylvania State Capitol, Susquehanna River / Riverfront Park (Apartments.com)"
+    },
+    {
+      "name": "Stock's on 2nd",
+      "category": "Restaurant / Gastropub",
+      "description": "Stock's on 2nd is a farm-to-fork Gastropub in Harrisburg, PA, specializing in modern American cuisine made with locally sourced ingredients. The restaurant features a sophisticated yet rustic atmosphere with high ceilings, mahogany woodwork, and a bar dedicated to an extensive selection of American whiskeys and bourbons. (Stock's on 2nd)",
+      "address": "211 N 2nd St, Harrisburg, PA 17101",
+      "city": "Harrisburg",
+      "region": "Downtown / Capitol Complex",
+      "hours": "Monday - Thursday: 11:30 AM - Late; Friday: 11:30 AM - Late; Saturday: 5:00 PM - Late; Sunday: 4:00 PM - Late (Stock's on 2nd, Tripadvisor)",
+      "days_open": "Monday - Sunday (Stock's on 2nd)",
+      "admission": "Free (Tripadvisor)",
+      "website": "https://www.stocksonsecond.com",
+      "phone": "(717) 233-6699",
+      "image_url": "https://www.stocksonsecond.com/wp-content/uploads/sign10-800x533.jpg",
+      "highlights": [
+        "\"Farm-to-fork gastropub sourcing 90% of products from local farms and fisheries ([Stock's on 2nd)\", \"Extensive bar specializing in American whiskeys, bourbons, and barrel-aged cocktails (Stock's on 2nd)\", \"Prohibition-era craft cocktail menu featuring freshly squeezed juices and high-quality ingredients (Stock's on 2nd)\", \"Features a 40-bottle wine list with all selections priced under $40 (Stock's on 2nd)\", 'Recipient of multiple \"Simply the Best\" awards, including Best Martini Bar and Best Power Lunch (Stock\\'s on 2nd)', \"Versatile event space accommodating private dining and special events for up to 80 guests (Stock's on 2nd)\"]"
+      ],
+      "tips": "Take advantage of Happy Hour specials available Monday through Friday from 5:00 PM to 7:00 PM. Street parking at meters is free after 7:00 PM and all day on Sundays, or you can use the River Street Garage located directly across the street. (Stock's on 2nd)",
+      "nearby": "Pennsylvania State Capitol, City Island, Open Stage, Hilton Harrisburg (Tripadvisor)"
+    },
+    {
+      "name": "Strasburg Rail Road (Official Website)",
+      "category": "Heritage Railroad & Entertainment (Wikipedia)",
+      "description": "The Strasburg Rail Road is America's oldest continuously operating railroad, chartered in 1832. It offers visitors an authentic steam train experience through 2,500 acres of scenic Lancaster County Amish countryside on a 45-minute round-trip journey. (Official Website, Wikipedia)",
+      "address": "301 Gap Road, Ronks, PA 17572-9566 (Official Website, Google Maps)",
+      "city": "Ronks (Official Website)",
+      "region": "Downtown / Capitol Complex",
+      "hours": "Trains typically depart at 90-minute intervals starting around 11:00 AM, with common departure times at 11:00 AM, 12:30 PM, 2:00 PM, and 3:30 PM (varies by day and season) (Discover Lancaster, Etix Schedule)",
+      "days_open": "Daily during peak season (May - October); operates on a reduced schedule in winter (Etix Calendar)",
+      "admission": "Adult (12+): Coach $31.46, Open Air $33.71, First Class Lounge $47.19; Child (2-11): Coach $25.84, Open Air $28.09, First Class Lounge $47.19; Under 2: Free (Etix Official Ticketing, Discover Lancaster)",
+      "website": "https://www.strasburgrailroad.com/",
+      "phone": "1-800-514-3849 (Official Website)",
+      "image_url": "https://strasburgrailroad.com/wp-content/uploads/2026/04/DailyExcursion.webp",
+      "highlights": [
+        "'Authentic steam-powered locomotive excursions ([Official Website)', 'Scenic 45-minute round trip through 2,500 acres of Amish countryside (Discover Lancaster)', 'Multiple seating classes including Coach, Open-Air, and First-Class Lounge (Official Website)', 'Special events such as Day Out With Thomas and Murder Mystery Train (Official Website)', 'On-site dining at Cafe 1832 and shopping at the General Store (Official Website)', 'Historical status as the oldest public utility in Pennsylvania (Wikipedia)']"
+      ],
+      "tips": "Advanced reservations are highly recommended, especially for first-class cars and special event trains. Arrive at least 15-30 minutes prior to your scheduled departure time to allow for boarding. (Official Website, Tripadvisor)",
+      "nearby": "Railroad Museum of Pennsylvania, Cherry Crest Adventure Farm, National Toy Train Museum, Amish farm tours and shops (Tripadvisor)"
+    },
+    {
+      "name": "Strawberry Square",
+      "category": "Shopping & Entertainment Complex",
+      "description": "Strawberry Square is a dynamic downtown Harrisburg hub featuring a unique mix of award-winning contemporary design and authentic city block restorations. It serves as a multifaceted complex that blends commerce, community, and culinary delights, hosting offices, residences, retail shops, and vibrant community events (Strawberry Square Official Website).",
+      "address": "320 Market Street, Suite 273E, Harrisburg, PA 17101",
+      "city": "Harrisburg",
+      "region": "Downtown / Capitol Complex",
+      "hours": "Monday – Friday: 6:00 AM – 7:00 PM; Saturday: 10:00 AM – 3:00 PM; Sunday: Closed (Strawberry Square Official Website).",
+      "days_open": "Monday – Saturday",
+      "admission": "Free for general entry; specific events or vendors may have individual fees (Airial Travel).",
+      "website": "https://www.strawberrysquare.com/",
+      "phone": "(717) 255-1020 (Harristown Development Corporation)",
+      "image_url": "https://www.strawberrysquare.com/wp-content/uploads/2025/06/strawberry-sq-523x425-2.jpg",
+      "highlights": [
+        "'HBG Flea Market: A recurring market featuring over 60 local artisans and vintage businesses ([Airial Travel).', \"Diverse Food Court: A wide array of dining options including Sakura Tokyo Express, Chef Chen's, and Tropical Smoothie Cafe (Strawberry Square Official Website).\", 'Educational Hub: Home to campuses for Temple University Harrisburg and Harrisburg University of Science and Technology (Strawberry Square Official Website).', 'Art and Murals: Features vibrant indoor murals commissioned by Sprocket Mural Works (Airial Travel).', 'Mixed-Use Space: Integrated complex including luxury residences, modern office suites, and the Fit on Market fitness center (Strawberry Square Official Website).']"
+      ],
+      "tips": "Visit on 'First Saturdays' to experience the HBG Flea Market. Note that individual business hours for shops and restaurants may differ from the building's general facility hours (Airial Travel, Strawberry Square Official Website).",
+      "nearby": "Pennsylvania State Capitol, Whitaker Center for Science and the Arts, Harrisburg Train Station, and the Susquehanna Riverfront (Strawberry Square Official Website)."
+    },
+    {
+      "name": "Tattered Flag Brewery & Still Works (VisitPA)",
+      "category": "Restaurant, Bar, Brewery, Distillery (The Beer Thrillers)",
+      "description": "Tattered Flag Brewery & Still Works was a veteran-owned and operated brewery and distillery that served as a community staple in Middletown, PA. Known for its innovative craft beers and hand-crafted spirits, the business operated out of a renovated 13,000 sq.ft. historic Elks building before closing its doors in late 2023 (The Beer Thrillers).",
+      "address": "1 S Union St, Middletown, PA 17057 (Beer Busters)",
+      "city": "Middletown (VisitPA)",
+      "region": "Downtown / Capitol Complex",
+      "hours": "(Last operational hours) Wed-Thu: 4:00 PM - 10:00 PM, Fri-Sat: 11:30 AM - 12:00 AM, Sun: 11:30 AM - 10:00 PM, Mon-Tue: Closed. Note: The brewery permanently closed on October 1, 2023 (Beer Busters, Breweries in PA).",
+      "days_open": "Wednesday - Sunday (Historic schedule) (Beer Busters)",
+      "admission": "Free (The Beer Thrillers)",
+      "website": "https://beerbusterspodcast.com/come-raise-a-flag-at-tattered-flag-brewing/",
+      "phone": "717-616-8799 (VisitPA)",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/65d630e36d564417fb11c487/1738282079326-U5N6SVFY63ZI2E5FWUPN/Screenshot+2025-01-30+at+6.04.07%E2%80%AFPM.png",
+      "highlights": [
+        "'Veteran-owned business founded by Susquenita High School graduates ([The Beer Thrillers).', 'First hybrid brewery and distillery opened as a single entity in Pennsylvania (Hollywood Casino).', 'Located in the historic 1910 Elks building featuring a multi-level taproom and restaurant (Tower Investments).', 'Award-winning brand recognized for quality and innovation in craft beer and spirits (Hollywood Casino).', 'The 13,000 sq.ft. facility included a production brewery, a distillery, and space for large-scale events (Tower Investments).']"
+      ],
+      "tips": "Although the original Tattered Flag brewery has closed, the historic Middletown location has been leased by Yah Brew for its own production and events as of mid-2025 (The Beer Thrillers).",
+      "nearby": "Penn State Harrisburg, Harrisburg International Airport (HIA), The Vineyard and Brewery at Hershey, Boneshire Brew Works (Tower Investments, Distillery.news)"
+    },
+    {
+      "name": "The Amish Farm and House",
+      "category": "Museum / Educational Farm Official Site",
+      "description": "The Amish Farm and House, established in 1955, is the first Amish-focused tourist attraction in the United States and a landmark in Lancaster County. This nearly 300-year-old educational farm museum offers an authentic look into Amish culture, heritage, and modern life through unscripted guided tours and hands-on farm experiences Official Site, WHP News",
+      "address": "2395 Covered Bridge Drive, Lancaster, PA 17602, US Official Site",
+      "city": "Lancaster Discover Lancaster",
+      "region": "Downtown / Capitol Complex",
+      "hours": "Seasonal Hours: March 14–May 21 (10:00 AM – 6:00 PM), May 22–September 7 (9:00 AM – 6:00 PM), September 8–November 30 (9:00 AM – 5:00 PM), December 1–December 25 (10:00 AM – 4:00 PM), December 26–December 31 (10:00 AM – 5:00 PM) Official Site",
+      "days_open": "Open year-round, 7 days a week (Closed: Easter, Thanksgiving, Christmas Eve, Christmas, New Year’s Day) Official Site",
+      "admission": "House Tour: Adult (12-59) $13.95, Senior (60+) $12.95, Child (5-11) $9.95; Classic Bus Tour: Adult (12-59) $28.95, Senior (60+) $27.95, Child (5-11) $19.95; Premium Package (Bus & House): Adult (12-59) $36.95, Senior (60+) $35.95, Child (5-11) $25.95; Children under 5 are Free for all standard tours Official Site",
+      "website": "https://amishfarmandhouse.com",
+      "phone": "(717) 394-6185 Discover Lancaster",
+      "image_url": "https://amishfarmandhouse.com/wp-content/uploads/sites/7782/2025/03/Amish-Farm-House-19-e1743099983573.png",
+      "highlights": [
+        "'Guided tours of a historic 1805 farmhouse once inhabited by an Amish family [Official Site', 'Scenic 90-minute countryside bus tours through active Amish farmlands Official Site', '15-acre educational farm featuring a one-room schoolhouse, blacksmith shop, and farm animals Official Site', 'Authentic Amish-run BBQ Barn offering picnic-style meals and local treats like whoopie pies Official Site', 'Unique seasonal activities including Goat Yoga, Sheep Shearing Days, and Sunset Dinner Tours Official Site']"
+      ],
+      "tips": "Arrive early to spend time exploring the 15-acre farm at your own pace; reservations are highly recommended for the popular countryside bus tours. Please note the second floor of the historic farmhouse is not handicap accessible Official Site",
+      "nearby": "Sight & Sound Theatre, American Music Theatre, Dutch Wonderland, Shops at Rockvale, Tanger Outlets, Bird-in-Hand Farmers Market Official Site"
+    },
+    {
+      "name": "The Circular at The Hotel Hershey",
+      "category": "Restaurant",
+      "description": "The Circular is the flagship restaurant at The Hotel Hershey, offering an elegant yet casual dining experience with fresh twists on iconic American cuisine. Originally opened in 1934, the restaurant features a unique architectural design by Milton S. Hershey that ensures every guest enjoys a view of the beautiful formal gardens. (Official Website, Hershey Stories)",
+      "address": "100 Hotel Rd, Hershey, PA 17033",
+      "city": "Hershey",
+      "region": "Downtown / Capitol Complex",
+      "hours": "Breakfast: Daily, 7:00 AM – 10:30 AM; Dinner: Wed & Thu, 5:00 PM – 9:00 PM; Fri & Sat, 5:00 PM – 9:30 PM (Closed Sun – Tue for dinner) (Official Website)",
+      "days_open": "Daily for breakfast; Wednesday – Saturday for dinner",
+      "admission": "Free entry; Breakfast Buffet: $34 for adults (12+), $21 for kids (3-11); Dinner: A la carte pricing (Official Website)",
+      "website": "https://www.thehotelhershey.com/dining/the-circular.php",
+      "phone": "717-534-8800",
+      "image_url": "https://www.thehotelhershey.com/assets/images/dining/the-circular/circular1.jpg",
+      "highlights": [
+        "[\"Iconic 1934 design by Milton S. Hershey with a unique circular shape ensuring no guest has a 'bad seat'\", \"Floor-to-ceiling windows offering sweeping views of the hotel's famous formal gardens\", 'Signature breakfast buffet featuring chocolate bread pudding and made-to-order omelets', 'Upscale casual menu specializing in fresh twists on classic American cuisine', \"Award-winning desserts and innovative cocktails, including the 'Sphered Fashioned'\", 'Centrally located circular bar providing a vibrant social atmosphere']"
+      ],
+      "tips": "Dinner reservations are highly recommended and can be made online or by phone, while breakfast is walk-in only. The attire is resort casual, and parking at the hotel is free for guests. (OpenTable, Official Website)",
+      "nearby": "Hersheypark, The Spa At The Hotel Hershey, Hershey Gardens, Hershey's Chocolate World, ZooAmerica (Official Website)"
+    },
+    {
+      "name": "The Hotel Hershey",
+      "category": "Resort & Landmark",
+      "description": "The Hotel Hershey is a historic AAA Four Diamond luxury resort situated on a hilltop overlooking Chocolate Town® U.S.A. Opened in 1933 by Milton S. Hershey, it features Spanish Colonial Revival architecture, refined elegance, and a world-class Chocolate Spa. The Hotel Hershey Official Site, Wikipedia",
+      "address": "100 Hotel Road, Hershey, PA 17033-0400",
+      "city": "Hershey",
+      "region": "Downtown / Capitol Complex",
+      "hours": "Hotel: 24/7 Daily; The Circular Breakfast: 7:00 AM - 10:30 AM Daily; The Circular Dinner: Wed-Thu 5:00 PM - 9:00 PM, Fri-Sat 5:00 PM - 9:30 PM (Closed Sun-Tue); 1933 Restaurant: Mon-Sat 11:30 AM - 11:00 PM, Sun 10:00 AM - 9:00 PM; Trevi 5: Tue-Sun 11:30 AM - 9:00 PM (Closed Mon); Chef's Market: Mon-Thu 6:30 AM - 7:00 PM, Fri-Sun 6:30 AM - 8:00 PM; Iberian Lounge: Mon-Fri 4:00 PM - 12:00 AM, Sat-Sun 2:00 PM - 12:00 AM; Spa: 8:00 AM - 7:00 PM Daily. Dining Hours, Spa Hours",
+      "days_open": "Open Daily",
+      "admission": "Free to enter the hotel grounds and lobby; Dining, Spa, and Shopping prices vary. Standard Breakfast Buffet at The Circular: $34 for adults (12+), $21 for kids (3-11). Mother's Day Brunch: $79 for adults (13+), $38 for youth (9-12), $28 for children (3-8). The Hotel Hershey",
+      "website": "https://www.thehotelhershey.com",
+      "phone": "844-330-1711 (Reservations), 717-533-2171 (Direct)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/HotelHersheyFountainLobby.jpg/330px-HotelHersheyFountainLobby.jpg",
+      "highlights": [
+        "['Historic Spanish Colonial Revival architecture with mosaic tiles and archways', 'The Spa At The Hotel Hershey (The Chocolate Spa) offering unique cocoa-based treatments', 'Award-winning dining at The Circular, 1933 Restaurant & Tavern, and Trevi 5', '23 acres of beautiful botanical gardens at the nearby Hershey Gardens', 'Complimentary chocolate bar at check-in for overnight guests and refined seasonal activities', 'Part of Historic Hotels of America and recipient of the AAA Four Diamond Award']"
+      ],
+      "tips": "While the hotel's pool and fitness facilities are exclusive to overnight guests, day visitors can enjoy the public dining rooms, The Chocolate Spa, and various boutique shops. Reservations are highly recommended for the award-winning restaurants and spa treatments, especially during peak seasons and weekends. Complimentary valet parking is available for guests dining at the hotel. The Hotel Hershey FAQs",
+      "nearby": "Hersheypark, Hershey Gardens, ZooAmerica, Hershey's Chocolate World, The Hershey Story Museum, Hershey Theatre. Hershey Area Attractions"
+    },
+    {
+      "name": "The National Civil War Museum",
+      "category": "Museum",
+      "description": "The National Civil War Museum is one of the largest museums in the world dedicated solely to the American Civil War, offering a balanced and unbiased narrative of the conflict. It interprets the full story of the war through the perspectives of both Northern and Southern viewpoints, as well as military and civilian lives affected by the struggle (National Civil War Museum, VisitPA).",
+      "address": "One Lincoln Circle, Harrisburg, PA 17103",
+      "city": "Harrisburg",
+      "region": "Downtown / Capitol Complex",
+      "hours": "Monday-Saturday: 10:00 a.m. – 5:00 p.m., Sunday: 12:00 p.m. – 5:00 p.m. (Summer Hours from early May through Labor Day: 10:00 a.m. – 5:00 p.m. daily) (National Civil War Museum)",
+      "days_open": "Open daily except for New Year's Day, Easter, Thanksgiving, Christmas Eve, and Christmas (National Civil War Museum)",
+      "admission": "Adults (18+): $18.00, Seniors (60+): $17.00, Students (6+): $16.00, Family Pass (2 adults and up to 3 students): $68.00, Museums for All (EBT/Access/SNAP card holders): Free for 1 adult and up to 3 students in the same household (National Civil War Museum)",
+      "website": "https://www.nationalcivilwarmuseum.org",
+      "phone": "(717) 260-1861",
+      "image_url": "https://www.nationalcivilwarmuseum.org/wp-content/uploads/2023/07/Pursuit_of_freedom.jpg",
+      "highlights": [
+        "'Extensive collection of over 25,000 artifacts, manuscripts, and photographs ([National Civil War Museum)', '\"Pursuit of Freedom: The Abolition of Slavery\" exhibit featuring abolitionist leaders (National Civil War Museum)', '\"Women at War\" expanded exhibit highlighting the roles of women in hospitals, camps, and on the battlefield (National Civil War Museum)', '\"The Overland Campaign of 1864\" exhibit detailing the strategic clashes between Grant and Lee (National Civil War Museum)', 'Over 25,000 square feet of exhibition space across two floors (National Civil War Museum)', 'Affiliation with the Smithsonian Institution providing world-class educational depth (National Civil War Museum, Tripadvisor)']"
+      ],
+      "tips": "Visitors should plan to spend between 2 to 4 hours to fully explore the self-guided galleries. The museum is fully ADA compliant with elevators and offers free on-site parking for cars, buses, and RVs (National Civil War Museum).",
+      "nearby": "Reservoir Park, Pennsylvania National Fire Museum, State Museum of Pennsylvania, Fort Hunter Mansion and Park, John Harris-Simon Cameron Mansion (Tripadvisor, Battlefields.org)"
+    },
+    {
+      "name": "The State Museum of Pennsylvania (Official Website)",
+      "category": "Museum (Tripadvisor)",
+      "description": "The State Museum of Pennsylvania is the official museum of the Commonwealth, dedicated to preserving and interpreting Pennsylvania's history, heritage, and culture. Located adjacent to the State Capitol, it houses expansive natural and cultural history collections spanning from prehistoric times to the modern industrial age (PA.gov, Wikipedia).",
+      "address": "300 North Street, Harrisburg, PA 17120 (Official Website)",
+      "city": "Harrisburg (Official Website)",
+      "region": "Downtown / Capitol Complex",
+      "hours": "Wednesday–Saturday: 9:00 AM – 4:30 PM; Sunday: 12:00 PM – 4:30 PM; Monday–Tuesday: Closed (Official Website)",
+      "days_open": "Wednesday–Sunday (Official Website)",
+      "admission": "Adults (12-64): $7.00, Senior Citizens (65+): $6.00, Children (1-11): $5.00, Active Duty Military and Family: Free, Retired Military: Free (Tripadvisor)",
+      "website": "https://statemuseumpa.org",
+      "phone": "(717) 787-4980 (Official Website)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/State_Museum_of_Pennsylvania_building.jpg",
+      "highlights": [
+        "\"Mammal Hall featuring dioramas of Pennsylvania's native species ([Official Website)\", 'Memorial Hall with the colossal bronze statue of William Penn (Official Website)', 'The Marshalls Creek Mastodon, a nearly complete skeleton (Official Website)', 'Village Square, a life-size 19th-century Pennsylvania streetscape (Official Website)', \"Objects of Valor exhibit showcasing Civil War artifacts and the Pickett's Charge painting (Official Website)\", 'Revolutionary Things special exhibition through August 2026 (PA.gov)']"
+      ],
+      "tips": "The 3rd floor and Planetarium are currently closed for renovations as of early 2026. On-site parking is not available, but several city-owned garages are within walking distance (Official Website, PA Bucket List).",
+      "nearby": "Pennsylvania State Capitol, City Island, Susquehanna Riverfront, Susquehanna Art Museum (Tripadvisor, Visit Hershey Harrisburg)"
+    },
+    {
+      "name": "Walnut Street Bridge (The People's Bridge)",
+      "category": "Landmark / Pedestrian Bridge",
+      "description": "The Walnut Street Bridge, affectionately known as 'The People’s Bridge,' is a historic wrought iron truss bridge originally built in 1890. It serves as a popular pedestrian and bicycle link between downtown Harrisburg's Riverfront Park and City Island, offering panoramic views of the Susquehanna River. The bridge was closed to motor vehicles following Hurricane Agnes in 1972 and remains the oldest surviving bridge on the river.",
+      "address": "Walnut Street & Front Street (connects Downtown Harrisburg to City Island)",
+      "city": "Harrisburg",
+      "region": "Downtown / Capitol Complex",
+      "hours": "Open 24 hours (Access may vary for specific City Island events)",
+      "days_open": "Daily",
+      "admission": "Free",
+      "website": "https://harrisburgpa.gov/",
+      "phone": "717-232-3017 (City of Harrisburg Parks & Recreation)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Peoples_bridge_Susquehanna.JPG",
+      "highlights": [
+        "['Oldest surviving bridge connecting downtown Harrisburg to City Island, built in 1890.', 'Recognized as a Historic Civil Engineering Landmark and listed on the National Register of Historic Places.', \"Features a unique 'Phoenix column' truss design by the Phoenix Bridge Company.\", 'Closed to motor vehicles, providing a safe and scenic 0.5-mile path for pedestrians and cyclists.', 'Outlined with lights at night, creating a beautiful visual landmark over the Susquehanna River.', \"Western spans collapsed in 1996 due to ice floes, making it a unique 'bridge to nowhere' on the western side.\"]"
+      ],
+      "tips": "Wear practical shoes for the open-grate walkway and be careful with small items like phones that could fall through. Visit at sunset or nighttime to see the bridge beautifully illuminated. Parking is available on City Island or in downtown garages near Front Street.",
+      "nearby": "City Island Park, Riverfront Park, FNB Field (Harrisburg Senators), Pride of the Susquehanna Riverboat, State Capitol Complex."
+    },
+    {
+      "name": "Whitaker Center for Science and the Arts Whitaker Center",
+      "category": "Museum and Performing Arts Space Wikipedia, Tripadvisor",
+      "description": "Whitaker Center for Science and the Arts is Central Pennsylvania’s premier center for education and cultural enrichment, serving as a gathering place for curiosity and discovery for over 25 years. The multi-use facility combines hands-on science exhibits, a giant-screen digital cinema, and a live performance theater all under one roof. Often referred to as \"Harrisburg's Crown Jewel,\" it provides a unique space where science and the arts are integrated to inspire visitors of all ages. Whitaker Center About, Where & When",
+      "address": "222 Market Street, Harrisburg, PA 17101 Whitaker Center",
+      "city": "Harrisburg Whitaker Center",
+      "region": "Downtown / Capitol Complex",
+      "hours": "Science Center: Friday – Monday 10 A.M. to 5 P.M.; Performance Theater: Doors typically open one hour prior to showtime Whitaker Center Admissions, Whitaker Center Know Before You Go",
+      "days_open": "Friday – Monday Whitaker Center Admissions",
+      "admission": "Science Center: Adult (18-59) $16, Junior (3-17) $13, Senior (60+) $13, Under 2 Free, Members Free, Harrisburg University Student $14; Digital Cinema: Adult $9.50, Junior $8, Senior $8, Under 2 Free, Members Discounts Available, HU Student $9 Whitaker Center Admissions",
+      "website": "https://www.whitakercenter.org",
+      "phone": "(717) 214-2787 Whitaker Center",
+      "image_url": "https://commons.wikimedia.org/wiki/File:Whitaker_Center_for_Science_and_the_Arts.jpg",
+      "highlights": [
+        "'UPMC Science Center featuring over 240 hands-on STEAM-based exhibits across three floors. [Whitaker Center Admissions', 'Select Medical Digital Cinema with a four-story screen for immersive documentary and blockbuster films. Whitaker Center Digital Cinema', 'Sunoco Performance Theater, an intimate 700-seat venue hosting live music, dance, and theatrical productions. Whitaker Center Admissions', 'PNC Innovation Zone, a dedicated space for ages 10+ to engage in high-tech learning and coding. Whitaker Center Admissions', 'Centrally located in a unique sandstone architectural landmark in the heart of downtown Harrisburg. Jonathan Schloss Architect', 'Extensive educational programming including summer camps, field trips, and workshops for students and educators. Whitaker Center About']"
+      ],
+      "tips": "For the most convenient access, park in the Walnut Street Parking Garage and use the direct indoor entry to the center on the Arcade level. Visitors for theater shows should arrive 30–45 minutes early to allow for parking and check-in. It is highly recommended to purchase tickets directly through the official website to ensure validity and avoid excessive third-party fees. Whitaker Center Plan Your Visit, Whitaker Center Know Before You Go",
+      "nearby": "Pennsylvania State Capitol Building, City Island (including the Pride of the Susquehanna Riverboat), Riverfront Park and Riverwalk, Broad Street Market, and the Susquehanna Art Museum Whitaker Center Plan Your Visit, Caldwell & Kearns"
+    },
+    {
+      "name": "Wildwood Park",
+      "category": "Park",
+      "description": "Wildwood Park is a 229-acre nature sanctuary featuring a 90-acre shallow lake and extensive wetlands on the outskirts of Harrisburg. It serves as both a premier destination for outdoor recreation and a vital flood mitigator for the surrounding community. The park is home to the Benjamin Olewine III Nature Center, which provides environmental education and interactive exhibits on local wildlife and ecosystems. (Official Website, Wikipedia))",
+      "address": "100 Wildwood Way, Harrisburg, PA 17110 (Official Website, Wikipedia))",
+      "city": "Harrisburg",
+      "region": "Downtown / Capitol Complex",
+      "hours": "Park: Monday–Sunday: Dawn to Dusk; Nature Center: Monday: Closed, Tuesday–Sunday: 10:00 AM – 4:00 PM (Official Website)",
+      "days_open": "Park: Daily; Nature Center: Tuesday–Sunday (Official Website)",
+      "admission": "Free (Official Website)",
+      "website": "https://explorewildwoodpark.org",
+      "phone": "(717) 221-0292 (Official Website)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Wildwood_Park_Harrisburg_PA.jpg",
+      "highlights": [
+        "'3.1-mile loop trail around the lake (Wildwood Way and Towpath Trail) ([Official Website)', '1.5 miles of accessible boardwalks through wetland habitats (Dauphin County)', 'Benjamin Olewine III Nature Center with interactive exhibits and bird-viewing area (Official Website)', 'Annual \"Art In The Wild\" seasonal outdoor art installation (Official Website)', 'Premier birdwatching location with over 150 recorded species (Tripadvisor)', 'Connection point for the 20-mile Capital Area Greenbelt trail (Official Website)']"
+      ],
+      "tips": "Visit the Nature Center for an indoor bird-viewing area and children's library. Dogs are welcome on the trails but must be leashed. The main loop trail is approximately 3 miles and consists of both paved sections and boardwalks. (Official Website, Yelp)",
+      "nearby": "Fort Hunter Mansion and Park, Harrisburg Area Community College (HACC), Susquehanna River, Pennsylvania State Capitol, National Civil War Museum (Visit Hershey Harrisburg)"
+    },
+    {
+      "name": "Broad Street Market",
+      "category": "Shopping / Farmers Market (broadstreetmarket.org)",
+      "description": "The Broad Street Market is one of the oldest continuously operating market houses in the United States, founded in 1860. It features dozens of vendors offering locally-grown produce, meats, baked goods, and freshly prepared meals from diverse cultures. The market serves as a community anchor in the Midtown neighborhood and is currently undergoing restoration following a 2023 fire. (broadstreetmarket.org)",
+      "address": "1233 North 3rd Street, Harrisburg, PA 17102",
+      "city": "Harrisburg",
+      "region": "Midtown / Riverfront",
+      "hours": "Wednesday: 7:00 AM - 6:00 PM (Stone Building), Closed (Tent); Thursday: 7:00 AM - 6:00 PM (Stone Building), 7:00 AM - 5:00 PM (Tent); Friday: 7:00 AM - 6:00 PM (Stone Building), 7:00 AM - 5:00 PM (Tent); Saturday: 7:00 AM - 6:00 PM (Stone Building), 7:00 AM - 4:00 PM (Tent) (broadstreetmarket.org)",
+      "days_open": "Wednesday, Thursday, Friday, Saturday (broadstreetmarket.org)",
+      "admission": "Free (reddit.com)",
+      "website": "https://www.broadstreetmarket.org",
+      "phone": "(717) 236-7923 (giftly.com)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Broad_Street_Market%2C_Harrisburg.jpg",
+      "highlights": [
+        "'Oldest continuously operating market house in the US, founded in 1860 ([broadstreetmarket.org)', 'Nearly 40 vendors selling organic produce, fresh meats, and prepared meals (visithersheyharrisburg.org)', 'Culturally diverse food options including Korean, Thai, Haitian, and Greek cuisines (yelp.com)', 'Features a Stone Building and a temporary tent structure following the 2023 Brick Building fire (broadstreetmarket.org)', 'Listed on the National Register of Historic Places since 1974 (theburgnews.com)', 'Home to the Zeroday Brewing Co. outpost for local craft beer (yelp.com)']"
+      ],
+      "tips": "Free 2-hour parking is available at the market until 6:00 PM. Many vendors have individual schedules, so visiting between 10:00 AM and 4:00 PM ensures most are open. The Brick Building is currently under reconstruction and slated to reopen in 2027. (reddit.com, broadstreetmarket.org)",
+      "nearby": "Midtown Scholar Bookstore, Susquehanna Art Museum, The Millworks, Pennsylvania State Capitol, National Civil War Museum (expedia.com, reddit.com)"
+    },
+    {
+      "name": "FNB Field",
+      "category": "Entertainment (Sports Stadium)",
+      "description": "FNB Field is a Minor League Baseball stadium located on the scenic City Island in the middle of the Susquehanna River. It serves as the home field for the Harrisburg Senators, the Double-A affiliate of the Washington Nationals. The park is renowned for its unique island setting, steep seating grade providing close views of the action, and its history of hosting legendary baseball figures. MLB.com",
+      "address": "245 Championship Way, Harrisburg, PA 17101",
+      "city": "Harrisburg",
+      "region": "Midtown / Riverfront",
+      "hours": "Box Office: Non-game days Mon-Fri 9:00 AM – 4:00 PM; Game days 10:00 AM until the end of the game. Team Store: Mon-Fri 11:00 AM – 3:00 PM. Gates typically open 1 hour before game time (1.5 hours for Saturdays and select events). MiLB.com, MiLB.com",
+      "days_open": "Open for scheduled game days during the baseball season (typically April–September) and Monday–Friday for front office/box office hours. MiLB.com",
+      "admission": "Tickets typically range from $9 to $44 based on seating tier: LB Smith Value Seats ($9+), Ollie's Cheap Seats ($11+), Box Seats ($13+), Field Box ($15+), Dugout Box ($17+), and All-You-Can-Eat Club Seats ($44+). Prices may vary by game and promotion. Children 3 and under are free but must sit on a lap. MiLB.com, MiLB.com",
+      "website": "https://www.senatorsbaseball.com",
+      "phone": "(717) 231-4444",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Riverside_Stadium_Hbg.jpg",
+      "highlights": [
+        "['Located on the unique 63-acre City Island in the Susquehanna River.', 'One & Only World Famous Life-Size Bobblehead Hall of Fame featuring legends like Vladimir Guerrero and Bryce Harper.', \"Home to the 'Mayflies' alternate identity, reflecting a famous local quirk of the stadium's riverside location.\", 'Offers 360-degree concourse with views of the Harrisburg skyline and river.', 'Historic site where professional baseball has been played since the early 1900s, including visits by Babe Ruth.', 'Includes a specialized Sensory Friendly Room for fans with sensory sensitivities.']"
+      ],
+      "tips": "The stadium is a cashless venue inside the gates; cash is only accepted for parking and at the box office. Fans can walk to the island via the Walnut Street Bridge from downtown Harrisburg if island parking is full. Be aware of the clear bag policy (maximum 16x16x8 inches). MiLB.com",
+      "nearby": "City Island attractions (Miniature Train, Carousel, Pride of the Susquehanna Riverboat, Skyline Sports Complex), Walnut Street Bridge (Pedestrian), Pennsylvania State Capitol, National Civil War Museum. Visit PA, Stadium Journey"
+    },
+    {
+      "name": "Harrisburg Beach Club",
+      "category": "Waterfront Venue, Bar, and Entertainment",
+      "description": "The Harrisburg Beach Club is an outdoor waterfront venue located on City Island in Harrisburg, PA, offering scenic views of the Susquehanna River and the capital city skyline. It features craft cocktails from Hidden Still Spirits, Pennsylvania beer and wine, and an on-site food truck serving burgers and wings. The venue is family and pet-friendly, hosting live music and seasonal activities like curling and igloos during cooler months. Harrisburg Beach Club Official Website, Visit Hershey Harrisburg",
+      "address": "700 Riverside Drive",
+      "city": "Harrisburg",
+      "region": "Midtown / Riverfront",
+      "hours": "Monday - Friday: 4:00 PM - 10:00 PM; Saturday - Sunday: 12:00 PM - 10:00 PM (Hours are weather dependent) Harrisburg Beach Club Official Website",
+      "days_open": "Daily (Monday through Sunday) during season Harrisburg Beach Club Official Website",
+      "admission": "Free (No cover charge) Harrisburg Beach Club FAQ, Visit Cumberland Valley",
+      "website": "https://enjoyhbc.com",
+      "phone": "717-743-1001 Harrisburg Beach Club Official Website",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/60119ada59eaf07dac383d99/3ffbc96a-0886-4849-b0aa-c80d564169bb/DSC06842.jpg",
+      "highlights": [
+        "'Waterfront sunset views over the Susquehanna River [Visit Hershey Harrisburg', 'Live music performances featuring local artists Harrisburg Beach Club FAQ', 'Spirits provided by Hidden Still Spirits along with PA beer and wine Harrisburg Beach Club Official Website', 'On-site food truck serving sandwiches, burgers, and fries Visit Cumberland Valley', 'Seasonal amenities like pop-up heated igloos and curling lanes Visit Hershey Harrisburg', 'Family and dog-friendly atmosphere (dogs must be leashed) Harrisburg Beach Club FAQ']"
+      ],
+      "tips": "Entry is free, but parking in the North Lot costs $5 during Senators games and special events; otherwise, it is free after 11 AM on weekdays and all day on weekends. Outside beverages are strictly prohibited, and the venue is weather-dependent, so check social media for updates during rain. Harrisburg Beach Club FAQ, Visit Hershey Harrisburg",
+      "nearby": "FNB Field (Harrisburg Senators Baseball), Water Golf, City Island Railroad, Antique Carousel, Pride of the Susquehanna Riverboat Visit Hershey Harrisburg"
+    },
+    {
+      "name": "Harrisburg Midtown Arts Center (H•MAC) / House of Music, Arts, and Culture",
+      "category": "Entertainment Complex (Music Venue, Arts Center, Restaurant & Bar)",
+      "description": "The Harrisburg Midtown Arts Center (H•MAC) is a 34,000-square-foot multi-venue arts and entertainment complex located in the heart of the historic Old Midtown district. Housed in a building listed on the National Register of Historic Places, it features multiple performance spaces, a gallery bar, and a restaurant. The center serves as a cultural hub, hosting everything from intimate concerts and comedy shows to large-scale events in its restored Art Deco ballroom. Harrisburg Midtown Arts Center (H•MAC)",
+      "address": "1110 N 3rd St, Harrisburg, PA 17102",
+      "city": "Harrisburg",
+      "region": "Midtown / Riverfront",
+      "hours": "Venue Hours: Monday-Tuesday 4:00 PM – 1:00 AM; Wednesday-Saturday 11:00 AM – 1:00 AM; Sunday 10:00 AM – 11:00 PM. Kitchen (Pizza@HMAC) Hours: Monday 4:00 PM – 11:00 PM; Tuesday 4:00 AM – 11:00 PM; Wednesday-Thursday 11:30 AM – 11:00 PM; Friday-Saturday 11:30 AM – 12:00 AM; Sunday 11:30 AM – 10:00 PM. Box Office: Wednesday-Saturday 3:00 PM – 11:00 PM. Harrisburg Midtown Arts Center (H•MAC), Harrisburg Midtown Arts Center (H•MAC)",
+      "days_open": "Monday - Sunday",
+      "admission": "Prices vary by event; tickets are available through the official website or Eventbrite. Entry to the Kitchen and Gallery Bar is typically free, while specific shows in The Stage on Herr or The Capitol Room require paid tickets. Harrisburg Midtown Arts Center (H•MAC)",
+      "website": "https://harrisburgarts.com",
+      "phone": "717-412-4342",
+      "image_url": "https://harrisburgarts.com/wp-content/uploads/2024/07/HMAC-Logo.png",
+      "highlights": [
+        "'Multi-venue complex including The Stage on Herr and The restored Art Deco Capitol Room ballroom. [Harrisburg Midtown Arts Center (H•MAC)', 'Housed in a historic building originally constructed as a Jewish Community Center in the early 1900s. tmatic.travel', 'On-site dining at The Kitchen and Gallery Bar, known for its specialty pizzas and eclectic atmosphere. Harrisburg Midtown Arts Center (H•MAC)', 'Host to a diverse range of entertainment including live music, theatrical performances, and community events. Harrisburg Midtown Arts Center (H•MAC)', 'Gallery space that displays and promotes the work of emerging local artists. tmatic.travel']"
+      ],
+      "tips": "Check the venue's online calendar in advance for show times and age restrictions, as policies vary by event. Street parking is available around the building and is often free, but it is recommended to arrive early for popular shows. Be prepared for security and bag checks at the entrance, and visit the Box Office between Wednesday and Saturday for in-person ticket inquiries. Harrisburg Midtown Arts Center (H•MAC), Tripadvisor",
+      "nearby": "Broad Street Market, Midtown Scholar Bookstore, Susquehanna Art Museum, Pennsylvania State Capitol"
+    },
+    {
+      "name": "Midtown Harrisburg Neighborhood",
+      "category": "Neighborhood / Historic District",
+      "description": "Midtown is a vibrant and eclectic neighborhood in Harrisburg, Pennsylvania, celebrated for its artistic flair and historic preservation. The area is a hub for creativity, featuring walkable streets lined with colorful murals, independent bookstores, and unique local eateries. As one of the city's most hip and historic districts, it serves as a central point for the local arts community and urban revitalization. (Visit Hershey & Harrisburg, Explore HBG)",
+      "address": "Bounded by Forster Street to the south, Maclay Street to the north, 7th Street to the east, and the Susquehanna River to the west. central location: 1233 North Third Street, Harrisburg, PA 17102",
+      "city": "Harrisburg",
+      "region": "Midtown / Riverfront",
+      "hours": "Monday: Open 24 hours; Tuesday: Open 24 hours; Wednesday: Open 24 hours; Thursday: Open 24 hours; Friday: Open 24 hours; Saturday: Open 24 hours; Sunday: Open 24 hours. (Note: Business hours for specific attractions vary; Broad Street Market is primarily open Thursday-Saturday). (Visit Hershey & Harrisburg)",
+      "days_open": "Daily (Wikipedia)",
+      "admission": "Free (Visit Hershey & Harrisburg)",
+      "website": "https://www.visithersheyharrisburg.org/harrisburg/midtown/",
+      "phone": "(717) 231-7788 (Visit Hershey & Harrisburg)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/3rd_%26_Reily_St_Hbg.jpg",
+      "highlights": [
+        "['Broad Street Market – One of the oldest continuously operating farmers markets in the United States.', 'Midtown Scholar Bookstore – A world-renowned independent bookstore featuring over 200,000 new, used, and rare titles.', 'Susquehanna Art Museum (SAM) – The city’s only dedicated art museum showcasing regional and international works.', 'The Millworks – A unique destination combining a farm-to-table restaurant, craft brewery, and artist studios.', \"Midtown Cinema – Harrisburg's premier independent arthouse theater.\", 'Harrisburg Midtown Arts Center (H-MAC) – A large venue for live music, comedy, and cultural performances.']"
+      ],
+      "tips": "Plan your visit for the third Friday of any month to experience '3rd in the Burg,' which features special gallery hours and neighborhood festivities. Be mindful that the Broad Street Market has limited operating days (Thursday through Saturday), so time your trip accordingly. The neighborhood is very walkable, so wear comfortable shoes to explore the extensive collection of public murals. (Visit Hershey & Harrisburg, Friends of Midtown)",
+      "nearby": "Pennsylvania State Capitol Complex, Riverfront Park, City Island, Whitaker Center for Science and the Arts. (Visit Hershey & Harrisburg)"
+    },
+    {
+      "name": "Pennsylvania National Fire Museum Official Website",
+      "category": "Museum Tripadvisor",
+      "description": "Housed in the historic 1899 Victorian Reily Fire House, the museum preserves the rich heritage of the fire service from the colonial era to the present day. Visitors can explore an extensive collection of vintage fire apparatus, including hand-drawn and horse-drawn equipment, as well as motorized engines and specialized artifacts Official Website, Wikipedia",
+      "address": "1820 N 4th St, Harrisburg, PA 17102 Official Website",
+      "city": "Harrisburg Official Website",
+      "region": "Midtown / Riverfront",
+      "hours": "Monday: Closed; Tuesday: Closed; Wednesday: Closed; Thursday: 10:00 AM – 4:00 PM; Friday: 10:00 AM – 4:00 PM; Saturday: 10:00 AM – 4:00 PM; Sunday: 1:00 PM – 4:00 PM Official Website",
+      "days_open": "Thursday, Friday, Saturday, Sunday Official Website",
+      "admission": "Individual: $10.00, Seniors: $7.00, Students: $7.00, Family (same household): $30.00. Free admission for active military members through the Blue Star Museum program Official Website",
+      "website": "https://pnfm.org",
+      "phone": "(717) 232-8915 Official Website",
+      "image_url": "https://pnfm.org/gallery",
+      "highlights": [
+        "'1792 Richard Mason Hand Pumper, one of the oldest in original condition in the US [Official Website', 'The Johnstown Gamewell Alarm Room, the largest operational Gamewell headquarters in a museum Official Website', 'An extensive collection of nearly 3,000 fire company patches from across the country Official Website', 'A unique display of handsomely painted Victorian-era pressed felt parade hats Official Website', '1935 Mack tillered Ladder Truck and other motorized equipment from 1911-1947 Official Website', 'The historic 1899 Victorian firehouse building itself, featuring period-restored rooms Wikipedia']"
+      ],
+      "tips": "Free off-street parking is available adjacent to the museum. Firefighters are encouraged to bring a patch from their own department to be added to the museum's display. Plan to spend at least one to two hours to fully experience the multi-level exhibits ExploreHBG, Tripadvisor",
+      "nearby": "Broad Street Market, State Museum of Pennsylvania, Pennsylvania Farm Show Complex and Expo Center, National Civil War Museum Tripadvisor"
+    },
+    {
+      "name": "Pride of the Susquehanna Riverboat Official Website",
+      "category": "Entertainment / Landmark Official Website",
+      "description": "The Pride of the Susquehanna is an authentic stern-driven paddlewheel riverboat and one of only six remaining in the United States. It offers sightseeing tours, dinner cruises, and educational programs on the Susquehanna River, providing a unique perspective of the Harrisburg skyline. Official Website, Visit Hershey & Harrisburg",
+      "address": "11 Championship Way, Harrisburg, PA 17101 Official Website",
+      "city": "Harrisburg Official Website",
+      "region": "Midtown / Riverfront",
+      "hours": "Wednesday & Saturday Public Cruises: 12:00 PM, 1:30 PM, 3:00 PM, 4:00 PM; Office Hours: Monday-Friday 9:00 AM - 4:30 PM Official Website",
+      "days_open": "Daily (7 days a week) from Memorial Day through Labor Day; Saturdays & Sundays in September and October Visit Hershey & Harrisburg",
+      "admission": "Adults (Ages 13-59): $15; Seniors (Age 60 & over): $12; Youth (Ages 3-12): $9; Children 2 and under: FREE; All military (retired/reserves/active): FREE Official Website",
+      "website": "https://www.hbgriverboat.org",
+      "phone": "717-234-6500 Official Website",
+      "image_url": "https://www.hbgriverboat.org/",
+      "highlights": [
+        "'Authentic stern-driven paddlewheel propulsion system [Official Website', '45-minute public sightseeing cruises with educational narration Official Website', 'Upper deck offering 360-degree panoramic views of Harrisburg Visit Hershey & Harrisburg', 'Special themed cruises including Murder Mystery and Sunset Dinner cruises Wikipedia', 'Susquehanna River School floating classroom for ecology education Official Website', 'Handicapped and wheelchair accessible main salon Official Website']"
+      ],
+      "tips": "Arrive early as boarding begins approximately 10 minutes before departure; check the schedule for specialty themed cruises; parking is available on City Island and is free during most non-game hours Official Website, Visit Hershey & Harrisburg",
+      "nearby": "Harrisburg Senators Baseball at FNB Field, Water Golf miniature golf, City Island Railroad, Walnut Street Bridge, State Museum of Pennsylvania Visit Hershey & Harrisburg"
+    },
+    {
+      "name": "Susquehanna Art Museum Susquehanna Art Museum",
+      "category": "Museum Susquehanna Art Museum",
+      "description": "The Susquehanna Art Museum (SAM) is a non-profit, non-collecting institution located in the Midtown neighborhood of Harrisburg, Pennsylvania. It offers a rotating schedule of diverse exhibitions and educationally superior programming, occupying an adaptively reused 1916 bank building that features preserved neoclassical interiors and a converted bank vault gallery. Susquehanna Art Museum, Wikipedia",
+      "address": "1401 North 3rd Street Susquehanna Art Museum",
+      "city": "Harrisburg Susquehanna Art Museum",
+      "region": "Midtown / Riverfront",
+      "hours": "Wednesday: 10:00am - 7:00pm; Thursday: 10:00am – 5:00pm; Friday: 10:00am – 5:00pm; Saturday: 10:00am – 5:00pm; Sunday: 12:00pm – 5:00pm; Monday / Tuesday: Closed Susquehanna Art Museum",
+      "days_open": "Wednesday, Thursday, Friday, Saturday, Sunday Susquehanna Art Museum",
+      "admission": "Members: Free; Adults: $10.00; Military, Seniors (62+), Students, and Educators: $7.00; Children Under 16: Free; Museums for All (with EBT card): Free for up to four visitors; Third in the Burg (3rd Friday): Free from 5:00 – 8:00 pm Susquehanna Art Museum",
+      "website": "https://susquehannaartmuseum.org",
+      "phone": "717-233-8668 Susquehanna Art Museum",
+      "image_url": "https://commons.wikimedia.org/wiki/File:Susquehanna_Art_Museum.jpg",
+      "highlights": [
+        "'Rotating schedule of borrowed and traveling exhibitions from local and international sources [Wikipedia', 'Housed in the historic 1913 Kunkel Bank Building featuring an original vault that serves as an exhibition space Tripadvisor, Wikipedia', 'VanGo! Museum on Wheels, an outreach program that brings interactive art exhibits to the community Susquehanna Art Museum', 'Neoclassical architecture with 27-foot gold leaf ceilings Wikipedia', 'Outdoor sculpture garden and a 1,400-square-foot mural facing the museum Wikipedia', '\"Third in the Burg\" monthly events featuring free admission and live music Susquehanna Art Museum']"
+      ],
+      "tips": "Free parking is available in the lot behind the museum at Calder & James Streets. Visit during \"Third in the Burg\" on the third Friday of each month for free evening admission. Check the museum calendar before visiting, as certain galleries like the Lehr Gallery close periodically for new installations. Susquehanna Art Museum",
+      "nearby": "Broad Street Market, Midtown Scholar Bookstore, The Millworks, Art Association of Harrisburg, Pennsylvania State Capitol Tripadvisor, Visit Hershey & Harrisburg"
+    },
+    {
+      "name": "The Millworks",
+      "category": "Restaurant, Brewery, and Art Gallery",
+      "description": "The Millworks is a regional destination in Midtown Harrisburg that showcases Central Pennsylvania’s artistic talents and bountiful agriculture. Located in a repurposed building formerly known as the Stokes Millwork, it features an award-winning restaurant, an on-site brewery, and 36 regional artist studios. Millworks",
+      "address": "340 Verbeke Street, Harrisburg, PA 17102",
+      "city": "Harrisburg",
+      "region": "Midtown / Riverfront",
+      "hours": "Monday: Closed; Tuesday - Thursday: 4:00 PM - 10:00 PM; Friday - Saturday: 11:30 AM - 10:00 PM; Sunday: 10:00 AM - 3:00 PM & 5:00 PM - 9:00 PM. (Note: Kitchen closes 1 hour before the restaurant, or 30 minutes before on Sundays). Millworks",
+      "days_open": "Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
+      "admission": "Free admission to art gallery and studios; restaurant and brewery items vary by menu price. Millworks",
+      "website": "https://millworksharrisburg.com",
+      "phone": "(717) 695-4888",
+      "image_url": "https://millworksharrisburg-media.s3.amazonaws.com/wp-content/uploads/2020/11/10173805/dining-room-1024x768.jpeg",
+      "highlights": [
+        "['200-seat restaurant focusing on local and sustainable Central PA food', 'On-site brewery crafting beers with local ingredients', 'Rooftop biergarten with 165 seats and views of Midtown Harrisburg', '36 regional artist studios where visitors can watch artists at work', 'Art gallery featuring accessible works from in-house artists', 'Open-air courtyard for dining and socializing']"
+      ],
+      "tips": "Free parking is available in two convenient on-site lots and around the Broad Street Market. Reservations are recommended for indoor dining, while the rooftop biergarten is a casual, seat-yourself environment. Visitors are encouraged to stroll through the art galleries and engage with artists in their studios. Millworks",
+      "nearby": "Broad Street Market, Midtown Scholar Bookstore, Pennsylvania National Fire Museum, State Museum of Pennsylvania, Pennsylvania State Capitol. Pull Over And Let Me Out"
+    },
+    {
+      "name": "Water Golf on City Island",
+      "category": "Entertainment",
+      "description": "Water Golf at City Island is a beautifully landscaped, 18-hole championship-style miniature golf course located on the north end of City Island. The course is renowned for its challenging play, featuring water hazards, sloping greens, waterfalls, and a 60-foot walking bridge that spans two scenic bluffs. Official Website, Visit Hershey Harrisburg",
+      "address": "600 Riverside Drive",
+      "city": "Harrisburg",
+      "region": "Midtown / Riverfront",
+      "hours": "April: 11:00 am - 8:00 pm (Daily, Weather Permitting); May through Labor Day: 10:00 am - 10:00 pm (Daily); September after Labor Day: 11:00 am - 8:00 pm (Daily); October 1st - 15th: 12:00 pm - 8:00 pm (Daily). Official Website",
+      "days_open": "7 days a week (seasonal)",
+      "admission": "Adult: $11.00, Child: $9.00 (Includes 10% Amusement Tax). Group rates: 12-24 players ($1.00 off per person), 25+ players ($2.00 off per person). Official Website",
+      "website": "http://www.watergolfcityisland.com",
+      "phone": "717-232-8533",
+      "image_url": "http://www.watergolfcityisland.com/Graphics/Photos2/IMG_0761.jpg",
+      "highlights": [
+        "['18-hole championship-style miniature golf course with professional landscaping.', 'Challenging features including water hazards, sloping greens, and waterfalls.', 'A 60-foot walking bridge that spans two scenic bluffs within the course.', 'Scenic views of the Susquehanna River, ideal for watching sunsets.', 'On-site snack bar offering hand-dipped ice cream, milkshakes, and quick bites like pizza and chicken nuggets.', 'Dedicated areas for group outings and birthday parties, including a Susquehanna Overlook near the 13th hole.']"
+      ],
+      "tips": "The last person can enter the course 30 minutes before closing time. Operations are weather-permitting, so it's a good idea to call ahead if the weather is uncertain. Be sure to stop at the Susquehanna Overlook near the 13th hole for a photo opportunity and a quick break on the swings. Official Website",
+      "nearby": "FNB Field (Harrisburg Senators), Pride of the Susquehanna Riverboat, City Island Railroad, City Island Carousel, Riverside Village Park. Explore HBG"
+    },
+    {
+      "name": "Zeroday Brewing Company Zeroday Brewing Company",
+      "category": "Brew Pub, Restaurant, Bar Tripadvisor",
+      "description": "Zeroday Brewing Company is a community-focused brewery in Harrisburg's Midtown district, inspired by the Appalachian Trail concept of a \"Zeroday\"—a day of rest and recovery. It specializes in clean, balanced ales and lagers, offering a social gathering space with local art and live music. Zeroday Brewing Company, Tripadvisor",
+      "address": "925 N 3rd St, Harrisburg, PA 17102 Zeroday Brewing Company, Tripadvisor",
+      "city": "Harrisburg Zeroday Brewing Company",
+      "region": "Midtown / Riverfront",
+      "hours": "Thursday: 11:00 AM – 10:00 PM; Friday: 11:00 AM – 11:00 PM; Saturday: 11:00 AM – 11:00 PM; Sunday: 11:00 AM – 5:00 PM; Monday - Wednesday: Closed Zeroday Brewing Company",
+      "days_open": "Thursday - Sunday (Flagship Taproom) Zeroday Brewing Company",
+      "admission": "Free (Entry is free; items available for purchase) Zeroday Brewing Company",
+      "website": "https://www.zerodaybrewing.com",
+      "phone": "(717) 745-6218 Zeroday Brewing Company",
+      "image_url": "https://www.zerodaybrewing.com/",
+      "highlights": [
+        "'Specializes in clean, balanced ales and lagers [Tripadvisor', 'Features a flagship taproom with a full-service restaurant Zeroday Brewing Company', 'Offers Pennsylvania wine and cider alongside craft beers Tripadvisor', 'Showcases local art and hosts area musicians Tripadvisor', 'Operates \"Outposts\" at the historic Broad Street Market and Midtown Cinema Zeroday Brewing Company']"
+      ],
+      "tips": "Metered street parking is available in the Midtown Neighborhood; the brewery offers a discount (up to 2 hours) on your bill if you show a parking receipt. Visit the Midtown Cinema Outpost for a more intimate experience or a gourmet hot dog. Zeroday Brewing Company, Zeroday Brewing Company",
+      "nearby": "Midtown Cinema, Broad Street Market, Susquehanna Art Museum, Pennsylvania State Capitol Explore HBG, Tripadvisor"
+    },
+    {
+      "name": "Pizza Boy Brewing (Al's of Hampden)",
+      "category": "Restaurant, Bar, Brewery",
+      "description": "Pizza Boy Brewing is a premier destination in Central Pennsylvania known for its exceptional house-brewed beers and Italian-inspired menu from its in-house restaurant, Al's of Hampden. Founded by Al Kominski, the facility features a 10,000-square-foot production brewery and a spacious taproom with over 100 beers on tap. (Pizza Boy Restaurant & Brewery)",
+      "address": "2240 Millennium Way, Enola, PA 17025",
+      "city": "Enola",
+      "region": "West Shore",
+      "hours": "Mon-Thur: 10:30am-9pm; Fri-Sat: 10:30am-10pm; Sun: 11am-9pm (Pizza Boy Restaurant & Brewery)",
+      "days_open": "Monday - Sunday (Pizza Boy Restaurant & Brewery)",
+      "admission": "Free (Pizza Boy Restaurant & Brewery)",
+      "website": "https://pizzaboybrewing.com",
+      "phone": "717-728-3840 (Pizza Boy Restaurant & Brewery)",
+      "image_url": "https://pizzaboybrewing.com/wp-content/uploads/2024/05/pizzaboy-logo.png",
+      "highlights": [
+        "'Largest tap list in Pennsylvania with over 100 beers on tap ([Pizza Boy Restaurant & Brewery)', '10,000-square-foot production brewery facility (Pizza Boy Restaurant & Brewery)', \"In-house restaurant, Al's of Hampden, serving award-winning pizza and Italian favorites (Pizza Boy Restaurant & Brewery)\", 'Extensive barrel-aging program with over 100 charred oak and spirit barrels (Pizza Boy Restaurant & Brewery)', 'Daily food and drink specials, including BOGO pizza slices and trivia nights (Pizza Boy Restaurant & Brewery)', 'Family-friendly atmosphere with an enclosable patio for outdoor dining (Pizza Boy Restaurant & Brewery)']"
+      ],
+      "tips": "Check out the digital tap list online before visiting to navigate the massive selection, and don't miss the late-night BOGO slice specials offered daily. (Pizza Boy Restaurant & Brewery, Visit Hershey & Harrisburg)",
+      "nearby": "Adams-Ricci Community Park, Pennsylvania Farm Show Complex & Expo Center, Fort Hunter Park (Visit Cumberland Valley, Trip.com)"
+    },
+    {
+      "name": "Echo Dell – Indian Echo Caverns",
+      "category": "Landmark / Entertainment",
+      "description": "Indian Echo Caverns is a premier natural underground attraction featuring stunning limestone formations and crystal-clear lakes. Visitors can enjoy a 45-minute guided tour through the caverns, which maintain a constant temperature of 52 degrees year-round. The site also includes outdoor activities like a petting zoo, gem mining, and a playground. Echo Dell",
+      "address": "368 Middletown Rd, Hummelstown, PA 17036-8815",
+      "city": "Hummelstown",
+      "region": "Hershey / Derry Township",
+      "hours": "Memorial Day to Labor Day: 9:00 AM - 5:00 PM daily. Labor Day to Memorial Day: 10:00 AM - 4:00 PM daily (Closed Tuesdays and Wednesdays Jan 1 - Mar 10). Echo Dell",
+      "days_open": "Daily (Open 7 days a week; closed Thanksgiving, Christmas Day, and New Year’s Day). Echo Dell",
+      "admission": "Adults (ages 12+): $24.50, Seniors (ages 65+): $22.00, Children (ages 2-11): $14.50, Children (under 2): FREE. Discounts available for AAA and military. Echo Dell",
+      "website": "https://indianechocaverns.com/",
+      "phone": "(717) 566-8131",
+      "image_url": "https://indianechocaverns.com/wp-content/uploads/2016/06/echo-dell-indian-echo-caverns-history.jpg",
+      "highlights": [
+        "'45-minute guided interpretive tour of natural limestone caverns [Echo Dell', 'Crystal Lake, a stunning six-foot-deep underground pool Visit Hershey & Harrisburg', 'Discovery Barnyard Petting Zoo with goats, alpacas, and more Echo Dell', 'Gem Mill Junction for seasonal gemstone and fossil panning Echo Dell', 'Spacious gift shop featuring authentic Indian items and souvenirs Echo Dell']"
+      ],
+      "tips": "The cavern is a constant 52 degrees, so a light jacket is recommended. Wear closed-toe shoes like sneakers or boots as paths can be wet. Strollers and wheelchairs are not permitted due to stairs and narrow passages. Pets are allowed but must be held for the duration of the tour. Echo Dell",
+      "nearby": "Hersheypark, Hershey's Chocolate World, Antique Automobile Club of America Museum, ZooAmerica, and the Pennsylvania State Capitol. Expedia, Echo Dell"
+    },
+    {
+      "name": "Hersheypark",
+      "category": "Amusement Park",
+      "description": "Originally created by Milton S. Hershey as leisure grounds for employees of Hershey's Chocolate Factory, Hersheypark is now a world-class family amusement park in Central Pennsylvania. The park features 15 thrilling roller coasters, a 11-acre water park, and a zoo, offering \"Hersheypark Happy\" experiences for guests of all ages. Hersheypark About Us",
+      "address": "100 W. Hersheypark Drive, Hershey, PA 17033",
+      "city": "Hershey",
+      "region": "Hershey / Derry Township",
+      "hours": "Friday: 11:00 AM - 7:00 PM; Saturday: 11:00 AM - 7:00 PM; Sunday: 11:00 AM - 7:00 PM; Monday: CLOSED; Tuesday: CLOSED; Wednesday: CLOSED; Thursday: CLOSED. Hersheypark Hours",
+      "days_open": "Friday - Sunday (Seasonal)",
+      "admission": "1-Day Any Day Ticket: $59.99 (Online), $89.95 (Gate); 2-Day Any Day Ticket: $90 (Online), $130 (Gate); Junior/Senior Any Day Ticket: $49.99; Children 2 & younger: Free; Military Appreciation: Starting at $29.99; College Student: $36.99; Group (15+): Starting at $36.50. Hersheypark Tickets",
+      "website": "https://www.hersheypark.com",
+      "phone": "717-534-3900",
+      "image_url": "https://img.uniform.global/p/4rqjlaIgTq-OB50VwU2dgA/8lmwLEcaT1Wu1iWIq7rm2Q-hersheypark.png",
+      "highlights": [
+        "[\"15 thrilling roller coasters including Candymonium and Wildcat's Revenge\", 'The Boardwalk At Hersheypark, an 11-acre water park included with every ticket', 'ZooAmerica North American Wildlife Park, featuring over 200 animals', \"Hershey's Chocolatetown, a new region featuring dining, shopping, and the Candymonium coaster\", 'Hershey Character meet and greets throughout the park', 'Special seasonal events such as Spring Weekends and Christmas Candylane']"
+      ],
+      "tips": "Take advantage of the 'Preview Plan' to enter the park the night before your scheduled visit for a few extra hours of fun. Download the Hersheypark Mobile App to check live ride wait times and use the interactive map. Note that the park is now cashless, but cash-to-card kiosks are available on-site. Hersheypark FAQs",
+      "nearby": "Hershey's Chocolate World, Hershey Gardens, The Hershey Story Museum, AACA Museum, ZooAmerica"
+    },
+    {
+      "name": "ZooAmerica North American Wildlife Park",
+      "category": "Park / Zoo",
+      "description": "ZooAmerica North American Wildlife Park is a year-round, 11-acre walk-through zoo home to more than 200 animals native to the continent of North America. The zoo is divided into five distinct regions: Southern Swamps, Great Southwest, Eastern Woodlands, Big Sky Country, and Northlands (ZooAmerica).",
+      "address": "201 Park Avenue, Hershey, PA 17033",
+      "city": "Hershey",
+      "region": "Hershey / Derry Township",
+      "hours": "Daily 10:00 AM - 4:30 PM (Winter/Spring); Summer hours (late May through August) 10:00 AM - 7:00 PM (ZooAmerica).",
+      "days_open": "Open year-round, except Thanksgiving Day and Christmas Day (ZooAmerica).",
+      "admission": "Regular (Ages 9-61): $16.50; Junior (Ages 3-8): $14.50; Seniors (Ages 62+): $14.50; Children (2 & Younger): FREE; ZooAmerica Pass Holders: FREE; Hersheypark Season Pass Holders: FREE. All tickets subject to amusement tax (ZooAmerica).",
+      "website": "https://www.zooamerica.com",
+      "phone": "717-534-3900",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Entrance_to_Hersheypark_ZooAmerica.jpg",
+      "highlights": [
+        "'Home to more than 200 animals from five regions of North America ([ZooAmerica)', '11-acre walk-through wildlife park with native plants and landscaping (ZooAmerica)', 'Behind-the-Scenes Tours and animal feeding encounters available (ZooAmerica)', 'AZA-accredited institution committed to wildlife conservation (ZooAmerica)', 'Educational programs and seasonal events like Creatures Of The Night (ZooAmerica)']"
+      ],
+      "tips": "The zoo is cashless, so bring a credit or debit card. Allow approximately 1 to 1.5 hours for a complete walk-through. Dress for the weather as the entire experience is outdoors (ZooAmerica FAQs). Admission is free if entered through the Hersheypark bridge during park hours (ZooAmerica).",
+      "nearby": "Hersheypark, Hershey's Chocolate World, Hershey Gardens, The Hershey Story Museum, Adventure Sports in Hershey (Tripadvisor)."
+    },
+    {
+      "name": "Appalachian Brewing Company",
+      "category": "Restaurant, Bar, Brewery",
+      "description": "Appalachian Brewing Company is one of the largest microbreweries in the United States, specializing in handcrafted ales, lagers, and artisanal craft sodas. While its original Harrisburg brewpub closed in 2025, the company continues to operate its flagship 26,000-square-foot Mechanicsburg location, which features a full-service restaurant, an innovative brewing system, and an interactive bottling facility. Visit PA, Appalachian Brewing Company",
+      "address": "6462 Carlisle Pike",
+      "city": "Mechanicsburg",
+      "region": "Cumberland Valley",
+      "hours": "Monday-Thursday: 4:00 PM - 10:00 PM; Friday-Saturday: 11:00 AM - 10:00 PM; Sunday: 11:00 AM - 9:00 PM (Kitchen closes 1 hour prior to closing time) Appalachian Brewing Company",
+      "days_open": "Monday - Sunday",
+      "admission": "Free (Brewpub entry), SodaWorks Tour: $12.00 per person JotForm",
+      "website": "https://abcbrew.com",
+      "phone": "(717) 795-4660 Appalachian Brewing Company",
+      "image_url": "https://abcbrew.com/images/locations/mech.jpg",
+      "highlights": [
+        "['Handcrafted lagers and ales brewed in small batches using high-quality ingredients.', 'Interactive SodaWorks factory tours offering an educational look at the soda bottling process.', 'Extensive selection of gourmet craft sodas including Root Beer, Ginger Beer, and White Birch Beer.', 'Full-service menu featuring burgers, gourmet pizzas, steaks, and fresh seafood.', 'Spacious dining areas including a mezzanine level and private event spaces.', 'Live music and special events held at the upstairs Abbey Bar in the Harrisburg facility.']"
+      ],
+      "tips": "Reservations are recommended for dining; for the SodaWorks factory tour, guests should email sodaworks@abcbrew.com at least one week in advance to ensure availability. Appalachian Brewing Company",
+      "nearby": "Mechanicsburg Museum, Williams Grove Speedway, Adventure Park, Paulus Farm Market, Rolls Royce Foundation & Museum Visit Cumberland Valley"
+    },
+    {
+      "name": "Dickinson College",
+      "category": "University",
+      "description": "Founded in 1773, Dickinson College is a private liberal arts college in Carlisle, Pennsylvania, and was the first college chartered in the newly independent United States. The institution is recognized for its 144-acre historic campus featuring limestone-clad buildings and a strong commitment to global education and environmental sustainability. Visitors can explore the National Historic Landmark Old West building or visit the college's dedicated art museum, the Trout Gallery. Dickinson College, Wikipedia",
+      "address": "272 West High Street, Carlisle, PA 17013 Dickinson College",
+      "city": "Carlisle Dickinson College",
+      "region": "Cumberland Valley",
+      "hours": "Trout Gallery: Mon-Sat 10:00 AM - 4:00 PM, Sun Closed; Library Visitor Services: Mon-Fri 8:00 AM - 5:00 PM, Sat 10:00 AM - 5:00 PM Trout Gallery, Dickinson College",
+      "days_open": "Monday - Saturday Trout Gallery, Dickinson College",
+      "admission": "Free Trout Gallery, Dickinson College",
+      "website": "https://www.dickinson.edu",
+      "phone": "(800) 644-1773 Dickinson College",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/The_Weiss_Center_for_the_Arts.jpg",
+      "highlights": [
+        "'Old West: A National Historic Landmark designed by Benjamin Latrobe [Wikipedia', 'The Trout Gallery: The official art museum of Dickinson College Trout Gallery', 'Sustainable Campus: Nationally recognized for environmental sustainability and green initiatives Dickinson College', 'Self-Guided QR Code Tour: Multimedia campus exploration via scan codes Dickinson College', 'Waidner-Spahr Library: A central hub for visitors featuring extensive collections and a coffee shop Dickinson College', 'Historic Architecture: A 144-acre campus characterized by distinctive limestone-clad buildings Dickinson College']"
+      ],
+      "tips": "Register in advance for official admissions tours, or use the self-guided QR code tour for a more flexible visit. Visitor parking is available on surrounding streets or in designated campus lots such as the Waidner Admissions House lot. Dickinson College, Dickinson College Parking",
+      "nearby": "Molly Pitcher Brewing Company, Cumberland County Historical Society, United States Army Heritage and Education Center (USAHEC), Carlisle Theatre TripAdvisor"
+    },
+    {
+      "name": "Yellow Breeches Creek (also known as Callapatscink Creek)",
+      "category": "Landmark",
+      "description": "Yellow Breeches Creek is a world-renowned limestone stream and designated Pennsylvania Scenic River that meanders approximately 49 to 56 miles through Cumberland Valley's farmland, forested areas, and suburbs. It is a premier destination for fly-fishing, kayaking, and tubing, eventually joining the Susquehanna River near New Cumberland.",
+      "address": "534 Park Drive, Boiling Springs, PA 17007 (Main Access Point)",
+      "city": "Boiling Springs (Primary Visitor Area)",
+      "region": "Cumberland Valley",
+      "hours": "Daylight hours (Sunrise to Sunset)",
+      "days_open": "Daily (7 days a week)",
+      "admission": "Free (All tiers)",
+      "website": "https://www.visitcumberlandvalley.com/things-to-do/outdoor/parks-and-wildlife-area/yellow-breeches-creek-water-trail/",
+      "phone": "717-240-7190 (Cumberland Valley Visitors Bureau)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Yellow_breeches_fishing.jpg/1200px-Yellow_breeches_fishing.jpg",
+      "highlights": [
+        "['Designated as a Pennsylvania Scenic River, recognized for its natural beauty and ecological significance.', 'Famous for its \"Catch and Release\" fly-fishing section near Boiling Springs, attracting anglers from across the country.', 'A popular 49-mile Water Trail with multiple access points for kayaking, canoeing, and tubing adventures.', 'Home to rare species such as the Bog Turtle and Eastern Mud Salamander within its diverse watershed.', 'Flows through the historic Messiah University campus and beautiful parks like Lower Allen Community Park.', 'Boasts a mix of calm pools, gentle riffles, and scenic limestone landscapes throughout its course.']"
+      ],
+      "tips": "Always check real-time water levels via the USGS Camp Hill gauge (ideal levels are 1.4-2.0). Visitors should bring their own equipment as rentals are limited, and it is recommended to travel with at least two vehicles to facilitate shuttling between entry and exit points.",
+      "nearby": "Children's Lake, Allenberry Resort, Pine Grove Furnace State Park, Appalachian Trail"
+    }
+  ]
+}

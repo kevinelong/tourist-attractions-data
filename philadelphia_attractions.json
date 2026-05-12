@@ -1,0 +1,926 @@
+{
+  "title": "Philadelphia, PA Tourist Attractions",
+  "generated": "2026-05-12",
+  "total_attractions": 48,
+  "regions_covered": [
+    "Old City / Historic District",
+    "Center City",
+    "South Philly / Italian Market",
+    "University City / West Philly",
+    "Chestnut Hill / Germantown"
+  ],
+  "attractions": [
+    {
+      "name": "Adventure Aquarium",
+      "category": "Aquarium / Entertainment",
+      "description": "Adventure Aquarium is a premier aquatic attraction on the Camden Waterfront, featuring over 15,000 animals in two million gallons of water. It is home to the largest collection of sharks in the Northeast and holds the distinction of being the only aquarium in the world to exhibit Nile hippos. Visit Philadelphia, Adventure Aquarium",
+      "address": "1 Riverside Drive, Camden, NJ 08103",
+      "city": "Camden",
+      "region": "Old City / Historic District",
+      "hours": "Monday - Friday: 10:00 AM — 4:00 PM; Saturday - Sunday: 9:30 AM — 5:00 PM; Official Calendar",
+      "days_open": "Daily (364 days a year; Closed on Thanksgiving)",
+      "admission": "Adults (13+): Starting at $32.99; Children (2-12): Starting at $28.04 (15% off); Seniors (65+): Starting at $30.99 ($2 off); Children under 2: Free; Birthday: Free (on the day of, proof of age required); Adventure Aquarium Tickets",
+      "website": "https://www.adventureaquarium.com",
+      "phone": "1-844-474-FISH (3474)",
+      "image_url": "https://hfe.widen.net/content/ndfz2atawp/png/AAQ20_Animal_AfricanPenguin4.png",
+      "highlights": [
+        "[\"Shark Bridge: The world's longest V-shaped suspension bridge hanging inches above sharks.\", 'Hippo Haven: Home to Nile hippos Button and Genny, the only ones of their kind in an aquarium.', \"Shark Tunnel: New Jersey's longest shark tunnel offering 360-degree views of apex predators.\", 'Little Blue Beach: A dedicated exhibit for the world’s smallest and cutest penguin species.', 'Stingray Beach Club: An interactive touch pool where visitors can feel and feed cownose and southern stingrays.', 'Ocean Realm: A 760,000-gallon exhibit featuring sea turtles and the critically endangered great hammerhead shark.']"
+      ],
+      "tips": "Reservations are required and should be booked online in advance to lock in pricing. Arriving at opening is recommended to avoid peak crowds, and visitors should download the official app for real-time show schedules and interactive maps. Adventure Aquarium Plan Your Visit",
+      "nearby": "Battleship New Jersey, Camden Children's Garden, Freedom Mortgage Pavilion, Wiggins Waterfront Park"
+    },
+    {
+      "name": "African American Museum in Philadelphia (African American Museum in Philadelphia)",
+      "category": "Museum (African American Museum in Philadelphia)",
+      "description": "Founded in 1976 for the Bicentennial, the African American Museum in Philadelphia (AAMP) is the first museum funded and built by a major municipality to preserve, interpret, and exhibit the heritage of African Americans (AAMP About Us, Visit Philadelphia). The museum features four galleries focused on themes such as the African Diaspora, the Philadelphia Story, and the Contemporary Narrative (African American Museum in Philadelphia).",
+      "address": "701 Arch Street (African American Museum in Philadelphia)",
+      "city": "Philadelphia (African American Museum in Philadelphia)",
+      "region": "Old City / Historic District",
+      "hours": "Wednesday: 12:00 PM – 5:00 PM (Group Tours ONLY); Thursday – Sunday: 10:00 AM – 5:00 PM; Last tour starts at 4:00 PM (African American Museum in Philadelphia)",
+      "days_open": "Wednesday to Sunday (African American Museum in Philadelphia)",
+      "admission": "Adults: $20, Youth (4-12 yrs.): $10, Students (w/ I.D.): $10, Senior Citizens: $10, AAMP Members: FREE (African American Museum in Philadelphia)",
+      "website": "https://www.aampmuseum.org",
+      "phone": "(215) 574-0380 (African American Museum in Philadelphia)",
+      "image_url": "https://en.wikipedia.org/wiki/File:African_American_Museum_in_Phila.jpg",
+      "highlights": [
+        "'First museum funded and built by a municipality to exhibit African American heritage ([Wikipedia)', \"'Audacious Freedom' permanent exhibit featuring life-sized interactive figures of historical leaders (Encyclopedia of Greater Philadelphia)\", 'Extensive collection of civil rights photography by Jack T. Franklin (African American Museum in Philadelphia)', 'Official affiliate of the Smithsonian Institution (Visit Philadelphia)', \"Special rotating exhibitions such as 'Ruth E. Carter: Afrofuturism in Costume Design' (African American Museum in Philadelphia)\"]"
+      ],
+      "tips": "Purchase tickets online in advance to ensure entry; Plan for approximately 1.5 to 2 hours for a full visit; Note that Wednesdays are reserved for group tours only (African American Museum in Philadelphia, Tripadvisor)",
+      "nearby": "Liberty Bell Center, Independence National Historical Park, National Constitution Center, Betsy Ross House, Franklin Square (Visit Philadelphia, Wikipedia)"
+    },
+    {
+      "name": "American Philosophical Society Museum (Philosophical Hall) APS Website",
+      "category": "Museum, Landmark APS Website, NPS",
+      "description": "Philosophical Hall has been the home of the American Philosophical Society, the oldest learned society in the United States, since its completion in 1789. Located on Independence Square, the building serves as the Society's administrative headquarters and houses a museum gallery that explores the intersections of history, art, and science through rotating exhibitions. APS Website, Wikipedia",
+      "address": "104 South Fifth Street APS Website",
+      "city": "Philadelphia APS Website",
+      "region": "Old City / Historic District",
+      "hours": "Monday: Closed; Tuesday: Closed; Wednesday: 10:00 AM – 5:00 PM (Memorial Day to Labor Day only); Thursday: 10:00 AM – 5:00 PM; Friday: 10:00 AM – 5:00 PM; Saturday: 10:00 AM – 5:00 PM; Sunday: 10:00 AM – 5:00 PM; Closed January through March APS Website",
+      "days_open": "Thursday–Sunday (April–December); additionally open on Wednesdays from Memorial Day to Labor Day APS Website",
+      "admission": "Free; suggested donation of $5 per individual or $10 per family APS Website",
+      "website": "https://www.amphilsoc.org/visit-museum",
+      "phone": "215-440-3440 APS Website",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/American_Philosophical_Society_Hall.jpg",
+      "highlights": [
+        "'Oldest learned society in the United States, founded by Benjamin Franklin in 1743 [APS Website', 'Home to a draft copy of the Declaration of Independence hand-written by Thomas Jefferson Keystone Fund', 'Houses the original journals of the Lewis and Clark Expedition Keystone Fund', \"Features historical scientific instruments like David Rittenhouse's 1769 transit telescope APS Website\", 'Designated a National Historic Landmark in 1965 NPS', 'Late Georgian/Federal style architecture designed by Samuel Vaughan Wikipedia']"
+      ],
+      "tips": "Visitors must undergo security screening upon arrival, and large bags are not permitted in the galleries. The museum gallery is located on the second floor; while stairs are the primary access, an elevator is available at the south side of the building. Note that there are no public restrooms on-site; the nearest facilities are located at the Independence Visitor Center. APS Website",
+      "nearby": "Independence Hall, Old City Hall, Independence Visitor Center, Library Hall APS Website, NPS"
+    },
+    {
+      "name": "American Philosophical Society Museum Official Site",
+      "category": "Museum Official Site",
+      "description": "The American Philosophical Society Museum, located in the historic Philosophical Hall, features rotating exhibitions that showcase the Society’s vast collections of manuscripts, rare books, and scientific instruments. Founded in 1743 by Benjamin Franklin, it is the oldest learned society in the United States and continues to promote useful knowledge through its unique artifacts Official Site, Visit Philadelphia.",
+      "address": "104 South Fifth Street, Philadelphia, PA 19106 Official Site",
+      "city": "Philadelphia Official Site",
+      "region": "Old City / Historic District",
+      "hours": "Thursday–Sunday: 10:00 a.m. – 5:00 p.m. (April–December). Wednesdays: 10:00 a.m. – 5:00 p.m. (Memorial Day to Labor Day). Closed: January–March Official Site.",
+      "days_open": "Thursday–Sunday (April–December); also open Wednesdays from Memorial Day to Labor Day Official Site",
+      "admission": "Free (Suggested donation of $5 per individual or $10 per family) Official Site",
+      "website": "https://www.amphilsoc.org/visit-museum",
+      "phone": "215-440-3440 Official Site",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/AmericanPhilosophicalSociety.png",
+      "highlights": [
+        "\"Thomas Jefferson's handwritten copy of the Declaration of Independence [Visit Philadelphia\", 'Original journals from the Lewis and Clark expedition Visit Philadelphia', 'David Rittenhouse’s 1769 astronomical transit telescope Official Site', 'John I. Hawkins’s patent polygraph copying machine used by Jefferson Official Site', 'The only known portrait of Benjamin Franklin painted from life in London Official Site', 'Rotating annual exhibitions with interpretive historical programs Official Site']"
+      ],
+      "tips": "Visitors must undergo security screening; weapons are prohibited. The gallery is located on the second floor with a stairlift available for accessibility. No public restrooms are on-site, but facilities are available at the nearby Independence Visitor Center. Capacity is limited to 40 visitors at a time Official Site.",
+      "nearby": "Independence Hall, Liberty Bell Center, Independence Visitor Center, National Museum of American Jewish History, Benjamin Franklin Museum Tripadvisor."
+    },
+    {
+      "name": "Betsy Ross House",
+      "category": "Museum, Landmark",
+      "description": "The birthplace of the American flag is alive with the sights and sounds of the 18th century. Visitors can explore the home and upholstery shop of Betsy Ross, a successful 18th-century tradeswoman and patriot believed to have sewn the first Stars and Stripes. (Historic Philadelphia)",
+      "address": "239 Arch Street, Philadelphia, PA 19106",
+      "city": "Philadelphia",
+      "region": "Old City / Historic District",
+      "hours": "March – November: Daily 10:00 AM – 5:00 PM (Extended to 6:00 PM on First Fridays June – October). December – February: Wednesday – Monday 10:00 AM – 5:00 PM. Closed Thanksgiving, Christmas, and New Year's Day. (Historic Philadelphia)",
+      "days_open": "Daily (March – November); Wednesday – Monday (December – February). (Historic Philadelphia)",
+      "admission": "Adults: $12, Children (6-12)/Seniors (65+)/Students/Military (with ID): $10, Children (5 and under): Free. Audio Guide Upgrade: $2 per person. (Historic Philadelphia)",
+      "website": "https://historicphiladelphia.org/betsy-ross-house/",
+      "phone": "(215) 629-4026 (Historic Philadelphia)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Betsy_Ross_House_%2853572939795%29.jpg",
+      "highlights": [
+        "\"Betsy's Upholstery Shop, the only 18th-century interpretation of its kind in the country. ([Historic Philadelphia)\", 'The parlor where Betsy Ross is said to have received the Flag Committee including George Washington. (Visit Philly)', 'The bedroom where family legend states the first American flag was sewn. (Visit Philly)', 'The shaded courtyard containing the graves of Betsy Ross and her third husband, John Claypoole. (Historic Philadelphia)', 'The basement where Betsy Ross reportedly made musket cartridges for the Continental Army. (Visit Philly)', 'Interactive live history performances featuring a Betsy Ross interpreter in her workshop. (Tripadvisor)']"
+      ],
+      "tips": "The historic house has three flights of steep, narrow winding stairs and is not wheelchair or stroller accessible; however, a first-floor tour and audio guide with photos are available for those with mobility issues. Plan for approximately 30-45 minutes for a full visit. (Historic Philadelphia)",
+      "nearby": "Independence National Historical Park (Independence Hall, Liberty Bell), Elfreth's Alley, Ben Franklin's Grave, Christ Church. (Visit Philly)"
+    },
+    {
+      "name": "Brandywine Museum of Art",
+      "category": "Museum",
+      "description": "The Brandywine Museum of Art is a renowned cultural institution housed in a renovated 1864 gristmill, dedicated to American art and the Wyeth family of artists. It features a diverse collection of nineteenth- and twentieth-century landscapes, still lifes, and illustrations, all set within a scenic nature preserve overlooking the Brandywine River (Brandywine Museum of Art, Visit Philadelphia).",
+      "address": "1 Hoffman's Mill Road, Chadds Ford, PA 19317",
+      "city": "Chadds Ford",
+      "region": "Old City / Historic District",
+      "hours": "Monday: 9:30 a.m.–4:30 p.m.; Tuesday: Closed; Wednesday: 9:30 a.m.–4:30 p.m.; Thursday: 9:30 a.m.–4:30 p.m.; Friday: 9:30 a.m.–4:30 p.m.; Saturday: 9:30 a.m.–4:30 p.m.; Sunday: 9:30 a.m.–4:30 p.m. (Brandywine Museum of Art)",
+      "days_open": "Wednesday–Monday (Closed Tuesdays)",
+      "admission": "Adults: $20, Seniors (65+): $18, Children (6-18) & Students with ID: $8, Children 5 & under: Free. (Holiday rates: Adults $25, Seniors $23, Children 5-18 $10, Children 4 & under Free). Members: Free. ACCESS/EBT cardholders: $2. Active-duty military: Free (Brandywine Museum of Art)",
+      "website": "https://www.brandywine.org/museum",
+      "phone": "610.388.2700",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Brandywine_River_Museum_-_Chadds_Ford%2C_PA.jpg",
+      "highlights": [
+        "['Extensive Wyeth Family Collection featuring works by N.C., Andrew, and Jamie Wyeth', 'Seasonal guided tours of the N.C. Wyeth House and Studio, Andrew Wyeth Studio, and Kuerner Farm', 'Large glass-walled lobbies offering panoramic views of the scenic Brandywine River', \"The Brandywine Railroad, one of the nation's largest O-gauge model train displays (seasonal)\", 'Native plant gardens and wildflower trails across a 15-acre campus', 'Millstone Café serving seasonal local cuisine with river views']"
+      ],
+      "tips": "Purchase timed tickets in advance for guided studio tours, as they sell out quickly. Visit on the first Sunday of the month (Feb–Nov) for free admission. Explore the River Trail for a bucolic walk between the museum and the Chadds Ford Historical Society (Brandywine Museum of Art, Visit Philadelphia).",
+      "nearby": "Longwood Gardens, Chadds Ford Historical Society, Christian C. Sanderson Museum, Brandywine Battlefield Park, Penns Woods Winery, Chaddsford Winery (Tripadvisor)"
+    },
+    {
+      "name": "Carpenters' Hall",
+      "category": "Landmark / Museum (National Park Service)",
+      "description": "Completed in 1775, Carpenters' Hall is a historic Georgian-style building that served as the meeting place for the First Continental Congress in 1774 (Official Website). It is the official birthplace of the Commonwealth of Pennsylvania and has been continuously owned and operated by the Carpenters' Company, the oldest craft guild in the United States (Wikipedia). The building is a key landmark within Independence National Historical Park (National Park Service).",
+      "address": "320 Chestnut Street, Philadelphia, PA 19106",
+      "city": "Philadelphia",
+      "region": "Old City / Historic District",
+      "hours": "Monday: Closed; Tuesday: 10:00 AM – 4:00 PM (Closed Tuesdays in Jan/Feb); Wednesday: 10:00 AM – 4:00 PM; Thursday: 10:00 AM – 4:00 PM; Friday: 10:00 AM – 4:00 PM; Saturday: 10:00 AM – 4:00 PM; Sunday: 10:00 AM – 4:00 PM (Official Website)",
+      "days_open": "Tuesday – Sunday (Official Website)",
+      "admission": "Free (Official Website, Wikipedia)",
+      "website": "https://www.carpentershall.org",
+      "phone": "215-925-0167 (Official Website)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Carpenters%27_Hall%2C_Philadelphia%2C_U.S.%2C_May_2015.jpg",
+      "highlights": [
+        "'Hosted the First Continental Congress in 1774, where delegates passed the Continental Association ([Official Website).', \"Official birthplace of the Commonwealth of Pennsylvania (Wikipedia).\", \"Headquarters of the Carpenters' Company, the oldest surviving trade guild in America (Official Website).\", 'Exquisite Georgian architecture featuring a cupola and Flemish bond brickwork (Visit Philadelphia).', 'Displays original Windsor chairs used by colonial delegates during their 1774 meetings (Official Website).', \"Served as an early home for Benjamin Franklin's Library Company and the First Bank of the United States (Official Website).\"]"
+      ],
+      "tips": "The hall is set back from Chestnut Street at the end of a long alley, which provides a unique historical perspective (National Park Service). Visitors should check the official events calendar before arriving, as the site occasionally closes for private functions (Official Website). Admission has been free since 1857, making it a great budget-friendly stop in the historic district (Official Website).",
+      "nearby": "Independence Hall, Liberty Bell Center, Museum of the American Revolution, Second Bank of the United States, New Hall Military Museum (Official Website, Visit Philadelphia)"
+    },
+    {
+      "name": "Cherry Street Pier (Municipal Pier 9)",
+      "category": "Park, Entertainment, Arts & Culture",
+      "description": "Cherry Street Pier is a mixed-use public space built into the shell of a century-old municipal shipping pier on the Delaware River waterfront. It serves as a year-round creative incubator and social hub featuring artist studios, a marketplace, and performance venues for the Philadelphia community Cherry Street Pier.",
+      "address": "121 N. Columbus Boulevard, Philadelphia, PA 19106",
+      "city": "Philadelphia",
+      "region": "Old City / Historic District",
+      "hours": "Monday – Thursday: 12:00 pm – 9:00 pm; Friday: 12:00 pm – 10:00 pm; Saturday: 11:00 am – 10:00 pm; Sunday: 11:00 am – 9:00 pm Cherry Street Pier",
+      "days_open": "Open 7 days a week, year-round Cherry Street Pier",
+      "admission": "Free Cherry Street Pier",
+      "website": "https://www.cherrystreetpier.com",
+      "phone": "215-923-0818 Cherry Street Pier",
+      "image_url": "https://www.cherrystreetpier.com/wp-content/uploads/2018/10/cherry-street-pier-0150_creditMariaYoungPhotography.jpg",
+      "highlights": [
+        "'The Studios: Working artist spaces housed in repurposed shipping containers [Cherry Street Pier', 'The Market: An open-air thoroughfare featuring local merchants and artisans Cherry Street Pier', 'The Garden: A tranquil open-air space under historic steel trusses with river views Cherry Street Pier', 'The Gallery: Interactive space showcasing thoughtful exhibitions from local artists Cherry Street Pier', 'The Platform: A revolving performance venue and flexible event space Cherry Street Pier', 'The Concessions: Local food and drink options sold out of historic trolley cars Cherry Street Pier']"
+      ],
+      "tips": "Visitors can reach the pier via the scenic Delaware River Trail by foot or bike; Indego bike share stations are located nearby. While admission is free, nearby DRWC-owned parking lots typically charge a flat daily rate of $20 Cherry Street Pier.",
+      "nearby": "Race Street Pier, Spruce Street Harbor Park, Elfreth's Alley, Independence Seaport Museum, Benjamin Franklin Bridge Tripadvisor"
+    },
+    {
+      "name": "Christ Church Philadelphia",
+      "category": "Landmark, Historic Site, Church",
+      "description": "Christ Church Philadelphia, known as \"The Nation's Church,\" is a historic Episcopal parish founded in 1695 and a premier example of Georgian architecture. It served as a place of worship for numerous Founding Fathers and remains an active congregation while offering tours of its historic sanctuary and nearby burial grounds. Official Website, Wikipedia)",
+      "address": "N 2nd and Church Streets (20 N. American Street)",
+      "city": "Philadelphia",
+      "region": "Old City / Historic District",
+      "hours": "Monday–Saturday: 11:00 AM – 5:00 PM; Sunday: 9:45 AM – 11:00 AM and 11:30 AM – 5:00 PM. Official Website",
+      "days_open": "Church: Daily; Burial Ground: Daily (Closed January and February) Official Website",
+      "admission": "Adult Guided Tour: $10; Adult Self-Guided Tour: $5; Youth Guided Tour (ages 5-12): $5; Youth Self-Guided Tour: $2; Combo Ticket (Church & Burial Ground) Adult Self-Guided: $8; Combo Ticket Youth Self-Guided: $3. Official Website",
+      "website": "https://christchurchphila.org",
+      "phone": "215-922-1695",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Christ_Church_Philadelphia.jpg",
+      "highlights": [
+        "['Birthplace of the American Episcopal Church, which broke away from the Church of England after the Revolutionary War.', 'Regular place of worship for Founding Fathers including George Washington, Benjamin Franklin, and Betsy Ross.', 'Features the original 1754 steeple, which was funded by a lottery organized by Benjamin Franklin and was once the tallest building in North America.', \"Home to William Penn's baptismal font from 1695 and a chandelier installed in 1740 that is still in use.\", 'The associated Burial Ground is the final resting place of five signers of the Declaration of Independence, including Benjamin Franklin.', 'Remains an active Episcopal parish holding regular weekly services and community events.']"
+      ],
+      "tips": "Purchase a $1 site map to easily locate historical pews; attend a historical talk by an on-site historian for a richer experience; and note that the Burial Ground is closed during January and February. Official Website",
+      "nearby": "Independence Hall, Liberty Bell Center, Elfreth’s Alley, Betsy Ross House, National Constitution Center. Viator"
+    },
+    {
+      "name": "Declaration House (Graff House) (National Park Service)",
+      "category": "Museum / Historic Site (National Park Service)",
+      "description": "Declaration House is a reconstruction of the home where Thomas Jefferson drafted the Declaration of Independence in 1776. While renting rooms from bricklayer Jacob Graff, Jefferson penned the foundational document over three weeks, accompanied by his enslaved valet, Robert Hemmings. (National Park Service, Wikipedia)",
+      "address": "700 Market Street, Philadelphia, PA 19106 (National Park Service)",
+      "city": "Philadelphia (National Park Service)",
+      "region": "Old City / Historic District",
+      "hours": "Closed (Building is currently closed to the public for a rehabilitation project expected to complete in 2026) (National Park Service)",
+      "days_open": "None (Currently closed to the public for rehabilitation) (National Park Service)",
+      "admission": "Free (Admission is free, though the building is currently closed for rehabilitation) (National Park Service, Visit Philadelphia)",
+      "website": "https://www.nps.gov/inde/planyourvisit/declarationhouse.htm",
+      "phone": "215-965-2305 (National Park Service)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Declaration_House_Graff_House.jpg",
+      "highlights": [
+        "'Reconstructed second-floor parlor where Thomas Jefferson worked on the Declaration draft ([National Park Service)', 'Reconstructed bedroom used by Jefferson during his stay in Philadelphia (National Park Service)', 'First-floor museum exhibits detailing the drafting process and history of the site (Visit Philadelphia)', \"'The Descendants of Monticello' art installation by Sonya Clark, featuring blinking eyes in the windows (Monument Lab)\", 'The historic 1775-style Georgian architecture with Flemish bond brickwork (Clio)']"
+      ],
+      "tips": "The building is currently closed for interior tours, but visitors can still view the exterior and the historical markers on the corner of 7th and Market Streets. It is a short walk from other major sites in Independence National Historical Park, making it an easy addition to a historical walking tour. (National Park Service, Airial Travel)",
+      "nearby": "Liberty Bell Center, Independence Visitor Center, Independence Hall, National Constitution Center (National Park Service, Tripadvisor)"
+    },
+    {
+      "name": "Delaware River Waterfront",
+      "category": "Park, Entertainment, Landmark",
+      "description": "The Delaware River Waterfront in Philadelphia is a premier urban destination featuring a diverse array of parks, piers, and seasonal attractions along six miles of the river. Managed by the Delaware River Waterfront Corporation, the area offers year-round recreation, artist studios, floating beer gardens, and scenic multi-modal trails. It serves as a vibrant cultural hub where visitors can enjoy everything from winter ice skating to summer festivals and public art installations. Delaware River Waterfront, DiscoverPHL",
+      "address": "121 N. Columbus Blvd.",
+      "city": "Philadelphia",
+      "region": "Old City / Historic District",
+      "hours": "Spruce Street Harbor Park (Seasonal): Sun-Thurs 11am-10pm, Fri-Sat 11am-11pm. Cherry Street Pier (Year-round): Mon-Thurs 12pm-9pm, Fri 12pm-10pm, Sat 11am-10pm, Sun 11am-9pm. Race Street Pier: Daily 7am-11pm. Blue Cross RiverRink: Daily (Varies by session/season). Delaware River Waterfront, Cherry Street Pier",
+      "days_open": "Daily (Certain attractions like Spruce Street Harbor Park and RiverRink are seasonal) Delaware River Waterfront",
+      "admission": "Free admission to the Waterfront and its primary parks (Spruce Street Harbor Park, Cherry Street Pier, Race Street Pier). Activities and certain amenities have fees: Blue Cross RiverRink skating admission is $5 with $12 skate rental (Free admission for Independence Blue Cross members and employees with proof of card); amusements, mini-golf, and food are pay-as-you-go. Delaware River Waterfront, Cherry Street Pier",
+      "website": "https://www.delawareriverwaterfront.com",
+      "phone": "(215) 922-2FUN (2386) Delaware River Waterfront",
+      "image_url": "https://drwcsite.s3.amazonaws.com/files/549243206568285050-drwc001-web1500x500sneaker.full.jpg",
+      "highlights": [
+        "'Spruce Street Harbor Park: An iconic summer destination featuring colorful hammocks, floating barges, and mesmerizing LED lights. [Delaware River Waterfront', 'Cherry Street Pier: A reimagined municipal pier housing artist studios, curated markets, and flexible performance spaces. Cherry Street Pier', 'Independence Blue Cross RiverRink: A year-round rink hosting Winterfest (ice skating) and Summerfest (roller skating) with boardwalk games and rides. Delaware River Waterfront', 'Delaware River Trail: A 3.3-mile multi-modal trail connecting South Philadelphia to Fishtown, perfect for walking, jogging, and biking. Delaware River Waterfront', 'Race Street Pier: A multi-tiered park offering stunning views of the Benjamin Franklin Bridge and a grand sky promenade. Delaware River Waterfront']"
+      ],
+      "tips": "Public transportation is highly recommended as parking in the area is limited and cashless. Visitors are encouraged to bring their own chairs and blankets to the parks, and leashed dogs are welcome in most areas. Free Wi-Fi is available across the Waterfront parks. Delaware River Waterfront",
+      "nearby": "Independence Seaport Museum, Moshulu, Adventure Aquarium (via RiverLink Ferry), Rivers Casino Philadelphia, Benjamin Franklin Bridge. Delaware River Waterfront"
+    },
+    {
+      "name": "Eastern State Penitentiary Historic Site",
+      "category": "Museum / Historic Site (Wikipedia)",
+      "description": "Eastern State Penitentiary was once the most famous and expensive prison in the world, designed to inspire penitence through solitary confinement. Today, it stands as a stabilized ruin, offering tours that explore its radical history and the contemporary American criminal justice system. (Official Site)",
+      "address": "2027 Fairmount Avenue, Philadelphia, PA 19130 (Official Website)",
+      "city": "Philadelphia",
+      "region": "Old City / Historic District",
+      "hours": "Daily 10:00 a.m. – 5:00 p.m. (Seasonal: Closed Tuesdays in Jan-Feb and Dec 1-22). Special Summer Nights on Saturdays in June/July: 6:00 p.m. – 9:00 p.m. (Hours of Operation)",
+      "days_open": "Open daily year-round, except Tuesdays in January, February, and early December. Closed on New Year’s Day, Thanksgiving, Christmas Eve, and Christmas Day. (Hours of Operation)",
+      "admission": "Online: Adult $21, Senior (62+) $19, College Student $17, Youth (7-17) $17, Child (6 and under) Free. At-the-door tickets are $2 more. (Official Ticket Site)",
+      "website": "https://easternstate.org/",
+      "phone": "(215) 236-3300 (Contact Us)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Eastern_State_Penitentiary_aerial_crop.jpg",
+      "highlights": [
+        "'Audio tour narrated by Steve Buscemi featuring voices of former prisoners and guards ([Included with Admission)', 'Al Capone’s restored 1920s cell with fine furniture and oriental rugs (Official Site)', '\"Prisons Today\" interactive exhibit on the history of mass incarceration (Official Site)', 'Alfred W. Fleisher Memorial Synagogue, a restored place of worship within the prison walls (Wikipedia)', 'The radial floor plan, which served as a model for hundreds of prisons worldwide (Official Site)', 'Changing contemporary art installations located within the historic cellblocks (Official Site)']"
+      ],
+      "tips": "Wear comfortable, closed-toe shoes as the floors are uneven and the site is a \"stabilized ruin.\" Buy tickets online in advance to save $2 per person. The site is not climate-controlled, so dress for the weather. (Know Before You Go)",
+      "nearby": "Philadelphia Museum of Art, Rodin Museum, Barnes Foundation, The Franklin Institute, and Fairmount Park. (TripAdvisor)"
+    },
+    {
+      "name": "Elfreth's Alley",
+      "category": "Museum, Landmark, Historic Street",
+      "description": "Elfreth's Alley is the oldest continuously inhabited residential street in the United States, dating back to 1703. This National Historic Landmark features 32 preserved houses built between 1720 and 1836, offering a rare glimpse into the lives of the artisans and working-class laborers who built early Philadelphia Elfreth's Alley Museum, Visit Philadelphia.",
+      "address": "124-126 Elfreth's Alley, Philadelphia, PA 19106",
+      "city": "Philadelphia",
+      "region": "Old City / Historic District",
+      "hours": "Street: Open 24/7; Museum: Friday-Sunday 12:00 PM – 4:00 PM (April-November) Elfreth's Alley Museum",
+      "days_open": "Street: Daily; Museum: Friday - Sunday (Seasonal: April - November) Elfreth's Alley Museum",
+      "admission": "Street: Free; Museum: $3 Adults, $2 Children (7-12), Free for children under 7; Audio Tour: $3 Elfreth's Alley Museum",
+      "website": "https://www.elfrethsalley.org",
+      "phone": "(267) 457-4159 Elfreth's Alley Museum",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Elfreth%27s_Alley_%2853572700168%29.jpg",
+      "highlights": [
+        "'Designated as a National Historic Landmark with 32 houses dating from 1720 to 1836 [Visit Philadelphia', \"Home to the Elfreth's Alley Museum, located in houses #124 and #126 Elfreth's Alley Museum\", 'Features Bladen’s Court, a historic courtyard with a replica well pump and gas lamp Viator', \"Hosting of annual historic celebrations like 'Deck the Alley' and 'Elfreth's Alley Day' Elfreth's Alley Museum\", 'Showcases authentic Georgian and Federal-style architecture along cobblestone paths PA Bucket List']"
+      ],
+      "tips": "Wear comfortable shoes for the uneven cobblestone pavement; most houses are private residences, so please respect the residents' privacy; the street is foot-traffic only due to its narrow width and historic bollards Viator, PA Bucket List.",
+      "nearby": "Betsy Ross House, Independence National Historical Park, Christ Church, Museum of the American Revolution PA Bucket List"
+    },
+    {
+      "name": "Fairmount Park",
+      "category": "Park",
+      "description": "Fairmount Park is Philadelphia's largest municipal park, spanning over 2,000 acres along both banks of the Schuylkill River. It serves as a natural refuge featuring rolling hills, miles of trails, and historic landmarks, offering a wealth of recreational and cultural experiences. Visit Philadelphia, Wikipedia",
+      "address": "Various locations including 1 Boathouse Row and 4231 N Concourse Dr, Philadelphia, PA 19104 (Yelp), 1515 Arch Street, 10th Floor (Parks & Rec Admin) Visit Philadelphia, Yelp, Parks & Rec",
+      "city": "Philadelphia",
+      "region": "Old City / Historic District",
+      "hours": "Daily: Sunrise to Sunset Visit Philadelphia",
+      "days_open": "Daily Visit Philadelphia",
+      "admission": "Free; certain attractions like the Philadelphia Zoo, Shofuso Japanese House, and historic mansions have separate fees Visit Philadelphia",
+      "website": "https://myphillypark.org/",
+      "phone": "(215) 683-3600 (Parks & Rec), (215) 988-9334 (Conservancy) Parks & Rec, Conservancy",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Fairmount_Park%2C_Philadelphia%2C_PA.JPG",
+      "highlights": [
+        "['Boathouse Row and the Schuylkill River Trail', 'Historic Colonial-era mansions like Strawberry Mansion and Mount Pleasant', 'Shofuso Japanese House and Garden', \"Philadelphia Zoo, America's oldest zoo\", 'Smith Memorial Playground and Playhouse', 'Scenic views from Belmont Plateau']"
+      ],
+      "tips": "Picnic areas are first-come, first-served. A permit is required for using wilderness trails for off-road biking due to maintenance needs. Visit Philadelphia",
+      "nearby": "Philadelphia Museum of Art, Eastern State Penitentiary, The Franklin Institute Visit Philadelphia"
+    },
+    {
+      "name": "Franklin Court",
+      "category": "Museum, Landmark, Historic Site",
+      "description": "Franklin Court is a historic complex located on the site of Benjamin Franklin's former Philadelphia residence. It features a modern steel \"ghost structure\" that outlines the original home, an underground museum dedicated to Franklin's life, and a working reproduction of an 18th-century printing office.",
+      "address": "314-322 Market Street",
+      "city": "Philadelphia",
+      "region": "Old City / Historic District",
+      "hours": "Benjamin Franklin Museum: 9:00 AM - 5:00 PM Daily; Franklin Court Courtyard: 9:00 AM - 5:00 PM Daily; Franklin Court Printing Office: 10:00 AM - 5:00 PM (Last demonstration at 4:30 PM)",
+      "days_open": "Courtyard & Museum: Daily; Printing Office: Monday-Friday (Thursday-Sunday starting May 12)",
+      "admission": "Benjamin Franklin Museum: $5.00 for adults, $2.00 for children (ages 4-16), Free for children 3 and under; Franklin Court Courtyard and Printing Office: Free",
+      "website": "https://www.nps.gov/inde/learn/historyculture/places-franklincourt.htm",
+      "phone": "215-965-2305",
+      "image_url": "https://www.nps.gov/inde/planyourvisit/images/Franklin-Court-960-X-480_1.jpg?maxwidth=1300&maxheight=1300&autorotate=false&format=webp",
+      "highlights": [
+        "['Steel \"ghost structures\" outlining Benjamin Franklin\\'s home and print shop', 'Benjamin Franklin Museum with interactive exhibits and personal artifacts', 'Working reproduction of an 18th-century printing office and bindery', 'Archeological \"viewing portals\" showing the original house foundations and privy pit', 'B. Free Franklin Post Office, a working colonial-themed post office', 'Architectural exhibits at Fragments of Franklin Court showing 18th-century building practices']"
+      ],
+      "tips": "The Benjamin Franklin Museum requires a separate fee and tickets must be purchased on-site. Don't miss the printing demonstrations at the Printing Office, which usually end 30 minutes before closing. Look for the small squirrel figurines hidden throughout the museum exhibits for a fun family activity.",
+      "nearby": "Independence Hall, Liberty Bell Center, Carpenters' Hall, Betsy Ross House, Christ Church, Museum of the American Revolution"
+    },
+    {
+      "name": "Independence Hall",
+      "category": "Landmark / National Historical Park / UNESCO World Heritage Site",
+      "description": "Independence Hall is the historic building where the Declaration of Independence and the U.S. Constitution were both debated and signed. Originally constructed as the Pennsylvania State House, it served as the birthplace of American democracy and is now a UNESCO World Heritage Site. Visitors can tour the Assembly Room, where these foundational documents were created, and explore the site's rich architectural and political history.",
+      "address": "520 Chestnut Street (between 5th and 6th Streets)",
+      "city": "Philadelphia",
+      "region": "Old City / Historic District",
+      "hours": "Daily: 9:00 AM – 5:00 PM (9:00 AM – 10:30 AM: Open house, no tickets; 10:40 AM – 4:00 PM: Timed tours, tickets required; 4:20 PM: Expanded tour)",
+      "days_open": "Daily (except Thanksgiving, Christmas Day, and New Year’s Day)",
+      "admission": "Free (requires a $1.00 handling fee per ticket for timed tours)",
+      "website": "https://www.nps.gov/inde/planyourvisit/independencehall.htm",
+      "phone": "215-965-2305",
+      "image_url": "https://www.nps.gov/inde/planyourvisit/images/Hall-and-Wings-960-X-480_1.jpg?maxwidth=1300&maxheight=1300&autorotate=false&format=webp",
+      "highlights": [
+        "['Assembly Room where the Declaration of Independence and U.S. Constitution were signed', 'Birthplace of the United States and the Continental Army', 'UNESCO World Heritage Site status for its global significance', 'Original Georgian-style architecture dating back to 1753', \"George Washington's appointment as Commander-in-Chief occurred here\"]"
+      ],
+      "tips": "Tickets are required for tours from March through December and must be reserved in advance via Recreation.gov. Arrive at least 30 minutes early to clear security screening at the 5th Street entrance. No restrooms are available inside the secured area, so use facilities at the Independence Visitor Center beforehand. Photography is permitted, but no weapons or open food/drink containers are allowed.",
+      "nearby": "Liberty Bell Center, Congress Hall, Old City Hall, National Constitution Center, Independence Visitor Center, Second Bank of the United States, President's House Site, Museum of the American Philosophical Society"
+    },
+    {
+      "name": "Independence National Historical Park",
+      "category": "National Historical Park",
+      "description": "Independence National Historical Park represents the founding ideals of the nation and preserves symbols of freedom and democracy. It protects a rich collection of resources associated with the birth of the American republic, including the room where the Declaration of Independence and the U.S. Constitution were signed.",
+      "address": "143 S. 3rd Street (Mailing); 520 Chestnut Street (GPS for Independence Hall)",
+      "city": "Philadelphia",
+      "region": "Old City / Historic District",
+      "hours": "Independence Visitor Center & Liberty Bell Center: Mon-Sun 9:00 AM – 5:00 PM; Independence Hall: Mon-Sun 9:00 AM – 5:00 PM (Tours 10:40 AM – 4:20 PM); President's House Site: Mon-Sun 7:00 AM – 10:00 PM; Benjamin Franklin Museum: Mon-Sun 9:00 AM – 5:00 PM (NPS Operating Hours).",
+      "days_open": "Daily (Closed on Thanksgiving Day, Christmas Day, and New Year’s Day)",
+      "admission": "Most sites are Free; Independence Hall tours are free but require a $1.00 reservation fee per ticket (Recreation.gov); Benjamin Franklin Museum is $5 for adults, $2 for children (ages 9-16), and free for children 8 and under (NPS).",
+      "website": "https://www.nps.gov/inde/",
+      "phone": "215-965-2305 (NPS)",
+      "image_url": "https://www.nps.gov/common/uploads/grid_builder/inde/crop16_9/A4F10D22-1DD8-B71B-0B20AC421A8A2B0D.jpg",
+      "highlights": [
+        "['Independence Hall (UNESCO World Heritage Site)', 'The Liberty Bell Center', 'Benjamin Franklin Museum', \"President's House Site\", 'Congress Hall', \"Carpenters' Hall\"]"
+      ],
+      "tips": "Start your visit at the Independence Visitor Center for information and maps. Reserve Independence Hall tour tickets in advance online for a $1 fee to avoid long waits. Allow extra time for security screening at Independence Hall and the Liberty Bell Center. The park is very walkable, with most major sites located within a few blocks of each other (NPS).",
+      "nearby": "National Constitution Center, Museum of the American Revolution, Christ Church, Betsy Ross House, Elfreth's Alley (NPS)."
+    },
+    {
+      "name": "Longwood Gardens",
+      "category": "Botanical Garden / Horticultural Display / Museum",
+      "description": "Longwood Gardens is one of the world's premier horticultural display gardens, encompassing over 1,100 acres of meticulously maintained gardens, woodlands, and meadows. Founded by Pierre S. du Pont in 1906, the site features a massive four-acre conservatory, majestic fountain displays, and a diverse collection of over 11,000 plant varieties. Longwood Gardens History, Encyclopedia Britannica",
+      "address": "1001 Longwood Road",
+      "city": "Kennett Square",
+      "region": "Old City / Historic District",
+      "hours": "Mon, Wed, Thu: 10:00 am–6:00 pm; Fri, Sat, Sun: 10:00 am–10:00 pm; Tue: Closed Longwood Gardens Hours",
+      "days_open": "Monday, Wednesday, Thursday, Friday, Saturday, Sunday (Closed on Tuesdays during current season) Longwood Gardens Hours",
+      "admission": "Adults (16–64): $32.00–$38.00, Seniors (65+): $28.00–$38.00, Youth (5–15): $17.00–$22.00, Children (4 & under): Free, Active US Military & Veteran: $23.00–$29.00, SNAP/EBT/PA ACCESS Cardholders: $2.00–$8.00 Longwood Gardens Tickets",
+      "website": "https://longwoodgardens.org",
+      "phone": "610-388-1000 Longwood Gardens Contact",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Flower_Garden_Walk_at_Longwood_Gardens.jpg",
+      "highlights": [
+        "['Main Fountain Garden with spectacular water and light shows', 'The Conservatory, featuring 4 acres of indoor gardens under glass', 'Peirce-du Pont House, the historic family homestead dating back to 1730', 'The Meadow Garden, spanning 86 acres of native American landscapes', 'Flower Garden Walk, a 600-foot path of seasonal floral displays', 'Longwood Reimagined, including the new West Conservatory and relocated Cascade Garden']"
+      ],
+      "tips": "Timed admission tickets are required and should be purchased in advance as they often sell out. Comfortable walking shoes are essential for exploring the vast grounds, and visitors should check the 'What’s in Bloom' guide on the official website to plan their visit according to seasonal displays. Longwood Gardens Visit",
+      "nearby": "Brandywine River Museum of Art, Hagley Museum and Library, Winterthur Museum, Garden and Library, Nemours Estate, Downtown Kennett Square Brandywine Valley Attractions"
+    },
+    {
+      "name": "Museum of the American Revolution",
+      "category": "Museum",
+      "description": "The Museum of the American Revolution uncovers and shares compelling stories about the diverse people and complex events that sparked America’s ongoing experiment in liberty, self-government, and equality. It is located in the heart of historic Philadelphia and tells the story of the American Revolution from its origins to its ongoing legacy. Source",
+      "address": "101 South Third Street, Philadelphia, PA 19106",
+      "city": "Philadelphia",
+      "region": "Old City / Historic District",
+      "hours": "Daily, 10 a.m. – 5 p.m. Source",
+      "days_open": "Daily (except Thanksgiving Day, Christmas Day, and New Year's Day) Source",
+      "admission": "Adults: $25 (Online), $27 (Walk-up); Seniors (65+), Students, Teachers, & Military: $21; Youth (6-17): $14; Members & Children (5 & under): Free. Source",
+      "website": "https://www.amrevmuseum.org",
+      "phone": "(215) 253-6731 Source",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Museum_of_the_American_Revolution_%2853590618560%29.jpg",
+      "highlights": [
+        "\"George Washington's War Tent, a dramatic theater presentation of his mobile field headquarters [Source\", 'The Road to Independence gallery, exploring how colonists became revolutionaries Source', 'The Darkest Hour gallery, depicting the challenges faced during the war Source', 'Revolution Place, a family-friendly discovery center for younger learners Source', \"The Declaration's Journey, exploring the global impact of the Declaration of Independence Source\"]"
+      ],
+      "tips": "Advance reservations are strongly recommended; tickets are good for two consecutive days. Most visitors spend about two hours experiencing the whole museum. Source",
+      "nearby": "Independence Hall, Liberty Bell, Independence National Historical Park, First Bank of the United States, American Philosophical Society, Carpenters' Hall. Source, Source"
+    },
+    {
+      "name": "National Constitution Center",
+      "category": "Museum",
+      "description": "The National Constitution Center is the first and only nonprofit, nonpartisan institution devoted to the U.S. Constitution and its legacy of freedom. Through interactive exhibits, rare artifacts, and live theater, the museum brings the Constitution to life for visitors of all ages, telling the story of \"We the People\" from the Revolutionary era to the present day National Constitution Center.",
+      "address": "525 Arch Street, Philadelphia, PA 19106 National Constitution Center",
+      "city": "Philadelphia",
+      "region": "Old City / Historic District",
+      "hours": "Wednesday – Sunday: 10 a.m. – 5 p.m. National Constitution Center",
+      "days_open": "Wednesday, Thursday, Friday, Saturday, Sunday National Constitution Center",
+      "admission": "Adults: $19.95 Online / $24.95 On-site; Seniors (65+), Students (with ID), and Youth (6-18): $14.95 Online / $19.95 On-site; Children (under 6) and Members: Free National Constitution Center Tickets",
+      "website": "https://constitutioncenter.org",
+      "phone": "215.409.6600 National Constitution Center",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/2012-07_Independence_National_Historical_Park_04.JPG",
+      "highlights": [
+        "'Freedom Rising: A 17-minute multimedia theatrical production that sets the stage for the museum experience [National Constitution Center', \"Signers' Hall: A room featuring 42 life-size bronze statues of the Founding Fathers, where visitors can sign the Constitution National Constitution Center\", \"The Story of We the People: The museum's main exhibit featuring the iconic Preamble Wall National Constitution Center\", 'Civil War and Reconstruction: An exhibit exploring the constitutional debates of the Civil War era National Constitution Center', \"The 19th Amendment: How Women Won the Vote: A gallery tracing the struggle for women's suffrage National Constitution Center\", 'American Treasures: A display of rare original documents, including drafts of the U.S. Constitution National Constitution Center']"
+      ],
+      "tips": "Purchase tickets online in advance to save $5 per person. Be sure to attend the 17-minute \"Freedom Rising\" show, which runs every hour. Note that photography is prohibited in theater spaces and Signers' Hall National Constitution Center Tips.",
+      "nearby": "Liberty Bell Center, Independence Hall, United States Mint, Benjamin Franklin Museum, and Betsy Ross House TripAdvisor"
+    },
+    {
+      "name": "Old City Philadelphia",
+      "category": "Landmark, Historic District, Neighborhood",
+      "description": "Old City Philadelphia is celebrated as America’s most historic square mile, where the foundations of the United States were laid. This charming neighborhood features cobblestone streets, 18th-century architecture, and a lively mix of historic landmarks, art galleries, and modern dining. Visit Philadelphia, Old City District",
+      "address": "231 Market Street (Old City District Office)",
+      "city": "Philadelphia",
+      "region": "Old City / Historic District",
+      "hours": "Monday: 9:00 AM - 5:00 PM, Tuesday: 9:00 AM - 5:00 PM, Wednesday: 9:00 AM - 5:00 PM, Thursday: 9:00 AM - 5:00 PM, Friday: 9:00 AM - 5:00 PM, Saturday: 9:00 AM - 5:00 PM, Sunday: 9:00 AM - 5:00 PM (Applies to major landmarks and Visitor Center). NPS",
+      "days_open": "Daily",
+      "admission": "Free (Liberty Bell and Independence Hall); Independence Hall requires a $1 handling fee for timed tickets. Museum of the American Revolution: Adults $25, Youth (6-17) $14, Children 5 & under Free. NPS, Museum of the American Revolution",
+      "website": "https://www.oldcitydistrict.org/",
+      "phone": "(215) 592-7929",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Elfreth%27s_Alley.JPG",
+      "highlights": [
+        "['Independence Hall: Birthplace of the Declaration of Independence and U.S. Constitution.', 'Liberty Bell Center: Home to the iconic symbol of American freedom.', \"Elfreth's Alley: The nation's oldest continuously inhabited residential street.\", 'Museum of the American Revolution: Comprehensive look at the founding of the republic.', 'Betsy Ross House: The legendary home where the first American flag was made.', \"Christ Church: Historic house of worship for many of the nation's Founders.\"]"
+      ],
+      "tips": "Advance reservations are highly recommended for Independence Hall tours via Recreation.gov. Wear comfortable walking shoes to navigate the historic cobblestone streets. Visit on the first Friday of any month for 'First Friday' art gallery openings and events. PHL Visitor Center",
+      "nearby": "Society Hill, Chinatown, Penn's Landing, Franklin Square. Visit Philadelphia"
+    },
+    {
+      "name": "Penn's Landing",
+      "category": "Park, Entertainment, and Landmark",
+      "description": "Penn’s Landing is Philadelphia’s premier urban waterfront oasis, named in honor of William Penn’s historic landing in 1682 (Visit Philadelphia). This vibrant destination along the Delaware River features a mix of seasonal parks, historic ships, museums, and year-round public spaces offering events, concerts, and festivals (Wikipedia).",
+      "address": "101 N. Christopher Columbus Blvd., Philadelphia, PA 19106",
+      "city": "Philadelphia",
+      "region": "Old City / Historic District",
+      "hours": "General public spaces (Race Street Pier, Cherry Street Pier, etc.): Open daily, typically 7:00 AM – 11:00 PM (Delaware River Waterfront). Spruce Street Harbor Park (Seasonal): Sun–Thurs: 11:00 AM – 10:00 PM; Fri–Sat: 11:00 AM – 11:00 PM (Delaware River Waterfront). Independence Seaport Museum: Sun–Tues & Thurs–Sat: 10:00 AM – 5:00 PM, Wed: Closed (until late May) (Seaport Museum).",
+      "days_open": "Parks are open 7 days a week year-round; seasonal attractions (Spruce Street Harbor Park, Summerfest) open daily from late May through early September (Delaware River Waterfront).",
+      "admission": "General park admission is Free (Delaware River Waterfront). Independence Seaport Museum: Adult $23.00, Senior/Student/Child (3-17) $18.00, Child Under 3 Free (Seaport Museum). Submarine Package (Museum + Becuna): Adult $33.00, Senior/Student/Child $28.00 (Seaport Museum). Roller Skating (Summerfest): Admission and rental fees apply seasonally (Summerfest).",
+      "website": "http://www.delawareriverwaterfront.com/",
+      "phone": "(215) 922-2386 (215-922-2FUN)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Penn%27s_Landing_%2853572824144%29.jpg",
+      "highlights": [
+        "['Spruce Street Harbor Park featuring hammocks and floating gardens.', 'Independence Seaport Museum with historic ships USS Olympia and USS Becuna.', 'Blue Cross RiverRink for ice skating in winter and roller skating in summer.', 'Cherry Street Pier’s creative hub with artist studios and a marketplace.', 'Race Street Pier’s two-tiered park with stunning views of the Benjamin Franklin Bridge.', 'Moshulu, the world’s oldest and largest four-masted tall ship and floating restaurant.']"
+      ],
+      "tips": "Public transportation like SEPTA or the PHLASH bus is highly recommended as waterfront parking is limited (Delaware River Waterfront). Visit during 'Summerfest' or 'Winterfest' for peak seasonal activities, and check the schedule for free concerts and multicultural festivals at the Great Plaza (Visit Philadelphia).",
+      "nearby": "Independence Hall, Liberty Bell, Elfreth’s Alley, Betsy Ross House, and Adventure Aquarium (via RiverLink Ferry) (Visit Philadelphia)."
+    },
+    {
+      "name": "Philadelphia Museum of Art Philadelphia Museum of Art",
+      "category": "Museum Philadelphia Museum of Art",
+      "description": "The Philadelphia Museum of Art is one of the largest museums in the country, offering world-renowned galleries and engaging educational spaces. Its iconic main building, famous for the \"Rocky Steps,\" serves as a cultural landmark and a popular gathering place along the scenic Benjamin Franklin Parkway. Philadelphia Museum of Art",
+      "address": "2600 Benjamin Franklin Parkway Philadelphia Museum of Art",
+      "city": "Philadelphia Philadelphia Museum of Art",
+      "region": "Old City / Historic District",
+      "hours": "Monday: 10:00 a.m. – 5:00 p.m.; Tuesday: Closed; Wednesday: Closed; Thursday: 10:00 a.m. – 5:00 p.m.; Friday: 10:00 a.m. – 8:45 p.m.; Saturday: 10:00 a.m. – 5:00 p.m.; Sunday: 10:00 a.m. – 5:00 p.m. Philadelphia Museum of Art",
+      "days_open": "Monday, Thursday, Friday, Saturday, Sunday Philadelphia Museum of Art",
+      "admission": "Adults: $30, Seniors (65+): $28, Students: $14, Youths (13–18): Free, Children (12 & under): Free. Members: Free. Pay What You Wish: Wednesdays after 5:00 p.m. and the first Sunday of each month Philadelphia Museum of Art, Yelp",
+      "website": "https://www.philamuseum.org/",
+      "phone": "215-763-8100 Philadelphia Museum of Art",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Philadelphia_Museum_of_Art_Pennsylvania_USA.jpg",
+      "highlights": [
+        "'The iconic \"Rocky Steps\" and Rocky Statue [Philadelphia Museum of Art', 'Encyclopedic collection spanning 4,000 years of art and artifacts Philadelphia Museum of Art', \"The nearby Rodin Museum, housing one of the largest collections of Auguste Rodin's work Philadelphia Museum of Art\", 'Anne d’Harnoncourt Sculpture Garden Philadelphia Museum of Art', 'World-renowned galleries including major works by Marcel Duchamp and Thomas Hart Benton Philadelphia Museum of Art, Thomas Hart Benton']"
+      ],
+      "tips": "Plan a full day to explore; do not touch the art; use the free audio guide; visit on Pay What You Wish days for savings; and remember that flash photography is not permitted Philadelphia Museum of Art",
+      "nearby": "Rodin Museum, Barnes Foundation, Eastern State Penitentiary, Fairmount Park, Schuylkill River Trail, and Boathouse Row Wonderful Museums"
+    },
+    {
+      "name": "Philadelphia Zoo Philadelphia Zoo",
+      "category": "Entertainment / Zoo Wikipedia",
+      "description": "Chartered in 1859 as the first true zoo in the United States, the Philadelphia Zoo is a 42-acre urban oasis and home to nearly 1,300 animals. It is globally recognized for its pioneering Zoo360 trail system, which allows animals like big cats and primates to roam above and around visitors throughout the park Wikipedia, Philadelphia Zoo",
+      "address": "3400 W. Girard Avenue Philadelphia Zoo",
+      "city": "Philadelphia Philadelphia Zoo",
+      "region": "Old City / Historic District",
+      "hours": "Monday: 9:30 AM - 5:00 PM, Tuesday: 9:30 AM - 5:00 PM, Wednesday: 9:30 AM - 5:00 PM, Thursday: 9:30 AM - 5:00 PM, Friday: 9:30 AM - 5:00 PM, Saturday: 9:30 AM - 5:00 PM, Sunday: 9:30 AM - 5:00 PM (Last entry at 4:00 PM) Philadelphia Zoo",
+      "days_open": "Monday - Sunday Philadelphia Zoo",
+      "admission": "Adult (Ages 12+): $34.00, Child (Ages 2-11): $30.00, Child (Under 2): Free. Prices may vary by date. Members receive free admission. ACCESS cardholders (PA/DE) pay $2.00 (up to 4 people). Military members and veterans receive $5.00 off Philadelphia Zoo Tickets, Philadelphia Zoo Special Offers",
+      "website": "https://www.philadelphiazoo.org/",
+      "phone": "215.243.5254 The Constitutional Walking Tour",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Philadelphia_Zoo_Welcome_Gate_2832px.jpg",
+      "highlights": [
+        "'Zoo360: A first-of-its-kind animal trail system [Wikipedia', 'Big Cat Falls: Home to lions, tigers, and leopards Philadelphia Zoo Attractions', 'PECO Primate Reserve: Featuring gorillas and orangutans Wikipedia', \"KidZooU: Interactive children's zoo and education center Wikipedia\", 'McNeil Avian Center: Walk-through bird habitat Philadelphia Zoo Attractions', 'Philly Zoo Pherris Wheel: Offering panoramic city views Philadelphia Zoo Attractions']"
+      ],
+      "tips": "Advance online ticket reservations are required for all general admission guests. Arrive early to secure parking in the Zoo Garage or Tiger Lot ($22 per vehicle). Download the Zoo's digital guide for an interactive map and feeding schedules Philadelphia Zoo, Philadelphia Zoo Digital Guide",
+      "nearby": "Please Touch Museum, Fairmount Park, Philadelphia Museum of Art, Shofuso Japanese Cultural Center Tripadvisor, Visit Philadelphia"
+    },
+    {
+      "name": "Race Street Pier (Delaware River Waterfront)",
+      "category": "Park (Visit Philadelphia)",
+      "description": "Race Street Pier is a scenic one-acre public park located on Philadelphia's Delaware River Waterfront, situated directly in the shadow of the Benjamin Franklin Bridge (Visit Philadelphia). The park features a distinctive bi-level design, with an upper 'Grand Sky Promenade' for panoramic views and a lower level dedicated to passive recreation and social gatherings (Delaware River Waterfront). It serves as a key node along the Delaware River Trail, offering a vegetated urban oasis with sustainable Trex decking and a spacious lawn (PHL Visitor Center).",
+      "address": "N Christopher Columbus Blvd & Race St, Philadelphia, PA 19106 (Delaware River Waterfront)",
+      "city": "Philadelphia (Delaware River Waterfront)",
+      "region": "Old City / Historic District",
+      "hours": "Monday: 7:00 AM - 11:00 PM, Tuesday: 7:00 AM - 11:00 PM, Wednesday: 7:00 AM - 11:00 PM, Thursday: 7:00 AM - 11:00 PM, Friday: 7:00 AM - 11:00 PM, Saturday: 7:00 AM - 11:00 PM, Sunday: 7:00 AM - 11:00 PM (Delaware River Waterfront)",
+      "days_open": "Daily (Delaware River Waterfront)",
+      "admission": "Free (Delaware River Waterfront)",
+      "website": "https://www.delawareriverwaterfront.com/where-to-go/race-street-pier",
+      "phone": "215-922-2386 (Delaware River Waterfront)",
+      "image_url": "https://drwcsite.s3.amazonaws.com/files/87770081474396598-beaumonde-originals-philadelphia-commercial-photography-330.full.jpg",
+      "highlights": [
+        "'Stunning views of the Benjamin Franklin Bridge, Delaware River, and city skyline ([Delaware River Waterfront)', \"Unique bi-level architecture featuring the 'Grand Sky Promenade' and a multi-tiered seating amphitheater (Visit Philadelphia)\", 'Seasonal free yoga classes offered daily from April through November (PHL Visitor Center)', 'Sustainable design utilizing reclaimed plastic and wood for decking and energy-efficient LED solar lighting (Visit Philadelphia)', 'Integrated tidal register that allows visitors to observe and track river tide forecasts (Landezine)', 'Spacious multi-purpose lawn and manicured gardens perfect for picnics and relaxation (PHL Visitor Center)']"
+      ],
+      "tips": "Visit at high tide to see the river rise within inches of the lower level (Visit Philadelphia). The park is dog-friendly (on leash) and provides a great spot for riverfront photography (PHL Visitor Center). Since parking can be scarce, walking or biking via the Delaware River Trail is recommended (Tripadvisor).",
+      "nearby": "Cherry Street Pier (Delaware River Waterfront), Benjamin Franklin Bridge (Visit Philadelphia), Delaware River Trail (Delaware River Waterfront), Franklin Square (Tripadvisor), Elfreth's Alley (Wikipedia)), Independence Seaport Museum (Visit Philadelphia)"
+    },
+    {
+      "name": "Rocky Steps at the Philadelphia Museum of Art",
+      "category": "Landmark, Museum, Park",
+      "description": "The Rocky Steps are a set of 72 stone steps leading to the East entrance of the Philadelphia Museum of Art, made famous by the iconic training scene in the 1976 film 'Rocky'. They have become a global symbol of perseverance and a physical metaphor for the underdog's triumph, attracting millions of visitors who recreate the famous climb (Wikipedia, Visit Philadelphia).",
+      "address": "2600 Benjamin Franklin Parkway, Philadelphia, PA 19130-2302",
+      "city": "Philadelphia",
+      "region": "Old City / Historic District",
+      "hours": "Monday: 10:00 a.m. - 5:00 p.m.; Tuesday: Closed; Wednesday: Closed; Thursday: 10:00 a.m. - 5:00 p.m.; Friday: 10:00 a.m. - 8:45 p.m.; Saturday: 10:00 a.m. - 5:00 p.m.; Sunday: 10:00 a.m. - 5:00 p.m. (Philadelphia Museum of Art).",
+      "days_open": "Monday, Thursday, Friday, Saturday, Sunday (Closed Tuesdays and Wednesdays) (Philadelphia Museum of Art).",
+      "admission": "Adults: $30, Seniors (65+): $28, Students (valid ID): $14, Youths (18 and under): Free, Members: Free, Member Guests: $15 ($14 for Seniors). Pay-What-You-Wish: first Sunday of every month and every Friday night (5:00 p.m. - 8:45 p.m.) (Philadelphia Museum of Art).",
+      "website": "https://www.philamuseum.org",
+      "phone": "215-763-8100",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Philadelphia_Museum_of_Art_Pennsylvania_USA.jpg/1280px-Philadelphia_Museum_of_Art_Pennsylvania_USA.jpg",
+      "highlights": [
+        "\"Recreating the iconic run up the 72 stone steps as seen in the 'Rocky' films ([Wikipedia).\", 'Commanding views of Eakins Oval, the Benjamin Franklin Parkway, and Philadelphia City Hall from the top landing (Wikipedia).', 'Visiting the bronze Rocky Statue, which was moved inside for a special exhibition in 2026 (NPR, Association for Public Art).', \"Finding the 'Rocky' footprint bronze inlay at the top of the stairs (Wikipedia).\", 'Exploring the world-class collections of the Philadelphia Museum of Art at the top of the steps (Visit Philadelphia).', 'Participating in the annual Independence Day celebrations and concerts held on the parkway with the steps as a backdrop (Wikipedia).']"
+      ],
+      "tips": "Visit early in the morning or on weekdays to avoid the largest crowds for photos. If you plan to enter the museum, take advantage of the 'Pay-What-You-Wish' hours on Friday nights or the first Sunday of the month. Note that the original Rocky statue has been moved inside the museum for a special 'Rising Up' exhibition in 2026 (PHL Visitor Center, Philadelphia Museum of Art).",
+      "nearby": "Rocky Statue (temporarily inside for exhibition), Rodin Museum, Eakins Oval, Franklin Institute, Fairmount Park, Schuylkill River Trail (Visit Philadelphia, Tripadvisor)."
+    },
+    {
+      "name": "Second Bank of the United States (Portrait Gallery in the Second Bank)",
+      "category": "Museum, Landmark",
+      "description": "The Second Bank of the United States is a masterpiece of Greek Revival architecture that serves as a portrait gallery for over 150 prominent early Americans. Designed by William Strickland and completed in 1824, the building houses the \"People of Independence\" exhibit, featuring works by Charles Willson Peale and other notable artists (National Park Service).",
+      "address": "420 Chestnut Street",
+      "city": "Philadelphia",
+      "region": "Old City / Historic District",
+      "hours": "Thursday–Sunday: 12:00 PM – 5:00 PM (Note: Scheduled to reopen June 4, 2026) (National Park Service)",
+      "days_open": "Thursday, Friday, Saturday, Sunday (National Park Service)",
+      "admission": "Free (National Park Service)",
+      "website": "https://www.nps.gov/inde/learn/historyculture/places-secondbank.htm",
+      "phone": "215-965-2305 (National Park Service)",
+      "image_url": "https://www.nps.gov/npgallery/GetAsset/1a6b245a-155d-451f-67f7-803526352b39/proxy/hires?",
+      "highlights": [
+        "['Masterpiece of Greek Revival architecture designed by William Strickland', 'Portrait gallery featuring over 150 paintings of Founding Fathers and early American leaders', 'Core collection of portraits by famed artist Charles Willson Peale', 'Includes the life-sized wooden statue of George Washington by William Rush', \"Historic site of the nation's second attempt at central banking\", 'Part of the Independence National Historical Park, a UNESCO World Heritage site area']"
+      ],
+      "tips": "The gallery is free to enter and typically takes about 30 to 60 minutes to tour. The building is fully accessible to visitors with mobility impairments via a ramped entrance. Always check the official NPS alerts page for seasonal closures or special events before visiting (National Park Service).",
+      "nearby": "Independence Hall, Liberty Bell Center, Carpenters' Hall, Independence Square (National Park Service)"
+    },
+    {
+      "name": "Society Hill Historic District",
+      "category": "Historic Neighborhood / Landmark Wikipedia",
+      "description": "Society Hill is a visually stunning historic neighborhood in Center City Philadelphia, known for having the largest collection of original 18th- and early 19th-century buildings in the United States. The district features charming cobblestone streets, brick sidewalks, and iconic Federal and Georgian-style row houses alongside mid-20th century architectural additions. It is a premier example of urban renewal and preservation, blending colonial history with vibrant modern city living. Society Hill Civic Association, Visit Philadelphia",
+      "address": "Bounded by Walnut, Lombard, Front, and 8th Streets Encyclopedia of Greater Philadelphia",
+      "city": "Philadelphia",
+      "region": "Old City / Historic District",
+      "hours": "Monday: Open 24 hours, Tuesday: Open 24 hours, Wednesday: Open 24 hours, Thursday: Open 24 hours, Friday: Open 24 hours, Saturday: Open 24 hours, Sunday: Open 24 hours Tripadvisor",
+      "days_open": "Daily Tripadvisor",
+      "admission": "Free to walk the district; individual museum and attraction prices vary Visit Philadelphia",
+      "website": "https://societyhillcivic.org",
+      "phone": "215-629-1288 Society Hill Civic Association",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/HeadHouseSquare.JPG",
+      "highlights": [
+        "\"Head House Square and the Shambles, one of the nation's oldest continuously operating markets [Visit Philadelphia\", 'Historic homes like the Powel House and Hill-Physick House Visit Philadelphia', \"Mother Bethel AME Church, a cornerstone of Philadelphia's African American history Visit Philadelphia\", \"Washington Square, one of William Penn's five original city parks Visit Philadelphia\", \"The Delaware River waterfront at Penn's Landing Visit Philadelphia\", 'World-class dining at award-winning restaurants like Zahav Visit Philadelphia']"
+      ],
+      "tips": "The neighborhood is best explored on foot, so wear comfortable shoes for the cobblestone streets. Be sure to wander off the main thoroughfares to discover hidden pocket parks and residential alcoves like the Rose Garden or Three Bears Park. Visit Philadelphia",
+      "nearby": "Independence National Historical Park, Old City, South Street Headhouse District, Delaware River Waterfront Visit Philadelphia"
+    },
+    {
+      "name": "Spruce Street Harbor Park (Delaware River Waterfront)",
+      "category": "Park (Delaware River Waterfront)",
+      "description": "Spruce Street Harbor Park is a vibrant seasonal urban park located along the Delaware River at Penn's Landing. It features colorful hammocks, floating gardens, technicolored lights, and a variety of local food and beverage vendors, creating a popular summer destination for relaxation and entertainment (Delaware River Waterfront, Wikipedia).",
+      "address": "301 S. Christopher Columbus Blvd., Philadelphia, PA 19106 (Wikipedia, Delaware River Waterfront)",
+      "city": "Philadelphia (Delaware River Waterfront)",
+      "region": "Old City / Historic District",
+      "hours": "Sun. - Thurs.: 11 am to 10 pm; Fri. - Sat.: 11 am to 11 pm (Delaware River Waterfront)",
+      "days_open": "Seven days a week, including holidays, during its summer season (May 22, 2026 – September 2026) (Delaware River Waterfront)",
+      "admission": "Free (Delaware River Waterfront)",
+      "website": "https://www.delawareriverwaterfront.com/places/spruce-street-harbor-park",
+      "phone": "215-922-2386 (Delaware River Waterfront)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Spruce_Street_Harbor_Park.jpg",
+      "highlights": [
+        "'Colorful hammocks strung throughout the Grove area ([Delaware River Waterfront)', 'Floating barges with bars and scenic views of the river (Delaware River Waterfront)', 'Technicolored LED lights that illuminate the park at night (Delaware River Waterfront)', 'Local food vendors serving Philadelphia favorites (Delaware River Waterfront)', 'The Lazy Hammock performance venue and video wall (Delaware River Waterfront)', 'Art Star Pop Up Market on Saturdays (Wikipedia)']"
+      ],
+      "tips": "Arrive early to secure a hammock as they are first-come, first-served. All activities and bars close at least 30 minutes before the park's closing time. Dogs are welcome but not allowed on the barge or in the hammocks (Delaware River Waterfront) .",
+      "nearby": "Independence Seaport Museum, USS Becuna, USS Olympia, Moshulu, Cherry Street Pier, and Independence National Historical Park (Tripadvisor, Wikipedia)"
+    },
+    {
+      "name": "The Liberty Bell Center",
+      "category": "Landmark / Museum",
+      "description": "The Liberty Bell Center houses the iconic Liberty Bell, a worldwide symbol of freedom easily recognizable by its famous crack. Visitors can explore exhibits detailing the bell's origins and its significance to movements like abolition, women's suffrage, and civil rights, all while viewing the bell with Independence Hall framed in the background. (NPS, Visit Philadelphia)",
+      "address": "526 Market Street",
+      "city": "Philadelphia",
+      "region": "Old City / Historic District",
+      "hours": "Monday: 9:00 AM - 5:00 PM, Tuesday: 9:00 AM - 5:00 PM, Wednesday: 9:00 AM - 5:00 PM, Thursday: 9:00 AM - 5:00 PM, Friday: 9:00 AM - 5:00 PM, Saturday: 9:00 AM - 5:00 PM, Sunday: 9:00 AM - 5:00 PM (NPS)",
+      "days_open": "Daily",
+      "admission": "Free (No tickets required) (NPS)",
+      "website": "https://www.nps.gov/inde/planyourvisit/libertybellcenter.htm",
+      "phone": "215-965-2305 (VisitPA)",
+      "image_url": "https://www.nps.gov/inde/learn/kidsyouth/images/Libery-Bell-960x480.jpg?maxwidth=1300&maxheight=1300&autorotate=false&format=webp",
+      "highlights": [
+        "['View the iconic cracked Liberty Bell up close with Independence Hall in the background.', \"Explore exhibits on the bell's history from its founding to its role in civil rights movements.\", \"Watch a short film (approx. 15 minutes) about the bell's historical impact.\", 'Read the timeless inscription: \\\\\"Proclaim Liberty Throughout All the Land Unto All the Inhabitants thereof.\\\\\"', \"Bust common myths about the bell's name and history through informative displays.\", 'Engage with knowledgeable National Park Service rangers available to answer questions.']"
+      ],
+      "tips": "Admission is first-come, first-served; arrive early to avoid long security lines, especially on weekends. Visitors must pass through a security screening similar to airport security; no weapons or open food/drink containers are allowed. For the best photo opportunity, wait for a turn at the end of the center where Independence Hall is visible through the window behind the bell. (NPS, Visit Philadelphia)",
+      "nearby": "Independence Hall, Independence Visitor Center, President's House Site, National Constitution Center, Weitzman National Museum of American Jewish History (Tripadvisor, NPS)"
+    },
+    {
+      "name": "Valley Forge National Historical Park NPS",
+      "category": "Park Wikipedia",
+      "description": "Valley Forge National Historical Park is the site of the 1777-1778 winter encampment of the Continental Army under George Washington. Today, the park protects 3,500 acres of meadows, woodlands, and historic monuments commemorating the Revolutionary War generation's resolve. NPS",
+      "address": "1400 North Outer Line Drive, King of Prussia, PA 19406 NPS",
+      "city": "King of Prussia NPS",
+      "region": "Old City / Historic District",
+      "hours": "Park Grounds: 7:00 AM – Sunset daily; Visitor Center: 9:00 AM – 5:00 PM daily NPS",
+      "days_open": "Every Day NPS",
+      "admission": "Free NPS",
+      "website": "https://www.nps.gov/vafo/",
+      "phone": "610 783-1000 NPS",
+      "image_url": "https://commons.wikimedia.org/wiki/File:War_Memorial_At_Valley_Forge_PA.JPG",
+      "highlights": [
+        "\"Washington's Headquarters (restored colonial home) [NPS\", 'National Memorial Arch Wikipedia', 'Reconstructed Log Huts NPS', 'Washington Memorial Chapel Wikipedia', 'Over 30 miles of hiking and biking trails NPS', 'Museum Exhibit in the Visitor Center NPS']"
+      ],
+      "tips": "Entrance to the park is free year-round. Leashed pets are welcome on the grounds but not inside buildings. Note that Washington's Headquarters is currently closed for restoration through 2026. NPS",
+      "nearby": "King of Prussia Mall, Washington Memorial Chapel, Medal of Honor Grove, Valley Forge Casino Resort NPS, Valley Forge Casino"
+    },
+    {
+      "name": "Weitzman National Museum of American Jewish History",
+      "category": "Museum",
+      "description": "The Weitzman National Museum of American Jewish History is the only museum in the nation dedicated exclusively to exploring and interpreting the American Jewish experience. Located on Independence Mall, it preserves, explores, and celebrates the history of Jews in America through interactive exhibitions and educational programs. The Weitzman",
+      "address": "101 South Independence Mall East, Philadelphia, PA 19106-2517",
+      "city": "Philadelphia",
+      "region": "Old City / Historic District",
+      "hours": "Wednesday-Sunday: 10:00 am - 5:00 pm. Special holiday hours apply (e.g., closed on Rosh Hashanah, Yom Kippur, and Thanksgiving). The Weitzman",
+      "days_open": "Wednesday, Thursday, Friday, Saturday, Sunday (Closed Mondays and Tuesdays)",
+      "admission": "Museum Admission: Free (donation requested); includes Core Exhibition 1654-1945 and Only in America® Gallery. Special Exhibition \"The First Salute\": Paid (details varies, Family Package $56 for 3+ people). ACCESS Philly: $2 general admission for cardholders and up to 3 guests. STAMP Pass: Free for Philadelphia high school students. The Weitzman",
+      "website": "https://theweitzman.org/",
+      "phone": "(215) 923-3811",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/National_Museum_of_American_Jewish_History.jpg",
+      "highlights": [
+        "['Core Exhibition 1654-1945: Tracing the history of Jews in America from early colonization to modern times.', 'Only in America® Gallery/Hall of Fame: Celebrating the achievements of notable Jewish-Americans like Albert Einstein and Ruth Bader Ginsburg.', 'Albert Einstein’s pipe and Irving Berlin’s piano: Iconic personal artifacts on display in the galleries.', 'The First Salute: A special exhibition exploring the international networks and trade crucial to the American Revolution.', 'Interactive Exhibits: Designed for families, featuring state-of-the-art technology and over 30 original films.']"
+      ],
+      "tips": "Start your visit on the 4th floor and work your way down chronologically to follow the core narrative. Plan for at least 2-3 hours to fully explore the four floors of exhibits. Check for daily docent-led 'Highlights' tours usually offered at 11 am or 2 pm. Tripadvisor, The Weitzman",
+      "nearby": "Liberty Bell, Independence Hall, National Constitution Center, Museum of the American Revolution, Independence Mall. Tripadvisor"
+    },
+    {
+      "name": "Wissahickon Valley Park",
+      "category": "Park",
+      "description": "Wissahickon Valley Park is a 2,042-acre urban park in Northwest Philadelphia that protects the woodland surrounding the Wissahickon Creek. It features over 50 miles of trails, a dramatic wooded gorge, and several historic landmarks like the Thomas Mill Covered Bridge and the Fingerspan Bridge (Wikipedia).",
+      "address": "Valley Green Rd, Philadelphia, PA 19118 (Tripadvisor)",
+      "city": "Philadelphia",
+      "region": "Old City / Historic District",
+      "hours": "Daily 6:00 AM – 1:00 AM (Curfew 1:00 AM – 6:00 AM; Winter curfew 8:00 PM – 6:00 AM) (Friends of the Wissahickon)",
+      "days_open": "Monday-Sunday (Tripadvisor)",
+      "admission": "Free (Permits required for off-road biking and horseback riding) (Friends of the Wissahickon)",
+      "website": "https://fow.org/",
+      "phone": "(215) 247-0417 (Friends of the Wissahickon)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Scenic_river_with_a_bridge_%28Unsplash%29.jpg",
+      "highlights": [
+        "'Forbidden Drive: A car-free gravel road popular for walking and biking ([Friends of the Wissahickon)', 'Thomas Mill Covered Bridge: The only covered bridge in a major US city (Visit Philadelphia)', 'Devil’s Pool: A popular natural pool at the confluence of Cresheim and Wissahickon Creeks (Friends of the Wissahickon)', 'Valley Green Inn: A historic 19th-century roadhouse and restaurant (Visit Philadelphia)', 'Fingerspan Bridge: A unique sculpture and pedestrian bridge by Jody Pinto (Friends of the Wissahickon)', 'Tedyuscung Statue: A tribute to the Leni Lenape tribe overlooking the gorge (Visit Philadelphia)']"
+      ],
+      "tips": "Visitors should stay on established trails, practice Leave No Trace, and be aware that swimming is prohibited. It is recommended to lock car doors and keep valuables out of sight when parking at trailheads (Friends of the Wissahickon).",
+      "nearby": "Morris Arboretum, Historic RittenhouseTown, Woodmere Art Museum, Chestnut Hill Shopping District (Philadelphia Magazine)"
+    },
+    {
+      "name": "Horwitz-Wasserman Holocaust Memorial Plaza",
+      "category": "Museum / Memorial Plaza",
+      "description": "The Horwitz-Wasserman Holocaust Memorial Plaza is a solemn outdoor space in Philadelphia that serves as a site for education and remembrance. Centered around the nation's oldest Holocaust monument, the plaza features various historical artifacts and educational installations designed to foster tolerance and preserve the lessons of the past. Philadelphia Holocaust Remembrance Foundation, Visit Philadelphia",
+      "address": "16th Street at Benjamin Franklin Parkway, Philadelphia, PA 19103",
+      "city": "Philadelphia",
+      "region": "Center City",
+      "hours": "Open 24 hours a day, 365 days a year Philadelphia Holocaust Remembrance Foundation",
+      "days_open": "Open 365 days a year Philadelphia Holocaust Remembrance Foundation",
+      "admission": "Free of charge for all visitors Philadelphia Holocaust Remembrance Foundation",
+      "website": "https://www.philaholocaustmemorial.org",
+      "phone": "215-809-2474 Philadelphia Holocaust Remembrance Foundation",
+      "image_url": "https://www.philaholocaustmemorial.org/wp-content/uploads/2024/07/history-of-the-monument.jpg",
+      "highlights": [
+        "'Monument to Six Million Jewish Martyrs: The first public Holocaust memorial in the United States, dedicated in 1964. [Philadelphia Holocaust Remembrance Foundation', 'Original Train Tracks: Authentic railroad tracks from the death camp of Treblinka embedded in the plaza paving. WRT Design', 'Theresienstadt Tree: A sapling grown from a tree nurtured by children in the Theresienstadt concentration camp. USC Shoah Foundation', 'Six Pillars: Educational plaques contrasting American constitutional values with the atrocities of the Holocaust. USC Shoah Foundation', 'Eternal Flame: Recessed in the Wall of Remembrance as a symbol of perpetual memory. WRT Design', 'IWalk Mobile App: An interactive tool providing survivor testimonies and multimedia explanations at various plaza locations. USC Shoah Foundation']"
+      ],
+      "tips": "Visitors are encouraged to download the 'IWalk – USC Shoah Foundation' app prior to arrival to experience interactive, location-based storytelling. The plaza is an outdoor space, so dress accordingly for the weather. It is located across from Love Park and is easily accessible by walking from City Hall or taking SEPTA to 15th Street Station. Philadelphia Holocaust Remembrance Foundation",
+      "nearby": "Love Park, Cathedral Basilica of Saints Peter and Paul, The Franklin Institute, Barnes Foundation, Logan Square, Academy of Natural Sciences of Drexel University Tripadvisor"
+    },
+    {
+      "name": "Pennsylvania Academy of the Fine Arts (PAFA)",
+      "category": "Museum / University",
+      "description": "Founded in 1805, the Pennsylvania Academy of the Fine Arts (PAFA) is the first and oldest art museum and art school in the United States. It is internationally known for its world-class collection of American art, including 19th- and 20th-century paintings, sculptures, and works on paper. The institution is housed in a National Historic Landmark building designed by Frank Furness and George Hewitt, which is a prime example of Victorian Gothic architecture. PAFA Official Site, Visit Philadelphia",
+      "address": "118-128 North Broad Street",
+      "city": "Philadelphia",
+      "region": "Center City",
+      "hours": "Monday: 10:00 AM–5:00 PM; Tuesday: Closed; Wednesday: Closed; Thursday: 10:00 AM–5:00 PM; Friday: 10:00 AM–8:00 PM; Saturday: 10:00 AM–5:00 PM; Sunday: 10:00 AM–5:00 PM. PAFA Visit Page",
+      "days_open": "Thursday–Monday (Closed Tuesday and Wednesday)",
+      "admission": "Adults (18+): $25.00; Seniors (65+): $23.00; Students: $10.00; Youth (13-17): $5.00; Children (12 & under): Complimentary; PAFA Members: Complimentary. Note: PMA members receive free reciprocal admission through August 31, 2026. PAFA Visit Page",
+      "website": "https://www.pafa.org",
+      "phone": "(215) 972-7600",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Pennsylvania_Academy_of_the_Fine_Arts.jpg",
+      "highlights": [
+        "'Historic Landmark Building designed by Frank Furness and George Hewitt, a masterpiece of Victorian Gothic architecture. [Visit Philadelphia', 'The 51-foot \"Paint Torch\" sculpture by Claes Oldenburg located in Lenfest Plaza. Visit Philadelphia', 'World-renowned collection of American art including works by Gilbert Stuart, Mary Cassatt, Thomas Eakins, and Kehinde Wiley. Visit Philadelphia', 'The Samuel M.V. Hamilton Building, which houses the Brodsky Center Gallery and contemporary art exhibitions. PAFA Visit Page', 'A 1796 copy of Gilbert Stuart’s \"Lansdowne portrait\" of George Washington. Visit Philadelphia', \"Lenfest Plaza, a vibrant outdoor pedestrian space connecting the museum's two main buildings. PAFA Visit Page\"]"
+      ],
+      "tips": "Take advantage of the 50% discount at PAFA if you have recently visited the Philadelphia Museum of Art (offer valid through August 31, 2026). Don't miss the Historic Landmark Building's grand staircase and the \"Paint Torch\" in Lenfest Plaza. Download the free digital guide on the Bloomberg Connects app for an enhanced experience. PAFA Visit Page",
+      "nearby": "Philadelphia City Hall, LOVE Park, Reading Terminal Market, Academy of Natural Sciences of Drexel University, and the Franklin Institute. Viator, Yelp"
+    },
+    {
+      "name": "Philadelphia City Hall",
+      "category": "Landmark / Government Building / Museum",
+      "description": "Philadelphia City Hall is the largest municipal building in the United States and serves as the seat of government for the City of Philadelphia. Completed in 1901 after 30 years of construction, the architectural marvel features an eclectic Second Empire style and is famously topped by a 37-foot-tall bronze statue of William Penn. The building's exterior is adorned with over 250 sculptures by Alexander Milne Calder, and its tower offers a glass-enclosed observation deck with rare 360-degree views of the city.",
+      "address": "1400 John F. Kennedy Blvd., Philadelphia, PA 19107",
+      "city": "Philadelphia",
+      "region": "Center City",
+      "hours": "Visitor Center: Mon–Fri 10:00 a.m. – 4:00 p.m.; Tower Tour: Mon–Fri 10:00 a.m. – 2:45 p.m.; Building Tours: Mon–Fri 10:00 a.m., 12:00 p.m., and 2:00 p.m.",
+      "days_open": "Monday - Friday",
+      "admission": "City Hall Building Tour: $26 Adult, $23 Senior (65+), $23 Military, $20 Student, $20 Youth (5–12), Free for children under 5. City Hall Tower Tour: approximately $10–$15 per person (typically $8–$10 for adults, $6–$8 for seniors/students/military). Public areas of the building are Free to enter during business hours.",
+      "website": "https://www.phlvisitorcenter.com/CityHall",
+      "phone": "267-514-4757 (Visitor Center), 215-686-2840 (City Council)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Philadelphia_city_hall.jpg",
+      "highlights": [
+        "[\"William Penn Statue: A 37-foot bronze statue of Philadelphia's founder atop the tower.\", 'Observation Deck: Panoramic 360-degree views from 548 feet above street level.', 'Alexander Milne Calder Sculptures: Over 250 intricate carvings representing seasons and continents.', 'Grand Public Rooms: Stunning interiors including the City Council Chamber and Conversation Hall.', \"Architectural Marvel: The world's largest masonry load-bearing structure, made of 88 million bricks.\", \"Dilworth Park: The building's 'front yard' featuring fountains, a roller/ice rink, and a cafe.\"]"
+      ],
+      "tips": "Book tower and building tour tickets in advance as they have limited capacity and sell out quickly. Arrive early to go through the mandatory security screening at the entrance. Check the weather before booking a tower tour, as it may be impacted by conditions. The tower elevator is small and not wheelchair accessible. For a free experience, visitors can admire the grand courtyard and exterior sculptures or walk through the public areas during business hours.",
+      "nearby": "Reading Terminal Market, LOVE Park, Dilworth Park, Rittenhouse Square, Pennsylvania Academy of the Fine Arts, Macy's Center City (Wanamaker Building)"
+    },
+    {
+      "name": "Reading Terminal Market",
+      "category": "Public Market",
+      "description": "One of America’s largest and oldest public markets, housed since 1893 in a National Historic Landmark building. The Market offers an incredible selection of locally grown and exotic produce, locally sourced meats and poultry, plus the finest seafood, cheeses, baked goods, and confections. Reading Terminal Market",
+      "address": "1136 Arch Street, #400, Philadelphia, PA 19107",
+      "city": "Philadelphia",
+      "region": "Center City",
+      "hours": "Monday – Sunday: 8 am – 6 pm Reading Terminal Market",
+      "days_open": "Open Daily (Pennsylvania Dutch merchants closed on Sundays) Reading Terminal Market",
+      "admission": "Free Reading Terminal Market",
+      "website": "https://readingterminalmarket.org/",
+      "phone": "215-922-2317 Reading Terminal Market",
+      "image_url": "https://readingterminalmarket.org/wp-content/uploads/2022/07/takeout-philadelphia.jpg",
+      "highlights": [
+        "'Over 80 diverse merchants offering fresh produce, meats, and seafood [Reading Terminal Market', 'Famous eateries serving Philly classics like roast pork sandwiches and cheesesteaks Visit Philadelphia', 'Handmade crafts, jewelry, clothing, and unique gift items Reading Terminal Market', 'Authentic Pennsylvania Dutch products from Lancaster County Amish merchants Visit Philadelphia', 'Recipient of the No. 1 spot as Best Public Market in America by USA Today 10Best Reading Terminal Market']"
+      ],
+      "tips": "Pennsylvania Dutch merchants are closed on Sundays. The market is free to enter, and you pay as you go. It is often crowded, so plan for extra time to explore the diverse stalls. Reading Terminal Market",
+      "nearby": "Pennsylvania Convention Center, Chinatown, City Hall, LOVE sculpture, Liberty Bell, Independence Hall Visit Philadelphia"
+    },
+    {
+      "name": "Rodin Museum",
+      "category": "Art Museum",
+      "description": "The Rodin Museum houses one of the largest collections of works by celebrated French sculptor Auguste Rodin outside of Paris. The museum is set in an elegant Beaux-Arts–style building surrounded by a tranquil formal garden on Philadelphia's Benjamin Franklin Parkway. Official Website, Wikipedia",
+      "address": "2151 Benjamin Franklin Parkway, Philadelphia, PA 19130",
+      "city": "Philadelphia",
+      "region": "Center City",
+      "hours": "Friday–Monday: 10:00 a.m. – 5:00 p.m. (Last entry 4:30 p.m.); Tuesday–Thursday: Closed. Closed July 4, Thanksgiving, and Christmas; closes at 3:00 p.m. on Christmas Eve. Official Website",
+      "days_open": "Friday, Saturday, Sunday, Monday",
+      "admission": "Pay What You Wish (Indoor Galleries), Garden is Free year-round. Suggested Admission: Adults $15, Seniors (65 & over) $14, Students (with valid ID) $7, Youths (13-18) Free, Children (12 & under) Free, Members Free. Two-day ticket: $30 (includes access to the Philadelphia Museum of Art). Official Website",
+      "website": "https://rodinmuseum.org",
+      "phone": "(215) 763-8100",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Rodin_Museum_-_Philadelphia_%2853574398988%29.jpg",
+      "highlights": [
+        "['The Thinker (bronze cast at the museum entrance)', 'The Gates of Hell (monumental bronze doors)', 'The Burghers of Calais', 'Eternal Springtime', 'The Outdoor Gardens and Reflecting Pool', 'The Kiss (sculpture and themed installations)']"
+      ],
+      "tips": "Stay at least 18 inches away from the artwork and do not touch sculptures. Photography for personal use is permitted in permanent galleries without flash, but selfie sticks and group photography (like weddings) are prohibited without a permit. Sketching is allowed with graphite pencils only. A self-serve coat check is available for bags larger than 16 x 16 x 8 inches. Official Website",
+      "nearby": "Philadelphia Museum of Art, The Barnes Foundation, The Franklin Institute, Logan Circle, Eastern State Penitentiary, Rocky Steps and Statue. Visit Philadelphia"
+    },
+    {
+      "name": "South Street Headhouse District",
+      "category": "Shopping, Entertainment, and Historic District",
+      "description": "South Street is one of Philadelphia's most famous and eclectic thoroughfares, serving as a vibrant melting pot of culture, art, and entertainment (Wikipedia)). The district features a diverse mix of over 400 independent shops, restaurants, and galleries, known for its bohemian and alternative atmosphere (Visit Philadelphia). Visitors can explore everything from historic colonial landmarks like the Headhouse Shambles to modern street art and world-renowned mosaic installations (South Street Headhouse District).",
+      "address": "407 South Street (District Office), Philadelphia, PA 19147",
+      "city": "Philadelphia",
+      "region": "Center City",
+      "hours": "Monday: 24 Hours, Tuesday: 24 Hours, Wednesday: 24 Hours, Thursday: 24 Hours, Friday: 24 Hours, Saturday: 24 Hours, Sunday: 24 Hours (Note: Individual business and attraction hours vary typically between 10:00 AM and 10:00 PM or later).",
+      "days_open": "Daily",
+      "admission": "Free to explore the public district (South Street Headhouse District). Specific attractions like Philadelphia's Magic Gardens have admission fees (Adults: $15, Seniors/Students: $12, Children 6-12: $8, Children under 5: Free).",
+      "website": "https://southstreet.com",
+      "phone": "(215) 413-3713 (South Street Headhouse District)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/South_Street_2024.jpg",
+      "highlights": [
+        "[\"Philadelphia's Magic Gardens: A massive indoor-outdoor mosaic labyrinth by artist Isaiah Zagar.\", 'Theatre of Living Arts (TLA): A premier concert venue that has hosted iconic rock and hip-hop acts.', 'Historic Headhouse Shambles: One of the oldest surviving colonial-era market buildings in the United States.', 'Eclectic Shopping: A wide array of independent boutiques, vintage stores, and vinyl shops like Repo Records.', \"Iconic Dining: Home to famous Philadelphia staples like Jim's South Street for cheesesteaks and Lorenzo's for giant pizza slices.\", 'Public Art and Murals: The district is a canvas for hundreds of vibrant murals and street art installations.']"
+      ],
+      "tips": "The district is very walkable and easy to navigate by bus or bike (South Street Headhouse District). While street parking is available, it is often timed and metered, so utilizing one of the nearby parking garages is recommended for longer visits (Visit Philadelphia). Be sure to explore the side streets and alleys to discover hidden murals and smaller boutiques (Tripadvisor).",
+      "nearby": "Penn's Landing, Independence Hall, Liberty Bell, Italian Market, and Washington Square Park."
+    },
+    {
+      "name": "The Barnes Foundation",
+      "category": "Museum",
+      "description": "The Barnes Foundation is an art collection and educational institution that houses one of the world's greatest collections of impressionist, post-impressionist, and early modern paintings. Established by Dr. Albert C. Barnes in 1922, the collection is famous for its unique 'ensembles' where masterpieces by artists like Renoir and Cézanne are displayed alongside everyday objects and African art to emphasize visual relationships (Barnes Foundation, Wikipedia).",
+      "address": "2025 Benjamin Franklin Parkway, Philadelphia, PA 19130",
+      "city": "Philadelphia",
+      "region": "Center City",
+      "hours": "Thursday–Monday: 11am – 5pm (General Public); 10am – 11am (Members Only). Closed: Tuesday, Wednesday, July 4, Thanksgiving, and Christmas (Barnes Foundation).",
+      "days_open": "Thursday, Friday, Saturday, Sunday, Monday",
+      "admission": "Adults: $30; Seniors: $28; College Students (with ID): $5; Youth (13–18): $5; Children (12 and under): Free; Members: Free; Philadelphia teachers (pre-K–12): Free; ACCESS / EBT cardholders: Free. Note: Admission includes special exhibition and is valid for 2 days (Barnes Foundation). Free admission is offered on the first Sunday of every month (Visit Philadelphia).",
+      "website": "https://www.barnesfoundation.org/",
+      "phone": "215.278.7000",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Barnes_Foundation_Exterior.jpg",
+      "highlights": [
+        "'181 works by Pierre-Auguste Renoir, the largest collection in the world ([Visit Philadelphia)', '69 works by Paul Cézanne and 59 by Henri Matisse (Visit Philadelphia)', \"Unique 'Ensembles' that mix paintings, metalwork, and furniture in symmetrical arrangements (Barnes Foundation)\", 'Significant collection of African art and Native American pottery and jewelry (Barnes Foundation)', 'The 93,000-square-foot building featuring a glowing glass canopy and sustainable green roof (Visit Philadelphia)']"
+      ],
+      "tips": "Use the 'Barnes Focus' mobile gallery guide to learn stories about the artworks, as there are no traditional wall labels. It is highly recommended to book timed-entry tickets in advance, especially for weekends. Plan to spend at least two hours to fully appreciate the dense wall arrangements (Barnes Foundation, CityPASS).",
+      "nearby": "Rodin Museum, Philadelphia Museum of Art, The Franklin Institute, Free Library of Philadelphia, Logan Circle, Swann Memorial Fountain (TripAdvisor)."
+    },
+    {
+      "name": "The College of Physicians of Philadelphia",
+      "category": "Museum, Historical Medical Society",
+      "description": "The College of Physicians of Philadelphia is the oldest private medical society in the United States, founded in 1787 to advance the science of medicine and lessen human misery. It is home to the renowned Mütter Museum, the Historical Medical Library, and several public health programs and educational initiatives. (Official Site, Wikipedia)",
+      "address": "19 S 22nd Street",
+      "city": "Philadelphia",
+      "region": "Center City",
+      "hours": "Wednesday–Monday: 10:00 AM – 5:00 PM; Tuesday: Closed. (Official Site)",
+      "days_open": "Wednesday–Monday (Closed Tuesdays)",
+      "admission": "Adult: $20.00, Senior (65+): $18.00, Military: $18.00, Student (with ID): $15.00, Youth (6-17): $15.00, Child (5 and under): Free. Dual Admission with Penn Museum: Adult $37, Senior $33, Student/Youth $23. ACCESS Card holders: $2. (Official Site)",
+      "website": "https://collegeofphysicians.org",
+      "phone": "215.563.3737 (Official Site)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/College_of_Physicians_1.JPG",
+      "highlights": [
+        "['Mütter Museum: A collection of anatomical specimens, models, and medical instruments.', 'Historical Medical Library: One of the most important medical history libraries in the world.', 'Hyrtl Skull Collection: A permanent exhibition featuring 139 human skulls.', 'The Soap Lady: A well-known specimen of a woman whose body was preserved in a wax-like substance.', 'History of Vaccines: A comprehensive educational resource on the history and science of immunization.', 'The Benjamin Rush Medicinal Plant Garden: A garden featuring plants used in 18th-century medicine.']"
+      ],
+      "tips": "Photography is strictly prohibited in the museum galleries to respect the individuals in the collection. Pre-purchasing tickets is highly recommended for weekend visits due to capacity limits. Large bags and strollers are not allowed in the narrow gallery spaces; lockers are available for small items. (Official Site)",
+      "nearby": "Penn Museum, Rittenhouse Square, The Franklin Institute, Academy of Natural Sciences of Drexel University, Philadelphia Museum of Art. (Tripadvisor, Visit Philly)"
+    },
+    {
+      "name": "The Fabric Workshop and Museum (FWM)",
+      "category": "Museum / Contemporary Art Studio (The Fabric Workshop and Museum)",
+      "description": "The Fabric Workshop and Museum (FWM) is an internationally acclaimed contemporary art museum devoted to both the creation and presentation of innovative works of art. Founded in 1977, it provides an Artist-in-Residence Program where artists collaborate with onsite studios to experiment with fabric and other new materials, uniting the artistic process with finished works (The Fabric Workshop and Museum).",
+      "address": "1214 Arch Street",
+      "city": "Philadelphia",
+      "region": "Center City",
+      "hours": "Wednesday: 12 pm–6 pm, Thursday: 12 pm–6 pm, Friday: 12 pm–6 pm, Saturday: 12 pm–5 pm, Sunday: 12 pm–5 pm (Closed Monday and Tuesday) (The Fabric Workshop and Museum)",
+      "days_open": "Wednesday through Sunday (The Fabric Workshop and Museum)",
+      "admission": "Free ($10 suggested donation) (The Fabric Workshop and Museum)",
+      "website": "https://fabricworkshopandmuseum.org",
+      "phone": "215-561-8888 (The Fabric Workshop and Museum)",
+      "image_url": "https://fabricworkshopandmuseum.org/wp-content/uploads/2021/04/FWM_Logo_Main_RGB.png",
+      "highlights": [
+        "'Museum collection of over 5,000 objects by renowned artists like Louise Bourgeois and Glenn Ligon ([The Fabric Workshop and Museum)', 'Onsite professional studios where research, construction, and fabrication of art occur (The Fabric Workshop and Museum)', 'Acclaimed Artist-in-Residence Program supporting experimentation with new media (The Fabric Workshop and Museum)', 'Exhibitions of diverse media including large-scale installations, sculpture, and hand-screenprinted textiles (The Fabric Workshop and Museum)', 'The FWM Store featuring unique museum-edition gifts and artistic items (The Fabric Workshop and Museum)', 'A history of educational apprenticeship programs for local youth (The Fabric Workshop and Museum)']"
+      ],
+      "tips": "Advance online registration is encouraged but not required for general admission. The museum recommends traveling light as bags are allowed but limited, and photography is generally permitted without flash (The Fabric Workshop and Museum).",
+      "nearby": "Reading Terminal Market, Pennsylvania Convention Center, Jefferson Station, Fashion District Philadelphia (The Fabric Workshop and Museum)"
+    },
+    {
+      "name": "The Franklin Institute",
+      "category": "Science Museum",
+      "description": "The Franklin Institute is one of the oldest and most prestigious centers for science education and development in the United States, founded in 1824 in honor of Benjamin Franklin. This premier science museum features three floors of interactive exhibits, the Fels Planetarium, and the iconic Benjamin Franklin National Memorial. (Wikipedia, Visit Philadelphia)",
+      "address": "222 North 20th Street, Philadelphia, PA 19103",
+      "city": "Philadelphia",
+      "region": "Center City",
+      "hours": "Daily: 9:30 am – 5:00 pm. Special Exhibitions Evening Hours (Thursday–Saturday): 5:00 pm – 8:00 pm (last entry 6:30 pm). (Official Website)",
+      "days_open": "Daily",
+      "admission": "General Admission: Adult (12-64) $29, Teen (12-17) $25, Child (3-11) $23, Members Free. Universal Theme Parks Exhibition (includes General Admission): Adult $47, Teen $43, Child $41, Members $16. PA ACCESS Card: $2 for up to four people. (Official Website)",
+      "website": "https://fi.edu/en",
+      "phone": "(215) 448-1200",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Franklin_Institute_%2853574514629%29.jpg",
+      "highlights": [
+        "['Giant Heart: A walk-through exhibit of the human heart.', 'Benjamin Franklin National Memorial: A massive 20-foot statue of the founding father.', 'Fels Planetarium: One of the oldest planetariums in the United States.', 'Your Brain: An interactive exploration of the human mind.', 'Baldwin 60000 Steam Locomotive: A massive historic engine on the first floor.', \"Foucault’s Pendulum: A mesmerizing four-story demonstration of the Earth's rotation.\"]"
+      ],
+      "tips": "Buy tickets online in advance to skip lines. Plan your visit after 2:00 PM on weekdays to avoid large school groups. Allow at least three hours to explore all floors and exhibits. (CityPASS Advice)",
+      "nearby": "Academy of Natural Sciences of Drexel University, Barnes Foundation, Rodin Museum, Logan Square, Moore College of Art & Design, Cathedral Basilica of Saints Peter and Paul. (Tripadvisor)"
+    },
+    {
+      "name": "The Mütter Museum of The College of Physicians of Philadelphia",
+      "category": "Museum (Medical History)",
+      "description": "America’s finest museum of medical history, the Mütter Museum displays its beautifully preserved collections of anatomical specimens, models, and medical instruments in a 19th-century “cabinet museum” setting. It aims to help the public understand the mysteries and beauty of the human body and appreciate the history of diagnosis and treatment of disease. Mütter Museum",
+      "address": "19 S 22nd Street",
+      "city": "Philadelphia",
+      "region": "Center City",
+      "hours": "Wednesday–Monday: 10:00 AM – 5:00 PM; Tuesday: Closed. Mütter Museum",
+      "days_open": "Wednesday–Monday (Closed Tuesdays)",
+      "admission": "Adult: $20, Senior (65+): $18, Military: $18, Student: $15, Youth (6-17): $15, Child (5 & Under): Free. ACCESS Discount: $2 with PA ACCESS card. Dual Admission (Mütter & Penn Museum): Adult $37, Senior $33, Student/Youth $23. Mütter Museum",
+      "website": "https://muttermuseum.org/",
+      "phone": "215.563.3737",
+      "image_url": "https://muttermuseum.org/static/364374e4b28b0d65243a24acfac30acc/e0a47/web_about_pageheader.webp",
+      "highlights": [
+        "['The Hyrtl Skull Collection containing 139 human skulls', \"The 'Soap Lady' (naturally preserved corpse)\", 'Slices of Albert Einstein’s brain', 'The tallest skeleton on display in North America', 'Cast and fused livers of conjoined twins Chang and Eng Bunker', 'The Chevalier Jackson Foreign Body Collection of swallowed items']"
+      ],
+      "tips": "No photography or video is permitted in the museum galleries. Large bags and strollers are not allowed (lockers/coat room available). Pre-purchased tickets are highly recommended for weekend visits due to capacity limits. Mütter Museum",
+      "nearby": "Penn Museum, Schuylkill Banks, Rittenhouse Square, The Franklin Institute, Academy of Natural Sciences of Drexel University. Tripadvisor"
+    },
+    {
+      "name": "South 9th Street Italian Market",
+      "category": "Shopping / Street Market",
+      "description": "The South 9th Street Italian Market is recognized as the nation's oldest outdoor market, serving as a vibrant community of over 200 individual businesses for more than 100 years. It features awning-covered sidewalks, curb carts, and a diverse array of specialty shops, including world-renowned cheesemongers, bakeries, and restaurants. While rooted in Italian heritage, the market has evolved into a multicultural destination featuring Mexican, Vietnamese, and Korean influences. Italian Market Philly, Wikipedia",
+      "address": "919 S 9th St (Visitor Center), Philadelphia, PA 19147. The market runs along S. 9th Street from Wharton to Fitzwater Streets.",
+      "city": "Philadelphia",
+      "region": "South Philly / Italian Market",
+      "hours": "Market Stalls: Tuesday–Sunday 8:00 AM – 4:00 PM, Monday Closed. Visitor Center: Tuesday–Saturday 9:30 AM – 5:30 PM, Sunday 10:00 AM – 3:00 PM, Monday Closed. Italian Market Philly, The Constitutional",
+      "days_open": "Tuesday - Sunday (Most market stalls and the Visitor Center are closed on Mondays). Italian Market Philly, Tripadvisor",
+      "admission": "Free. Paid community tours are available through Our Market Tours. Italian Market Philly, Visit Philadelphia",
+      "website": "https://italianmarketphilly.org",
+      "phone": "215.278.2903 (Visitor Center) The Constitutional",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/ItalianMarketPhiladelphia.jpg",
+      "highlights": [
+        "['Recognized as the oldest outdoor market in the United States, established in the late 19th century.', 'Home to legendary specialty shops like Di Bruno Bros., Claudio’s, and Fante’s Cookware Shop.', \"Features the famous 'Cheesesteak Corner,' where Pat's King of Steaks and Geno's Steaks maintain a friendly rivalry.\", 'Host of the annual South 9th Street Italian Market Festival every May, featuring live music and a grease pole climbing contest.', \"Cultural landmark famously featured in the iconic training montage of the movie 'Rocky'.\"]"
+      ],
+      "tips": "Arrive in the morning to see the most active curb vendors and the best selection of fresh produce. Bring cash, as some smaller stalls may not accept credit cards. Stop by the Visitor Center at 919 S. 9th St for maps, information, and public restrooms. Destinationless Travel, Free Tours by Foot",
+      "nearby": "Philadelphia's Magic Gardens, Passyunk Square, and the historic Washington Avenue district. Tripadvisor, Philadelphia's Magic Gardens"
+    },
+    {
+      "name": "The Navy Yard (formerly Philadelphia Naval Shipyard)",
+      "category": "Landmark, Mixed-use Campus (Navy Yard, Wikipedia)",
+      "description": "The Navy Yard is a historic and evolving 1,200-acre waterfront neighborhood and mixed-use campus in Philadelphia, formerly the country's first naval shipyard. Today, it serves as a thriving community hosting over 150 companies and 16,500 employees, featuring award-winning parks, public art, and historic naval architecture alongside modern innovation. (Navy Yard, Wikipedia)",
+      "address": "4747 South Broad Street, Building 101, Suite 120",
+      "city": "Philadelphia",
+      "region": "South Philly / Italian Market",
+      "hours": "Daily, Sunrise to Sunset (Navy Yard)",
+      "days_open": "Daily (Navy Yard)",
+      "admission": "Free (Navy Yard)",
+      "website": "https://navyyard.org/",
+      "phone": "215-843-9273 (Navy Yard)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/USS_Charles_F_Adams_PISMF.jpg",
+      "highlights": [
+        "'Over 20 acres of world-class parks including the award-winning Central Green ([Navy Yard)', 'A mile-long Riverfront Greenway with scenic views of the Delaware River (Navy Yard)', 'The Naval Inactive Ship Maintenance Facility, where decommissioned Navy vessels can be viewed from the shore (Wikipedia, Reddit)', 'A certified Level-1 arboretum featuring diverse tree species and green spaces (Navy Yard)', 'Historic Marine Parade Grounds, known as the birthplace of naval aviation (Navy Yard)', 'A rotating collection of large-scale public art installations by local and international artists (Navy Yard)']"
+      ],
+      "tips": "Visitors should stop at the security booth at the Broad Street gate for directions; free shuttle service from Center City and NRG Station is available on weekdays. (Navy Yard)",
+      "nearby": "FDR Park, NRG Station (SEPTA Broad Street Line), Battleship New Jersey (across the river in Camden), Lincoln Financial Field (Navy Yard, Tripadvisor)"
+    },
+    {
+      "name": "Institute of Contemporary Art at the University of Pennsylvania (ICA Philadelphia)",
+      "category": "Museum",
+      "description": "The Institute of Contemporary Art at the University of Pennsylvania is a non-collecting institution and global hub for contemporary art and ideas. Founded in 1963, it is dedicated to supporting artistic practices across disciplines and serving as a laboratory for risk-taking, community-building, and knowledge-creation. ICA Philadelphia",
+      "address": "118 S. 36th Street, Philadelphia, PA 19104",
+      "city": "Philadelphia",
+      "region": "University City / West Philly",
+      "hours": "Wednesday–Sunday: 12:00 PM – 6:00 PM; Monday–Tuesday: Closed ICA Philadelphia",
+      "days_open": "Wednesday–Sunday ICA Philadelphia",
+      "admission": "Free (courtesy of Amanda and Glenn Fuhrman) ICA Philadelphia",
+      "website": "https://icaphila.org",
+      "phone": "(215) 898-5911 ICA Philadelphia",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/ICA_Phila_Southwest_exterior.jpg/1200px-ICA_Phila_Southwest_exterior.jpg",
+      "highlights": [
+        "'A World in the Making: The Shakers (Exhibition through Aug 9, 2026) [ICA Philadelphia', 'Entryways: Xenobia Bailey (Exhibition through Aug 9, 2026) ICA Philadelphia', 'Modern building designed by Adèle Naudé Santos Wikipedia', 'History of hosting first solo museum shows for artists like Andy Warhol ICA Philadelphia', 'Non-collecting museum with rotating exhibitions ICA Philadelphia']"
+      ],
+      "tips": "Admission is always free for all visitors. The museum is fully wheelchair accessible with elevators and manual wheelchairs available upon request. Photography for personal use is generally allowed without flash or tripods. ICA Philadelphia",
+      "nearby": "Penn Museum, Annenberg Center for the Performing Arts, Arthur Ross Gallery, The Study at University City Tripadvisor, ICA Philadelphia"
+    },
+    {
+      "name": "Morris Arboretum & Gardens of the University of Pennsylvania",
+      "category": "Arboretum, Botanical Garden, Landmark",
+      "description": "Morris Arboretum & Gardens of the University of Pennsylvania is a 92-acre Victorian arboretum and the official arboretum of the Commonwealth of Pennsylvania. It serves as an interdisciplinary center that integrates art, science, and the humanities through its extensive collection of rare plants and majestic trees. Wikipedia, Official Site",
+      "address": "100 E Northwestern Avenue, Philadelphia, PA 19118",
+      "city": "Philadelphia",
+      "region": "Chestnut Hill / Germantown",
+      "hours": "April - October: Weekdays 10 am – 5 pm, Weekends 9 am – 5 pm; November - March: Daily 10 am – 4 pm (Last entry 1 hour before closing) Official Site",
+      "days_open": "Open daily except for Thanksgiving, Christmas Eve, Christmas Day, New Year's Eve, and New Year's Day Official Site",
+      "admission": "Adults (18+): $22, Seniors (65+): $20, Youth (3-17): $12, Children (under 2): Free, Students (with ID): $12, PennCard holders: Free, ACCESS card holders: $2, Military/Veteran: $12, Walk-in/Bike-in: $12 Official Site",
+      "website": "https://www.morrisarboretum.org",
+      "phone": "(215)-247-5777 Official Site",
+      "image_url": "https://www.morrisarboretum.org/sites/default/files/2024-01/RCP_230605_0251.jpg",
+      "highlights": [
+        "[\"Out on a Limb – A canopy walk 50 feet up in the treetops providing a bird's-eye view.\", 'Dorrance H. Hamilton Fernery – The only remaining freestanding Victorian fernery in North America.', 'Garden Railway – A seasonal miniature model railway winding through a landscape made of natural materials.', 'Rose Garden – A historic Victorian-style garden featuring a fountain and four quadrants of blooms.', 'Swan Pond – A picturesque lake created in 1905 with a scenic gazebo and winding paths.', 'Tree Collection – Over 13,000 labeled living plants, including rare species like the Dawn Redwood.']"
+      ],
+      "tips": "Bring a picnic to enjoy in designated areas as food options on-site are limited to light snacks. Wear comfortable walking shoes for the varied terrain across the 92-acre landscape. Advance ticket purchase is recommended for guaranteed entry during peak seasons. Official Site",
+      "nearby": "Wissahickon Valley Park, Woodmere Art Museum, Chestnut Hill retail corridor, Pastorius Park, James Turrell Skyspace Visit Philly"
+    }
+  ]
+}
