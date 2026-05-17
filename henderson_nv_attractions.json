@@ -1,0 +1,1542 @@
+{
+  "title": "Henderson, NV Tourist Attractions",
+  "generated": "2026-05-17",
+  "total_attractions": 80,
+  "regions_covered": [
+    "Lake Las Vegas / Eastern Henderson",
+    "Green Valley / Sunset",
+    "Historic Water Street / Downtown Henderson",
+    "Anthem / Southern Henderson",
+    "Golf"
+  ],
+  "attractions": [
+    {
+      "name": "Lake Las Vegas Resort Area",
+      "category": "Resort Area, Entertainment, Golf, Shopping, Dining",
+      "description": "Lake Las Vegas is a premier 3,600-acre master-planned residential and recreational community centered around a 320-acre man-made freshwater lake. The resort features an old-world Mediterranean theme with Italian-style architecture, offering luxury hotels, championship golf, waterfront dining, and a variety of outdoor water activities.",
+      "address": "20 Costa Di Lago, Henderson, NV 89011",
+      "city": "Henderson",
+      "region": "Lake Las Vegas / Eastern Henderson",
+      "hours": "The Village complex: Open 24/7 (Business hours vary); Seasons Grocery: 7:00 AM – 7:00 PM daily; Reflection Bay Golf: Mon–Thu 10:30 AM – Sunset, Fri–Sun 7:00 AM – Sunset.",
+      "days_open": "Open daily",
+      "admission": "Free entry to the Village; Aqua Park: ~$28; Electric Boat Rentals: ~$100/hr; Golf rates vary by season.",
+      "website": "https://lakelasvegas.com",
+      "phone": "702-565-7400",
+      "image_url": "https://lakelasvegas.com/wp-content/uploads/2018/07/variety_of_restaurants_at_lake_las_vegas-2.jpg",
+      "highlights": [
+        "['320-acre freshwater lake with 10 miles of scenic shoreline.', 'Mediterranean-style MonteLago Village featuring waterfront shops and restaurants.', 'Championship golf courses designed by Jack Nicklaus, including Reflection Bay.', 'Extensive water sports such as flyboarding, kayaking, and Duffy boat rentals.', 'Luxury accommodations at the Hilton and Westin Lake Las Vegas resorts.', 'Seasonal live entertainment and events on a unique floating stage.']"
+      ],
+      "tips": "Rent an electric boat for an hour to enjoy a full loop of the lake at a relaxing pace. Check the events calendar for live music on the floating stage during summer months. Self-parking is generally complimentary throughout the village area.",
+      "nearby": "Lake Mead National Recreation Area, River Mountain Loop Trail, Henderson Bird Viewing Preserve, Cowabunga Bay Water Park, Clark County Wetlands Park."
+    },
+    {
+      "name": "Reflection Bay Golf Club",
+      "category": "Golf",
+      "description": "Reflection Bay Golf Club is a premier Jack Nicklaus Signature Design course situated on the scenic shores of Lake Las Vegas. The facility features a lavish 32,000-square-foot clubhouse, five holes along the shoreline, and a private white sand beach (Reflection Bay Golf Club, VIP Golf Services).",
+      "address": "75 Montelago Blvd, Henderson, NV 89011",
+      "city": "Henderson",
+      "region": "Lake Las Vegas / Eastern Henderson",
+      "hours": "Daily: 6:00 AM – 6:00 PM (Hours may vary seasonally or by sunset) (Waze, Lake Las Vegas)",
+      "days_open": "Monday - Sunday",
+      "admission": "Tee times vary by season and time of day, typically ranging from $150 to $350+ for non-residents; discounted rates are available for Clark County residents with valid ID (Reflection Bay Golf Club).",
+      "website": "https://www.reflectionbaygolf.com",
+      "phone": "(702) 740-4653",
+      "image_url": "https://vip.teeitup.com/gn-basic/wp-content/uploads/sites/8604/2023/07/header-image.jpg",
+      "highlights": [
+        "['Jack Nicklaus Signature Design championship layout', '32,000-square-foot clubhouse with full golf shop and dining', 'Five picturesque holes played along the Lake Las Vegas shoreline', 'Home to the High-Performance Golf Institute for elite instruction', 'Access to a private white sand beach and luxury yacht experiences']"
+      ],
+      "tips": "The club is a cashless facility, so be sure to have a credit or debit card for all purchases. Golfers should adhere to the standard golf dress code, and local residents must present a valid Clark County ID to secure discounted green fees (Reflection Bay Golf Club).",
+      "nearby": "Montelago Village, Lake Las Vegas Water Sports, Ethel M Chocolates Factory and Cactus Garden, and the Clark County Heritage Museum (Tripadvisor)."
+    },
+    {
+      "name": "SouthShore Country Club",
+      "category": "Golf / Country Club",
+      "description": "SouthShore Country Club is the first private Jack Nicklaus Signature Course in Nevada, offering a dramatic 6,925-yard championship layout with stunning elevation changes and panoramic views of Lake Las Vegas. The club features a 28,000-square-foot Mediterranean-style clubhouse and the exclusive Lake Club, providing a serene resort-style escape just minutes from the Las Vegas Strip. Official Website, Lake Las Vegas",
+      "address": "100 Strada Di Circolo, Henderson, NV 89011",
+      "city": "Henderson",
+      "region": "Lake Las Vegas / Eastern Henderson",
+      "hours": "Sun: 7:00 AM – 4:00 PM; Mon: Closed; Tue: 7:00 AM – 6:00 PM; Wed: 7:00 AM – 8:00 PM; Thu: 7:00 AM – 4:00 PM; Fri: 7:00 AM – 4:00 PM; Sat: 7:00 AM – 4:00 PM Apple Maps",
+      "days_open": "Tuesday - Sunday",
+      "admission": "Private Club (Membership Required); Contact Director of Membership for current initiation fees and dues. Social Members receive 6 rounds of golf per year at current guest rates. Official Website",
+      "website": "https://southshoreccllv.com",
+      "phone": "(702) 856-8400",
+      "image_url": "https://southshoreccllv.com/wp-content/uploads/2021/04/20-1-scaled-1.jpg",
+      "highlights": [
+        "['Jack Nicklaus Signature Course (First private one in Nevada)', '28,000-square-foot Mediterranean-style clubhouse with fine dining and bar', 'The Lake Club with fitness center, swimming pools, and private beach access', 'Ranked #3 Best Private Course in Nevada by Golfweek (2015-2019)', 'Breathtaking views of Lake Las Vegas and the surrounding desert mountains']"
+      ],
+      "tips": "As a private club, access is generally restricted to members and their guests. Prospective members should contact the Director of Membership to schedule a private tour. Proper golf attire is required on the course, and metal spikes are prohibited. Official Website",
+      "nearby": "Lake Las Vegas, Reflection Bay Golf Club, Cowabunga Bay Water Park, Lake Mead National Recreation Area, Clark County Wetlands Park Tripadvisor"
+    },
+    {
+      "name": "The Village at Lake Las Vegas (MonteLago Village) The Village at Lake Las Vegas",
+      "category": "Shopping, Dining, Entertainment, Resort Community Travel Nevada, Lake Las Vegas Official Site",
+      "description": "The Village at Lake Las Vegas is a Mediterranean-style waterfront destination in Henderson, NV, featuring cobblestone piazzas, diverse dining, and specialty shopping. It serves as a hub for live concerts, seasonal events, and a wide array of water sports on the 320-acre private lake. Visit Las Vegas, Lake Las Vegas Official Site",
+      "address": "20 Costa Di Lago, Henderson, NV 89011 The Village at Lake Las Vegas",
+      "city": "Henderson Travel Nevada",
+      "region": "Lake Las Vegas / Eastern Henderson",
+      "hours": "Open 24 hours daily; individual business hours vary Travel Nevada",
+      "days_open": "Daily Travel Nevada",
+      "admission": "Free access to the village area; individual activity prices vary Travel Nevada",
+      "website": "https://tvllvatthevillage.com/",
+      "phone": "702-624-7618 Lake Las Vegas Official Site",
+      "image_url": "https://lakelasvegas.com/wp-content/uploads/2018/07/variety_of_restaurants_at_lake_las_vegas-2.jpg",
+      "highlights": [
+        "'Waterfront dining with international cuisines including Mexican, French, Italian, and American [The Village at Lake Las Vegas', 'Diverse water sports such as kayaking, paddleboarding, and electric boat rentals Lake Las Vegas Official Site', 'Weekly live concerts and seasonal community events held in the picturesque piazzas The Village at Lake Las Vegas', 'Mediterranean-inspired architecture with cobblestone streets and scenic lake vistas Visit Las Vegas', 'Seasons Grocery, a full-service neighborhood market offering groceries with a view Lake Las Vegas Official Site', 'Proximity to premier championship golf courses designed by Jack Nicklaus Travel Nevada']"
+      ],
+      "tips": "Visit on the 1st and 3rd Sundays of the month for the local Farmers Market. Arrive early for weekend concerts as the village piazzas can fill up quickly. Lake Las Vegas Events",
+      "nearby": "Reflection Bay Golf Club, South Shore Golf Club, Westin Lake Las Vegas Resort & Spa, Hilton Lake Las Vegas Resort & Spa, Lake Mead National Recreation Area Tripadvisor, RecnGroup"
+    },
+    {
+      "name": "Acacia Park and Acacia Demonstration Gardens",
+      "category": "Park",
+      "description": "Acacia Park and Acacia Demonstration Gardens is a 16-acre premier community park in Henderson, Nevada. It is uniquely known for its water-efficient demonstration gardens that provide educational examples of desert landscaping alongside traditional amenities like lighted sports fields, a splash pad, and a dog park. City of Henderson, Travel Nevada",
+      "address": "50 Casa Del Fuego St, Henderson, NV 89012",
+      "city": "Henderson",
+      "region": "Green Valley / Sunset",
+      "hours": "Mon: 6:00am - 10:00pm, Tue: 6:00am - 10:00pm, Wed: 6:00am - 10:00pm, Thu: 6:00am - 10:00pm, Fri: 6:00am - 10:00pm, Sat: 6:00am - 10:00pm, Sun: 6:00am - 10:00pm City of Henderson",
+      "days_open": "Monday - Sunday City of Henderson",
+      "admission": "Free City of Henderson",
+      "website": "https://www.cityofhenderson.com/Home/Components/FacilityDirectory/FacilityDirectory/188/752",
+      "phone": "(702) 267-4000 City of Henderson",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Acacia_Demonstration_Gardens_flowers.jpg",
+      "highlights": [
+        "['Acacia Demonstration Gardens featuring over 100 drought-tolerant plant species', 'Lighted basketball courts and multi-purpose ball fields', 'Seasonal splash pad for children', 'Dog park with separate fenced areas for large and small dogs', 'Covered playground structures and picnic shelters', 'Walking course and trails with mountain views']"
+      ],
+      "tips": "Visitors are encouraged to use the designated on-site parking lots as residential street parking is restricted. The park is especially popular in the spring and fall when the demonstration gardens are in bloom and free landscaping workshops are often hosted. Bring plenty of water during the summer months as parts of the walking trails have limited shade. ParkMagnet, City of Henderson",
+      "nearby": "Sloan Canyon National Conservation Area, Ethel M Botanical Cactus Garden, Henderson Bird Viewing Preserve, Green Valley Ranch Resort & Spa"
+    },
+    {
+      "name": "Aroma Latin American Cocina (aromalatinamericancocinanv.com)",
+      "category": "Restaurant (Tripadvisor)",
+      "description": "Aroma Latin American Cocina is a vibrant culinary gem that fuses traditional Latin American flavors with global influences and innovative presentation (Neon Review-Journal). Founded by James Beard Award finalist Chef Steve Kestler, the restaurant has earned high acclaim, including being named Yelp's #1 Taco Spot in the U.S. in 2023 (Business Insider).",
+      "address": "2877 N Green Valley Pkwy, Henderson, NV 89014-0403 (Tripadvisor)",
+      "city": "Henderson (Las Vegas Review-Journal)",
+      "region": "Green Valley / Sunset",
+      "hours": "Sunday: 11:00 AM - 4:00 PM; Monday: Closed; Tuesday - Saturday: 11:00 AM - 3:00 PM (Lunch), 5:00 PM - 9:00 PM (Dinner) (Tripadvisor)",
+      "days_open": "Tuesday - Sunday (aromalatinamericancocinanv.com)",
+      "admission": "Free (Tripadvisor)",
+      "website": "https://www.aromalatinamericancocinanv.com",
+      "phone": "(702) 547-0474 (aromacocinalv.com)",
+      "image_url": "https://neon.reviewjournal.com/top-100-restaurants/",
+      "highlights": [
+        "'Chef-owner Steve Kestler is a 2024 James Beard Award finalist for Best Chef: Southwest ([Tripadvisor)', \"Ranked #1 on Yelp's list of Top 100 Taco Spots in the United States for 2023 (Business Insider)\", 'Signature Pork Belly Tacos with guacamole, pico de gallo, and pickled onions (Nova Circle)', 'Creative fusion dishes like Korean Enchiladas featuring Gochujang chicken tinga and kimchi rice (Neon Review-Journal)', 'Award-winning Gaucho Sandwich made with grilled New York steak and chimichurri (Keith Lee Food)']"
+      ],
+      "tips": "Be prepared for a wait as the restaurant is popular and food is prepared with significant detail (Tripadvisor). The Pork Belly Tacos and Gaucho Sandwich are highly recommended must-try items (Nova Circle). Note that as of early 2026, the restaurant announced a relocation to Chinatown on Spring Mountain Rd (WhatNow Las Vegas).",
+      "nearby": "Ethel M Chocolates Factory and Cactus Garden, Galaxy Green Valley Luxury+ Theatre, Axe Monkeys, Barley's Casino & Brewing Company (Tripadvisor)"
+    },
+    {
+      "name": "Bad Beat Brewing",
+      "category": "Brewery, Bar, Entertainment",
+      "description": "Founded in July 2014 by Nathan Hall, Bad Beat Brewing is a destination brewery that recently relocated to the Las Vegas Arts District. The taproom features four year-round craft beers, 16-20 rotating specialty brews, handcrafted cocktails, and fine wines in a lively atmosphere complete with games like darts, pool, and shuffleboard.",
+      "address": "1421 S. Main Street, Las Vegas, NV 89104",
+      "city": "Las Vegas",
+      "region": "Green Valley / Sunset",
+      "hours": "Monday: 12:00 PM - 8:00 PM, Tuesday: 12:00 PM - 8:00 PM, Wednesday: 12:00 PM - 8:00 PM, Thursday: 12:00 PM - 10:00 PM, Friday: 12:00 PM - 12:00 AM, Saturday: 12:00 PM - 12:00 AM, Sunday: 12:00 PM - 8:00 PM",
+      "days_open": "Daily (Monday-Sunday)",
+      "admission": "Free admission (21+ only)",
+      "website": "https://badbeatbrewing.com/",
+      "phone": "725-205-3623",
+      "image_url": "https://badbeatbrewing.com/wp-content/uploads/2025/08/preview_image-1-4-scaled.jpg",
+      "highlights": [
+        "['Four core year-round craft beers and 16-20 rotating specialty brews on tap.', 'Full bar service offering signature handcrafted cocktails and fine wines.', 'Spacious outdoor patio with games including cornhole and shuffleboard.', 'Weekly events such as Trivia Night, Thaco Thursday, and New Beer Friday releases.', 'Indoor entertainment options including darts, pool tables, and board games.', 'Pet-friendly and outside-food-friendly environment in the heart of the Arts District.']"
+      ],
+      "tips": "Patrons are welcome to bring in outside food from nearby eateries. Note that the venue is 21+ only due to it being a brewpub without an in-house kitchen. Check out 'New Beer Friday' for weekly specialty releases.",
+      "nearby": "Able Baker Brewing, Hudl Brewing Company, The Silver Stamp, Hop Nuts Brewing, and various galleries in the Las Vegas Arts District."
+    },
+    {
+      "name": "Bark Park at Heritage Park",
+      "category": "Park, Dog Park",
+      "description": "Bark Park at Heritage Park is the City of Henderson's largest and most unique dog park, spanning five acres of dedicated off-leash space. Designed with input from local pet owners, it features multiple fenced runs, a full agility course, and a unique dog-only splash pad for cooling off during the summer. (cityofhenderson.com, Rose Homes)",
+      "address": "350 S. Racetrack Rd., Henderson, NV 89015 (Entrance off Burkholder Blvd.)",
+      "city": "Henderson",
+      "region": "Green Valley / Sunset",
+      "hours": "Monday - Sunday: 6:00 am - 10:00 pm (cityofhenderson.com)",
+      "days_open": "Monday - Sunday (cityofhenderson.com)",
+      "admission": "Free (cityofhenderson.com, Rose Homes)",
+      "website": "https://www.cityofhenderson.com/Home/Components/FacilityDirectory/FacilityDirectory/204/752",
+      "phone": "(702) 267-2350 (BringFido, Vetster)",
+      "image_url": "https://www.cityofhenderson.com/home/showpublishedimage/4011/637473357891300000",
+      "highlights": [
+        "'Five-acre flagship facility with separate dog runs for small and large breeds ([Rose Homes)', 'Dedicated dog-only splash pad open seasonally from May 1 to September 30 (cityofhenderson.com)', 'Professional-grade agility course with jumps, tunnels, and obstacles (RecnGroup)', \"'Barkules,' an 18-foot-long dog-themed play structure for children (Las Vegas Sun)\", 'Whimsical amenities including dog bone-themed benches and shaded canopies (The Thomas Group)', 'Paved walking trails connecting to the larger Heritage Park system (Rose Homes)']"
+      ],
+      "tips": "Owners are limited to a maximum of three dogs at a time; ensure your pet stays hydrated at the drinking stations. Use the Burkholder Blvd. entrance for the closest parking to the dog park sections. (Rose Homes, Living Around Vegas)",
+      "nearby": "Heritage Park Sports Complex, Black Mountain community, Henderson Senior Center, Burkholder Trail (Henderson HQ, Rose Homes)"
+    },
+    {
+      "name": "Black Mountain Golf and Country Club, Review-Journal",
+      "category": "Golf, Golf Advisor",
+      "description": "Black Mountain Golf and Country Club was a historic 27-hole championship golf facility nestled in the foothills of Henderson, Nevada. Opened in 1957, it was one of the oldest courses in the Las Vegas Valley, featuring a traditional parkland layout with mature trees and stunning mountain vistas. The course ceased operations in November 2018 and is currently being redeveloped into a residential community. Rose Homes, VIP Golf Services",
+      "address": "500 Greenway Rd, Henderson, NV 89015-7464, Tripadvisor",
+      "city": "Henderson, Yelp",
+      "region": "Green Valley / Sunset",
+      "hours": "Historically 6:30 AM - 4:30 PM daily (All week), Tripadvisor",
+      "days_open": "Historically open daily (Year-round), Tripadvisor",
+      "admission": "Historically $26 - $95 depending on residency and time of day (Facility closed in 2018), UnderPar, Albrecht Golf Guide",
+      "website": "https://www.vipgolfservices.com/courses/black-mountain-golf-club/",
+      "phone": "(702) 565-7933, GolfNevada",
+      "image_url": "https://www.reviewjournal.com/wp-content/uploads/2019/02/11790408_web1_black-mountain-entrance.jpg",
+      "highlights": [
+        "'27-hole championship layout comprising the Founders, Horizon, and Desert nines, [Vegas Legal Magazine', \"One of Southern Nevada's oldest and most historic golf destinations, established in 1957, UnderPar\", 'Traditional parkland design with tree-lined fairways that rewarded accuracy over distance, VIP Golf Services', 'Panoramic views of the Black Mountains and the Mojave Desert landscape, Exploring Las Vegas', 'Comprehensive practice center with a driving range and a 5,000 square foot chipping green, Las Vegas Homes by Leslie', 'Former host of USGA Championship qualifying rounds and the Las Vegas Open, Two Guys Who Golf']"
+      ],
+      "tips": "Historically, accuracy was paramount as errant drives were often punished by the corridors of cypress, olive, and pine trees. The Desert Nine provided a more modern target-golf challenge with elevation changes, while the Founders and Horizon nines offered a classic parkland feel. Visitors enjoyed the relaxed social atmosphere at the clubhouse restaurant, which offered panoramic mountain views. VIP Golf Services, Two Guys Who Golf",
+      "nearby": "Acacia Demonstration Gardens, Clark County Heritage Museum, Ethel M Botanical Cactus Garden, Henderson Bird Viewing Preserve, and The District at Green Valley Ranch. Wikipedia"
+    },
+    {
+      "name": "Clark County Wetlands Park Nature Center",
+      "category": "Park and Nature Center",
+      "description": "Clark County Wetlands Park spans 2,900 acres on the eastern edge of the Las Vegas Valley, serving as a lush oasis for wildlife and a natural water purifier for the region. The park features a 210-acre Nature Preserve with diverse ecosystems, interactive exhibits at its LEED gold-rated Nature Center, and miles of scenic trails for hiking and birdwatching (Clark County official site, Nature Center info).",
+      "address": "7050 Wetlands Park Lane, Las Vegas, NV 89122",
+      "city": "Las Vegas (Eastern Las Vegas Valley)",
+      "region": "Green Valley / Sunset",
+      "hours": "Nature Center: Tue–Sun 9:00 AM – 3:00 PM (Closed Monday); Park Trails & Trailheads: Daily, Dawn to Dusk (Clark County official site)",
+      "days_open": "Nature Center: Tuesday–Sunday; Park Trails: Daily (Clark County official site)",
+      "admission": "Free (Clark County official site)",
+      "website": "https://www.clarkcountynv.gov/government/departments/parks___recreation/wetlands_park/",
+      "phone": "(702) 455-7522",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Las_Vegas_Wash_wetlands_1.jpg",
+      "highlights": [
+        "'210-acre Nature Preserve with a network of paved and unpaved trails ([Everyday Vegas)', 'Interactive Exhibit Gallery featuring a 12-foot snake, rideable dragonfly, and metal reeds (Nature Center info)', '14-mile Wetlands Loop Trail for ambitious hikers and cyclists (Everyday Vegas)', 'Nature Center facilities including a gift store, auditorium, and the Lizard Lounge picnic room (Clark County official site)', 'Habitat for over 300 species of plants and animals, including roadrunners, turtles, and beavers (Visit Las Vegas)']"
+      ],
+      "tips": "Visitors should bring water, sunscreen, and a hat as temperatures can be high. Note that dogs, bicycles, and skateboards are prohibited within the Nature Preserve area to protect wildlife habitat (Park Brochure PDF). Keep a camera ready for fast-moving roadrunners (Tripadvisor).",
+      "nearby": "Ethel M Botanical Cactus Garden, Henderson Bird Viewing Preserve, Cowabunga Bay Water Park, Lake Las Vegas (Cloud of Goods, Expedia)"
+    },
+    {
+      "name": "Club Madrid at Sunset Station",
+      "category": "Entertainment / Music Venue / Bar",
+      "description": "Club Madrid is an intimate 500-seat concert venue and lounge located within the Sunset Station Hotel & Casino. It is known for hosting a diverse array of live musical acts—including rock, country, blues, and jazz—offering guests an up-close and personal experience with performers in a vibrant atmosphere.",
+      "address": "1301 W Sunset Rd, Henderson, NV 89014",
+      "city": "Henderson",
+      "region": "Green Valley / Sunset",
+      "hours": "Monday - Sunday: Varies based on event schedule; typically open during shows and concerts (check official calendar for specific performance times), Sunset Station",
+      "days_open": "Varies based on event schedule (primarily Friday, Saturday, and show nights), SmarterVegas",
+      "admission": "Free for many local acts; ticketed headliner events vary (typically starting at $25.00+), Station Casinos Live, Nova Circle",
+      "website": "https://sunsetstation.com/see-and-do/",
+      "phone": "(702) 547-7777",
+      "image_url": "https://i0.wp.com/sunsetstation.com/wp-content/uploads/2023/06/Club-Madrid-Concert-2023.jpg",
+      "highlights": [
+        "['Intimate 500-seat music venue providing up-close views of performers.', 'Hosts a wide range of genres including rock, country, blues, and jazz.', 'Equipped with a high-quality sound system for an enhanced audio experience.', 'Offers some of the best drink specials and reasonably priced beverages in the Henderson area.', 'Features regular live entertainment from both local bands and national touring acts.', 'Bottle service options available for a more premium nightlife experience.']"
+      ],
+      "tips": "The venue is strictly for guests aged 21 and older. For free local shows, it is recommended to arrive early as seating is first-come, first-served and can fill up quickly. Always check the official event calendar before visiting, as the space may be closed for private events or renovations.",
+      "nearby": "Galleria at Sunset, Cowabunga Bay Water Park, Sunset Park, Sam Boyd Stadium, Sunset Station Local Attractions"
+    },
+    {
+      "name": "Cowabunga Bay Las Vegas",
+      "category": "Park (Water Park)",
+      "description": "Voted the best waterpark in Las Vegas, Cowabunga Bay is a 23-acre family destination featuring a retro surf theme and over 20 water slides and attractions. The park offers a mix of high-thrill raft slides, a massive wave pool, and relaxing lazy rivers, providing entertainment for all ages in the Clark County area (Family Fun Vegas, Visit Las Vegas).",
+      "address": "900 Galleria Drive",
+      "city": "Henderson",
+      "region": "Green Valley / Sunset",
+      "hours": "Typical Summer Schedule: Mon-Thu 11:00 AM – 6:00 PM, Fri 11:00 AM – 10:00 PM, Sat 11:00 AM – 8:00 PM, Sun 11:00 AM – 7:00 PM (Hours vary by season and special events) (Cowabunga Vegas)",
+      "days_open": "Seasonal (May through September); daily during peak summer months (Cowabunga Vegas)",
+      "admission": "General Admission: $49.99, Under 42\" (Gate Only): $34.99, 2 & Under (Gate Only): Free, Seniors 65+ (Gate Only): $34.99, Military with Valid ID (Gate Only): $39.99, Summer Nights (3 Hours from Closing): $34.99, Season Passholder Buddy Tickets: $29.99 (Cowabunga Vegas)",
+      "website": "https://cowabungavegas.com/bay/",
+      "phone": "725-267-2262",
+      "image_url": "https://cowabungavegas.com/wp-content/uploads/2026/05/cbv-welcome-back-beach-bash-4x3-1.jpg",
+      "highlights": [
+        "'Wild Surf: A six-story raft slide featuring a massive parabolic wave ([Family Fun Vegas)', 'Surf-A-Rama Wave Pool: One of the largest wave pools in Nevada, designed with a 1950s retro feel (Visit Las Vegas)', 'Cowabunga River: A relaxing lazy river that winds through the park (Tripadvisor)', 'Zuma Zooma: A high-speed body slide for thrill-seekers (Family Fun Vegas)', 'Cowabunga Kids Cove: A designated area for toddlers and smaller children with scaled-down slides (Cowabunga Vegas)', 'Point Panic: A pitch-black body slide experience with unique lighting effects (Family Fun Vegas)']"
+      ],
+      "tips": "Arrive at opening (typically 11 AM) to secure the best seating areas and hit major slides before lines peak after noon. Visiting on weekdays, specifically Mondays and Tuesdays, is recommended to avoid the largest crowds. Private cabanas are popular and should be booked online in advance for weekends. Guests are encouraged to bring towels, sunscreen, and refillable water bottles (Family Fun Vegas).",
+      "nearby": "Galleria at Sunset, Sunset Station Hotel & Casino, Henderson Bird Viewing Preserve, Clark County Wetlands Park, Ethel M Chocolate Factory (Lonely Planet)"
+    },
+    {
+      "name": "CraftHaus Brewery & Taproom Henderson",
+      "category": "Brewery",
+      "description": "CraftHaus Brewery is an artisanal craft brewery and taproom dedicated to building the local craft beer community through quality and innovation. The Henderson location features a modern, welcoming space where guests can view the working brewery and fermentation process through large windows while enjoying a diverse portfolio of award-winning beers. (CraftHaus Brewery, Visit Las Vegas)",
+      "address": "7350 Eastgate Rd Suite 110, Henderson, NV 89011",
+      "city": "Henderson",
+      "region": "Green Valley / Sunset",
+      "hours": "Mon-Thurs: 4:00 PM - 10:00 PM; Fri-Sat: 12:00 PM - 11:00 PM; Sun: 12:00 PM - 9:00 PM (CraftHaus Brewery)",
+      "days_open": "Monday - Sunday (CraftHaus Brewery)",
+      "admission": "Free (Tripadvisor)",
+      "website": "https://www.crafthausbrewery.com",
+      "phone": "(702) 462-5934 (CraftHaus Brewery)",
+      "image_url": "https://static.wixstatic.com/media/1deb06_87c8497a77834e94a82688b96fecb812~mv2.jpg/v1/fill/w_492,h_321,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/CHhenderson%20inside%20no%20peeps.jpg",
+      "highlights": [
+        "'Working brewery and fermentation viewable through large viewing windows ([CraftHaus Brewery)', 'Award-winning beer selection including pilsners, sours, IPAs, and barrel-aged varieties (CraftHaus Brewery)', 'Non-smoking and non-gaming environment suitable for conversation (Visit Las Vegas)', 'Family-friendly atmosphere with a wide selection of board games like Connect Four and Battleship (Tripadvisor)', 'Food pairings such as cheese plates, charcuterie, and locally made spent grain pretzel rolls (CraftHaus Brewery)', 'Ample parking with space for up to 10 RVs (CraftHaus Brewery)']"
+      ],
+      "tips": "Check their schedule for visiting food trucks, as they often host different local vendors. If you're visiting with a group, the communal long tables and extensive board game collection make it an ideal spot for socializing without the noise of typical casino environments. (Tripadvisor, Rose Homes LV)",
+      "nearby": "Henderson Booze District (various distilleries and tasting rooms), Penn's Thai House, Whitney Ranch neighborhood attractions (Rose Homes LV, Tripadvisor)"
+    },
+    {
+      "name": "Desert Willow Golf Course",
+      "category": "Golf Course",
+      "description": "Desert Willow Golf Course is an award-winning 18-hole executive course designed by Billy Casper and Greg Nash, situated in the foothills of Henderson's Black Mountain. The par-60 layout features a mix of par-threes and par-fours, offering a challenging yet time-efficient round with stunning views of the Las Vegas Valley. Known for its family-friendly atmosphere, it was one of the first in Nevada to offer junior tees and boasts some of the region's largest practice facilities. Desert Willow Website",
+      "address": "2020 West Horizon Ridge Pkwy, Henderson, NV 89012 Desert Willow Golf Course",
+      "city": "Henderson",
+      "region": "Green Valley / Sunset",
+      "hours": "Course: Sunrise to Sunset (Seasonal closure at 6:30 PM or 7:00 PM); Willow Restaurant & Bar: 7:00 AM - 7:00 PM Daily; Driving Range: Open daily except Mondays Official Website",
+      "days_open": "Open 7 days a week (Driving Range closed on Mondays) Course Info",
+      "admission": "Public 18 Holes: $49, Public 9 Holes/Late Fee: $35, Juniors (Ages 6-17) 18 Holes: $15, Juniors 9 Holes/Late: $10 Official Rates",
+      "website": "https://www.desertwillowlasvegas.com",
+      "phone": "702-263-4653 Official Site",
+      "image_url": "https://www.desertwillowlasvegas.com/wp-content/uploads/sites/7799/2018/08/course-photos-01.jpg",
+      "highlights": [
+        "['Designed by PGA Tour Hall-of-Famer Billy Casper and architect Greg Nash', '18-hole, par 60 executive-length course with 6 par-fours and 12 par-threes', 'Extensive practice facilities including a large driving range and 9,500 sq ft putting green', 'Stunning scenic views of the Black Mountain range and the Las Vegas Strip', 'Family-friendly environment with dedicated junior tees and discounted rates', 'On-site dining at The Willow Restaurant and Bar, open daily to the public']"
+      ],
+      "tips": "Book tee times online for the best rates and arrive at least 15 minutes early. Proper golf attire (collared shirts) is strictly enforced; tank tops and cut-offs are not permitted. Be aware that golf carts must remain on paved paths for all par-3 holes. Course Policies",
+      "nearby": "The District at Green Valley Ranch, Green Valley Ranch Resort & Casino, Henderson Multigenerational Center, Lee’s Family Forum, Sloan Canyon National Conservation Area Tripadvisor"
+    },
+    {
+      "name": "Echo & Rig Steakhouse",
+      "category": "Restaurant (Steakhouse) Echo & Rig Henderson",
+      "description": "Echo & Rig Steakhouse reimagines the classic steakhouse through a modern and delightful lens, offering high-quality beef and curated cocktails. Located in an upscale neighborhood setting, it provides a dining experience that feels both elevated and approachable for locals and visitors alike Echo & Rig Henderson.",
+      "address": "2270 Village Walk Drive, Suite 200, Henderson, Nevada 89052 Echo & Rig Henderson, Yelp",
+      "city": "Henderson Echo & Rig Henderson",
+      "region": "Green Valley / Sunset",
+      "hours": "Lunch: Mon - Fri 11 AM - 4 PM; Happiest Hour (Bar): Mon - Fri 3 PM - 6 PM; Dinner: Mon - Thu & Sun 4 PM - 10 PM, Fri - Sat 4 PM - 11 PM; Weekend Brunch: Sat & Sun 10 AM - 3 PM Echo & Rig Henderson",
+      "days_open": "Open daily Echo & Rig Henderson",
+      "admission": "Free entry; menu prices vary Echo & Rig Henderson",
+      "website": "https://www.echoandrig.com/henderson",
+      "phone": "(725) 258-3246 Echo & Rig Henderson",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/62ccca18424c3120f98944aa/bf03141c-c997-484f-ac3a-9c85fffa2993/Echo+and+Rig+Henderson+exterior.jpg?format=1500w",
+      "highlights": [
+        "'Modern reimagining of the traditional steakhouse experience [Echo & Rig Henderson', 'Popular Weekend Brunch served Saturdays and Sundays from 10 AM to 3 PM Echo & Rig Henderson', \"'Happiest Hour' featuring weekday specials at the bar from 3 PM to 6 PM Echo & Rig Henderson\", 'Extensive curated cocktail and wine list Echo & Rig Henderson', 'Prime location within The District at Green Valley Ranch Echo & Rig Henderson', 'Sourcing of premium beef from world-class suppliers like Cape Grim Echo & Rig Henderson']"
+      ],
+      "tips": "Reservations are highly recommended for dinner and brunch. The 'Happiest Hour' deals are exclusive to the bar area. If looking for the butcher shop, the flagship location is in Las Vegas, but Henderson offers the same quality cuts in their dining room Echo & Rig Henderson, Yelp.",
+      "nearby": "Green Valley Ranch Resort Spa & Casino, The District at Green Valley Ranch, Henderson Pavilion, Ethel M Botanical Cactus Garden Tripadvisor, Expedia"
+    },
+    {
+      "name": "Ethel M Botanical Cactus Garden",
+      "category": "Park (Botanical Garden)",
+      "description": "The Ethel M Botanical Cactus Garden is Nevada's largest and one of the world's most prolific collections of its kind, featuring over 300 species of desert flora across three acres. Established in 1981 alongside the Ethel M Chocolate Factory, the garden showcases a diverse array of cacti, succulents, and desert trees native to the American Southwest, Australia, and South America. It serves as a peaceful, sustainable desert oasis that recycles factory wastewater to hydrate its drought-resistant plants.",
+      "address": "2 Cactus Garden Dr, Henderson, NV 89014, Ethel M Official Website",
+      "city": "Henderson",
+      "region": "Green Valley / Sunset",
+      "hours": "9am - 7pm (Monday - Sunday), Ethel M Official Website",
+      "days_open": "Daily, Ethel M Official Website",
+      "admission": "Free (for self-guided tours year-round); however, seasonal events like the Holiday Cactus Garden and Lights of Love (Valentine's Day) require a small entry fee (typically $3 per person), Ethel M Official Website, Airial Travel",
+      "website": "https://www.ethelm.com/en-us/locations/henderson-flagship/cactus-garden",
+      "phone": "702-435-2608, Ethel M Official Website",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Ethel_M_Botanical_Cactus_Garden_3.jpg",
+      "highlights": [
+        "'Over 300 species of cacti, succulents, and desert trees, [Ethel M Official Website', \"Nevada's largest botanical cactus garden at 3 acres, Ethel M Official Website\", 'Self-guided viewing aisle of the adjacent chocolate factory, Wikipedia', 'Annual Holiday Cactus Garden with over 1 million sparkling lights, Ethel M Official Website', 'Eco-friendly water treatment facility that recycles 100% of factory wastewater for the garden, Atlas Obscura', 'On-site solar panel garden providing power to the factory, Wikipedia']"
+      ],
+      "tips": "Visit during the holiday season (early November to early January) to see the garden transformed with festive lights. Arrive around 4:45 PM for better parking and shorter lines during seasonal events. Combine your garden stroll with a free self-guided chocolate factory tour and a stop at the Cactus Cafe for fresh treats. Yelp, Airial Travel",
+      "nearby": "Ethel M Chocolates Factory, Clark County Wetlands Park, Galleria at Sunset, Wildhorse Golf Club, Sunset Station Hotel & Casino, Expedia"
+    },
+    {
+      "name": "Ethel M Chocolates Factory and Botanical Cactus Garden",
+      "category": "Landmark, Entertainment, Shopping",
+      "description": "Ethel M Chocolates is a premium American chocolate manufacturer founded by Forrest Mars Sr. to preserve the legacy of his mother's recipes. The flagship location in Henderson features a 3-acre Botanical Cactus Garden—Nevada's largest—and a unique self-guided factory viewing aisle where visitors can watch small-batch chocolates being crafted. Ethel M Chocolates, Wikipedia",
+      "address": "2 Cactus Garden Dr, Henderson, NV 89014",
+      "city": "Henderson",
+      "region": "Green Valley / Sunset",
+      "hours": "Monday - Sunday: 9:00 AM - 7:00 PM. Factory production typically occurs Monday - Friday, 10:00 AM - 3:30 PM. Ethel M Chocolates",
+      "days_open": "Open Daily Ethel M Chocolates",
+      "admission": "Admission to the factory viewing aisle and botanical cactus garden is Free. Chocolate Tasting Experiences: $25 for Adults, $20 for Students (ages 13-19), and $15 for Children (ages 12 and younger). Chocolate and Wine Pairings are $35 for adults 21+. Ethel M Chocolates, Travel Nevada",
+      "website": "https://www.ethelm.com/en-us/locations/henderson-flagship",
+      "phone": "702-435-2608",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Ethel_M_Chocolate_Factory%2C_Henderson%2C_Nevada_%2811396821565%29.jpg/1024px-Ethel_M_Chocolate_Factory%2C_Henderson%2C_Nevada_%2811396821565%29.jpg",
+      "highlights": [
+        "['Stroll through a 3-acre Botanical Cactus Garden with over 300 desert plant species.', 'Take a free self-guided tour of the chocolate factory viewing aisle.', 'Participate in professionally led chocolate tasting experiences and wine pairings.', 'Visit the Cactus Garden Cafe for signature milkshakes and gourmet hot chocolate.', 'Shop for premium, small-batch gourmet chocolates and custom gift boxes.', 'Enjoy the spectacular seasonal Holiday Cactus Garden light display.']"
+      ],
+      "tips": "To see the factory in full operation, plan your visit during weekday production hours (10 AM - 3:30 PM). Book your chocolate tasting experience in advance online as slots can fill up quickly. During the winter holidays, arrive early or visit on weekdays to avoid long lines for the Holiday Cactus Garden light display. Ethel M Chocolates, Yelp",
+      "nearby": "Sunset Station Hotel & Casino, Galleria at Sunset, Cowabunga Bay Water Park, Clark County Heritage Museum, Lion Habitat Ranch. Tripadvisor"
+    },
+    {
+      "name": "Fiesta Henderson Casino Hotel Wikipedia",
+      "category": "Casino Resort Wikipedia",
+      "description": "Fiesta Henderson was a southwestern-themed hotel and casino featuring a 73,450-square-foot gaming floor and 224 guest rooms. Originally opened in 1998 as The Reserve with an African safari theme, it was rebranded in 2001 and served as a popular locals' destination until its permanent closure and subsequent demolition. Wikipedia",
+      "address": "777 West Lake Mead Parkway, Henderson, NV 89015 Wikipedia",
+      "city": "Henderson Wikipedia",
+      "region": "Green Valley / Sunset",
+      "hours": "Permanently Closed Wikipedia",
+      "days_open": "Permanently Closed (Closed March 2020, Demolished September 2022) Wikipedia, KTNV",
+      "admission": "Free (Historically free entry to casino and public areas) Wikipedia",
+      "website": "https://www.americancasinoguidebook.com/casino-profiles/casino-profile-fiesta-henderson-casino-hotel-henderson-nevada.html",
+      "phone": "(702) 558-7000 Travel Weekly",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Fiesta_Henderson.jpg",
+      "highlights": [
+        "'73,450-square-foot casino with over 1,400 slot machines and 26 table games [Wikipedia', \"12-screen Regal Cinemas movie theater, which was the chain's first all-digital theater Wikipedia\", 'Renovated sportsbook featuring new seating and large LED television screens Wikipedia', 'Dining options including Fuego Steakhouse, Café Fiesta, and a festival buffet Vegas Chamber', 'On-site amenities such as an outdoor swimming pool, hot tub, and a 300-seat bingo hall Travel Weekly']"
+      ],
+      "tips": "The property is permanently closed and was demolished in 2022; the site is currently being redeveloped by the City of Henderson for indoor sports and retail use. KTNV",
+      "nearby": "Cowabunga Bay Las Vegas, Acacia Demonstration Gardens, Clark County Museum, and Sunset Station Wikipedia, Nevada Best Hotels"
+    },
+    {
+      "name": "Grand Events Center at Green Valley Ranch Resort Spa & Casino Visit Las Vegas",
+      "category": "Entertainment Venue Visit Las Vegas",
+      "description": "The Grand Events Center at Green Valley Ranch Resort Spa & Casino is a premier off-Strip Las Vegas entertainment venue, renowned for its intimate yet spectacular 2,000-seat stadium-style setting. It regularly hosts major headliners across genres like rock, country, jazz, and blues, offering state-of-the-art amenities and a vibrant atmosphere for locals and visitors alike. Visit Las Vegas",
+      "address": "2300 Paseo Verde Parkway, Henderson, NV 89052 Green Valley Ranch",
+      "city": "Henderson Green Valley Ranch",
+      "region": "Green Valley / Sunset",
+      "hours": "Hours vary by event; box office generally opens 90 minutes to two hours before showtime Vivid Seats, SmarterVegas",
+      "days_open": "Open daily Green Valley Ranch",
+      "admission": "Ticket prices vary by event, typically ranging from $16.00 to $171.00+ on average, with VIP packages reaching up to $895.00 ConcertFix, TicketSmarter",
+      "website": "https://greenvalleyranch.com/see-and-do/concerts-and-events/",
+      "phone": "(702) 617-7777 Green Valley Ranch",
+      "image_url": "https://greenvalleyranch.com/wp-content/uploads/2021/11/gvr_hero_pool.jpg",
+      "highlights": [
+        "'2,000-seat stadium-style seating for intimate concert experiences [Visit Las Vegas', 'State-of-the-art sound and modern amenities Visit Las Vegas', 'Hosts major headliners in rock, country, jazz, and blues genres Visit Las Vegas', 'Convenient off-Strip location with easy access for locals and visitors Green Valley Ranch', \"Award-winning 'Best of Las Vegas' entertainment destination Green Valley Ranch\"]"
+      ],
+      "tips": "Bags larger than a clutch (4.5\" x 6.5\") are prohibited. Arrive at least 90 minutes early for ticket will-call and security screening. No outside food or beverages allowed. Green Valley Ranch",
+      "nearby": "The District at Green Valley Ranch, Lee's Family Forum, Cowabunga Bay Water Park, Lake Las Vegas Green Valley Ranch"
+    },
+    {
+      "name": "Grape Expectations School of Winemaking",
+      "category": "Winery & School of Winemaking",
+      "description": "Grape Expectations is a premier hands-on winemaking school located in Henderson's Artisan Booze District, where enthusiasts can craft their own wine from 'Vine to Wine.' Participants engage in a nine-month process including crushing, pressing, racking, and bottling to produce a personal barrel of approximately 240 bottles. Founded in 2005, it offers both private and social barrel options, allowing individuals and groups to experience the art and science of winemaking in a collaborative environment.",
+      "address": "7360 Eastgate Road, Ste. 125",
+      "city": "Henderson",
+      "region": "Green Valley / Sunset",
+      "hours": "Monday-Thursday: 4:00 PM - 10:00 PM; Friday: 2:00 PM - 11:00 PM; Saturday: 12:00 PM - 11:00 PM; Sunday: 12:00 PM - 9:00 PM",
+      "days_open": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
+      "admission": "Private Barrel: $4000 (240 bottles); Social Barrel: $225 per case; Tours: Call for availability and pricing",
+      "website": "https://grapeexpectationslasvegas.com/",
+      "phone": "702-806-3383",
+      "image_url": "https://grapeexpectationslasvegas.com/wp-content/uploads/2019/04/Grape_Expencations_District_Image2.jpg",
+      "highlights": [
+        "['Hands-on winemaking experience from crushing to bottling', 'Option to produce 240 bottles (20 cases) of your own custom wine', \"Located in the heart of Henderson's Artisan Booze District\", 'Annual Bacchus Awards honoring student winemakers', 'Expert guidance from professional winemakers throughout the 9-month process']"
+      ],
+      "tips": "Operating hours can vary by season, so it is highly recommended to call prior to visiting. For those who don't want a full barrel, the 'Social Barrel' option allows you to participate and receive wine by the case. The adjacent Vegas Valley Winery offers a tasting room and is accessible through the facility.",
+      "nearby": "Vegas Valley Winery, CraftHaus Brewery, Bad Beat Brewing, Astronomy Aleworks, Las Vegas Distillery"
+    },
+    {
+      "name": "Green Valley Ranch Resort Spa & Casino",
+      "category": "Casino Resort",
+      "description": "Green Valley Ranch Resort Spa & Casino is a premier Mediterranean-inspired luxury destination located in Henderson, Nevada, offering a refined alternative to the Las Vegas Strip. The resort features a massive 143,891-square-foot casino, an award-winning spa, and an eight-acre backyard oasis with a sand-bottom pool and stunning views of the Las Vegas skyline (Official Site, Wikipedia) .",
+      "address": "2300 Paseo Verde Parkway, Henderson, NV 89052",
+      "city": "Henderson",
+      "region": "Green Valley / Sunset",
+      "hours": "Casino & Resort: 24/7; Pool: Daily 9:00 AM – 7:00 PM; Spa: Daily 10:00 AM – 6:00 PM (Official Site, SmarterVegas)",
+      "days_open": "Daily",
+      "admission": "Free entry to casino and public areas; Registered guests: Pool access included in resort fee; Non-registered guests/Locals pool day pass: $30–$55 Adults, $20–$35 Kids; Spa day pass: $50–$100; Resort fee: $51.30 per night (Official Site, aresTravel, SmarterVegas)",
+      "website": "https://greenvalleyranch.com",
+      "phone": "(702) 617-7777",
+      "image_url": "https://i0.wp.com/greenvalleyranch.com/wp-content/uploads/2025/10/Green-Valley-Ranch-Stacjed-Logo.jpg?w=400&ssl=1",
+      "highlights": [
+        "'143,891 sq ft casino floor featuring over 2,000 slot machines and 50+ table games ([Wikipedia)', 'Eight-acre \"Backyard\" pool area with a sand-bottom beach-entry pool and private cabanas (Official Site)', 'Award-winning full-service Spa and Salon with a private lap pool and serene relaxation spaces (Official Site)', \"Diverse dining lineup including the award-winning Hank's Fine Steaks & Martinis and Blue Ribbon Sushi (Official Site)\", 'On-site entertainment including a 10-screen Regal Cinemas and the Grand Events Center for live concerts (Official Site)', 'Direct access to The District at Green Valley Ranch for open-air shopping and casual dining (Wikipedia)']"
+      ],
+      "tips": "Locals can often reserve free pool entry on Tuesdays after 1 PM; the resort offers free parking for all visitors; spa day pass fees are typically waived with the purchase of a treatment (Official Site, Yelp) .",
+      "nearby": "The District at Green Valley Ranch, Desert Willow Golf Club, Sloan Canyon National Conservation Area (Tripadvisor, Wikipedia)"
+    },
+    {
+      "name": "Hank’s Fine Steaks & Martinis",
+      "category": "Restaurant, Steakhouse, Bar",
+      "description": "Hank’s Fine Steaks & Martinis is a Four-Diamond-awarded fine dining destination known for its world-class steaks, fresh seafood, and signature handcrafted martinis. It is the only restaurant in Henderson to offer Certified A-5 Kobe Beef and features nightly live music in a striking, upscale setting Green Valley Ranch, Visit Las Vegas.",
+      "address": "2300 Paseo Verde Parkway",
+      "city": "Henderson",
+      "region": "Green Valley / Sunset",
+      "hours": "Monday – Thursday: 4:30 PM – 10:00 PM; Friday – Saturday: 4:30 PM – 11:00 PM; Sunday: 4:30 PM – 10:00 PM; Happy Hour (Bar): Daily 3:30 PM – 7:00 PM Green Valley Ranch",
+      "days_open": "Daily Green Valley Ranch",
+      "admission": "Free entry; menu prices vary (Fine Dining) Green Valley Ranch",
+      "website": "https://greenvalleyranch.com/eat-and-drink/hanks/",
+      "phone": "702.617.7777 Green Valley Ranch",
+      "image_url": "https://i0.wp.com/greenvalleyranch.com/wp-content/uploads/2020/04/Dining-Room-Art-Wall2022.jpg?resize=1080%2C608&ssl=1",
+      "highlights": [
+        "'Only restaurant in Henderson offering Certified A-5 Kobe Beef [Green Valley Ranch', 'Recieved the Wine Spectator Best of Award of Excellence 2023 Green Valley Ranch', 'Features over 30 different types of exclusive martinis Visit Las Vegas', 'Nightly live music performances at the piano bar Green Valley Ranch', 'Daily Happy Hour from 3:30 PM to 7:00 PM with half-price martinis Green Valley Ranch', 'Four-Diamond-awarded service and atmosphere Green Valley Ranch']"
+      ],
+      "tips": "The dress code is Resort Casual. Reservations are highly recommended for dinner, while Happy Hour seating at the bar is popular and fills up quickly on a first-come, first-served basis Green Valley Ranch, Yelp.",
+      "nearby": "The District at Green Valley Ranch, Green Valley Ranch Resort Spa & Casino, Lee’s Family Forum, Ethel M Botanical Cactus Garden, Lion Habitat Ranch Tripadvisor, Green Valley Ranch"
+    },
+    {
+      "name": "Henderson Farmers Market",
+      "category": "Shopping",
+      "description": "The Henderson Farmers Market is a vibrant community gathering where residents can shop for fresh produce, healthy handmade products, and artisanal goods from a curated collective of local merchants. Managed by Prevail Marketplace in partnership with the City of Henderson, the market emphasizes high-quality local products to promote a happier and healthier lifestyle for the community. Visitors can explore a variety of stalls offering seasonal fruits and vegetables, local honey, artisan breads, and unique crafts across multiple beautiful park locations.",
+      "address": "240 S. Water St. (Main Office/Henderson Events Plaza) and various park locations including Cornerstone Park (1600 Wigwam Pkwy), Montagna Park (3495 Via Altamira), and Fox Ridge Park (420 N. Valle Verde Dr)",
+      "city": "Henderson",
+      "region": "Green Valley / Sunset",
+      "hours": "Thursday: 3:00 PM - 7:00 PM (Montagna Park); Friday: 3:00 PM - 7:00 PM (Fox Ridge Park, 1st & 3rd Fridays); Saturday: 9:00 AM - 2:00 PM (Cornerstone Park)",
+      "days_open": "Thursday, Friday, Saturday (at rotating locations)",
+      "admission": "Free",
+      "website": "https://www.cityofhenderson.com/residents/special-interest/henderson-farmers-market",
+      "phone": "(702) 267-2323 (City of Henderson) or (910) 398-5481 (Prevail Marketplace)",
+      "image_url": "https://www.cityofhenderson.com/home/showpublishedimage/18302/638960265372800000",
+      "highlights": [
+        "['Wide selection of farm-fresh produce and locally sourced honey from vendors like Prevail Produce and Hammons Honey.', 'Handmade artisanal goods including artisan breads, organic bakery items, and gourmet sauces from local makers.', 'Rotating family-friendly activities and live music often featured at various market locations.', 'Support for community health through the acceptance of EBT/SNAP benefits for fresh produce purchases.', 'Dog-friendly atmosphere at most locations, allowing visitors to shop with their pets.', \"Convenient locations across Henderson's beautiful parks, including the historic Water Street District.\"]"
+      ],
+      "tips": "Arrive early for the best selection of peak-season produce as popular items often sell out quickly. Bring your own reusable tote bags to carry your haul comfortably. While many vendors accept cards, it's a good idea to have some cash for smaller transactions. Be sure to check the official City of Henderson website or Prevail Marketplace social media for the most current schedule and any weather-related updates.",
+      "nearby": "Water Street Plaza, Henderson City Hall, Cornerstone Park, Green Valley Ranch Resort, and Lake Las Vegas."
+    },
+    {
+      "name": "Henderson Multigenerational Center",
+      "category": "Recreation Center",
+      "description": "The Henderson Multigenerational Center is an 84,120-square-foot state-of-the-art recreation facility, the first of its kind in Southern Nevada. It is designed to bring people of all generations together through a wide array of activities, including fitness, swimming, and educational workshops in a welcoming environment (City of Henderson).",
+      "address": "250 S. Green Valley Pkwy., Henderson, NV 89012",
+      "city": "Henderson",
+      "region": "Green Valley / Sunset",
+      "hours": "Monday-Thursday: 6am-8pm; Friday: 6am-6pm; Saturday: 9am-3pm; Closed Sundays & Holidays (City of Henderson)",
+      "days_open": "Monday - Saturday (City of Henderson)",
+      "admission": "Daily Fitness Pass: $5 Adult (18-59), $3 Youth/Teen/Senior/Veteran/Military; Daily Aquatics Pass: $5 Adult (18-59), $3 Youth/Teen/Senior/Veteran/Military; Rock Wall Daily Pass: $4 (30 mins), $8 (60 mins); Participant ID Card: $25/year Adult, $5/year Youth/Teen, Free for Seniors/Veterans (City of Henderson)",
+      "website": "https://www.cityofhenderson.com/government/departments/parks-and-recreation/facilities/recreation-centers/henderson-multigenerational-center",
+      "phone": "(702) 267-5800 (City of Henderson)",
+      "image_url": "https://www.cityofhenderson.com/home/showpublishedimage/1057/637319989931300000",
+      "highlights": [
+        "'Aquatic complex with indoor and outdoor competition and activity pools ([City of Henderson)', 'State-of-the-art fitness center and aerobics/fitness room (City of Henderson)', 'Rock climbing wall and collegiate regulation-sized basketball court (City of Henderson)', 'Suspended walking/jogging track and multi-sport area (City of Henderson)', 'Adult lounge with reading area and kitchenette, plus a teaching kitchen (City of Henderson)', 'Game room and variety of community programs for all ages (City of Henderson)']"
+      ],
+      "tips": "Get a Participant ID card to enjoy select amenities and free classes; adults pay $25/year while seniors and veterans are free. Check the monthly gym calendar online for specific activity schedules and potential closures for events at the nearby Lee's Family Forum (City of Henderson).",
+      "nearby": "Lee's Family Forum (formerly Henderson Pavilion), Green Valley Ranch Resort Spa and Casino, The District at Green Valley Ranch, Henderson Bird Viewing Preserve (neighborhoods.com)"
+    },
+    {
+      "name": "Henderson Silver Knights",
+      "category": "Entertainment, Sports Team",
+      "description": "The Henderson Silver Knights are a professional ice hockey team in the American Hockey League (AHL) and the primary affiliate of the NHL's Vegas Golden Knights. Established in 2020, they play their home games at the state-of-the-art Lee's Family Forum and have quickly become a staple of the Southern Nevada sports scene. (Official Website, Wikipedia)",
+      "address": "200 S. Green Valley Pkwy, Henderson, NV 89012",
+      "city": "Henderson",
+      "region": "Green Valley / Sunset",
+      "hours": "Team Store (The Saddlery): Monday – Wednesday: Closed, Thursday – Sunday: 12:00 PM – 5:00 PM. Box Office: Opens on event days 3 hours prior to the event until the start of the 3rd period for hockey games. (Lee's Family Forum, Lee's Family Forum FAQ)",
+      "days_open": "Thursday – Sunday (Retail Store); Event Days (Games) (Lee's Family Forum)",
+      "admission": "Single game tickets start at $29; Season memberships and group packages also available. (Official Website)",
+      "website": "https://www.hendersonsilverknights.com",
+      "phone": "(702) 645-4259",
+      "image_url": "https://www.hendersonsilverknights.com/wp-content/uploads/HSK-Primary-Metallic-1024x575.jpg",
+      "highlights": [
+        "'AHL affiliate of the Vegas Golden Knights ([Official Website)', \"Plays home games at the modern 6,000-seat Lee's Family Forum (Lee's Family Forum)\", \"Features a mascot named 'Lucky,' a 21-hand tall draft horse character (LVSportsBiz)\", 'Offers free parking for all fans at home games (Official Website)', \"The '$5 Silver Savings Menu' features affordable popcorn, hot dogs, and more (Official Website)\"]"
+      ],
+      "tips": "Arrive early to enjoy pre-game activities and visit The Saddlery for exclusive team merchandise. Follow proper hockey etiquette by waiting for a stoppage in play before leaving or returning to your seat to avoid obstructing others. (Official Website)",
+      "nearby": "Green Valley Ranch Resort Spa & Casino, The District at Green Valley Ranch, America First Center (Practice Facility) (Lee's Family Forum, Official Website)"
+    },
+    {
+      "name": "Heritage Park Aquatic Complex",
+      "category": "Aquatic Center / Public Pool",
+      "description": "The LEED Gold certified Heritage Park Aquatic Complex features two indoor pools and is open year-round to serve people of all ages. The facility includes a competitive lap pool with 14 lanes and a second warm water instructional pool designed for teaching and therapeutic needs (City of Henderson).",
+      "address": "310 S. Racetrack Rd., Henderson, NV 89015",
+      "city": "Henderson",
+      "region": "Green Valley / Sunset",
+      "hours": "Mon-Thu: 6am - 8pm; Fri: 6am - 6pm; Sat: 7am - Noon; Sun: Closed (Chamber of Commerce)",
+      "days_open": "Monday - Saturday (Splash Pad Locator)",
+      "admission": "Adults (18-59): $5; Youth (3-17) and Seniors (60+): $3 (City of Henderson)",
+      "website": "https://www.cityofhenderson.com/Home/Components/FacilityDirectory/FacilityDirectory/174/785",
+      "phone": "(702) 267-2980 (City of Henderson)",
+      "image_url": "https://files.cityofhenderson.com/image/heritage-park-aquatic-complex.jpg",
+      "highlights": [
+        "'LEED Gold certified eco-friendly facility ([City of Henderson)', 'Competition pool with fourteen 25-yard lanes and spectator seating for 600 (City of Henderson)', 'Separate warm water instructional pool with ramp and stair entry (City of Henderson)', 'On-site aquatic classroom for educational programs (City of Henderson)', 'Equipped with ADA-accessible lifts and family locker rooms (City of Henderson)']"
+      ],
+      "tips": "Weekdays are generally less crowded than weekends (Swimply). Visitors should bring their own locks for the locker rooms, and it is advisable to check the city's closure page for swim meets or staff training events (Yelp, City of Henderson).",
+      "nearby": "Heritage Park, Heritage Bark Park (dog park), Heritage Park Senior Facility, Water Street District (Henderson HQ, City of Henderson)"
+    },
+    {
+      "name": "Jazz in the Park Concert Series at Clark County Government Center Amphitheater",
+      "category": "Entertainment / Park / Concert Series Clark County NV",
+      "description": "The annual Jazz in the Park is a premier five-week concert series that brings world-renowned jazz artists and local talent to an outdoor stage under the stars. Celebrating its 36th year, the event fosters community connection through soulful music and a relaxed, family-friendly atmosphere at the Clark County Government Center Amphitheater. It is a cherished local tradition that offers high-quality entertainment at no cost to the public Clark County NV, Review-Journal.",
+      "address": "500 S. Grand Central Parkway",
+      "city": "Las Vegas",
+      "region": "Green Valley / Sunset",
+      "hours": "Saturday: 4:00 PM – 10:00 PM (Gates open at 4:00 PM, performances start at 5:00 PM); Sunday–Friday: Closed Clark County NV",
+      "days_open": "Saturdays (May 9, May 16, May 23, May 30, and June 6, 2026) Clark County NV",
+      "admission": "Free (Ticketless, first-come, first-served) Clark County NV",
+      "website": "https://www.clarkcountynv.gov/government/departments/parks___recreation/events/jazz-in-the-park",
+      "phone": "(702) 455-8170 Clark County NV",
+      "image_url": "https://main--clarkcountynv--aemsites.aem.page/assets/images/government/departments/parks___recreation/special_use_facility/amphitheater/amphitheater-2.jpg",
+      "highlights": [
+        "'36th annual series featuring Grammy-nominated and Grammy-winning international headliners. [Clark County NV', 'Performances by the award-winning Las Vegas Academy of the Arts Jazz Program. Clark County NV', 'Outdoor seating at the 280-foot diameter Clark County Government Center Amphitheater. Clark County NV', 'Ticketless, first-come, first-served admission model for easy community access. Clark County NV', 'A diverse lineup of artists including Marcus Miller, Al Di Meola, and Mike Phillips. Clark County NV', 'On-site food vendors and local artisans contributing to a festival-like environment. RecnGroup']"
+      ],
+      "tips": "Arrive right when gates open at 4:00 PM as seating is first-come, first-served and property access is restricted until then. Bring low-back chairs (seat under 6 inches) to enjoy proximity to the stage, and keep blankets within a 5x5 foot area. Guests are welcome to bring picnic baskets and coolers, but glass containers and barbecue equipment are strictly prohibited Clark County NV.",
+      "nearby": "Las Vegas North Premium Outlets, World Market Center, DISCOVERY Children's Museum, The Smith Center for the Performing Arts Yelp"
+    },
+    {
+      "name": "Las Vegas Distillery",
+      "category": "Distillery, Bar, Brewery",
+      "description": "Las Vegas Distillery is Nevada's first craft distillery, offering a refined and immersive experience in the heart of Henderson's artisan community. Guests can explore the production facility, enjoy expertly crafted cocktails in the elegant tasting room, and sample a diverse range of spirits including award-winning rums, vodkas, and whiskies. (Official Website, Travel Nevada)",
+      "address": "7330 Eastgate Rd. Suite 100, Henderson, NV 89011",
+      "city": "Henderson",
+      "region": "Green Valley / Sunset",
+      "hours": "Mon-Tue: CLOSED (open for private events); Wed: 3 pm - 9 pm; Thu: 3 pm - 9 pm; Fri: 3 pm - 10 pm; Sat: 2 pm - 10 pm; Sun: 2 pm - 8 pm (Official Website)",
+      "days_open": "Wednesday - Sunday",
+      "admission": "Tours: From $25; Free Tour Day: Complimentary on the first Wednesday and Thursday of every month (Official Website)",
+      "website": "https://www.lasvegasdistillery.com",
+      "phone": "702-629-7534 (Official Website)",
+      "image_url": "https://static.wixstatic.com/media/bb705a_017af50ae42b46e29b9988b3a4fcb4b2~mv2.jpg/v1/crop/x_0,y_55,w_1000,h_1221/fill/w_290,h_354,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/LV%20Distillery%203-24-4.jpg",
+      "highlights": [
+        "\"Nevada's first craft distillery, established in 2011 ([Travel Nevada)\", 'Interactive 45-minute guided tours of the production and aging facilities (Official Website)', 'Elegant tasting room featuring spirit flights, craft cocktails, and light bites (Official Website)', 'Signature award-winning spirits like Cane & Grain Vodka and Platinum-tier White Rum (Official Website)', \"Member of the Henderson 'Booze District' with nearby craft breweries and wineries (YouTube)\", 'Live jazz music and special events hosted regularly (Yelp)']"
+      ],
+      "tips": "Book tours in advance as they are popular, and look out for 'Free Tour Day' on the first Wednesday and Thursday of each month. Visit during Happy Hour from Wednesday to Friday (3 pm - 5 pm) for cocktail specials. (Official Website)",
+      "nearby": "Astronomy Aleworks, Bad Beat Brewing, CraftHaus Brewery, Ethel M Chocolates Factory & Cactus Garden, Cowabunga Bay Water Park (YouTube, Official Website)"
+    },
+    {
+      "name": "Lee's Family Forum",
+      "category": "Sports and Entertainment Arena",
+      "description": "Lee's Family Forum is a state-of-the-art multi-purpose indoor arena that opened in March 2022 as a vibrant hub for sports and community activity in Henderson. The venue features a unique 'Modern Medieval' theme, serving as the home for several professional sports teams while hosting concerts, festivals, and family shows. Lee's Family Forum About, Wikipedia",
+      "address": "200 S Green Valley Pkwy, Henderson, NV 89012-2301",
+      "city": "Henderson",
+      "region": "Green Valley / Sunset",
+      "hours": "Box Office: Open on event days starting 3 hours prior to event until start of 3rd period (hockey), halftime (football/basketball), or 1 hour after showtime (concerts). Lee's Family Forum FAQ",
+      "days_open": "Open on event days (Varies by schedule) Lee's Family Forum FAQ",
+      "admission": "Varies by event (Single game tickets from $23+; premium options available; Children 2 and under are free on a lap) Gametime, Lee's Family Forum FAQ",
+      "website": "https://leesfamilyforum.com",
+      "phone": "702-645-4259 Lee's Family Forum Contact",
+      "image_url": "https://leesfamilyforum.com/wp-content/uploads/LFF-Horizontal-Castle_White.png",
+      "highlights": [
+        "Home to the Henderson Silver Knights (AHL), Vegas Knight Hawks (IFL), and Las Vegas Desert Dogs (NLL) Lee's Family Forum About",
+        "Features a 'Modern Medieval' theme with staff in themed uniforms and nomenclature like 'Chambers' for suites Lee's Family Forum About",
+        "The 'Tiltyard' outdoor plaza serves as a pre-event gathering space and festival venue Lee's Family Forum About",
+        "Capacity of 5,567 fixed seats for hockey and football events Lee's Family Forum FAQ",
+        "Houses the Southern Nevada Sports Hall of Fame and the Craggy Range Sports Bar and Grill Lee's Family Forum About"
+      ],
+      "tips": "Lee's Family Forum is a strictly cashless venue; no bags are permitted except for small clutches (max 9\\\" x 5\\\" x 2\\\"). Lee's Family Forum FAQ",
+      "nearby": "The District at Green Valley Ranch, Green Valley Ranch Resort Spa & Casino Lee's Family Forum Directions"
+    },
+    {
+      "name": "Lee's Family Forum (formerly Henderson Pavilion / The Dollar Loan Center)",
+      "category": "Entertainment / Arena",
+      "description": "Lee’s Family Forum is a state-of-the-art sports and entertainment venue that replaced the former Henderson Pavilion in 2022. The 5,567-seat arena features a unique 'Modern Medieval' theme and serves as the home for multiple professional sports teams. Lee's Family Forum, Wikipedia",
+      "address": "200 S Green Valley Pkwy, Henderson, NV 89012, USA",
+      "city": "Henderson",
+      "region": "Green Valley / Sunset",
+      "hours": "Box Office: Open on event days starting 3 hours before the event until the start of the 3rd period (hockey) or halftime (football/basketball), or 1 hour after showtime (concerts). Lee's Family Forum FAQ",
+      "days_open": "Open during events (Box Office opens 3 hours prior to events) Lee's Family Forum FAQ",
+      "admission": "Varies by event (typically $15–$150+); Free parking for Henderson Silver Knights home games. AXS, Henderson Silver Knights",
+      "website": "https://leesfamilyforum.com",
+      "phone": "702-645-4259 Lee's Family Forum",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/The_Dollar_Loan_Center_Arena_Henderson_Nevada.jpg",
+      "highlights": [
+        "Home to the Henderson Silver Knights (AHL), Vegas Knight Hawks (IFL), and Las Vegas Desert Dogs (NLL). Lee's Family Forum",
+        "Immersive 'Modern Medieval' theme with staff in themed uniforms and unique nomenclature like 'Chambers' (suites) and 'Hoists' (elevators). Lee's Family Forum",
+        "Versatile indoor/outdoor space featuring the Tiltyard, an outdoor plaza for community events. Lee's Family Forum",
+        "Craggy Range Sports Bar & Grill located inside the venue, offering views of the event floor. Lee's Family Forum",
+        "Host of the Big West Basketball Championships and the Southern Nevada Sports Hall of Fame. Lee's Family Forum"
+      ],
+      "tips": "Pre-pay for parking online to save (approx. $12 vs $15+ at the gate); the venue is entirely cashless. Avoid parking in the retail spots at The District to avoid towing; use the casino garage for a free 15-minute walk. Reddit Parking Guide",
+      "nearby": "The District at Green Valley Ranch, Green Valley Ranch Resort Spa & Casino, Multigenerational Center. Lee's Family Forum"
+    },
+    {
+      "name": "Lee's Family Forum (formerly Henderson Pavilion) Lee's Family Forum About",
+      "category": "Entertainment (Sports & Entertainment Venue) Lee's Family Forum About",
+      "description": "Lee's Family Forum is a state-of-the-art sports and entertainment arena that opened in March 2022 on the site of the former Henderson Pavilion. It serves as the home for several local sports teams, including the Henderson Silver Knights and Vegas Knight Hawks, and hosts a variety of concerts, festivals, and community events in a \"Modern Medieval\" themed facility Lee's Family Forum About, Wikipedia",
+      "address": "200 S. Green Valley Pkwy, Henderson, NV 89012 Lee's Family Forum FAQ",
+      "city": "Henderson Lee's Family Forum Directions",
+      "region": "Green Valley / Sunset",
+      "hours": "Box office opens 3 hours prior to event start; event times vary by schedule Lee's Family Forum FAQ",
+      "days_open": "Open daily for scheduled events and box office services Lee's Family Forum FAQ",
+      "admission": "Tickets typically range from $27 to $116+ depending on the event; children 2 and under are free SeatGeek, Lee's Family Forum FAQ",
+      "website": "https://leesfamilyforum.com",
+      "phone": "702-645-4259 Lee's Family Forum Website",
+      "image_url": "https://leesfamilyforum.com/wp-content/uploads/51840362717_285bd6fd52_6k-683x1024.jpg",
+      "highlights": [
+        "\"Home of the Henderson Silver Knights (AHL) and Vegas Knight Hawks (IFL) [Lee's Family Forum About\", 'Features a \"Modern Medieval\" theme with unique nomenclature like \"Chambers\" for suites and \"Hoists\" for elevators Lee\\'s Family Forum About', \"The Tiltyard, an outdoor plaza for pre-event gatherings and festivals Lee's Family Forum Directions\", 'The Battlement outdoor balcony with views of the Las Vegas Strip Henderson Silver Knights News', 'On-site amenities include the Craggy Range Sports Bar & Grill and The Saddlery team store Henderson Silver Knights News', \"Versatile indoor/outdoor space with a capacity of 5,567 fixed seats Lee's Family Forum FAQ\"]"
+      ],
+      "tips": "Lee's Family Forum is a cashless venue; only small clutches (9\" x 5\" x 2\" max) are permitted Lee's Family Forum FAQ",
+      "nearby": "The District at Green Valley Ranch, Green Valley Ranch Resort Spa & Casino, Henderson Multigenerational Center Lee's Family Forum Directions, The Tourist Checklist"
+    },
+    {
+      "name": "Lee's Family Forum (formerly The Dollar Loan Center) Lee's Family Forum",
+      "category": "Entertainment / Sports Arena",
+      "description": "Lee’s Family Forum, formerly known as The Dollar Loan Center, is a state-of-the-art 5,567-seat multi-purpose arena that opened in March 2022. It serves as a premier destination for sports, concerts, and community events, featuring a unique Modern Medieval theme throughout its architecture and guest experience Lee's Family Forum About, Wikipedia",
+      "address": "200 S. Green Valley Parkway, Henderson, NV 89012 Lee's Family Forum",
+      "city": "Henderson Lee's Family Forum",
+      "region": "Green Valley / Sunset",
+      "hours": "Box Office: Opens 3 hours prior to event start; closes start of 3rd period (hockey), halftime (football/basketball), or 1 hour after showtime (concerts). Event times vary Lee's Family Forum FAQ",
+      "days_open": "Daily (Box Office open 3 hours prior to events) Lee's Family Forum FAQ",
+      "admission": "Varies by event; typically $28–$48+ for Silver Knights games, with premium suites and club seating available. Children two and younger are free if sitting on a lap Lee's Family Forum FAQ, Stadium Journey",
+      "website": "https://leesfamilyforum.com/",
+      "phone": "(702) 645-4259 Lee's Family Forum",
+      "image_url": "https://leesfamilyforum.com/wp-content/uploads/2024/04/LFF-Primary-Logo-White.png",
+      "highlights": [
+        "\"Home to the Henderson Silver Knights (AHL), Vegas Knight Hawks (IFL), and Las Vegas Desert Dogs (NLL) [Lee's Family Forum About\", \"Features a unique 'Modern Medieval' theme with castle-inspired branding and medieval-uniformed staff Lee's Family Forum About\", 'Includes the Craggy Range Sports Bar & Grill and The Saddlery team store Henderson Silver Knights', \"Boasts a versatile indoor/outdoor space including the 'Tiltyard' outdoor plaza Lee's Family Forum About\", \"Home to the Southern Nevada Sports Hall of Fame Lee's Family Forum About\", \"Cashless venue with state-of-the-art amenities and 5,567 fixed seats Lee's Family Forum FAQ\"]"
+      ],
+      "tips": "The venue is entirely cashless, so bring a credit or debit card; for the best experience, arrive early to enjoy the Tiltyard outdoor plaza or the on-site sports bar Lee's Family Forum FAQ, Yelp",
+      "nearby": "The District at Green Valley Ranch, Green Valley Ranch Resort Spa & Casino Lee's Family Forum Directions"
+    },
+    {
+      "name": "Lovelady Brewing Company",
+      "category": "Brewery",
+      "description": "Lovelady Brewing Company is a family-owned and operated local business with deep roots in the Henderson community. Established in 2016, the brewery offers a wide variety of fresh, craft beers, ranging from flagship IPAs to seasonal sours and porters, all brewed under the expertise of Richard Lovelady.",
+      "address": "20 S Water Street, Henderson, NV 89015 (Downtown); 1550 N Green Valley Pkwy Ste 315, Henderson, NV 89074 (Pebble Marketplace)",
+      "city": "Henderson",
+      "region": "Green Valley / Sunset",
+      "hours": "Downtown: Mon 2pm-8pm, Tue-Thu 1pm-10pm, Fri-Sat 12pm-11pm, Sun 12pm-8pm; Pebble Marketplace: Mon Closed, Tue-Thu 3pm-10pm, Fri-Sat 12pm-11pm, Sun 12pm-8pm",
+      "days_open": "Tuesday-Sunday (Pebble Marketplace); Monday-Sunday (Downtown)",
+      "admission": "Free",
+      "website": "https://www.loveladybrewing.com",
+      "phone": "702-564-3030 (Downtown), 725-204-6663 (Pebble Marketplace)",
+      "image_url": "https://static.wixstatic.com/media/9ff591_5da38ad05e954a349a7216b261d49768~mv2.jpg/v1/fill/w_432,h_368,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/frontofbrewery.jpg",
+      "highlights": [
+        "['Offers a variety of flagship and seasonal craft beers, including the popular \"Love Juice\" Hazy IPA.', 'Features two locations: the original downtown brewery and a satellite taproom in Green Valley.', 'Dog-friendly outdoor patios are available at both locations for furry companions.', 'Family-friendly atmosphere where guests are welcome to bring food from nearby local restaurants.', 'Entertainment options include board games, giant Connect 4, and a 20-foot shuffleboard table.', 'Unique offerings beyond beer, such as alcoholic milkshakes, maltails, wine, cider, and NA slushies.']"
+      ],
+      "tips": "Guests are encouraged to bring their own food or order from neighboring favorites like Juan's Flaming Fajitas. Check out the rotating seasonal taps and special releases on their social media pages. Dogs are welcome on the patio at both locations.",
+      "nearby": "Juan's Flaming Fajitas, Mojave Brewing Company, Emerald Island Casino, Clark County Heritage Museum, Henderson Bird Viewing Preserve"
+    },
+    {
+      "name": "M Resort Spa Casino",
+      "category": "Casino Resort",
+      "description": "M Resort Spa Casino is a Forbes Four-Star and AAA Four Diamond luxury destination situated at the southern end of the Las Vegas valley. The resort offers an unrivaled guest experience with a modern architectural design, 390 luxury rooms and suites, and optimal views of the world-famous Las Vegas skyline. It serves as the Official Team HQ Hotel of the Las Vegas Raiders and features extensive gaming, dining, and spa amenities (M Resort, LinkedIn).",
+      "address": "12300 Las Vegas Blvd S, Henderson, NV 89044",
+      "city": "Henderson",
+      "region": "Green Valley / Sunset",
+      "hours": "Casino: 24/7; Hotel: 24/7; M Pool: Sun-Thu 10:30am-6:30pm, Fri-Sat 10:30am-7:30pm; Anthony's Dinner: Daily 5pm-10pm, Sunday Brunch: 11am-1:30pm; Marinelli's Dinner: Tue-Sat 4pm-9pm; Raiders Tavern: Sun-Thu 11:30am-11pm, Fri-Sat 11:30am-1am; Baby Cakes: 24/7 (Official Site)",
+      "days_open": "Open Daily (CasinoQN)",
+      "admission": "Free (Casino Entry); M Pool: Weekday $20, Weekend $30, Holidays $35, Children $15 (Official Site)",
+      "website": "https://www.themresort.com",
+      "phone": "(702) 797-1000",
+      "image_url": "https://www.themresort.com/-/media/png/west/mresort/images/carousel-aspot-1920x801/homebannerimage-3.jpg",
+      "highlights": [
+        "'Forbes Four-Star and AAA Four Diamond luxury ratings ([Yelp)', 'Official Team HQ Hotel of the Las Vegas Raiders (Official Site)', 'Over 92,000 square feet of gaming including 1,200+ slots and 40 table games (CasinoQN)', \"Award-winning dining including Anthony's Prime Steak & Seafood and Raiders Tavern & Grill (Official Site)\", 'World-class Spa Mio and multiple pool options like the family-friendly M Pool and adults-only DayDream (Official Site)']"
+      ],
+      "tips": "Reserve airport shuttle service at least 24 hours in advance. Join the PENN Play loyalty program to earn rewards on dining and gaming. Experience the signature all-you-can-eat lobster at Anthony's Sunday Brunch (Official Site, Official Site).",
+      "nearby": "Las Vegas Strip, Reflection Bay Golf Club, South Point Hotel Casino & Spa, Speed Vegas, Henderson Bird Viewing Preserve (Tripadvisor, Travel Weekly)"
+    },
+    {
+      "name": "Mershops Galleria at Sunset",
+      "category": "Shopping",
+      "description": "Mershops Galleria at Sunset is a premier indoor shopping destination in Henderson, Nevada, featuring a distinctive Southwestern theme and over one million square feet of retail space (Wikipedia). The mall houses more than 140 stores and restaurants, including major anchors like Macy's and Dillard's, making it a central hub for shopping and dining in the region (Travel Nevada).",
+      "address": "1300 West Sunset Road, Henderson, NV 89014",
+      "city": "Henderson",
+      "region": "Green Valley / Sunset",
+      "hours": "Monday - Thursday: 10:00 AM - 8:00 PM; Friday - Saturday: 10:00 AM - 9:00 PM; Sunday: 11:00 AM - 6:00 PM (Galleria at Sunset)",
+      "days_open": "Daily (Galleria at Sunset)",
+      "admission": "Free (Galleria at Sunset)",
+      "website": "https://www.galleriaatsunset.com",
+      "phone": "(702) 434-2409 (Galleria at Sunset)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Galleria_at_Sunset%2C_Henderson%2C_Nevada_%2818193106802%29.jpg",
+      "highlights": [
+        "\"Over 140 retail shops and restaurants including Macy's, Dillard's, and Kohl's ([Wikipedia)\", 'Unique Southwestern-themed architectural design with a spacious interior (Tripadvisor)', 'Large 600-seat food court and several full-service restaurants like Cheesecake Factory (Official Site)', 'Regular host of seasonal community events and family-friendly activities (Airial Travel)', \"Henderson's only indoor shopping mall and one of the largest in Nevada (Wikipedia)\", '$25 million expansion including an outdoor plaza and new dining options (Wikipedia)']"
+      ],
+      "tips": "Visit during the holiday season to enjoy extensive decorations and seasonal photo opportunities with the Easter Bunny or Santa (Airial Travel). For locals and visitors alike, it serves as a clean and relaxed alternative to the crowded shopping centers on the Las Vegas Strip, offering ample parking even during peak times (Tripadvisor). It is recommended to check the event calendar before visiting for special promotions and community gatherings (Official Site).",
+      "nearby": "Sunset Station Hotel & Casino (Sunset Station), Cowabunga Bay Water Park (Tripadvisor), Ethel M Chocolates Factory and Cactus Garden (Tripadvisor), Henderson Bird Viewing Preserve (Sunset Station)"
+    },
+    {
+      "name": "Nevada State University Henderson",
+      "category": "University (Education)",
+      "description": "Nevada State University is a four-year public teaching institution located in the foothills of Henderson, Nevada. It offers a wide range of undergraduate programs in fields like nursing, business, and education on a modern 509-acre campus. Nevada State University, Wikipedia",
+      "address": "1300 Nevada State Drive",
+      "city": "Henderson",
+      "region": "Green Valley / Sunset",
+      "hours": "Building hours vary: Rogers Student Center: Mon-Thu 7:00 AM – 9:00 PM, Fri 7:00 AM – 6:00 PM, Sat 9:00 AM – 5:00 PM; Marydean Martin Library: Mon-Thu 7:30 AM – 9:00 PM, Fri 7:30 AM – 5:00 PM, Sat 9:00 AM – 5:00 PM; General Academic Buildings (CEB, KAB, LAS): Typically Mon-Thu 7:30 AM – 7:00/8:30 PM, Fri 7:30 AM – 5:00 PM; All buildings closed on Sundays Nevada State University",
+      "days_open": "Monday - Saturday (Campus hours vary by building; Rogers Student Center and Marydean Martin Library are open on Saturdays Nevada State University)",
+      "admission": "Free (Campus tours are free of charge Nevada State University)",
+      "website": "https://nevadastate.edu/",
+      "phone": "702.992.2000 Nevada State University",
+      "image_url": "https://nevadastate.edu/wp-content/uploads/2023/06/N_NSU_Stacked_Gold_Black_RGB.png",
+      "highlights": [
+        "'Rogers Student Center: Hub for student life featuring a library, café, and ballroom [Nevada State University', \"Liberal Arts & Sciences Building: The university's first permanent building with state-of-the-art labs Nevada State University\", 'Campus as Museum: Guided tours of student-created art collections across the campus Nevada State University', 'Kasner Academic Building: Houses specialized facilities like a Cadaver Lab and Astronomy Deck Nevada State University', 'Glenn and Ande Christenson Education Building: Features an Early Childhood Education Center and speech clinic Nevada State University']"
+      ],
+      "tips": "Schedule a free one-hour guided campus tour led by Student Ambassadors to explore highlights like the Rogers Student Center and the Scorpion Statue. Parking is available in various campus lots, but visitors should check for any specific permit requirements during the academic year. Nevada State University, Campus Map",
+      "nearby": "Hoover Dam, Lake Mead National Recreation Area, Sloan Canyon National Conservation Area, Clark County Museum, Cowabunga Bay Water Park Tripadvisor, Travel Nevada"
+    },
+    {
+      "name": "Paseo Vista Park",
+      "category": "Park",
+      "description": "Paseo Vista Park is a versatile 8-acre community park in Henderson, Nevada, offering a wide array of recreational amenities for all ages. The park is highly regarded for its integrated facilities, including a popular dedicated dog park, interactive playgrounds, and a seasonal splash pad. Bark Park Guide, Yelp",
+      "address": "2505 Paseo Verde Pkwy, Henderson, NV 89052 City of Henderson",
+      "city": "Henderson",
+      "region": "Green Valley / Sunset",
+      "hours": "6:00am - 10:00pm daily City of Henderson",
+      "days_open": "Daily City of Henderson",
+      "admission": "Free City of Henderson",
+      "website": "https://www.cityofhenderson.com/Home/Components/FacilityDirectory/FacilityDirectory/273/752?npage=2",
+      "phone": "(702) 267-4000 Apple Maps",
+      "image_url": "https://www.cityofhenderson.com/home/showpublishedimage/4115/637473565287070000",
+      "highlights": [
+        "'Dedicated dog park with water fountains and seating [Bark Park Guide', 'Seasonal splash pad water feature City of Henderson', 'Bocce ball and horseshoe pits City of Henderson', 'Lighted basketball court and walking trails City of Henderson', 'Shaded picnic shelters and playgrounds City of Henderson']"
+      ],
+      "tips": "Visit during the early morning or late evening in summer months to avoid the extreme Nevada heat. The splash pad is a favorite for children, but since it lacks shade, visitors should bring sunscreen and hats. Parking can fill up quickly on weekends, so be prepared for potential street parking. Bark Park Guide, Yelp",
+      "nearby": "The District at Green Valley Ranch, Green Valley Ranch Resort Spa Casino, Henderson Pavilion, and the Paseo Verde Trail. Yelp, The Spare Tube"
+    },
+    {
+      "name": "Settebello Pizzeria Napoletana",
+      "category": "Restaurant",
+      "description": "Settebello Pizzeria Napoletana was established in 2005 as one of the first pizzerias in the United States to recreate authentic Pizza Napoletana as it has been made in Napoli for centuries. The restaurant is dedicated to protecting the DOC designation granted by the Associazione Verace Pizza Napoletana and uses traditional ingredients and wood-fired methods. (Official Website)",
+      "address": "140 S Green Valley Pkwy Ste 102, Henderson, NV 89012-3138",
+      "city": "Henderson",
+      "region": "Green Valley / Sunset",
+      "hours": "Sunday - Thursday: 11:00 AM - 9:00 PM, Friday - Saturday: 11:00 AM - 10:00 PM (Official Website)",
+      "days_open": "Daily (Official Website)",
+      "admission": "Free (Tripadvisor)",
+      "website": "https://www.settebello.net",
+      "phone": "(702) 222-3556",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/5e8628fd2335d7362289654b/1586541661747-TCTRYOZ9HERPGPCORESV/settebellohendersonpatio.jpg?format=1500w",
+      "highlights": [
+        "'Certified Vera Pizza Napoletana (VPN) for authentic Neapolitan standards ([Official Website)', 'Signature wood-fired pizzas made with high-quality DOC ingredients (Tripadvisor)', '\"Margherita Monday\" special offering a discounted Margherita pizza for dine-in or to-go (Yelp)', 'Outdoor patio seating and a relaxed dining atmosphere (Official Website)', 'Full bar featuring a selection of Italian wines and beers (Tripadvisor)', 'Extensive menu including antipasti, salads, pasta, and traditional Italian desserts (Order Page)']"
+      ],
+      "tips": "The restaurant is popular and often crowded, so arriving early or calling ahead for large parties is recommended. For a great deal, visit on \"Margherita Monday\" for a specially priced pizza. If the main dining room is full, bar seating is often a faster option for smaller groups. (Yelp)",
+      "nearby": "The District at Green Valley Ranch, Green Valley Ranch Resort Spa & Casino, Henderson Multigenerational Pool, Lee's Family Forum (Tripadvisor, Henderson HQ)"
+    },
+    {
+      "name": "Strike Zone Bowling Center at Sunset Station",
+      "category": "Entertainment (Bowling Center)",
+      "description": "Strike Zone at Sunset Station is a massive 77,000-square-foot facility featuring 72 state-of-the-art bowling lanes, making it the largest bowling center in the Las Vegas area. It offers a comprehensive entertainment experience with a full-service bar, a large arcade, pool tables, and an onsite snack bar, the KingPin Grill. The center is a hub for both casual family fun and league play, particularly famous for its weekend Cosmic Bowling events featuring black lights and high-energy music. Sunset Station Official Site",
+      "address": "1301 W Sunset Rd",
+      "city": "Henderson",
+      "region": "Green Valley / Sunset",
+      "hours": "Sunday – Thursday: 10 AM – Midnight (last game purchase 11 PM); Friday – Saturday: 10 AM – 2 AM (last game purchase 1 AM). Sunset Station",
+      "days_open": "Daily",
+      "admission": "Non-Cosmic: $7.00 per game, Cosmic Bowling: $9.00 per game, Shoe Rental: $7.00. Specials include: Sunday Early Bird (10 AM - 1 PM) at $4.00 per game, Spring Special (Mon-Fri, 10 AM - 4 PM) at $5.00 per game, and Cosmic Wednesday Night (6 PM - Close) at $7.00 per game. Sunset Station Specials",
+      "website": "https://sunsetstation.com/see-and-do/strike-zone/",
+      "phone": "(702) 547-7945 Sunset Station",
+      "image_url": "https://i0.wp.com/sunsetstation.com/wp-content/uploads/2025/11/Strike-Zone-Bowling-Center.jpg?resize=1080%2C608&ssl=1",
+      "highlights": [
+        "'72 state-of-the-art bowling lanes in a massive 77,000-sq-ft venue.', 'Cosmic Bowling weekends featuring black lights, drop-down screens, and booming music. [Sunset Station', 'KingPin Grill onsite serving burgers, pizza, and classic snack bar favorites.', 'Full-service bar, billiard tables, and an extensive arcade for all-ages entertainment.', 'Professional Pro Shop offering equipment and drilling services.', 'Variety of group packages and birthday party options. Sunset Station Packages']"
+      ],
+      "tips": "Arrive early on Sundays for the $4 Early Bird special. Note that Cosmic Bowling begins at 4 PM on Fridays and Saturdays, and at 1 PM on Sundays. No outside food or beverages are permitted within the center. Sunset Station Specials",
+      "nearby": "Sunset Station Hotel & Casino, Galleria at Sunset, Cowabunga Bay Water Park, Ethel M Chocolate Factory and Cactus Garden. Visit Las Vegas"
+    },
+    {
+      "name": "Sunset Amphitheater at Sunset Station",
+      "category": "Entertainment (Outdoor Concert Venue)",
+      "description": "The Sunset Amphitheater is a premier 5,000-seat outdoor concert venue located at the Sunset Station Hotel & Casino. It hosts a diverse lineup of nationally recognized musical acts and outdoor events, offering an intimate live music experience under the stars (Sunset Station). The venue features state-of-the-art audio-visual systems and multiple seating options, including a general admission pit and a relaxing lawn area (Visit Las Vegas).",
+      "address": "1301 W Sunset Rd, Henderson, NV 89014",
+      "city": "Henderson",
+      "region": "Green Valley / Sunset",
+      "hours": "Doors typically open 60 minutes prior to showtime; check specific event listings for exact times (Ticket Squeeze)",
+      "days_open": "Varies by event schedule; primarily active from spring through fall (Sunset Station)",
+      "admission": "Varies by event; typically starts at $20.00 - $25.00 for Side Lawn shows and $57.50+ for main Amphitheater headliners (Sunset Station)",
+      "website": "https://sunsetstation.com/see-and-do/concerts-and-events/amphitheater/",
+      "phone": "(702) 547-7777",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Sunset_Station%2C_Henderson%2C_Nevada_%2818197935951%29.jpg",
+      "highlights": [
+        "['5,000-seat capacity for large-scale outdoor concerts', 'Versatile seating options including GA Pit, reserved seating, and a grassy lawn area', 'Adjacent to the Sunset Pool, allowing guests to transition from pool days to music nights', 'State-of-the-art audio-visual systems and HD viewing screens', 'Hosted within a full-scale casino resort with dining and gaming amenities', 'The Side Lawn offers a more intimate 800-capacity space for tribute shows and jazz series']"
+      ],
+      "tips": "Arrive 30-60 minutes early to navigate parking and security; the venue is cashless and only accepts credit/debit cards or digital wallets for concessions (Ticket Squeeze). Only small purses (4x6x1.5 inches) are allowed; backpacks and large bags are strictly prohibited (Sunset Station).",
+      "nearby": "Galleria at Sunset, Cowabunga Bay Water Park, Sam Boyd Stadium, Sunset Park, Ethel M Chocolate Factory and Botanical Cactus Garden (Sunset Station)"
+    },
+    {
+      "name": "Sunset Station Hotel & Casino Sunset Station Official Website",
+      "category": "Casino Resort Sunset Station Official Website",
+      "description": "Sunset Station is a premier off-strip hotel and locals casino located in Henderson, Nevada, featuring a Spanish/Mediterranean theme. The property includes a 21-story hotel tower—the tallest building in Henderson—and offers a massive casino floor, diverse dining options, and extensive family-friendly entertainment venues Wikipedia), Sunset Station Official Website",
+      "address": "1301 W Sunset Rd, Henderson, NV 89014 Sunset Station Official Website",
+      "city": "Henderson Sunset Station Official Website",
+      "region": "Green Valley / Sunset",
+      "hours": "Monday - Sunday: Open 24 hours Sunset Station Official Website",
+      "days_open": "Open Daily Sunset Station Official Website",
+      "admission": "Free admission to casino and public areas; Room rates typically range from $64 to $229+; Attractions like bowling, movies, and Kids Quest have separate fees Yelp, Sunset Station",
+      "website": "https://sunsetstation.com",
+      "phone": "(702) 547-7777 Sunset Station Official Website",
+      "image_url": "https://i0.wp.com/sunsetstation.com/wp-content/uploads/2026/03/Sunset-Renovations.jpg?resize=1080%2C608&ssl=1",
+      "highlights": [
+        "'Over 2,000 slot machines and 30+ table games [Sunset Station Official Website', '72-lane Strike Zone bowling center, one of the largest in Las Vegas Sunset Station Official Website', 'Regal Sunset Station movie theater featuring stadium seating and IMAX Yelp', 'Upgraded STN Sportsbook with a massive 152-ft LED screen Sunset Station Official Website', 'Diverse dining experiences including Sonoma Cellar, Pasta Cucina, and Yard House Sunset Station Official Website', 'Kids Quest supervised play center and Cyber Quest arcade Sunset Station Official Website']"
+      ],
+      "tips": "Sign up for a Boarding Pass rewards card to access the best rates and gaming deals. Check for 'Nevada Locals' promotions for waived resort fees or special staycation rates. Note that the outdoor pool is seasonal, so confirm availability if visiting for the water amenities Yelp, Tripadvisor",
+      "nearby": "Galleria at Sunset, Cowabunga Bay Water Park, Henderson Bird Viewing Preserve, Ethel M Chocolate Factory & Botanical Cactus Garden Tripadvisor"
+    },
+    {
+      "name": "The District at Green Valley Ranch",
+      "category": "Shopping, Dining, and Entertainment",
+      "description": "The District at Green Valley Ranch is a premier mixed-use destination in Henderson, Nevada, featuring a vibrant blend of retail shops, diverse eateries, and professional office spaces. Designed as a walkable outdoor lifestyle center, it serves as a community hub with beautifully landscaped streets, residential lofts, and a variety of family-friendly events and amenities. shopthedistrictgvr.com, Wikipedia",
+      "address": "2240 Village Walk Dr, Henderson, NV 89052",
+      "city": "Henderson",
+      "region": "Green Valley / Sunset",
+      "hours": "Retail Hours: Monday–Saturday 10:00 AM – 9:00 PM, Sunday 11:00 AM – 7:00 PM (Restaurant and individual store hours may vary) Vegas.com; Management Office: Monday–Friday 8:00 AM – 5:00 PM, Saturday–Sunday Closed shopthedistrictgvr.com",
+      "days_open": "Daily shopthedistrictgvr.com, Vegas.com",
+      "admission": "Free shopthedistrictgvr.com, Casago",
+      "website": "https://shopthedistrictgvr.com/",
+      "phone": "(702) 564-8595 shopthedistrictgvr.com",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/The_District_at_Green_Valley_Ranch.jpg",
+      "highlights": [
+        "'Over 50 retail stores and 20+ diverse eateries [shopthedistrictgvr.com', 'Weekly Farmers Market every Thursday morning shopthedistrictgvr.com', \"Seasonal 'Movies on The Green' and 'Fitness on The Green' events shopthedistrictgvr.com\", \"Renovated kids' Splash Pad located in the central plaza shopthedistrictgvr.com\", 'Dog-friendly outdoor environment with ample seating and shade Casago']"
+      ],
+      "tips": "Visit on Thursday mornings to experience the popular Farmers Market. Parking is complimentary and available in surface lots on both the east and west sides of the property. The center is known for being safe and well-lit at night, making it ideal for evening strolls. shopthedistrictgvr.com, Casago",
+      "nearby": "Green Valley Ranch Resort Spa & Casino, Lee's Family Forum (formerly Dollar Loan Center), Lion Habitat Ranch, Ethel M Chocolates Factory & Cactus Garden Tripadvisor, Expedia"
+    },
+    {
+      "name": "The Legacy Golf Club",
+      "category": "Golf",
+      "description": "Tucked away in the Henderson/Las Vegas Valley, The Legacy Golf Club is an 18-hole championship desert course designed by acclaimed architect Arthur Hills. It features a par-72 layout known for its multi-tiered fairways, large undulating greens, and the iconic \"suits\" tee boxes on the 10th hole, which are shaped like hearts, diamonds, clubs, and spades (Official Website, Visit Las Vegas).",
+      "address": "130 Par Excellence Drive, Henderson, NV 89074 (The Legacy Golf Club)",
+      "city": "Henderson",
+      "region": "Green Valley / Sunset",
+      "hours": "Golf Shop: 45 minutes before first tee time – 6:00 PM daily. Practice Facility: 30 minutes before first tee time – sunset daily (closes at 3:30 PM on Tuesdays). The Grill: 7:00 AM – 6:00 PM daily (Official Website, The Grill).",
+      "days_open": "Open Daily (The Legacy Golf Club)",
+      "admission": "Dynamic pricing: Weekday rates typically $55-$85; Weekend rates typically $72-$95 (includes cart). Practice range buckets: $7 (Small) to $15 (Large). Annual Diamond Passes: $3,500 - $5,500 (Official Website, Diamond Pass, Price Guide)",
+      "website": "https://thelegacygc.com",
+      "phone": "702-476-0090 (The Legacy Golf Club)",
+      "image_url": "https://thelegacygc.com/wp-content/uploads/2023/08/LG_horizon-logo-black.png",
+      "highlights": [
+        "'18-hole championship course designed by Arthur Hills ([Official Website)', 'Iconic 10th hole with tee boxes shaped like card suits (Hearts, Diamonds, Clubs, Spades) (The Legacy Golf Club)', \"Ranked as one of the 'Top Ten Courses to Play in Nevada' by Golf Digest (Visit Las Vegas)\", 'Full-service practice facility with grass tees, chipping, and bunker areas (The Legacy Golf Club)', 'On-site dining at The Grill @ Legacy, serving breakfast and lunch daily (The Grill)', 'Host of the annual local U.S. Open Qualifier (Vegas Means Business)']"
+      ],
+      "tips": "Book online in advance to secure dynamic pricing discounts; Clark County residents can book up to 10 days in advance for special rates. Proper golf attire (collared shirts, no denim or swimwear) and soft spikes are strictly required for both the course and practice areas (Tee Time Booking, Dress Code).",
+      "nearby": "Cornerstone Park, Green Valley Ranch Resort Spa & Casino, Wildhorse Golf Club, Sunset Station Hotel & Casino (Rose Homes, Expedia)"
+    },
+    {
+      "name": "The Lion Habitat Ranch",
+      "category": "Wildlife Sanctuary / Zoo",
+      "description": "The Lion Habitat Ranch is a non-profit sanctuary dedicated to the education and preservation of lions, serving as the permanent home for the former MGM Grand lions and their descendants. Spanning 8.5 acres, the facility offers visitors a rare opportunity to see lions and other exotic animals like ostriches and tortoises in a safe and educational environment. Lion Habitat Ranch",
+      "address": "382 Bruner Avenue, Henderson, NV 89044",
+      "city": "Henderson",
+      "region": "Green Valley / Sunset",
+      "hours": "Summer (March 20 – Oct 20): 10:00 AM – 2:00 PM; Winter (Oct 20 – March 25): 11:00 AM – 3:00 PM; Last admittance is always one hour before closing Lion Habitat Ranch",
+      "days_open": "Thursday, Friday, Saturday, Sunday, Monday, Tuesday (Closed Wednesdays) Lion Habitat Ranch",
+      "admission": "Adults: $25 (Non-local), $20 (Local); Seniors (65+), Military, First Responders, College Students: $18; Children (3 & under): Free; One Child (4-14) per Adult: Free; Extra Child: $10 (Non-local), $8 (Local) Lion Habitat Ranch",
+      "website": "https://lionhabitatranch.org",
+      "phone": "1-702-595-6666",
+      "image_url": "https://lionhabitatranch.org/wp-content/uploads/2016/07/family-jpg.webp",
+      "highlights": [
+        "['Up-close lion viewings through glass barriers just feet away', 'Feeding experiences with lions and other animals', 'Behind-the-scenes tours with expert animal trainers', 'Home to descendants of the iconic MGM Grand lions', 'Educational programs focused on big cat conservation', 'Features diverse wildlife including parrots, emus, and tortoises']"
+      ],
+      "tips": "Book 'Behind the Scenes' tours at least 48 hours in advance; arrive early as animals are most active in the morning; check the weather as the ranch may close for heavy rain; local residents and hotel guests often qualify for discounts Lion Habitat Ranch",
+      "nearby": "M Resort Spa Casino, Southern Highlands Golf Club, Sloan Canyon National Conservation Area, Speedvegas Tripadvisor"
+    },
+    {
+      "name": "Tuscany Suites & Casino",
+      "category": "Casino Resort",
+      "description": "Tuscany Suites & Casino is an all-suite Mediterranean-themed resort located just two blocks east of the Las Vegas Strip. It offers a more relaxed and quiet atmosphere with 716 spacious suites, a 24,000-square-foot casino, and multiple award-winning dining and entertainment venues Tuscany Suites & Casino, Tripadvisor",
+      "address": "255 East Flamingo Rd",
+      "city": "Las Vegas",
+      "region": "Green Valley / Sunset",
+      "hours": "Casino: Open 24/7; Marilyn's Cafe: Daily 7:00 AM - 11:00 PM; Pub 365: Daily 12:00 PM - 2:00 AM; Bistecca: Sun-Wed 4:30 PM - 9:00 PM, Thu 4:30 PM - 9:30 PM, Fri-Sat 4:30 PM - 10:00 PM; Caffe Bottega: Daily 2:00 AM - 9:00 PM Tuscany Suites & Casino",
+      "days_open": "Daily Tuscany Suites & Casino",
+      "admission": "Free (Property & Casino access); show and event prices vary (e.g., Rat Pack is Back is ticketed, Copa Room events range from free to $15 cover) Tuscany Suites & Casino",
+      "website": "https://www.tuscanylv.com",
+      "phone": "(702) 893-8933",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Tuscany_Suites_and_Casino.jpg",
+      "highlights": [
+        "'716 spacious all-suite accommodations measuring 650 sq ft or more [Tuscany Suites & Casino', '24,000+ square foot casino with over 600 slot machines and table games Tuscany Suites & Casino', 'Award-winning dining including Pub 365 (365 craft beers) and Bistecca Italian Steakhouse Tuscany Suites & Casino', 'Nightly live entertainment featuring \"The Rat Pack is Back\" and local musicians in the Piazza Lounge Tuscany Suites & Casino', 'Resort amenities including two outdoor pools (lagoon-style and heated lap pool) and a full-service spa Tuscany Suites & Casino', 'Over 37,000 square feet of flexible meeting and event space Tuscany Suites & Casino']"
+      ],
+      "tips": "The resort offers free parking and is a convenient 15-minute walk from the Las Vegas Strip, making it an ideal choice for a quieter stay KAYAK. Join the Players Club for discounts at on-site restaurants like Marilyn's Cafe Tuscany Suites & Casino.",
+      "nearby": "The Sphere, High Roller Observation Wheel, Fountains of Bellagio, National Atomic Testing Museum Tripadvisor"
+    },
+    {
+      "name": "Vegas Valley Winery",
+      "category": "Winery & Tasting Room",
+      "description": "Established as the first winery in the Las Vegas Valley, Vegas Valley Winery offers an upscale yet approachable environment for wine enthusiasts. Guests can enjoy a diverse selection of handcrafted wines and 100% Nevada hard ciders in a cozy tasting room that features live music, educational tours, and community events.",
+      "address": "7360 Eastgate Rd Ste 123, Henderson, NV 89011",
+      "city": "Henderson",
+      "region": "Green Valley / Sunset",
+      "hours": "Monday: Closed; Tuesday: Closed; Wednesday: 4:00 PM – 9:00 PM; Thursday: 4:00 PM – 9:00 PM; Friday: 2:00 PM – 10:00 PM; Saturday: 12:00 PM – 10:00 PM; Sunday: 12:00 PM – 6:00 PM",
+      "days_open": "Wednesday – Sunday (Closed Mondays & Tuesdays)",
+      "admission": "Free entry to tasting room; tasting flights and tours available for purchase. Special pricing includes $7.50 glasses of white/rosé on Wine Wednesdays and $1 off cider on Cider Pull Thursdays.",
+      "website": "https://vegasvalleywinery.com/",
+      "phone": "(702) 823-4065",
+      "image_url": "https://vegasvalleywinery.com/wp-content/uploads/2024/01/bottles-vvw.jpg",
+      "highlights": [
+        "['First winery to open in the Las Vegas Valley', 'Located in the unique Henderson Artisan Booze District', 'Offers award-winning wines and locally produced hard ciders', \"Weekly live music and social events like 'Wine & Yoga'\", 'On-site winemaking school (Grape Expectations) located next door', 'Customizable Wine Club with multiple membership tiers']"
+      ],
+      "tips": "Reservations are only required for groups of 6 or more. Visit on Wine Wednesdays for special pricing on glasses and personal pizzas, or stop by on Friday and Saturday nights for live entertainment.",
+      "nearby": "Grape Expectations School of Wine, Crafthaus Brewery, Las Vegas Distillery, Bad Beat Brewing, Ethel M Chocolates Factory & Cactus Garden"
+    },
+    {
+      "name": "Whitney Mesa BMX Track",
+      "category": "Park / Sports Facility",
+      "description": "Whitney Mesa BMX is a premier USA BMX-sanctioned racing facility recognized as the fastest track in the United States. The track serves as a community hub for competitive racing, practices, and clinics, and is famously the home track for Olympic gold medalist Connor Fields. (KSNV News 3, Avid Cyclist)",
+      "address": "1575 W Galleria Dr, Henderson, NV 89014",
+      "city": "Henderson",
+      "region": "Green Valley / Sunset",
+      "hours": "Monday: 6:00 PM – 8:00 PM (Practice); Tuesday: 6:00 PM – 8:00 PM (Practice); Wednesday: 6:30 PM – 8:00 PM (Clinics); Saturday: 6:00 PM – 7:00 PM (Sign-ups), Racing follows; Sunday: Practice sessions scheduled seasonally (often morning registration). (Facebook, Try USA BMX)",
+      "days_open": "Monday, Tuesday, Wednesday, Saturday, Sunday",
+      "admission": "New riders receive a free one-day trial; Typical practice fees are $5, while local race entry fees range from $10 to $35 depending on the event sanctioned by USA BMX. (USA BMX, Vegas Family Guide)",
+      "website": "https://www.whitneymesabmxtrack.com/",
+      "phone": "(702) 445-5203",
+      "image_url": "https://static.wixstatic.com/media/893963_977873a216454767a988d8b83598687a~mv2.png/v1/fill/w_400,h_400,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/WM_Logo_Gold_edited.png",
+      "highlights": [
+        "['Named the \"fastest track in the nation\" by USA BMX during the 2024 Track vs. Track competition.', 'Home training ground for Olympic gold medalist Connor Fields.', 'Features the only left-hand-turn track layout in Southern Nevada.', 'Professional facility equipped with asphalt turns, a modern starting gate, and a dedicated announcer area.', 'Hosts the Gold Cup Qualifier and other major regional BMX events.']"
+      ],
+      "tips": "Bring ample water and sun protection as the facility has zero shade; safety gear including helmets, long sleeves, and pants are required for riders. (Airial Travel)",
+      "nearby": "Whitney Mesa Nature Preserve, Whitney Ranch Recreation Center, Galleria at Sunset, Cowabunga Bay Water Park, Sunset Station Hotel & Casino. (Travel Nevada)"
+    },
+    {
+      "name": "Wildhorse Golf Club",
+      "category": "Golf",
+      "description": "Wildhorse Golf Club is a municipally-owned 18-hole, par-70 golf course located in the heart of Henderson's Green Valley. Originally established in 1959 and once owned by Howard Hughes, the course was redesigned in 2004 to feature scenic lakes and lush fairways lined with pines and palms. It is recognized as an Audubon International Cooperative Sanctuary and offers a challenging yet walkable traditional layout (Wildhorse Golf Club).",
+      "address": "2100 W. Warm Springs Rd",
+      "city": "Henderson",
+      "region": "Green Valley / Sunset",
+      "hours": "Course: Monday - Sunday, Sunrise to Sunset; Terrace on the Green (Restaurant/Bar): Monday - Sunday, 10:00 AM - 5:30 PM (Lunch served 10:00 AM - 2:00 PM) (Yelp)",
+      "days_open": "Daily (Monday - Sunday) (Yelp)",
+      "admission": "Non-Resident: $59.00 - $129.00 (varies by tee time); Clark County & Henderson Residents: Discounted rates available (check official website for current resident pricing) (Wildhorse Golf Club)",
+      "website": "https://www.golfwildhorse.com",
+      "phone": "702-434-9000 (Wildhorse Golf Club)",
+      "image_url": "https://www.golfwildhorse.com/wp-content/uploads/sites/9448/2024/06/number-five_f7ec1a.jpg",
+      "highlights": [
+        "'Redesigned in 2004 by acclaimed architects Lee Schmidt and Brian Curley ([Wildhorse Golf Club)', 'Officially recognized as an Audubon International Cooperative Sanctuary (Wildhorse Golf Club)', \"Historical significance as a former PGA Tour stop for the 'Sahara Invitational' (Wildhorse Golf Club)\", 'The par-4 9th hole is widely considered one of the most difficult holes in the Las Vegas area (Wildhorse Golf Club)', 'Features a full-service clubhouse with a Grand Ballroom hosting events for up to 200 guests (Visit Las Vegas)', 'Comprehensive practice facilities including a natural turf driving range and putting green (Wildhorse Golf Club)']"
+      ],
+      "tips": "Book tee times directly through the official website to secure the best available rates. The course is one of the few in the Las Vegas area that allows walking. Residents of Henderson and Clark County should provide identification to access local discounts (Wildhorse Golf Club).",
+      "nearby": "Sunset Station Hotel and Casino, Cowabunga Bay Water Park, Lake Las Vegas, and Quail Ridge Estates (Sunset Station, Rose Homes)"
+    },
+    {
+      "name": "America First Center (formerly Lifeguard Arena)",
+      "category": "Entertainment / Sports Facility",
+      "description": "America First Center in Henderson is the official practice facility of the Henderson Silver Knights and the home of the Vegas Golden Knights Center of Excellence. This multi-purpose ice arena features two sheets of ice and hosts a variety of community programs, including hockey leagues, figure skating, and public skating sessions. Located in the heart of the Water Street District, it serves as a vibrant hub for ice sports and local entertainment. America First Center, Henderson Silver Knights",
+      "address": "222 S Water St, Henderson, NV 89015",
+      "city": "Henderson",
+      "region": "Historic Water Street / Downtown Henderson",
+      "hours": "Daily: 6:00 AM - 10:00 PM (Public hours for specific events like Open Skate vary by day; The Livery: 11:00 AM - 5:00 PM) Waze, America First Center",
+      "days_open": "Monday - Sunday Waze",
+      "admission": "Open Skate: $10.00 per person; Skate Rentals: $3.00; Annual Pass: $375.00; Silver Knights Practices: Free America First Center, Henderson Silver Knights",
+      "website": "https://www.americafirstcenter.com",
+      "phone": "(725) 201-3032 America First Center",
+      "image_url": "https://www.mbci.com/images/Case-Study-Images/America-First-Center/AFC_Exterior_1.jpg",
+      "highlights": [
+        "['Official practice facility of the Henderson Silver Knights (AHL)', 'Houses two sheets of ice (NHL and AHL rinks) for community use', 'Home to the Vegas Golden Knights Center of Excellence and youth hockey leagues', \"Public 'Open Skate' sessions available to all ages and skill levels\", \"On-site 'The Livery' official team store for Silver Knights apparel\", 'Features the MacKenzie River Grill and Pizza for dining within the arena']"
+      ],
+      "tips": "The arena is kept cold, so visitors are encouraged to dress in layers or wear a heavy coat. For public skating, it is highly recommended to pre-register and sign the electronic waiver online to avoid long wait times. Helmets and gloves are strongly suggested for all participants on the ice. America First Center",
+      "nearby": "Water Street Plaza, Henderson City Hall, MacKenzie River Grill & Pizza, Mojave Brewing Company, and various shops in the Water Street District City Cast Las Vegas, Water Street District"
+    },
+    {
+      "name": "Henderson Bluegrass Festival",
+      "category": "Entertainment / Cultural Festival",
+      "description": "The Henderson Bluegrass Festival is a free, all-ages community event featuring acclaimed regional and national bluegrass artists performing across two stages. Visitors can enjoy a day of live music, food and beverage vendors, and a vibrant outdoor atmosphere at the Water Street Plaza in downtown Henderson. (City of Henderson, KTNV)",
+      "address": "240 S. Water St.",
+      "city": "Henderson",
+      "region": "Historic Water Street / Downtown Henderson",
+      "hours": "3:00 PM - 10:00 PM (Saturday only) (City of Henderson)",
+      "days_open": "Saturday (Annual Festival) (City of Henderson)",
+      "admission": "Free (City of Henderson)",
+      "website": "https://www.cityofhenderson.com/residents/special-interest/henderson-bluegrass",
+      "phone": "702-267-2323 (City of Henderson)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Water_Street_in_Henderson%2C_Nevada_%282008%29.jpg",
+      "highlights": [
+        "\"Performances by top bluegrass acts like AJ Lee & Blue Summit and The Po' Ramblin' Boys ([City of Henderson)\", 'Two stages of continuous live music, including the Water Street Plaza Amphitheater (City of Henderson)', 'A variety of local food and beverage vendors on-site (City of Henderson)', 'A family-friendly environment with free admission for all ages (City of Henderson, Nevada Arts Council)', 'Located in the heart of the historic Water Street District (City of Henderson)']"
+      ],
+      "tips": "Guests are encouraged to bring their own chairs and blankets for the general admission seating area. Outside alcohol, coolers, and umbrellas are prohibited, but free parking is available at the Water Street and City Hall parking garages. (City of Henderson)",
+      "nearby": "America First Center, Henderson City Hall, Lifeguard Arena, and various shops and restaurants in the Water Street District (Water Street District, City of Henderson)"
+    },
+    {
+      "name": "Henderson City Hall and Water Street District",
+      "category": "Landmark, Entertainment, Shopping",
+      "description": "The Water Street District is the revitalized historic downtown core of Henderson, Nevada, originally developed in the 1940s to support workers at the Basic Magnesium Plant. Today, it serves as a vibrant entertainment hub featuring a walkable mile of local breweries, unique dining, classic casinos, and the state-of-the-art Water Street Plaza and Amphitheater.",
+      "address": "240 S. Water St.",
+      "city": "Henderson",
+      "region": "Historic Water Street / Downtown Henderson",
+      "hours": "Monday - Thursday: 7:30 am – 5:30 pm (City Hall Hours)",
+      "days_open": "Monday - Thursday (City Hall); Daily (Water Street District)",
+      "admission": "Free (Public Area)",
+      "website": "https://www.cityofhenderson.com",
+      "phone": "(702) 267-2323",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Henderson_NV_Water_Street_District_2024.jpg",
+      "highlights": [
+        "['Water Street Plaza & Amphitheater (Outdoor events and stadium seating)', 'America First Center (Practice arena for the Vegas Silver Knights)', 'Historic Casinos (Emerald Island, Rainbow Club, and The Pass)', 'Local Craft Breweries (Lovelady Brewing Company and Mojave Brewing Company)', 'Walkable \"Main Street\" experience with local art galleries and boutiques', 'Annual events such as the Art Festival of Henderson and Super Run car show']"
+      ],
+      "tips": "Park in the free parking garage located behind City Hall for easy access to the entire district. Visit during Mother's Day weekend for the annual Art Festival or in September for the Super Run car show.",
+      "nearby": "Lake Mead National Recreation Area, Hoover Dam, Las Vegas Strip, Acacia Park"
+    },
+    {
+      "name": "Henderson Symphony Orchestra",
+      "category": "Entertainment / Symphony Orchestra",
+      "description": "Serving Nevada since 1987, the Henderson Symphony Orchestra (HSO) is the state’s only community symphony orchestra, dedicated to promoting classical music appreciation to a diverse audience (HSO About). The ensemble of over 80 volunteer musicians and professional guests delivers roughly 10 concerts annually, committed to creating inclusive programs that break down barriers between people and classical music (HSO Home).",
+      "address": "393 Steprock Ct. (Administrative) / 240 S Water St. (Performance Venue)",
+      "city": "Henderson",
+      "region": "Historic Water Street / Downtown Henderson",
+      "hours": "Performance times vary (e.g., Friday at 7:00 PM or 8:00 PM, Saturday at 10:00 AM); Administrative hours not explicitly listed (HSO Events, KTNV)",
+      "days_open": "Days vary by event schedule (typically Friday, Saturday, or Sunday performances)",
+      "admission": "Most concerts are Free (Suggested donation of $10 per person), though special events may require tickets with varying prices (Mightycause, Casago)",
+      "website": "https://www.hendersonsymphonynv.org",
+      "phone": "702-808-6668 (HSO Home)",
+      "image_url": "https://static.wixstatic.com/media/25501d_8677c7c34b8c4c68834928682845c48b~mv2.png/v1/fill/w_316,h_102,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,fallback/Web-HSO-White.png",
+      "highlights": [
+        "\"Silver State's only community symphony orchestra since 1987 ([HSO About)\", 'Offers approximately 10 concerts per year to the community (Mightycause)', 'Features an ensemble of over 80 volunteer musicians and professional guests (HSO Musicians)', \"Signature events include the 'Concert 4Kids' and Young Artists Competition (HSO Education)\", \"Frequently performs live movie scores, such as 'Frozen', 'Jaws', and John Williams' works (KTNV)\"]"
+      ],
+      "tips": "Arrive early to performance venues like Water Street Plaza to secure a parking spot and good seating, as many concerts are free and open to the public (Casago). Consider a $10 donation to support the orchestra's mission of keeping classical music accessible (Mightycause).",
+      "nearby": "Water Street Plaza, America First Center, Lovelady Brewing Company, Mojave Brewing Company, and the historic Water Street District (City Cast Las Vegas)"
+    },
+    {
+      "name": "Juan's Flaming Fajitas & Cantina (Official Website)",
+      "category": "Restaurant, Bar (Tripadvisor)",
+      "description": "Voted a local favorite, Juan's Flaming Fajitas & Cantina offers authentic Mexican food and drinks with a lively atmosphere. The restaurant specializes in traditional favorites like Chile Rellenos, Carnitas, and their signature flaming fajitas, all crafted with fresh ingredients (Official Website, Water Street District).",
+      "address": "16 S Water St (Official Website)",
+      "city": "Henderson (Official Website)",
+      "region": "Historic Water Street / Downtown Henderson",
+      "hours": "Monday: 11:00 AM - 9:00 PM, Tuesday: 11:00 AM - 9:00 PM, Wednesday: 11:00 AM - 9:00 PM, Thursday: 11:00 AM - 9:00 PM, Friday: 11:00 AM - 10:00 PM, Saturday: 11:00 AM - 10:00 PM, Sunday: 11:00 AM - 9:00 PM (Tripadvisor)",
+      "days_open": "Daily (Tripadvisor)",
+      "admission": "Free (Official Website)",
+      "website": "https://juansflamingfajitas.com",
+      "phone": "(702) 476-4647 (Official Website)",
+      "image_url": "https://juansflamingfajitas.com/wp-content/uploads/2022/01/juans-flaming-fajitas-and-cantina-las-vegas-food-5.jpeg",
+      "highlights": [
+        "'Signature Flaming Fajitas served with steak, chicken, pork, or shrimp ([Yelp)', 'Authentic Mexican dishes including Chile Rellenos and Carnitas (Official Website)', 'World-class Fresh Margaritas and full bar service (Water Street District)', 'Daily Happy Hour specials from 3:00 PM to 6:00 PM (Official Website)', 'Weekend Brunch served on Saturday and Sunday (Official Website)', 'Located in the heart of the historic Water Street District (City Cast Las Vegas)']"
+      ],
+      "tips": "It is highly recommended to book a reservation online in advance, as the restaurant gets very packed on weekends. Be sure to try the signature flaming fajitas for their unique presentation. The patio is dog-friendly during cooler months (Yelp).",
+      "nearby": "Water Street Plaza, America First Center (Lifeguard Arena), Lovelady Brewing Company, Mojave Brewing Company, Emerald Island Casino (City Cast Las Vegas)"
+    },
+    {
+      "name": "Mojave Brewing Company",
+      "category": "Brewery, Bar, Taproom",
+      "description": "Mojave Brewing Company is a family-owned brewery and taproom located in the heart of the Water Street District in Henderson, Nevada. Founded by John \"Griff\" Griffith, it is recognized as the only brewery in Nevada specializing in both craft beers and hard ciders, offering a unique selection of handcrafted small-batch brews. The brewery is housed in a repurposed historic bank building, featuring a distinct atmosphere with its original bank vault and an arcade room for guests. Mojave Brewing Company Story, Water Street District",
+      "address": "107 S Water St #100, Henderson, NV 89015-7440",
+      "city": "Henderson",
+      "region": "Historic Water Street / Downtown Henderson",
+      "hours": "Monday: 2:00 PM - 9:00 PM, Tuesday: 2:00 PM - 9:00 PM, Wednesday: 2:00 PM - 9:00 PM, Thursday: 2:00 PM - 9:00 PM, Friday: 12:00 PM - 10:00 PM, Saturday: 12:00 PM - 10:00 PM, Sunday: 12:00 PM - 7:00 PM Mojave Brewing Company",
+      "days_open": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday Mojave Brewing Company",
+      "admission": "Free Mojave Brewing Company",
+      "website": "https://mojavecider.com/",
+      "phone": "(725) 204-1387",
+      "image_url": "https://speedy.uenicdn.com/6d3acd89-2cbc-4226-88aa-6aaa68e62518/n300_90a/image/upload/v1689713213/business/91af9584-fb5c-40f7-8a83-a1fcf704f141.png",
+      "highlights": [
+        "'Only brewery in Nevada specializing in hard cider [Mojave Brewing Company', 'Located in a historic bank building featuring an original bank vault Everyday Vegas', 'On-site arcade room and pinball machines Mojave Brewing Company', 'Pet-friendly and family-friendly establishment with an outdoor patio Tripadvisor', \"Wide selection of craft beers including bold IPAs and seasonal fruit ciders VegasVibin'\", 'Features local art and a large mural of desert mascots The New Brewer']"
+      ],
+      "tips": "Visitors are welcome to bring in their own food to enjoy with their drinks. For a unique experience, look for the 'Founders Club' private tasting area located inside the old bank vault. If you're visiting with a group, the back room offers a more relaxed, living-room-style setting. Tripadvisor, Around The World With Me",
+      "nearby": "Lovelady Brewing Company, Henderson City Hall, Water Street Plaza, Emerald Island Casino The New Brewer, Water Street District"
+    },
+    {
+      "name": "Morrell Park",
+      "category": "Park, Skate Park City of Henderson",
+      "description": "Morrell Park is a delightful destination in Henderson that beautifully blends recreational activities with a touch of local history. It features a wide variety of amenities, including a popular skate park, sports fields, and shaded playgrounds, making it a well-maintained spot for families and outdoor enthusiasts. The park also serves as a gateway to the region's railroad heritage through its proximity to historical exhibits. Wanderlog, City of Henderson",
+      "address": "500 Harris St., Henderson, NV 89015 City of Henderson",
+      "city": "Henderson City of Henderson",
+      "region": "Historic Water Street / Downtown Henderson",
+      "hours": "Park: 6:00am - 10:00pm daily; Skate Park: 7:00am - 10:00pm daily City of Henderson",
+      "days_open": "Daily City of Henderson",
+      "admission": "Free Concrete Disciples",
+      "website": "https://www.cityofhenderson.com/Home/Components/FacilityDirectory/FacilityDirectory/259/752?npage=2",
+      "phone": "702-267-4000 Concrete Disciples",
+      "image_url": "https://www.cityofhenderson.com/home/showpublishedimage/4107/637473565233300000",
+      "highlights": [
+        "'Popular concrete skate park with lights', 'Lighted ball fields and multi-purpose courts (basketball, volleyball)', 'Shaded playground and picnic shelters', 'Horseshoe pits and barbecue areas', \"Connection to the region's railroad history and heritage museum [City of Henderson, Wanderlog\"]"
+      ],
+      "tips": "The skate park is a 'hidden gem' but can get crowded during cooler evening hours; shaded picnic areas are best for families during the hot afternoon sun. Wanderboat AI, YouTube",
+      "nearby": "Clark County Heritage Museum, Henderson Bird Viewing Preserve, Water Street District, and Sloan Canyon National Conservation Area Wanderlog, Apartments.com"
+    },
+    {
+      "name": "Rainbow Club Casino",
+      "category": "Casino, Restaurant, Entertainment",
+      "description": "Rainbow Club Casino is a historic and award-winning gaming destination located in the heart of Henderson's Water Street District. Known for its vibrant atmosphere and local charm, it offers a diverse selection of 330 slot machines and video poker alongside the popular Triple B Burgers & More restaurant. The property has a long legacy dating back to the 1960s and provides a friendly, high-value experience for both casual players and locals. Rainbow Club Casino, Las Vegas Locals Reviews",
+      "address": "122 S Water St, Henderson, NV 89015, United States",
+      "city": "Henderson",
+      "region": "Historic Water Street / Downtown Henderson",
+      "hours": "Casino: Open 24 hours daily; Triple B Restaurant: 7:00 AM – 10:00 PM daily Rainbow Club Casino, Yelp",
+      "days_open": "Daily",
+      "admission": "Free (Casino floor entry is free; gambling and dining costs vary) Rainbow Club Casino",
+      "website": "https://rainbowhenderson.com",
+      "phone": "702-565-9777 Rainbow Club Casino",
+      "image_url": "https://rainbowhenderson.com/wp-content/uploads/2025/07/Money-Gong-Emperor-and-Empress-imgs.webp",
+      "highlights": [
+        "'Features 330 slot machines and video poker options [Rainbow Club Casino', 'Home to the award-winning Triple B Burgers & More restaurant Rainbow Club Casino', 'Historic landmark in the Water Street District of Downtown Henderson Water Street District', 'Offers a frozen bar with various cocktails and non-alcoholic choices Rainbow Club Casino', 'Regular promotions including hourly wheel spins and Cash Back Sundays Rainbow Club Casino', 'Member of the Rainbow Player’s Club with rewards redeemable at multiple locations Rainbow Club Casino']"
+      ],
+      "tips": "Sign up for the Rainbow Club Rewards card to earn food comps and participate in special promotions. Visit during the weekend to enjoy the popular brunch offerings at Triple B. The casino is known for its large food portions and affordable prices, making it a favorite among locals. Rainbow Club Casino, Tripadvisor",
+      "nearby": "Emerald Island Casino, The Pass Casino, Water Street District shops, Juan's Flaming Fajitas, Mojave Brewing Company Las Vegas Locals Reviews"
+    },
+    {
+      "name": "Water Street District Murals and Public Art",
+      "category": "Landmark / Public Art (Water Street District)",
+      "description": "The Water Street District in Henderson features a vibrant collection of over two dozen murals, sculptures, and painted utility boxes that celebrate the city's history and community spirit (Neon). This walkable open-air gallery revitalizes the historic downtown core, blending artistic expression with local businesses and gathering spaces (City of Henderson). It serves as a visual gateway to Henderson's redevelopment, offering residents and visitors an engaging way to explore the area's culture (Airial Travel).",
+      "address": "240 S. Water St, Henderson, NV 89015",
+      "city": "Henderson",
+      "region": "Historic Water Street / Downtown Henderson",
+      "hours": "Monday: Open 24 hours, Tuesday: Open 24 hours, Wednesday: Open 24 hours, Thursday: Open 24 hours, Friday: Open 24 hours, Saturday: Open 24 hours, Sunday: Open 24 hours (Airial Travel)",
+      "days_open": "Daily (Airial Travel)",
+      "admission": "Free (Airial Travel)",
+      "website": "https://waterstreetdistrict.com",
+      "phone": "(702) 267-1515 (Water Street District)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Water_Street_in_Henderson%2C_Nevada_%282008%29.jpg",
+      "highlights": [
+        "'\"The Promise\" Mural at Rainbow Club Casino, depicting the city\\'s magnesium roots and growth ([Rainbow Club Casino)', 'Army Street Bench Project, featuring 12 water-themed functional murals on concrete benches (AARP)', '\"Henderson\\'s First Residents\" Mural by Bradley Giles, chronicling the history of the Southern Paiutes (Neon)', 'Water Street Plaza & Amphitheater, a hub for festivals and live public art events (Water Street District)', '\"Flowing Down the Street\" utility box art by Mili Turnbull (Neon)', 'City Lights Art Gallery, a co-op showcasing a rotating selection of works from over 100 local artists (City Lights Art Gallery)']"
+      ],
+      "tips": "Wear comfortable walking shoes for the one-mile walkable stretch, and visit during daylight hours to capture the full color and detail of the artwork (Airial Travel). Check the local event calendar for the annual Art Festival of Henderson or Hot Rod Days (Hoodline).",
+      "nearby": "America First Center, Rainbow Club Casino, Emerald Island Casino, Lovelady Brewing Company, and Public Works Coffee Bar (City Cast Las Vegas)"
+    },
+    {
+      "name": "Water Street District Water Street District",
+      "category": "Entertainment & Shopping District Wikipedia)",
+      "description": "The Water Street District is a redeveloped historic portion of downtown Henderson that serves as the city's vibrant cultural and commercial heart. Originally established in the 1940s to support workers at the nearby magnesium plant, it has evolved into a walkable hub featuring a unique blend of local breweries, artisanal eateries, classic casinos, and the America First Center ice rink. Wikipedia), City Cast Las Vegas",
+      "address": "280 South Water Street, Henderson, NV 89015 Water Street District, City of Henderson",
+      "city": "Henderson Water Street District",
+      "region": "Historic Water Street / Downtown Henderson",
+      "hours": "Open 24 hours (Individual business hours vary, typically 10:00 AM – 9:00 PM for retail and later for dining/casinos) Airial Travel",
+      "days_open": "7 days a week Airial Travel",
+      "admission": "Free Airial Travel",
+      "website": "https://waterstreetdistrict.com",
+      "phone": "(702) 267-1515 Water Street District",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Water_Street_District_in_Henderson%2C_Nevada_%282022%29.png",
+      "highlights": [
+        "'Water Street Plaza & Amphitheater (Host to concerts and community events) [Water Street District', 'America First Center (Practice facility for the Henderson Silver Knights) Water Street District', 'Local Craft Breweries including Lovelady Brewing and Mojave Brewing City Cast Las Vegas', 'Extensive public art collection featuring numerous murals throughout the district Airial Travel', 'Classic \"local\" casinos such as Emerald Island and Rainbow Club Wikipedia)', \"Annual festivals including the Art Festival of Henderson and St. Patrick's Day Parade Yelp\"]"
+      ],
+      "tips": "The district is highly walkable, so wearing comfortable shoes is recommended for exploring the one-mile stretch. Visit during the day to fully appreciate the public murals, then stay for the evening brewery and dining scene. Parking is conveniently available at the Water Street Plaza and along the main thoroughfare. Airial Travel, Yelp",
+      "nearby": "Lake Las Vegas, Clark County Museum, Cowabunga Bay Water Park, Sloan Canyon National Conservation Area Tripadvisor, recngroup.com"
+    },
+    {
+      "name": "Water Street Plaza (formerly Henderson Events Plaza)",
+      "category": "Entertainment Venue / Park",
+      "description": "Water Street Plaza (formerly known as Henderson Events Plaza) is a premier outdoor entertainment destination located in the heart of downtown Henderson, Nevada (City of Henderson). This versatile 125,000-square-foot venue features an intimate amphitheater with stadium seating, a 42-foot-wide digital jumbotron, and a public plaza that hosts festivals, concerts, and sports viewing parties (City of Henderson, recngroup.com).",
+      "address": "240 S. Water St.",
+      "city": "Henderson",
+      "region": "Historic Water Street / Downtown Henderson",
+      "hours": "Plaza: Daily 24/7 (Events vary); Splash Pad: 9:00 AM – 8:00 PM (April–October); Farmers Market: Thursdays 9:00 AM – 4:00 PM (City of Henderson, Nevada Moms, recngroup.com)",
+      "days_open": "Daily",
+      "admission": "Most events FREE admission (City of Henderson, recngroup.com); ticketed event prices vary (e.g., $15 for concerts) (Yelp)",
+      "website": "https://www.cityofhenderson.com/government/departments/parks-and-recreation/facilities/other-venues/water-street-plaza",
+      "phone": "702-267-2323",
+      "image_url": "https://www.cityofhenderson.com/home/showpublishedimage/13762/638599237528870000",
+      "highlights": [
+        "'Intimate amphitheater with stadium seating and professional audio-visual features ([City of Henderson)', '42-foot-wide digital screen for movie screenings and sports watch parties (City of Henderson)', 'Public splash pad and playground area for young visitors (City of Henderson)', 'Weekly Thursday Farmers Market featuring local vendors and produce (recngroup.com)', 'Hosts major community festivals like WinterFest and Aki Matsuri Japanese Festival (recngroup.com, Nevada Arts Council)', 'Adjacent to the America First Center, practice home of the Henderson Silver Knights (City of Henderson)']"
+      ],
+      "tips": "Free parking is available at the Water Street Parking Garage (235 S. Water St.) directly across from the plaza (City of Henderson). Pets are welcome on the plaza if leashed but are not allowed in the amphitheater during ticketed events (City of Henderson). Guests can bring food and sealed non-alcoholic beverages, but glass and alcohol are prohibited (City of Henderson).",
+      "nearby": "America First Center, Henderson City Hall, Gold Mine Tavern, Rainbow Club Casino, Emerald Island Casino (City of Henderson, recngroup.com)"
+    },
+    {
+      "name": "Acacia Park and Acacia Demonstration Gardens City of Henderson",
+      "category": "Park City of Henderson",
+      "description": "The Acacia Demonstration Gardens is a 16-acre collaborative effort between the City of Henderson and the Conservation District of Southern Nevada. It serves as both a public park and an educational resource, showcasing over 100 plant species and 19 themed gardens that demonstrate water-efficient landscaping suitable for dry desert climates. City of Henderson, JW Zunino Landscape Architecture",
+      "address": "50 Casa Del Fuego St., Henderson, NV 89012 City of Henderson",
+      "city": "Henderson City of Henderson",
+      "region": "Anthem / Southern Henderson",
+      "hours": "6:00 am - 10:00 pm Daily City of Henderson",
+      "days_open": "Daily Apple Maps, Vegas 4 Locals",
+      "admission": "Free City of Henderson, Vegas 4 Locals",
+      "website": "https://www.cityofhenderson.com/Home/Components/FacilityDirectory/FacilityDirectory/188/",
+      "phone": "702-267-4000 City of Henderson",
+      "image_url": "https://en.wikipedia.org/wiki/File:Acacia_Demonstration_Gardens_flowers.jpg",
+      "highlights": [
+        "'19 themed gardens including Cactus, Mediterranean, and Native Gardens [JW Zunino Landscape Architecture', 'Educational workshops on water conservation and sustainable gardening Travel Nevada', 'Splash pad and multiple playgrounds for children City of Henderson', 'Dedicated dog parks for large and small dogs Rose Homes', 'Direct access to the Union Pacific Railroad Trail Apple Maps', 'Lighted sports facilities including basketball courts and ball fields City of Henderson']"
+      ],
+      "tips": "Visit during the spring or fall to attend free landscaping workshops. Bring your own shovel and container if you plan to pick up free mulch during recycling events. The dog parks close for irrigation on Wednesday mornings from 10:00 am to 11:00 am. City of Henderson, Travel Nevada",
+      "nearby": "Union Pacific Railroad Trail, Galleria at Sunset, Horizons Edge Apple Maps, Henderson Living, Rose Homes"
+    },
+    {
+      "name": "Anthem Country Club (Official Website)",
+      "category": "Golf & Country Club (Official Website)",
+      "description": "Anthem Country Club is an exclusive, guard-gated private community and country club nestled in the foothills of the Black Mountains. It features a championship 18-hole golf course designed by Hale Irwin and Keith Foster, offering dramatic elevation changes and panoramic views of the Las Vegas Strip. The club provides a range of luxury amenities, including fine and casual dining, a state-of-the-art fitness center, and a vibrant social calendar for its members (Official Website, Gorton Group).",
+      "address": "1 Club Side Drive, Henderson, NV 89052 (Official Website)",
+      "city": "Henderson (Official Website)",
+      "region": "Anthem / Southern Henderson",
+      "hours": "The Mixed Grille: Tuesday–Friday 11:00 am – 9:00 pm, Saturday 10:00 am – 9:00 pm, Sunday 10:00 am – 6:00 pm. Desert Sky: Wednesday–Friday 5:00 pm – 9:00 pm. Club Café: Monday–Sunday 9:00 am – 6:00 pm. Clubhouse facilities generally closed on Mondays (Official Website).",
+      "days_open": "Tuesday–Sunday (Clubhouse and most facilities closed on Mondays) (Yelp, Official Website)",
+      "admission": "Private Club: Membership by invitation only. Initiation fees typically range from $20,000 to $75,000, with monthly dues between $390 and $1,270 depending on the tier (Golf or Social). Limited non-member play may be available through certain booking services (Team Carver, VIP Golf Services).",
+      "website": "https://anthemcc.com",
+      "phone": "(702) 614-5000 (Official Website)",
+      "image_url": "https://anthemcc.com/getmedia/e9d40b4c-9f60-466d-96e0-e17578207198/Hero-AnthemCC.aspx?width=1920&height=1200&ext=.jpg",
+      "highlights": [
+        "'Championship 18-hole golf course designed by Hale Irwin and Keith Foster with dramatic elevation changes ([Official Website)', '33,000-square-foot Clubhouse featuring the Mixed Grille and Desert Sky Dining Room (Gorton Group)', 'Comprehensive fitness and wellness center with group classes and personal training (Official Website)', 'Extensive racquet sports facilities including six lighted tennis courts and four pickleball courts (Official Website)', 'Resort-style swimming pool with lap lanes and a toddler play area (Gorton Group)', 'Stunning views of the Las Vegas Valley and surrounding mountain ranges (Official Website)']"
+      ],
+      "tips": "Reservations are strongly recommended for dining at the Mixed Grille and Desert Sky. As it is a guard-gated community, visitors must provide a valid photo ID at the entrance gate (Official Website, Team Carver).",
+      "nearby": "The District at Green Valley Ranch, Green Valley Ranch Resort & Casino, M Resort Spa Casino, Anthem Hills Park & Sports Complex, and the Clark County Wetlands Park (Rose Homes)."
+    },
+    {
+      "name": "Anthem Hills Park & Anthem East Trailhead (Best match for Dorado Hills Park)",
+      "category": "Park",
+      "description": "Anthem Hills Park & Anthem East Trailhead is a 53-acre recreation area featuring a wide range of amenities, including a 26,500-square-foot skate park, numerous sports fields, and scenic hiking trails. The park is highly regarded for its stunning panoramic views of the Las Vegas Valley and the surrounding mountain landscape (Wanderlog, VegasVibin').",
+      "address": "2256 Reunion Dr, Henderson, NV 89052",
+      "city": "Henderson",
+      "region": "Anthem / Southern Henderson",
+      "hours": "Open Daily: 6:00 AM - 12:00 AM (Wanderlog); Skate Park: 7:00 AM - 10:00 PM (Sitedesigngroup)",
+      "days_open": "Daily (Sitedesigngroup)",
+      "admission": "Free (Airial Travel)",
+      "website": "https://www.cityofhenderson.com/residents/parks-and-recreation/parks-and-trails/parks-and-facilities/anthem-hills-park",
+      "phone": "(702) 267-4000 (Wanderlog)",
+      "image_url": "https://stock.adobe.com/images/anthem-hills-park-henderson-nv/253655343",
+      "highlights": [
+        "'Expansive 53-acre park with multiple lighted sports fields and courts ([teamcarver.com)', 'Large, well-maintained 26,500-square-foot skate park (Anthem Skatepark) (Sitedesigngroup)', \"Stunning panoramic views of the Las Vegas Strip and surrounding mountains (VegasVibin')\", 'Access to the scenic Anthem East Trail for hiking and mountain biking (MTB Project)', 'Shaded picnic areas, playgrounds, and a roller hockey rink (Yelp)']"
+      ],
+      "tips": "Visit at sunset for spectacular city and mountain views; bring ample water for hikes on the Anthem East Trail (Airial Travel, VegasVibin').",
+      "nearby": "Anthem East Trail, Sloan Canyon National Conservation Area, Anthem Country Club (Tripadvisor)"
+    },
+    {
+      "name": "Astronomy Aleworks (Official Website)",
+      "category": "Brewery (Travel Nevada)",
+      "description": "Astronomy Aleworks was a family-owned space-themed brewery located in Henderson's Artisan Booze District that celebrated a universe of craft beer. The brewery created \"fermented art\" using scientific principles inspired by astronomers and zymurgists, serving uniquely named brews in a setting featuring planetary decor and sci-fi-inspired consoles (Official Website, Review-Journal).",
+      "address": "7350 Eastgate Rd Suite 170, Henderson, NV 89011-4070 (Tripadvisor)",
+      "city": "Henderson (Travel Nevada)",
+      "region": "Anthem / Southern Henderson",
+      "hours": "Permanently Closed; former hours were: Sunday 12–7 PM, Monday 5–10 PM, Tuesday 4–9 PM, Wednesday 4–10 PM, Thursday 4–10 PM, Friday 2–10 PM, Saturday 12–10 PM (Official Website, Review-Journal)",
+      "days_open": "Closed permanently as of March 2024; formerly Monday–Sunday (variable) (Review-Journal)",
+      "admission": "Free entry; beers for purchase (Official Website)",
+      "website": "https://astronomyaleworks.com",
+      "phone": "(725) 204-6127 (VegasNews)",
+      "image_url": "https://astronomyaleworks.com/wp-content/uploads/2018/06/astronomy-ale-works-logo-dark-bg.png",
+      "highlights": [
+        "'Space-themed taproom with orb lights resembling planets and a Star Trek-style console wall ([Review-Journal)', 'Scientifically crafted artisan beers like Red Planet Red Ale and Zero Gravity IPA (VegasNews)', 'Located in the famous Henderson Artisan Booze District alongside other local craft producers (Travel Nevada)', 'Family-owned and operated by a local father-and-son duo (WineCompass)', 'Frequent community events and food truck visits (Official Website)']"
+      ],
+      "tips": "While the physical taproom is permanently closed, visitors to the Artisan Booze District can still enjoy other nearby breweries like CraftHaus or look for their beers at local craft beer bars that may still carry remaining stock (Reddit, TapHunter).",
+      "nearby": "CraftHaus Brewery, Las Vegas Distillery, Bad Beat Brewing (all within the Artisan Booze District) (Yelp, Distillery Directory)"
+    },
+    {
+      "name": "Black Mountain Trail (BLM 404)",
+      "category": "Park / Landmark",
+      "description": "Black Mountain is a landmark peak in the North McCullough Range of the Sloan Canyon National Conservation Area. The trail, also known as BLM 404, offers a strenuous hike with a class-two rock scramble near the summit and rewards hikers with 360-degree panoramic views of the Las Vegas Valley, Red Rock Canyon, and the surrounding desert landscape (Wikipedia), BirdAndHike).",
+      "address": "Shadow Canyon Drive & Lewiston Place",
+      "city": "Henderson",
+      "region": "Anthem / Southern Henderson",
+      "hours": "Dawn to Dusk (City of Henderson Ordinance)",
+      "days_open": "Daily (Blogger)",
+      "admission": "Free (Traveling Mooses)",
+      "website": "https://www.blm.gov/visit/sloan-canyon-nca",
+      "phone": "702-515-5000 (Bureau of Land Management)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Black_Hill_and_Black_Mountain.jpg",
+      "highlights": [
+        "'360-degree panoramic views of the Las Vegas Strip, Red Rock Canyon, and Henderson ([Rose Homes)', 'Challenging class-two rock scrambling near the summit peak (Traveling Mooses)', 'Ancient volcanic terrain with dark hidden valley andesite rock formations (American Southwest)', 'Summit register located in an ammo box within a stone circle (BirdAndHike)', 'The highest point of the North McCullough Range at 5,092 feet (BirdAndHike)']"
+      ],
+      "tips": "The trail is best hiked between October and May to avoid extreme desert heat. Hikers should bring at least 3 liters of water, wear sturdy hiking boots for loose rocks, and consider using gloves for the final summit scramble (Traveling Mooses, BirdAndHike).",
+      "nearby": "Seven Magic Mountains, Red Rock Canyon, Lake Mead National Recreation Area, Anthem East Trail (The Outbound)"
+    },
+    {
+      "name": "CRAFTkitchen Henderson",
+      "category": "Restaurant",
+      "description": "CRAFTkitchen is a locally chef-owned cafe and bakery in Henderson that specializes in thoughtfully elevated comfort food with organic ingredients. Opened in 2015 by Chef Jaret Blinn, the restaurant offers a creative menu of all-day breakfast, brunch, and lunch in an industrial-chic setting. (CRAFTkitchen, Tripadvisor)",
+      "address": "10940 S Eastern Ave, Suite 107, Henderson, NV 89052",
+      "city": "Henderson",
+      "region": "Anthem / Southern Henderson",
+      "hours": "Monday - Friday: 8:00 AM - 3:00 PM; Saturday - Sunday: 7:30 AM - 3:00 PM (CRAFTkitchen)",
+      "days_open": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday (CRAFTkitchen)",
+      "admission": "Free (CRAFTkitchen)",
+      "website": "https://www.craftkitchenlv.com",
+      "phone": "(702) 728-5828 (CRAFTkitchen)",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/55f86663e4b09e08398e82a9/1444161725357-1J0O0X3N0Y2H0Z1Z1Z1Z/CRAFTkitchen+Las+Vegas+Short+Rib+Hash_50Fiftystudios.jpg?format=1000w",
+      "highlights": [
+        "'Locally roasted organic coffee freshly ground for each cup ([CRAFTkitchen)', 'Bottomless mimosas available daily until 2 PM (CRAFTkitchen)', 'Extensive menu of house-made pastries including Kouign Amann and Ube Scones (CRAFTkitchen)', 'Signature dishes such as Short Rib Hash and \"Creme Brûlée\" Stuffed French Toast (CRAFTkitchen)', 'Chef-driven private dining and full restaurant buyouts for events (CRAFTkitchen)', 'Wide selection of vegan and gluten-free menu modifications (CRAFTkitchen)']"
+      ],
+      "tips": "Join the same-day Yelp Waitlist to minimize wait times during busy brunch hours. Bottomless mimosas have a 1.5-hour time limit and must be ordered by 2 PM. (CRAFTkitchen)",
+      "nearby": "Sunridge Park, Sloan Canyon National Conservation Area, St. Rose Parkway Trail, Lion Habitat Ranch (Yelp, Bureau of Land Management, Tripadvisor)"
+    },
+    {
+      "name": "Clark County Museum",
+      "category": "Museum",
+      "description": "The Clark County Museum is a 30-acre historical site in Henderson that preserves the diverse heritage of Southern Nevada. Visitors can explore a modern exhibit hall featuring a timeline from prehistoric times to the present, as well as a collection of restored historic buildings on 'Heritage Street.' The campus also includes a ghost town, a mining trail, and vintage railroad cars that illustrate the region's social and industrial evolution. Official Site, Tripadvisor",
+      "address": "1830 S. Boulder Highway",
+      "city": "Henderson",
+      "region": "Anthem / Southern Henderson",
+      "hours": "Open Daily: 9:00 a.m. – 4:30 p.m. (CLOSED Thanksgiving, Christmas, and New Year’s Day) Official Site",
+      "days_open": "Open Daily (Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday)",
+      "admission": "Free (as listed on the official site); some sources note a nominal fee of $2 for adults and $1 for seniors and children. Official Site, Clark County Museum Guild",
+      "website": "https://www.clarkcountynv.gov/government/departments/parks___recreation/cultural_division/musuems/clark-county-museum",
+      "phone": "(702) 455-7955",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Clark_County_%28NV%29_Museum_entrance_in_2023.png",
+      "highlights": [
+        "['Anna Roberts Parks Exhibit Hall (prehistoric to 20th-century timeline)', 'Heritage Street with its collection of restored historic homes', 'Ghost Town and Mining Trail highlighting early Nevada life', \"Boulder City Depot and vintage railroad cars from the region's past\", 'Candlelight Wedding Chapel, a relocated landmark from the Las Vegas Strip', \"Donald Reynolds Printshop, a replicated 1900's newspaper shop\"]"
+      ],
+      "tips": "Plan to spend at least 1-2 hours to explore the 30-acre campus; early morning visits are recommended to avoid the desert heat. Photography permits are required for professional or commercial shoots, and visitors are encouraged to check the museum's photography rules beforehand. Official Site, Casago",
+      "nearby": "Lion Habitat Ranch, Heritage Park, Henderson Bird Viewing Preserve, Ethel M Botanical Cactus Garden, Cowabunga Bay Water Park. Lonely Planet, YouTube Henderson Travel Guide"
+    },
+    {
+      "name": "Clark County Wetlands Park Official Site",
+      "category": "Park, Nature Preserve Official Site",
+      "description": "Clark County Wetlands Park spans 2,900 acres on the eastern edge of the Las Vegas Valley, serving as a critical habitat for over 300 species of plants and animals. The park features a 210-acre Nature Preserve with lush waterways, cottonwood groves, and miles of scenic trails for walking and biking. It provides a serene natural escape and educational resource, offering interactive exhibits at its Nature Center and various interpretive programs. Official Site, Travel Nevada",
+      "address": "7050 Wetlands Park Lane, Las Vegas, NV 89122 Official Site",
+      "city": "Las_Vegas Official Site",
+      "region": "Anthem / Southern Henderson",
+      "hours": "Park Trails & Trailheads: Daily, Dawn to Dusk; Nature Center: Tuesday - Sunday, 9:00 AM - 3:00 PM (Closed Mondays) Official Site",
+      "days_open": "Trails: Open Daily; Nature Center: Tuesday - Sunday Official Site",
+      "admission": "Free Official Site, Travel Nevada",
+      "website": "https://www.clarkcountynv.gov/government/departments/parks___recreation/wetlands_park/",
+      "phone": "(702) 455-7522 Official Site",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Las_Vegas_Wash_wetlands_1.jpg",
+      "highlights": [
+        "'210-acre Nature Preserve with paved ADA accessible trails [Vegas Family Guide', 'Nature Center with interactive exhibits, an auditorium, and a nature store Official Site', 'Habitat for hundreds of wildlife species, including beavers, raccoons, and over 310 bird species Travel Nevada', '34-mile trail system featuring both paved and unpaved paths Travel Nevada', 'Lizard Lounge picnic room for indoor breaks Official Site', 'Spotlight on Nature Gallery featuring local art Official Site']"
+      ],
+      "tips": "The Nature Center is closed on Mondays, though park trails remain open. Visitors should bring plenty of water and sun protection as most trails offer little shade. Download the free Wetlands Park Navigator app for interactive maps and information. Check the official website for any trail construction alerts before visiting. Official Site, Islands",
+      "nearby": "Lake Mead National Recreation Area, Lake Las Vegas, Sunset Park, Henderson Bird Viewing Preserve, Sam's Town Las Vegas TripAdvisor, Lonely Planet"
+    },
+    {
+      "name": "Cornerstone Park",
+      "category": "Park",
+      "description": "Cornerstone Park is a premier 100-acre community space in Henderson, Nevada, centered around the 31-acre Railroad Lake. Formerly a gravel quarry, the land has been transformed into a scenic destination featuring walking trails, sports courts, and ample green space for recreation and wildlife observation. It offers a peaceful retreat for residents and visitors to enjoy nature and outdoor fitness within the urban landscape. (Travel Nevada, Wanderlog)",
+      "address": "1600 Wigwam Pkwy, Henderson, NV 89074",
+      "city": "Henderson",
+      "region": "Anthem / Southern Henderson",
+      "hours": "Mon-Sun: 6:00 AM - 12:00 AM (Yelp, Holidify)",
+      "days_open": "Monday through Sunday (Holidify)",
+      "admission": "Free (Yelp)",
+      "website": "https://www.cityofhenderson.com/residents/parks-and-recreation/parks-and-trails/parks-list-and-map/cornerstone-park",
+      "phone": "702-267-4000 (City of Henderson)",
+      "image_url": "https://images.trvl-media.com/place/7586/9eeb959d-c5f8-4e97-8d9b-4dd828ad544c.jpg",
+      "highlights": [
+        "'31-acre Railroad Lake, ideal for bird watching and scenic views ([Travel Nevada)', 'Lighted basketball and sand volleyball courts (City of Henderson)', 'Extensive walking and jogging trails with upper and lower loops (Tripadvisor)', 'Public art installations and interactive sculptures (Nevada Arts Council)', 'Exercise course and stairs for outdoor fitness (Travel Nevada)', 'Large picnic pavilions and a warming kitchen for community events (City of Henderson)']"
+      ],
+      "tips": "Visitors should bring plenty of water, especially during summer months, as shade is limited around the lake loop. Early mornings are best for wildlife viewing, including roadrunners and diverse bird species. Picnic areas are popular and can be rented in advance through the city's parks department website. (Yelp, Wanderlog)",
+      "nearby": "Arroyo Grande Sports Complex, Pittman Wash, Henderson Bird Viewing Preserve, Ethel M Botanical Cactus Gardens (Travel Nevada, Expedia)"
+    },
+    {
+      "name": "Gaetano's Ristorante",
+      "category": "Restaurant",
+      "description": "Gaetano's Ristorante is a family-owned and operated Italian fine-dining destination that has served the Henderson community since 2002. The restaurant specializes in traditional Italian dishes crafted from family recipes and premium ingredients, complemented by an extensive wine list and a curated cocktail program. Known for its warm hospitality, Gaetano’s aims to treat every guest like a member of the family (Official Website).",
+      "address": "10271 S Eastern Ave #111, Henderson, NV 89052",
+      "city": "Henderson",
+      "region": "Anthem / Southern Henderson",
+      "hours": "Dinner: Monday – Sunday, 5:00 PM – 9:00 PM; Bar: 4:00 PM – 9:00 PM; Happy Hour: 4:00 PM – 6:00 PM and 8:00 PM – 9:00 PM daily (Official Website)",
+      "days_open": "Monday through Sunday (Official Website)",
+      "admission": "Free entry; menu prices typically range from $22 to $70 per entrée (Official Website).",
+      "website": "https://gaetanoslasvegas.com",
+      "phone": "(702) 361-1661 (Official Website)",
+      "image_url": "https://i0.wp.com/gaetanoslasvegas.com/wp-content/uploads/2024/03/230209-1007.jpg?ssl=1",
+      "highlights": [
+        "'Family-owned and operated by the Palmeri family since 2002 ([Official Website).', 'Menu features traditional Italian recipes passed down through generations (Official Website).', 'Extensive wine list and professionally curated cocktail menu (Official Website).', 'Daily Happy Hour (4-6 PM) and Reverse Happy Hour (8-9 PM) offering significant discounts (Official Website).', 'Award-winning dining experience, including OpenTable Diners’ Choice and \"Best Italian Restaurant\" accolades (Official Website).', 'Banquet and catering facilities capable of hosting events for up to 150 people (Yelp).']"
+      ],
+      "tips": "Reservations are highly recommended and can be made via OpenTable. For the best value, visit during the Reverse Happy Hour from 8-9 PM nightly to receive 50% off select regular-priced items with the purchase of a beverage (Official Website).",
+      "nearby": "Siena Promenade (located within), Rio Secco Golf Club, Horizon Ridge Park, and various shopping centers along South Eastern Avenue (Parkzer.com)."
+    },
+    {
+      "name": "Henderson Artisan Booze District",
+      "category": "Brewery, Distillery, Winery, Entertainment",
+      "description": "The Henderson Artisan Booze District is a unique craft beverage hub featuring a walkable collection of local breweries, a distillery, and a winery. It offers visitors a 'sip-and-stroll' experience with immersive tours, tastings, and community events in an authentic industrial setting just 15 minutes from the Las Vegas Strip.",
+      "address": "7350 Eastgate Road, Henderson, NV 89011 (Central location)",
+      "city": "Henderson",
+      "region": "Anthem / Southern Henderson",
+      "hours": "District-wide: Wed-Sun (Primary). Specific Business Hours: CraftHaus: Mon-Thu 4pm-10pm, Fri-Sat 12pm-11pm, Sun 12pm-9pm; Las Vegas Distillery: Wed-Thu 3pm-9pm, Fri 3pm-10pm, Sat 2pm-10pm, Sun 2pm-8pm; Vegas Valley Winery: Wed-Thu 4pm-9pm, Fri 2pm-10pm, Sat 12pm-10pm, Sun 12pm-6pm.",
+      "days_open": "Wednesday - Sunday (Primary district operating days; individual business schedules vary)",
+      "admission": "Free (General entry to the district; individual business tour and tasting prices vary, e.g., Las Vegas Distillery tours start at $25, while Free Tour Days are offered on the first Wednesday and Thursday of each month)",
+      "website": "https://www.facebook.com/hendersonboozedistrict/",
+      "phone": "(702) 327-0165 (General/Travel Nevada contact)",
+      "image_url": "https://travelnevada.com/wp-content/uploads/2015/01/BoozeDistrict4_KG-1536x864.jpg",
+      "highlights": [
+        "[\"Walking tours of southern Nevada's first artisan spirit manufacturer, Las Vegas Distillery.\", 'Winemaking classes at Grape Expectations where guests can bottle their own vintage.', 'Tastings of scientifically-crafted beers at the space-themed Astronomy Aleworks.', 'Traditional-style craft beers with a twist at the community-focused CraftHaus Brewery.', 'Weekly food truck gatherings and trivia nights at Bad Beat Brewing.', 'A variety of local entertainment including live music, paint parties, and retro games like Nintendo and darts.']"
+      ],
+      "tips": "Plan your visit for a Saturday afternoon to experience the most businesses open at once. Check the monthly event calendars for each venue for live music, food truck schedules, and special beer or wine releases. Walking between the different venues is easy as they are all located within a single industrial complex.",
+      "nearby": "Water Street District, Cowabunga Bay Water Park, Ethel M Chocolates Factory & Cactus Garden, Lake Las Vegas, Valley Auto Mall."
+    },
+    {
+      "name": "Henderson Bird Viewing Preserve",
+      "category": "Park / Bird Sanctuary (City of Henderson)",
+      "description": "The Henderson Bird Viewing Preserve is a 140-acre desert oasis situated on the eastern edge of the Pacific Migratory Flyway within the city's Water Reclamation Facility. It features nine tranquil ponds and five miles of trails that provide a critical habitat for thousands of migratory waterfowl and resident desert birds. Awarded the title of \"Best Place to Birdwatch\" in KNPR's Best of the City 2024, it offers a peaceful environment for wildlife observation, education, and nature photography. (City of Henderson)",
+      "address": "350 E. Galleria Dr., Henderson, NV 89011",
+      "city": "Henderson",
+      "region": "Anthem / Southern Henderson",
+      "hours": "Open daily: 7:00 AM – 2:00 PM; Summer Hours (June-August): 6:00 AM – Noon. Last entry is 30 minutes before closing. (City of Henderson)",
+      "days_open": "Daily (City of Henderson)",
+      "admission": "Free (City of Henderson)",
+      "website": "https://www.cityofhenderson.com/residents/facility-locations/facilities-list/henderson-bird-viewing-preserve",
+      "phone": "(702) 267-4180 (City of Henderson)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Henderson_Bird_Viewing_Preserve_Dec_2025.jpg",
+      "highlights": [
+        "'Over 270 bird species recorded, including migratory waterfowl and resident desert birds ([City of Henderson)', 'Nine diverse ponds spanning 140 acres of critical wildlife habitat (City of Henderson)', 'Five miles of walking trails with both paved, wheelchair-accessible and soft surfaces (City of Henderson)', \"March's Monarch Garden featuring interpretive signage and a serene walking path to protect endangered butterflies (City of Henderson)\", 'Educational programs and guided bird mobile cart or walking tours (City of Henderson)', 'On-site gift shop with souvenirs, educational items, and loaner binoculars (City of Henderson)']"
+      ],
+      "tips": "Visitors are encouraged to bring water, a hat, and sunscreen due to limited shade in the desert environment. Pets, biking, running, and feeding the wildlife are prohibited to ensure the safety and natural behavior of the birds. It is recommended to arrive early, especially during peak migration seasons or before the summer heat. (City of Henderson)",
+      "nearby": "Lake Las Vegas, Lion Habitat Ranch, Clark County Museum, Cowabunga Bay Water Park (RecnGroup)"
+    },
+    {
+      "name": "Heritage Park",
+      "category": "Park",
+      "description": "Heritage Park is a sprawling 160-acre community hub and sports complex located in the eastern portion of Henderson. This multifaceted destination features a wide array of amenities, including a massive soccer complex, an amphitheater, a dedicated dog park, and specialized indoor facilities for aquatics and senior activities. It serves as a primary venue for regional tournaments and community events while providing peaceful spaces like walking trails and meditation areas (City of Henderson, MDB Realty).",
+      "address": "350 S. Racetrack Rd., Henderson, NV 89015",
+      "city": "Henderson",
+      "region": "Anthem / Southern Henderson",
+      "hours": "Monday: 6:00 am - 10:00 pm; Tuesday: 6:00 am - 10:00 pm; Wednesday: 6:00 am - 10:00 pm; Thursday: 6:00 am - 10:00 pm; Friday: 6:00 am - 10:00 pm; Saturday: 6:00 am - 10:00 pm; Sunday: 6:00 am - 10:00 pm (City of Henderson)",
+      "days_open": "Daily (City of Henderson)",
+      "admission": "Free for general park access; Heritage Park Aquatic Complex admission: $5 for adults (18-59) and $3.50 for children (3-17) and seniors (60+) (Swimply, Yelp)",
+      "website": "https://www.cityofhenderson.com/Home/Components/FacilityDirectory/FacilityDirectory/242/752",
+      "phone": "702-267-4000 (City of Henderson)",
+      "image_url": "https://www.cityofhenderson.com/home/showpublishedimage/4077/637473391361630000",
+      "highlights": [
+        "['130-acre sports complex featuring 13 soccer fields and 2 baseball diamonds', 'Heritage Park Aquatic Complex with two indoor pools for lap swimming and lessons', 'Heritage Park Senior Facility offering dedicated programs and a library for ages 50+', 'The Bark Park, a large dedicated dog park with its own entrance and parking', \"Q's Court, a peaceful outdoor meditation area honoring victims of the Route 91 festival\", 'Seasonal splash pad and multiple shaded picnic shelters for families']"
+      ],
+      "tips": "Visit during the early morning hours to avoid the intense desert heat, as shade is mostly limited to picnic areas. Check the official City of Henderson website for event schedules, as the park frequently hosts large-scale sports tournaments and community concerts. If visiting the Aquatic Complex, verify specific open-swim hours in advance as they differ from general park hours (Wanderlog, The Tourist Checklist).",
+      "nearby": "Henderson Bird Viewing Preserve, Cornerstone Park, Mission Hills Park, Clark County Museum (Wanderlog, Travel Nevada)"
+    },
+    {
+      "name": "Khoury's Fine Wine & Spirits",
+      "category": "Bar, Shopping (Yelp, Neon Feast)",
+      "description": "Khoury's Fine Wine & Spirits is a premier boutique shop and lounge dedicated to enthusiasts of craft beer, unique wines, and small-batch spirits. Founded by Issa Khoury, the establishment features a welcoming wine and beer lounge with 20 rotating taps and an extensive selection of low-intervention wines from small producers (Wanderlog, Official Website).",
+      "address": "9915 S. Eastern Ave. #110",
+      "city": "Las Vegas (Official Website)",
+      "region": "Anthem / Southern Henderson",
+      "hours": "Monday: 10:00 am - 8:00 pm; Tuesday: 10:00 am - 10:00 pm; Wednesday: 10:00 am - 10:00 pm; Thursday: 10:00 am - 10:00 pm; Friday: 10:00 am - 10:00 pm; Saturday: 10:00 am - 10:00 pm; Sunday: 10:00 am - 8:00 pm (Official Website)",
+      "days_open": "Monday - Sunday (Official Website)",
+      "admission": "Free (Khoury's Fine Wine & Spirits)",
+      "website": "https://www.khourysfinewine.com",
+      "phone": "702-435-9463 (Official Website)",
+      "image_url": "https://www.khourysfinewine.com/images/slider/bar.jpg",
+      "highlights": [
+        "'20 rotating craft beers on tap and a diverse wine-by-the-glass program ([Official Website)', 'Weekly Wednesday night beer tappings starting at 6:00 PM (Official Website)', 'Dedicated cooler featuring local Nevada breweries such as Able Baker and CraftHaus (Official Website)', \"Regular spirit sampling events and community fundraisers like St. Baldrick's (Official Website)\", 'On-site lounge and patio space that hosts a rotating schedule of local food trucks (Official Website)']"
+      ],
+      "tips": "Check the store's online calendar to see which local food trucks are scheduled for the day of your visit. Wednesday nights are the best time to visit for beer lovers to catch the latest tap releases (Official Website).",
+      "nearby": "Green Valley Ranch Resort, Sunset Station Hotel & Casino, Town Square Las Vegas (Tripadvisor, Rome2Rio)"
+    },
+    {
+      "name": "River Mountains Loop Trail",
+      "category": "Park / Recreation Trail",
+      "description": "The River Mountains Loop Trail is a 34-mile non-motorized paved path that surrounds the scenic River Mountains in Southern Nevada. It provides a unique outdoor recreation experience with stunning vistas of Lake Mead, the Mojave Desert, and local wildlife, connecting the communities of Henderson, Boulder City, and the Lake Mead National Recreation Area.",
+      "address": "1699 Equestrian Drive, Henderson, NV 89002 (Equestrian Park Trailhead)",
+      "city": "Henderson",
+      "region": "Anthem / Southern Henderson",
+      "hours": "Monday: 5:00 AM - 10:00 PM, Tuesday: 5:00 AM - 10:00 PM, Wednesday: 5:00 AM - 10:00 PM, Thursday: 5:00 AM - 10:00 PM, Friday: 5:00 AM - 10:00 PM, Saturday: 5:00 AM - 10:00 PM, Sunday: 5:00 AM - 10:00 PM",
+      "days_open": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
+      "admission": "Free (Standard entrance fees apply if accessing via Lake Mead National Recreation Area)",
+      "website": "https://rivermountainstrail.org",
+      "phone": "702-267-4152 (City of Henderson Outdoor Recreation)",
+      "image_url": "https://rivermountainstrail.org/wp-content/uploads/2014/02/slider-home-1140x600-05.jpg",
+      "highlights": [
+        "['34-mile paved loop suitable for hiking, road cycling, and running', 'Scenic views of Lake Mead and the surrounding volcanic River Mountains', 'Frequent sightings of local wildlife, including Desert Bighorn Sheep and Desert Tortoise', 'Connects Henderson, Boulder City, and the Lake Mead National Recreation Area', 'Links to the Historic Railroad Hiking Trail leading to Hoover Dam', 'Equestrian-friendly segments with dedicated facilities at specific trailheads']"
+      ],
+      "tips": "Always carry more water than you think you'll need, especially during the summer months when desert temperatures can be extreme. It is best to visit during the early morning or late afternoon to enjoy cooler weather and better lighting for photography. Stay on the paved trail to protect the fragile desert ecosystem and be mindful of tortoises crossing the path.",
+      "nearby": "Lake Mead National Recreation Area, Hoover Dam, Historic Railroad Hiking Trail, Boulder City, Equestrian Park"
+    },
+    {
+      "name": "Sloan Canyon National Conservation Area",
+      "category": "Park, Landmark",
+      "description": "Designated in 2002, Sloan Canyon National Conservation Area preserves 48,438 acres of the Mojave Desert, featuring the southern mountainous skyline of Las Vegas and Henderson. It is home to the renowned Sloan Canyon Petroglyph Site, which contains more than 300 rock art panels and nearly 1,700 designs from the Archaic to historic eras. (Bureau of Land Management)",
+      "address": "Nawghaw Poa Road, Henderson, NV 89044",
+      "city": "Henderson",
+      "region": "Anthem / Southern Henderson",
+      "hours": "October 1 – May 31: Daily 8:00 AM – 4:30 PM; June 1 – September 30: Friday – Sunday 8:00 AM – 4:30 PM (Bureau of Land Management)",
+      "days_open": "Daily (October 1 – May 31); Friday – Sunday (June 1 – September 30) (Bureau of Land Management)",
+      "admission": "Free (Bureau of Land Management)",
+      "website": "https://www.blm.gov/programs/national-conservation-lands/nevada/sloan-canyon-nca",
+      "phone": "702-515-5197",
+      "image_url": "https://www.blm.gov/sites/default/files/styles/hero_lg_content/public/images/2024-03/Sloan%20Canyon%20sunset%20from%20trailer.jpg?h=c32efd04&itok=BuCyReF8",
+      "highlights": [
+        "'Sloan Canyon Petroglyph Site with nearly 1,700 designs ([Bureau of Land Management)', '14,790-acre North McCullough Wilderness area (Bureau of Land Management)', 'Extensive trail system for hiking, mountain biking, and equestrian use (Nevada Trail Finder)', 'Unique volcanic rock formations and lava flows (Bureau of Land Management)', 'Panoramic views of the Las Vegas Valley (Real Journey Travels)']"
+      ],
+      "tips": "Dogs are prohibited on the Petroglyph Trail and in Petroglyph Canyon. Bring at least one gallon of water per person, wear sun protection, and avoid hiking in midday summer heat. Do not touch or take rubbings of the petroglyphs to preserve them. (Bureau of Land Management)",
+      "nearby": "Black Mountain, Aventura Park, Montagna Park, Henderson Bird Viewing Preserve (Bureau of Land Management, Tripadvisor)"
+    },
+    {
+      "name": "Sloan Canyon Petroglyph Site (Sloan Canyon National Conservation Area)",
+      "category": "Landmark, Park, Archaeological Site",
+      "description": "The Sloan Canyon Petroglyph Site is one of the most significant and important cultural resources in southern Nevada, featuring more than 300 rock writing panels and nearly 1,700 designs. Often called the \"Sistine Chapel of Native American rock art,\" the site preserves artifacts from native cultures dating from the Archaic to historic eras. (Bureau of Land Management, Wikipedia)",
+      "address": "1000 Nawghaw Poa Road (Access currently rerouted via Democracy Drive due to construction)",
+      "city": "Henderson",
+      "region": "Anthem / Southern Henderson",
+      "hours": "Winter/Spring (Oct 1 – May 19): Daily 8:00 AM – 4:30 PM; Summer/Fall (June 1 – Sept 30): Mon–Thu 8:00 AM – 12:00 PM, Fri–Sun 7:00 AM – 12:00 PM; Thanksgiving: 8:00 AM – 12:30 PM; Christmas: 12:30 PM – 4:30 PM (Bureau of Land Management)",
+      "days_open": "Daily (Bureau of Land Management)",
+      "admission": "Free (Bureau of Land Management)",
+      "website": "https://www.blm.gov/programs/national-conservation-lands/nevada/sloan-canyon-nca",
+      "phone": "702-515-5197 (Bureau of Land Management)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Rock_Art_Symbols_from_Somewhere_in_Time_%2819357729213%29.jpg",
+      "highlights": [
+        "['Over 300 rock writing panels with 1,700 individual designs', 'Petroglyph Canyon Trail, a 5.5-mile hike into the heart of the site', 'Archaic to historic era Native American communication artifacts', 'Scenic volcanic landscapes of the North McCullough Wilderness', 'Designated National Register of Historic Places site', 'Junior Ranger program for younger visitors']"
+      ],
+      "tips": "Dogs and service animals are prohibited in Petroglyph Canyon to protect the artifacts. Bring 4-8 quarts of water and wear sturdy shoes, as the trail involves rock scrambling. Do not touch or take rubbings of the petroglyphs, as oils from skin cause permanent damage. Pack out all waste and be aware that there are no restrooms at the trailhead. (Bureau of Land Management, Travel Nevada)",
+      "nearby": "Aventura Park, Montagna Park, Anthem Neighborhood, North McCullough Wilderness, Las Vegas Strip (Bureau of Land Management, Wikipedia)"
+    },
+    {
+      "name": "The Revere Golf Club Revere Golf Club",
+      "category": "Golf Revere Golf Club",
+      "description": "The Revere Golf Club is a premier 36-hole championship golf facility located in the rugged desert canyons of the Las Vegas foothills. It features two distinct courses, Lexington and Concord, designed by PGA legend Billy Casper and architect Greg Nash, offering panoramic views of the Las Vegas skyline. The club also provides upscale dining at Buckman’s Grille and comprehensive practice facilities including an all-grass driving range Revere Golf Club.",
+      "address": "2600 Hampton Rd, Henderson, NV 89052, USA Revere Golf Club, Tripadvisor",
+      "city": "Henderson Revere Golf Club",
+      "region": "Anthem / Southern Henderson",
+      "hours": "Golf Shop: 6:00 AM - 6:00 PM (June-August); Driving Range: 6:30 AM - 6:00 PM (closes at 1:00 PM on Mondays); Buckman's Grille: Breakfast until 11:00 AM, Lunch 11:00 AM - 5:00 PM, Dinner 5:00 PM - 8:00 PM Revere Golf Club, Revere Golf Club",
+      "days_open": "Monday - Sunday Revere Golf Club",
+      "admission": "Public green fees typically range from $100 to $250+ depending on the season and time of day; prepaying online offers a 10% discount Revere Golf Club. Driving range buckets are $8 (small), $14 (medium), and $18 (large) Revere Golf Club.",
+      "website": "https://reveregolf.com",
+      "phone": "+1 (702) 259-4653 Revere Golf Club, GolfVegas",
+      "image_url": "https://reveregolf.com/wp-content/uploads/2023/10/Revere_logo-NEW-01.png",
+      "highlights": [
+        "'Two 18-hole championship courses: Lexington and Concord [Revere Golf Club', 'Panoramic views of the famous Las Vegas Strip and surrounding mountains Revere Golf Club', 'Designed by PGA legend Billy Casper and architect Greg Nash Revere Golf Club', 'Award-winning dining at Buckman’s Grille with strip views Revere Golf Club', 'Expansive practice facility including an all-grass driving range and short game areas Revere Golf Club', 'Fully stocked golf shop and virtual tour capabilities Revere Golf Club']"
+      ],
+      "tips": "Book tee times in advance online to save 10% through prepayment. The Lexington course is known for its elevation changes and challenge, while the Concord course offers wider fairways and is more forgiving for all skill levels. Visit Buckman’s Grille for a meal during sunset to enjoy the best views of the Las Vegas Strip Revere Golf Club, Two Guys Who Golf.",
+      "nearby": "Lion Habitat Ranch, M Resort Casino, The District at Green Valley Ranch, Rio Secco Golf Club, Anthem Country Club Tripadvisor, Expedia"
+    },
+    {
+      "name": "Whitney Mesa Recreation Area and Nature Preserve (City of Henderson)",
+      "category": "Park (City of Henderson)",
+      "description": "The Whitney Mesa Recreation Area and Nature Preserve features many unique geologic formations, an active stream, and diverse flora and fauna. It provides a scenic recreation spot in the southeastern Las Vegas Valley with a network of trails and educational amenities (City of Henderson, Las Vegas Review-Journal).",
+      "address": "1990 Patrick Ln., Henderson, NV 89014 (City of Henderson)",
+      "city": "Henderson (City of Henderson)",
+      "region": "Anthem / Southern Henderson",
+      "hours": "6:00am-10:00pm daily (City of Henderson)",
+      "days_open": "Daily (Waze)",
+      "admission": "Free (Airial Travel)",
+      "website": "https://www.cityofhenderson.com/Home/Components/FacilityDirectory/FacilityDirectory/327/752",
+      "phone": "(702) 267-4000 (Waze)",
+      "image_url": "https://www.cityofhenderson.com/home/showpublishedimage/4437/637477963294600000",
+      "highlights": [
+        "'Unique geologic formations and scenic bluffs ([City of Henderson)', 'Active stream and diverse local flora and fauna (City of Henderson)', '1-mile interpretive trail with ADA-accessible portions (City of Henderson)', 'Educational kiosks and interpretive signage (City of Henderson)', 'Picnic shelters and barbecue facilities (City of Henderson)', 'Over 4 miles of total connecting trails (Nevada Trail Finder)']"
+      ],
+      "tips": "Visitors should bring water and sun protection as the desert environment can be harsh. Dogs are welcome but must remain on a leash at all times. It is recommended to arrive early on weekends as parking at the main trailhead can fill quickly (Airial Travel, Rose Homes).",
+      "nearby": "Whitney Ranch Recreation Center, Whitney Mesa Tennis and Pickleball Complex (Nevada Trail Finder)"
+    },
+    {
+      "name": "Chimera Golf Club Chimera Golf Club",
+      "category": "Golf Chimera Golf Club",
+      "description": "Designed in 2003 by Ted Robinson Jr., Chimera Golf Club is a 6,757-yard layout featuring forgiving fairways and a playable desert landscape that offers a fair challenge for all skill levels. The course is known for its natural terrain and unparalleled views of the Las Vegas Strip, Downtown Vegas, and snow-capped Mt. Charleston. Chimera Golf Club, Visit Las Vegas",
+      "address": "901 Olivia Parkway, Henderson, NV 89011 Chimera Golf Club",
+      "city": "Henderson Chimera Golf Club",
+      "region": "Golf",
+      "hours": "Monday: 5:00 AM – 6:00 PM, Tuesday: 5:00 AM – 6:00 PM, Wednesday: 5:00 AM – 6:00 PM, Thursday: 5:00 AM – 6:00 PM, Friday: 5:00 AM – 6:00 PM, Saturday: 5:00 AM – 6:00 PM, Sunday: 5:00 AM – 6:00 PM (Note: Hours may vary seasonally; check with Pro Shop) Chimera Golf Club",
+      "days_open": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday Tripadvisor",
+      "admission": "Resident: $49.00 - $50.00; Non-Resident: $85.00 - $129.00 (prices vary by time and day); Club Rentals: $65+tax Residents Tee Times, Non-Residents Tee Times",
+      "website": "https://chimeragolfclub.com",
+      "phone": "(702) 951-1500 Chimera Golf Club",
+      "image_url": "https://chimeragolfclub.com/wp-content/uploads/2020/05/gs-slide_01.jpg",
+      "highlights": [
+        "'Designed by renowned architect Ted Robinson Jr. in 2003 [Chimera Golf Club', 'First golf course in Nevada to offer a TrackMan Powered Driving Range Chimera Golf Club', 'Unobstructed panoramic views of the Las Vegas Strip and Mt. Charleston Chimera Golf Club', 'Features Slice 19, a popular on-site Bar and Grill open for daily dining Chimera Golf Club', 'Hosts diverse activities including FootGolf and FlingGolf Chimera Golf Club', 'Home to a custom steel Chimera sculpture by local artist Ramon Sanchez Chimera Golf Club']"
+      ],
+      "tips": "Book tee times in advance, especially for weekend mornings; residents of Clark County should bring proof of residency to secure lower rates. The course features a dress code requiring proper golf attire, and the TrackMan range is a great place to warm up with data-driven feedback before your round. Chimera Golf Club FAQ, Residents Tee Times",
+      "nearby": "Henderson Bird Viewing Preserve, Clark County Heritage Museum, Clark County Wetlands Park, River Mountain Loop Trail, Lake Las Vegas, Sunset Station Hotel & Casino Tripadvisor"
+    },
+    {
+      "name": "DragonRidge Country Club",
+      "category": "Golf, Country Club DragonRidge Country Club",
+      "description": "DragonRidge Country Club is a premier private club in Henderson, Nevada, featuring an 18-hole championship golf course nestled in the MacDonald Highlands. The club offers breathtaking views of the Las Vegas skyline alongside luxury amenities like a state-of-the-art fitness center, tennis facilities, and upscale dining. DragonRidge Country Club",
+      "address": "552 South Stephanie Street, Henderson, NV 89012 DragonRidge Country Club",
+      "city": "Henderson DragonRidge Country Club",
+      "region": "Golf",
+      "hours": "Dragon Grille: Tue-Sun 7:00 AM - 8:00 PM (Breakfast 7-2, Lunch/Dinner 10-8), Sat-Sun Brunch 9:00 AM - 2:00 PM; Tennis & Athletic Center: Mon-Fri 5:30 AM - 8:00 PM, Sat-Sun 7:00 AM - 6:00 PM DragonRidge Country Club, DragonRidge Country Club",
+      "days_open": "Tuesday - Sunday (Clubhouse/Dining), Daily (Tennis/Athletic Center) DragonRidge Country Club, DragonRidge Country Club",
+      "admission": "Private; Membership options include Full Golf and Social (Fees available upon inquiry) DragonRidge Country Club",
+      "website": "https://dragonridge.com",
+      "phone": "(702) 614-4444 DragonRidge Country Club",
+      "image_url": "https://dragonridge.com/wp-content/uploads/2021/04/DragonRidge-Logo-New.png",
+      "highlights": [
+        "'18-hole championship golf course designed by Jay Morrish and David Druzisky [LINKS Magazine', 'Full-service athletic center with fitness classes, sauna, and steam rooms DragonRidge Country Club', 'Five championship tennis courts and a vibrant tennis program DragonRidge Country Club', 'Award-winning dining options including The Montrose Steakhouse and Onyx Bar DragonRidge Country Club', 'Stunning event and wedding spaces with panoramic Las Vegas Strip views DragonRidge Country Club', 'Located within the exclusive MacDonald Highlands gated community MacDonald Highlands']"
+      ],
+      "tips": "Membership is required for full access to golf and social amenities; booking a tour is recommended for prospective members. DragonRidge Country Club",
+      "nearby": "MacDonald Highlands, Sunset Station, Hoover Dam, Las Vegas Strip MacDonald Highlands, Sunset Station"
+    }
+  ]
+}
