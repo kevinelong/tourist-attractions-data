@@ -1,0 +1,1554 @@
+{
+  "title": "Pierre, SD — Tourist Attractions",
+  "generated": "2026-05-27T04:20:21Z",
+  "total_attractions": 81,
+  "regions_covered": [
+    "pierre",
+    "fort pierre",
+    "hughes county",
+    "downtown pierre",
+    "oahe",
+    "missouri river pierre"
+  ],
+  "attractions": [
+    {
+      "name": "Big Bend Dam (Lake Sharpe Project)",
+      "category": "Landmark",
+      "description": "Big Bend Dam is a major embankment rolled-earth dam on the Missouri River that creates Lake Sharpe, providing flood control, hydropower, and recreation. Named for the massive 25-mile meander of the river seven miles upstream, it is the last of the Missouri River dams constructed under the Pick-Sloan Plan. Wikipedia, USACE Omaha District",
+      "address": "33573 North Shore Road",
+      "city": "Fort Thompson",
+      "region": "Buffalo / Lyman Counties (near Chamberlain and Pierre)",
+      "hours": "Grounds: Open 24 hours; Tours: By special appointment only (call 605-245-2255). USACE Omaha District",
+      "days_open": "Grounds: Daily; Tours: Weekdays, Weekends, & Holidays (by appointment). USACE Omaha District",
+      "admission": "Free (general access); special tours by appointment (call 605-245-2255 for details). USACE Omaha District",
+      "website": "https://www.nwo.usace.army.mil/Missions/Dam-and-Lake-Projects/Missouri-River-Dams/Big-Bend/",
+      "phone": "(605) 245-2255 (Tours); (605) 245-1800 (Information)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/USACE_Fort_Thompson_Big_Bend_Dam.jpg",
+      "highlights": [
+        "'One of the six large federal dams on the upper Missouri River. [USACE Omaha District', 'Creates Lake Sharpe, which stretches 80 miles to Pierre, SD. USACE Omaha District', 'Hydroelectric powerhouse with 8 turbines generating significant regional power. USACE Omaha District', 'Rich historical region home to the Crow Creek and Lower Brule Sioux Tribes. Wikipedia', 'Excellent fishing for walleye, sauger, and smallmouth bass in the tailwaters. USACE Omaha District', 'Abundant wildlife viewing, including tribal bison herds and waterfowl. Recreation.gov']"
+      ],
+      "tips": "Arrive 15 minutes early for powerhouse tours; visitors over 18 must present a government-issued photo ID. Fishing is most active from early May to late June and mid-September through November. USACE Omaha District",
+      "nearby": "Left Tailrace Campground, Spirit of the Circle Monument, Crow Creek Reservation, Lower Brule Sioux Reservation, Fort Thompson Recreation Area. HMdb, Recreation.gov"
+    },
+    {
+      "name": "Farm Island Recreation Area",
+      "category": "Park",
+      "description": "Located east of Pierre, Farm Island Recreation Area is a popular 1,800-acre park that attracts campers, swimmers, hikers, and bird watchers with its easy access to Lake Sharpe and the Missouri River. The park features an island nature area with eight miles of trails that serve as an outdoor classroom, highlighting its unique flora and fauna. Historically, the area is significant for its ties to the Lewis and Clark expedition, which is commemorated at the park's visitor center (Official Website, Missouri River Tourism).",
+      "address": "1301 Farm Island Road, Pierre, SD 57501",
+      "city": "Pierre",
+      "region": "Central South Dakota (Hughes County)",
+      "hours": "Park: Open year-round. Office: Sept-April: Mon-Fri 8am-4:30pm; May-Labor Day: Mon-Sun 8am-11pm (Pierre Area Chamber of Commerce)",
+      "days_open": "Daily (Official Website)",
+      "admission": "Daily: $10 for residents, $15 for nonresidents; Annual: $40 for residents, $60 for nonresidents (Official Website)",
+      "website": "https://gfp.sd.gov/parks/detail/farm-island-recreation-area/",
+      "phone": "605.773.2885 (Official Website)",
+      "image_url": "https://gfp.sd.gov/userdocs/2017FarmIsland61.JPG",
+      "highlights": [
+        "'8 miles of hiking and biking trails winding through an island nature area ([Official Website)', 'Excellent fishing opportunities in Hipple Lake for species like walleye and largemouth bass (Outdoorsy)', 'Historic site of the original Fort Sully with interpretive exhibits at the visitor center (Travel Lens)', 'Diverse wildlife viewing, including common sightings of deer and migratory waterfowl (Official Website)', 'Year-round recreation including cross-country skiing and snowshoeing in winter (Official Website)', 'Camping facilities featuring 90 campsites and 4 cabins with modern amenities (Official Website)']"
+      ],
+      "tips": "Plan your visit between May and September to take full advantage of flush toilets and shower facilities, as these may close during the off-season (Oct 1 - April 30). For those staying longer than two days, purchasing an annual South Dakota state park pass is more cost-effective than daily fees. Hikers should utilize the nature observation blind for quiet bird watching, and campers are encouraged to make reservations well in advance during peak summer months (Official Website, Outdoorsy).",
+      "nearby": "South Dakota Cultural Heritage Center, Verendrye Museum, Fort Pierre Depot and Museum, Oahe Downstream Recreation Area, and LaFramboise Island Nature Area (Outdoorsy)"
+    },
+    {
+      "name": "Flaming Fountain Memorial",
+      "category": "Landmark",
+      "description": "The Flaming Fountain Memorial is a unique monument located on the shores of Capitol Lake in Pierre, dedicated to South Dakota veterans of all wars. It features a perpetually burning natural gas flame fueled by an artesian well that also provides warm geothermal water to the fountain. This iconic site serves as a centerpiece for the state's veteran memorials and is a peaceful place for reflection. (PBS, VacationIdea)",
+      "address": "500 East Capitol Avenue",
+      "city": "Pierre",
+      "region": "Capitol Grounds / Capitol Lake",
+      "hours": "Open 24 hours (Outdoor memorial on public grounds; nearby Capitol building open 8:00 AM – 5:00 PM daily) (Pierre Area Chamber of Commerce)",
+      "days_open": "Daily (Pierre Area Chamber of Commerce)",
+      "admission": "Free (Tripadvisor)",
+      "website": "https://sd.gov",
+      "phone": "605-773-3688 (Pierre Area Chamber of Commerce), 605-773-3765 (VacationIdea)",
+      "image_url": "https://tile.loc.gov/storage-services/service/pnp/highsm/69300/69323v.jpg",
+      "highlights": [
+        "'Dedicated as a tribute to South Dakota veterans who served in the U.S. military ([Wikipedia)', \"Features a rare 'fire and water' display with a natural gas flame rising from the fountain (Tripadvisor)\", \"Home to the 'Fighting Eagle' statue which specifically honors members of the Sioux Nation (VacationIdea)\", 'The warm geothermal water prevents Capitol Lake from freezing, making it a winter refuge for waterfowl (Pierre Area Chamber of Commerce)', 'Strategically positioned between the World War II, Korean, and Vietnam War memorials (Pierre Area Chamber of Commerce)']"
+      ],
+      "tips": "The best time to view the fountain is at dusk when the flame is most visible against the water. During the winter months, visitors can see steam rising from the warm geothermal water, which attracts large numbers of ducks and geese. (Tripadvisor, Pierre Area Chamber of Commerce)",
+      "nearby": "South Dakota State Capitol, WWII Memorial, Korean War Memorial, Vietnam War Memorial, Fighting Stallions Memorial, Trail of Governors, South Dakota National Guard Museum (Tripadvisor)"
+    },
+    {
+      "name": "Fort Pierre National Grassland",
+      "category": "Park",
+      "description": "The Fort Pierre National Grassland (FPNG) encompasses approximately 116,000 acres of native mixed-grass prairie in central South Dakota. Managed by the U.S. Forest Service, the area features a landscape of gently rolling hills and vast flats that provide critical habitat for diverse wildlife including greater prairie-chickens and sharp-tailed grouse. Visitors can enjoy a variety of outdoor activities such as fishing in earthen dams, upland game hunting, and seasonal birdwatching from specialized viewing blinds (USDA Forest Service, Travel South Dakota).",
+      "address": "1020 North Deadwood Street",
+      "city": "Fort Pierre",
+      "region": "Stanley, Lyman, and Jones counties (Wikipedia)",
+      "hours": "Open 24 hours daily; Ranger District Office: Monday-Friday 8:00 AM - 5:00 PM (Closed 12:00 PM - 1:00 PM) (USDA Forest Service)",
+      "days_open": "Daily (USDA Forest Service)",
+      "admission": "Free (USDA Forest Service)",
+      "website": "https://www.fs.usda.gov/r02/nebraska/recreation/fort-pierre-national-grassland",
+      "phone": "(605) 224-5517 (USDA Forest Service)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Fort_Pierre_Grassland_pond.jpg",
+      "highlights": [
+        "'Viewing prairie-chicken and sharp-tailed grouse mating dances from spring blinds ([USDA Forest Service)', 'Upland gamebird hunting for pheasant, grouse, and prairie-chickens (USDA Forest Service)', 'Fishing for bass, bluegill, and perch in numerous prairie dams (USDA Forest Service)', 'Scenic driving and wildflower viewing along FS Road 227 (USDA Forest Service)', 'Dispersed camping and stargazing in remote, wide-open prairie spaces (Tripadvisor)']"
+      ],
+      "tips": "Stop at the Ranger District office in Fort Pierre to pick up a map before exploring, as roads can be confusing. Be cautious on dirt roads during wet weather as the clay soil becomes extremely slick and treacherous. Carry a full tank of gas as there are no services within the grassland, and always be mindful of rattlesnakes when walking through the prairie (Tripadvisor, USDA Forest Service).",
+      "nearby": "Oahe Dam, Lake Oahe, LaFramboise Island Nature Area, Farm Island Recreation Area, Verendrye Museum, South Dakota State Capitol (Travel South Dakota)"
+    },
+    {
+      "name": "Fort Pierre to Deadwood Historic Trail (Verendrye Museum)",
+      "category": "Landmark",
+      "description": "The Fort Pierre to Deadwood Historic Trail is a 200-mile historic route that served as a vital transportation link for prospectors and freight during the Black Hills Gold Rush between 1876 and 1908. Today, the trail is commemorated by over 250 handmade wooden markers erected by local ranchers Roy and Edith Norman that highlight significant historical sites, post offices, and stage stations across the South Dakota prairie. It is maintained and interpreted through the Verendrye Museum and local historic preservation commissions. (Verendrye Museum, Fort Pierre Official Website)",
+      "address": "115 Deadwood Street",
+      "city": "Fort Pierre",
+      "region": "Pierre / Fort Pierre Area",
+      "hours": "Mon-Sat: 9:00 am - 4:00 pm, Sun: 11:00 am - 4:00 pm (Memorial Day - Labor Day) (Fort Pierre Official Website)",
+      "days_open": "Daily (Memorial Day through Labor Day) (Fort Pierre Official Website)",
+      "admission": "Free (Verendrye Museum)",
+      "website": "https://www.verendryemuseum.com/historic-trails/",
+      "phone": "(605) 223-7697 (Verendrye Museum)",
+      "image_url": "https://www.verendryemuseum.com/wp-content/uploads/2020/11/museum-outside-img-web.jpg",
+      "highlights": [
+        "'Marked by 52 original handmade wooden signs erected every two miles by Roy and Edith Norman. ([Historic Pierre Fort Pierre)', 'Follows an old buffalo trail used by Native Americans, fur traders, and the U.S. Army. (Fort Pierre Official Website)', \"Once served as the 'Interstate 90 of its day,' transporting up to 20,000 pounds of freight per wagon train. (South Dakota State News)\", \"The trail's start is marked by a sign near the Colonel Waldron Missouri River Bridge in Fort Pierre. (Lewis and Clark Trail Experience)\", 'Features a 14-foot detailed map display at the South Dakota Cultural Heritage Center. (South Dakota State News)', 'Includes a series of interpretive signs that face east to cater to westbound historic travelers. (Willowtrail Farm)']"
+      ],
+      "tips": "Look for the handmade wooden signs along Highway 34 heading west from Fort Pierre toward the Black Hills. Visit the Verendrye Museum or the Log Cabin Visitor Center in Fort Pierre to pick up a physical copy of the trail map. Many signs are located on private land but are visible from the public right-of-way. (Historic Pierre Fort Pierre, Willowtrail Farm)",
+      "nearby": "Verendrye Monument, Fort Pierre Depot Museum, Casey Tibbs Rodeo Center, LaFramboise Island Nature Area, South Dakota State Capitol. (Lewis and Clark Trail Experience)"
+    },
+    {
+      "name": "George S. Mickelson Trail (also known as Governor George S. Mickelson Trail)",
+      "category": "Park",
+      "description": "The George S. Mickelson Trail is a 109-mile multi-use recreational trail that winds through the heart of South Dakota's scenic Black Hills. Following an abandoned railroad corridor, the trail features gentle grades, over 100 historic bridges, and four rock tunnels, offering a world-class experience for cyclists, hikers, and equestrians. South Dakota Game, Fish, and Parks, Mickelson Trail Affiliates",
+      "address": "11361 Nevada Gulch Road",
+      "city": "Lead",
+      "region": "Black Hills (Office located in Pierre, SD area at 523 E. Capitol Ave) South Dakota Game, Fish, and Parks",
+      "hours": "Open year-round from dawn to dusk South Dakota Game, Fish, and Parks",
+      "days_open": "Daily (Year-round) South Dakota Game, Fish, and Parks",
+      "admission": "$5 daily trail pass; $20 annual trail pass (required for users age 12 and older) South Dakota Game, Fish, and Parks",
+      "website": "https://gfp.sd.gov/parks/detail/george-s--mickelson-trail/",
+      "phone": "605-584-3896 South Dakota Game, Fish, and Parks",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Mickelson_Trail_near_Rochford.jpg/1200px-Mickelson_Trail_near_Rochford.jpg",
+      "highlights": [
+        "'109 miles of scenic crushed limestone path traversing the Black Hills [South Dakota Game, Fish, and Parks', 'Over 100 converted railroad bridges and 4 historic rock tunnels Mickelson Trail Affiliates', 'Inducted into the national Rail-Trail Hall of Fame in 2010 Rails-to-Trails Conservancy', 'Connects historic mining towns including Deadwood, Hill City, and Custer South Dakota Magazine']"
+      ],
+      "tips": "Carry plenty of water as cell phone coverage is poor or non-existent along much of the trail; e-bikes are limited to Class 1; trail passes must be carried at all times for those 12 and older; respect private property sections where use is restricted to the trail only South Dakota Game, Fish, and Parks",
+      "nearby": "Mount Rushmore National Memorial, Custer State Park, Crazy Horse Memorial, Historic Deadwood, Homestake Mine Visitor Center Tripadvisor"
+    },
+    {
+      "name": "Griffin Park",
+      "category": "Park",
+      "description": "Griffin Park is a premier recreational destination located along the scenic Missouri River in Pierre, South Dakota. This expansive park serves as a central hub for outdoor activities, featuring a newly constructed modern outdoor pool complex, extensive sports courts, and a year-round campground. It is a key stop along the Lewis & Clark Trail, offering beautiful views and diverse amenities for both residents and visitors.",
+      "address": "800 E Missouri Avenue",
+      "city": "Pierre",
+      "region": "Downtown Pierre / Hughes County",
+      "hours": "Park: Open daily year-round; Campground: Open 24/7; Outdoor Pool (Summer Season): Mon-Fri 6:30 AM - 9:00 AM & 1:00 PM - 8:45 PM (with breaks), Sat-Sun 12:00 PM - 8:00 PM.",
+      "days_open": "Open Daily",
+      "admission": "Free for park entry; Campground: $25/night (May-Oct), $16/night (Nov-Apr); Outdoor Pool: Free for children 3 and under, $10 for individuals under 48\", $12 for individuals 48\" or taller.",
+      "website": "https://www.cityofpierre.org/611/Griffin-Park",
+      "phone": "605-773-7407 (Parks Department), 605-773-2775 (Pool)",
+      "image_url": "https://www.cityofpierre.org/ImageRepository/Document?documentID=5622",
+      "highlights": [
+        "['New Outdoor Pool complex featuring a lazy river, slides, and zero-depth entry', 'Eight newly resurfaced tennis courts and professional pickleball facilities', 'Year-round RV campground with electrical hookups and dump station', 'Access to the Lewis & Clark Trail for walking and biking along the river', 'Comprehensive sports facilities including a skate park and sand volleyball courts', 'On-site community room and a reinforced storm shelter for public safety']"
+      ],
+      "tips": "RV travelers with large rigs should enter the park via Washington Avenue to avoid a low-clearance bridge (11') on Hwy 83. The campground operates on a first-come, first-served honor system, so visitors should look for the fee deposit box upon arrival. Early mornings and late afternoons are ideal for using the walking paths and avoiding the peak midday heat.",
+      "nearby": "Down's Marina, LaFramboise Island Nature Area, South Dakota State Capitol, Missouri River trail system, South Dakota National Guard Museum."
+    },
+    {
+      "name": "LaFramboise Island Nature Area",
+      "category": "Park",
+      "description": "LaFramboise Island Nature Area is a unique 555-acre wilderness along the Missouri River covered in trees and meadows. It offers a genuine river-bottom experience with opportunities for hiking, biking, birdwatching, and fishing, all while maintaining its historical significance as a site mentioned in the Lewis and Clark journals (South Dakota Game, Fish, and Parks, Map of US).",
+      "address": "LaFramboise Island Trail (ViaTravelers)",
+      "city": "Pierre (South Dakota Game, Fish, and Parks)",
+      "region": "Hughes County (Wikipedia)",
+      "hours": "Monday: Open 24 hours, Tuesday: Open 24 hours, Wednesday: Open 24 hours, Thursday: Open 24 hours, Friday: Open 24 hours, Saturday: Open 24 hours, Sunday: Open 24 hours (Water systems may be closed Oct 1 - April 30) (South Dakota Game, Fish, and Parks, Evendo)",
+      "days_open": "Daily (South Dakota Game, Fish, and Parks)",
+      "admission": "Free (South Dakota Game, Fish, and Parks)",
+      "website": "https://gfp.sd.gov/parks/detail/laframboise-island-nature-area/",
+      "phone": "605.773.2885 (South Dakota Game, Fish, and Parks)",
+      "image_url": "https://gfp.sd.gov/userdocs/2017LaFramboise14.JPG",
+      "highlights": [
+        "\"Historically significant site mentioned in Lewis and Clark's 1804 journals ([South Dakota Game, Fish, and Parks).\", 'Prime birdwatching location, featuring wintering bald eagles and neotropical woodland migrants (Fat Birder).', 'Approximately 7 miles of multi-use trails for hiking and mountain biking (National Recreation Trails).', 'Diverse riparian habitat featuring native cottonwoods, cedar, and ash trees (Map of US).', 'River access for fishing, boating, and kayaking with an on-site boat ramp (Travel South Dakota).', 'Conveniently located within Pierre city limits and accessible via a pedestrian causeway (Tripadvisor).']"
+      ],
+      "tips": "Pets must be on a leash from April 1 to September 30, though leashes are optional in winter months as long as the pet is under control. The park is a day-use area only with no camping allowed on the island itself (South Dakota Game, Fish, and Parks).",
+      "nearby": "South Dakota State Capitol, South Dakota Discovery Center, Steamboat Park, Farm Island Recreation Area, South Dakota National Guard Museum (Travel South Dakota, Evendo)"
+    },
+    {
+      "name": "Lake Oahe",
+      "category": "Park",
+      "description": "Lake Oahe is a massive reservoir on the Missouri River, stretching from central South Dakota into North Dakota. It is celebrated as one of the premier fishing destinations in the United States, particularly famous for its abundant walleye, salmon, and smallmouth bass populations. Wikipedia, Pierre Chamber",
+      "address": "20439 Marina Loop Road",
+      "city": "Fort Pierre",
+      "region": "Central South Dakota / Missouri River Region",
+      "hours": "Park: Open year-round; Visitor Center: Mon - Fri 9:00 AM - 4:00 PM SD Missouri River Tourism",
+      "days_open": "Daily",
+      "admission": "Daily: $10 Resident, $15 Nonresident; Annual: $40 Resident, $60 Nonresident; Habitat Stamp (required for fishing): $10 Resident, $25 Nonresident SD GFP, Pierre Chamber",
+      "website": "https://gfp.sd.gov/parks/detail/oahe-downstream-recreation-area/",
+      "phone": "605-223-7722",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Lake_Oahe%2C_SD%2C_winter.jpg",
+      "highlights": [
+        "'Premier walleye fishery with world-class opportunities year-round [Pierre Chamber', 'Only location in South Dakota where Atlantic salmon can be caught Pierre Chamber', 'Features 51 recreation areas along its 2,250 miles of shoreline Wikipedia', \"Home to Oahe Dam, one of the world's largest earth-fill dams Tripadvisor\", 'Excellent for spearfishing and bowfishing from May 1 to March 31 Pierre Chamber', 'Supports a wide variety of species including northern pike, catfish, and smallmouth bass Pierre Chamber']"
+      ],
+      "tips": "Wear long pants to protect against black flies; account for high winds by adding 10mph to forecasts; use deep 'V' hull boats at least 18ft long for safety; follow 'Clean, Drain, Dry' protocols to prevent invasive species. Pierre Chamber",
+      "nearby": "Oahe Dam Visitor Center, Fort Pierre National Grassland, Capitol Lake, Missouri River SD Missouri River Tourism, Pierre Chamber"
+    },
+    {
+      "name": "Oahe Dam and Reservoir",
+      "category": "Landmark",
+      "description": "The Oahe Dam is one of the largest earth-rolled dams in the world, creating Lake Oahe, the fourth-largest man-made reservoir in the United States. It provides significant benefits including flood control, hydroelectric power generation, irrigation, and diverse recreational opportunities for over two million annual visitors. (US Army Corps of Engineers, Travel South Dakota)",
+      "address": "28563 Powerhouse Road, Pierre, SD 57501",
+      "city": "Pierre",
+      "region": "Hughes County / Central South Dakota",
+      "hours": "Summer (Memorial Day - Labor Day): Mon-Fri 9:00 AM - 5:00 PM; Winter: Mon-Fri 10:00 AM - 4:00 PM; Summer Powerhouse Tours: Wed-Sat at 1:00 PM (Pierre Area Chamber of Commerce, US Army Corps of Engineers)",
+      "days_open": "Monday-Friday (Visitor Center); Wednesday-Saturday (Summer Tours) (Pierre Area Chamber of Commerce, US Army Corps of Engineers)",
+      "admission": "Free (US Army Corps of Engineers, Tripadvisor)",
+      "website": "https://www.nwo.usace.army.mil/Missions/Dam-and-Lake-Projects/Missouri-River-Dams/Oahe/",
+      "phone": "(605) 224-4617 (US Army Corps of Engineers)",
+      "image_url": "https://media.defense.gov/2018/Sep/06/2001962419/-1/-1/0/180717-A-RO090-401.JPG",
+      "highlights": [
+        "['Free guided tours of the powerhouse and dam (seasonal)', 'Interactive exhibits at the Oahe Dam Visitor Center', 'Historic Oahe Chapel located adjacent to the visitor center', 'World-class fishing and boating on Lake Oahe', 'Bald eagle viewing, especially during winter months below the dam', 'Scenic overlooks providing panoramic views of the Missouri River valley']"
+      ],
+      "tips": "Visitors over 18 must show a government-issued photo ID for powerhouse tours. Photography is strictly prohibited inside the dam and powerhouse, and tours may be cancelled without notice due to operational needs. (US Army Corps of Engineers, Tripadvisor)",
+      "nearby": "Oahe Chapel, Oahe Downstream Recreation Area, South Dakota State Capitol, Missouri River Tourism Center (Travel South Dakota, US Army Corps of Engineers)"
+    },
+    {
+      "name": "Oahe Downstream Recreation Area (South Dakota Game, Fish, and Parks)",
+      "category": "Park",
+      "description": "Oahe Downstream Recreation Area features three campgrounds providing a wide variety of recreational opportunities, from boating and hiking to disc golf. Situated on one of the largest constructed reservoirs in the United States, the park connects the Missouri River landscape between the capital cities of South Dakota and North Dakota (South Dakota Game, Fish, and Parks).",
+      "address": "20439 Marina Loop Road, Fort Pierre, SD 57532 (South Dakota Game, Fish, and Parks)",
+      "city": "Fort Pierre (South Dakota Game, Fish, and Parks)",
+      "region": "Central South Dakota / Pierre Area (South Dakota Game, Fish, and Parks)",
+      "hours": "Park: 6 a.m. - 11 p.m. daily; Visitor Center (Summer): Monday - Saturday 9 a.m. - 12 p.m. & 1 p.m. - 4 p.m. (South Dakota Game, Fish, and Parks, U.S. Army Corps of Engineers)",
+      "days_open": "Daily (Park); Monday - Saturday (Visitor Center in Summer) (U.S. Army Corps of Engineers)",
+      "admission": "Daily: $10 for residents, $15 for nonresidents; Annual: $40 for residents, $60 for nonresidents (South Dakota Game, Fish, and Parks)",
+      "website": "https://gfp.sd.gov/parks/detail/oahe-downstream-recreation-area/",
+      "phone": "605.223.7722 (South Dakota Game, Fish, and Parks)",
+      "image_url": "https://gfp.sd.gov/userdocs/2017oahedownstream19.jpg",
+      "highlights": [
+        "'Winter bald eagle viewing in the cottonwood trees below the dam ([South Dakota Game, Fish, and Parks)', 'Interactive South Dakota prairie butterfly garden featuring 17 native plant species (South Dakota Game, Fish, and Parks)', 'Cottonwood Path, a designated National Recreation Trail for hiking and biking (South Dakota Game, Fish, and Parks)', 'Large campgrounds with over 200 sites, modern cabins, and a group lodge (South Dakota Game, Fish, and Parks)', 'Diverse sports facilities including two disc golf courses and an archery range (South Dakota Game, Fish, and Parks)', 'Extensive Off-Highway Vehicle (ORV) area with 400 acres of hills and bluffs (Pierre Area Chamber of Commerce)']"
+      ],
+      "tips": "Campgrounds 1 and 2 are closed to camping from November 15 through the last Friday of March to protect bald eagle winter roosting sites. Water systems may be shut off between October 1 and April 30, though vault toilets remain open year-round (South Dakota Game, Fish, and Parks). Visitors staying in modern cabins should bring their own bedding and towels (Midwest Lip Rippers).",
+      "nearby": "Oahe Dam, Lewis and Clark National Historic Trail, Farm Island Recreation Area, LaFramboise Island Nature Area, Pierre (State Capital) (The Dyrt)"
+    },
+    {
+      "name": "Oahe Power Surge Fastpitch Tournament",
+      "category": "Entertainment",
+      "description": "The Oahe Power Surge Fastpitch Tournament is a premier amateur youth softball event held annually in Pierre, South Dakota. It hosts dozens of girls' fastpitch teams from across the region, competing in age divisions from 10U to 18U in a multi-day pool and bracket-play format DRGNews, USA Softball of SD.",
+      "address": "S. Buchanan Ave (Oahe Softball Complex)",
+      "city": "Pierre",
+      "region": "Southeast Pierre City of Pierre",
+      "hours": "8:00 AM - 9:00 PM (typical tournament play hours) Alexander City Parks and Rec",
+      "days_open": "Friday, Saturday, Sunday Pierre Area Chamber of Commerce",
+      "admission": "Free for spectators (Team entry fees range from $200 to $400) USA Softball of South Dakota, TournamentMVP",
+      "website": "https://www.oahefastpitch.com/powersurgetournament",
+      "phone": "605-280-7904 USA Softball of South Dakota",
+      "image_url": "https://www.cityofpierre.org/ImageRepository/Document?documentID=1120",
+      "highlights": [
+        "'Competitive play across 10U, 12U, 14U, 16U, and 18U age divisions [USA Softball of South Dakota', 'Sanctioned by USA Softball of South Dakota, ensuring high-quality officiating and rules USA Softball of South Dakota', 'Held at the expansive Oahe Softball Complex, which features nine baseball and softball fields City of Pierre', 'Player of the Game awards presented during preliminary rounds to recognize individual excellence DRGNews', 'Features both pool play for seeding and single-elimination bracket play for championships Yankton Girls Softball Association', 'Hosted by the Oahe Junior Olympic (JO) Softball Association to promote youth sports in the capital city DRGNews']"
+      ],
+      "tips": "Visitors should bring lawn chairs as bleacher seating can fill up quickly. Be sure to stay hydrated and visit the on-site concession stands for snacks and meals between games DRGNews, Facebook.",
+      "nearby": "Missouri River, Steamboat Park, South Dakota State Capitol, LaBarge Park City of Pierre Tripadvisor"
+    },
+    {
+      "name": "Oahe Speedway",
+      "category": "Entertainment",
+      "description": "Oahe Speedway was a premier NHRA-sanctioned quarter-mile drag strip located north of Pierre, South Dakota. Opened in 2005, it served as a major destination for motorsports enthusiasts in the upper Midwest before its permanent closure following the 2020 racing season Oahe Speedway, SouthDakota.com.",
+      "address": "Intersection of SD Hwy 1804 and Spring Creek Road (196th St)",
+      "city": "Pierre",
+      "region": "Hughes County / 14 Miles North of Pierre Oahe Speedway",
+      "hours": "Permanently Closed Oahe Speedway",
+      "days_open": "None (Permanently Closed) Oahe Speedway",
+      "admission": "Free (Permanently Closed since early 2021) Oahe Speedway",
+      "website": "https://www.oahespeedway.com",
+      "phone": "(605) 301-0459 Oahe Speedway",
+      "image_url": "https://www.oahespeedway.com/wp-content/uploads/2018/04/Oahe-Speedway_18_-2.png",
+      "highlights": [
+        "'NHRA-sanctioned quarter-mile asphalt drag strip [Oahe Speedway', 'Nicknamed the \"Dam Fast Track\" for its proximity to the Oahe Dam Oahe Speedway', 'Hosted NHRA West Central Division 5 points series events Oahe Speedway', 'Featured diverse racing classes including Super Pro, Pro, Motorcycle, and Junior Dragsters RacingIn.com', 'Offered \"Street Legal\" nights allowing public participation in drag racing Meetings Today', 'Seating capacity of 850 with additional unlimited space for lawn chairs RacingIn.com']"
+      ],
+      "tips": "The speedway is permanently closed as of 2021; however, its official website remains active as a historical archive for race results and track records Oahe Speedway. For current recreation in the area, visitors should explore the nearby Oahe Downstream Recreation Area GFP SD.",
+      "nearby": "Oahe Dam Travel South Dakota, Oahe Downstream Recreation Area GFP SD, Lake Oahe Travel South Dakota, South Dakota State Capitol Travel South Dakota"
+    },
+    {
+      "name": "Pierre Area Chamber of Commerce Pierre Area Chamber of Commerce",
+      "category": "Chamber Of Commerce",
+      "description": "The Pierre Area Chamber of Commerce is a local association dedicated to promoting growth, prosperity, and the way of life in the lower Oahe region. It serves as a hub for local businesses and individuals, providing quality representation in areas such as government, agriculture, and education to enhance the community's presence in South Dakota. Pierre Area Chamber of Commerce, Dakota at Home",
+      "address": "800 W Dakota Ave, Pierre, SD 57501 Pierre Area Chamber of Commerce",
+      "city": "Pierre Pierre Area Chamber of Commerce",
+      "region": "Lower Oahe Region / Hughes County Dakota at Home",
+      "hours": "Monday: 8:00 AM - 5:00 PM, Tuesday: 8:00 AM - 5:00 PM, Wednesday: 8:00 AM - 5:00 PM, Thursday: 8:00 AM - 5:00 PM, Friday: 8:00 AM - 5:00 PM, Saturday: Closed, Sunday: Closed Pierre Area Chamber of Commerce, Dakota at Home",
+      "days_open": "Monday - Friday Pierre Area Chamber of Commerce",
+      "admission": "Free for visitor center access; annual membership fees for businesses vary Dakota at Home",
+      "website": "https://pierre.org",
+      "phone": "(605) 224-7361 Pierre Area Chamber of Commerce",
+      "image_url": "https://pierre.org/wp-content/uploads/2025/10/Capitol00226-scaled.jpg",
+      "highlights": [
+        "'Operates as the official Visitor Information Center for the Pierre and Fort Pierre areas [Roadside America', 'Hosts major regional events including the Sharpe Showdown Walleye Tournament and Oahe Winter Festival Pierre Area Chamber of Commerce', 'Offers professional development programs such as Leadership Pierre and Capital Area Networking Pierre Area Chamber of Commerce', 'Maintains a comprehensive member directory of over 400 local businesses Pierre Area Chamber of Commerce', 'Sells exclusive \"Pierre Swag\" including local stickers, postcards, and accessories at their Dakota Ave location Pierre Area Chamber of Commerce']"
+      ],
+      "tips": "Visitors can stop by the office to pick up a free official Pierre/Fort Pierre Visitor Guide and maps for the Trail of Governors statue walk. Check the community calendar on their website for upcoming local festivals and tournaments. Pierre Area Chamber of Commerce, Roadside America",
+      "nearby": "South Dakota State Capitol, Trail of Governors, South Dakota National Guard Museum, South Dakota Discovery Center, Steamboat Park, LaFramboise Island Nature Area Tripadvisor, Travel South Dakota"
+    },
+    {
+      "name": "Rocky Mountain Cup Hockey Pierre",
+      "category": "Entertainment",
+      "description": "The Rocky Mountain Cup in Pierre is a youth ice hockey tournament hosted by the Oahe Hockey Association at the Oahe Expo Center. The event brings together youth teams from across the region to compete in various age divisions, showcasing local talent and promoting youth sports in South Dakota. Oahe Hockey Association, Everything South Dakota",
+      "address": "320 S Casey Tibbs St, Fort Pierre, SD 57532",
+      "city": "Pierre/Fort Pierre",
+      "region": "Central South Dakota / Oahe Area",
+      "hours": "Friday: 9:00 AM - 9:00 PM, Saturday: 8:00 AM - 9:00 PM, Sunday: 8:00 AM - 4:00 PM (Varies by tournament schedule) Oahe Hockey Association",
+      "days_open": "Friday - Sunday (Tournament dates) Oahe Hockey Association",
+      "admission": "Free (Tournament entry fees apply for participating teams) Oahe Hockey Association, Rocky Mountain Hockey Federation",
+      "website": "https://www.oahehockey.org",
+      "phone": "(605) 224-6627 Everything South Dakota",
+      "image_url": "https://www.oahehockey.org/images/logo.png",
+      "highlights": [
+        "['Hosted at the Oahe Expo Center in Fort Pierre', 'Features youth hockey divisions including PeeWee and Bantam levels', 'Organized by the Oahe Hockey Association (home of the Pierre Capitals)', 'Attracts teams from South Dakota and neighboring Rocky Mountain region states', 'Part of the regional youth hockey circuit alongside events like the Centennial Cup']"
+      ],
+      "tips": "Dress warmly as the Oahe Expo Center is an ice arena; check the Oahe Hockey Association website for the specific game schedule as times change annually. Oahe Hockey Association",
+      "nearby": "Casey Tibbs South Dakota Rodeo Center, Verendrye Museum, Fischers Lilly Park, South Dakota State Capitol Everything South Dakota"
+    },
+    {
+      "name": "South Dakota Cultural Heritage Center (Museum of the South Dakota State Historical Society)",
+      "category": "Museum",
+      "description": "The South Dakota Cultural Heritage Center is the headquarters of the South Dakota State Historical Society, featuring an award-winning museum that chronicles the state's rich history from early Native American cultures to the 21st century. The 63,000-square-foot facility is unique for its underground design, built into a hillside to resemble traditional earth-berm lodges of the Arikara people and covered with native prairie sod. (South Dakota State Historical Society, SAH Archipedia)",
+      "address": "900 Governors Drive",
+      "city": "Pierre",
+      "region": "Central South Dakota / Hughes County",
+      "hours": "Monday - Saturday: 9:00 AM - 4:30 PM (extended to 6:30 PM in summer); Sundays & Holidays: 1:00 PM - 4:30 PM (South Dakota State News, Tripadvisor)",
+      "days_open": "Monday - Sunday (7 days a week) (South Dakota State Historical Society, Wikipedia)",
+      "admission": "Free for South Dakota residents and all children under 18; Out-of-state adults (18-59): $8 ($7 for AAA members); Out-of-state seniors (60+): $6; Adult tour groups: $5 per person (South Dakota State News, DRGNews)",
+      "website": "https://history.sd.gov/museum/default.aspx",
+      "phone": "(605) 773-3458",
+      "image_url": "https://history.sd.gov/museum/images/remodel/CHCDrawing.jpg",
+      "highlights": [
+        "'World-class museum exhibits covering South Dakota history from Native American tribes to modern times ([Travel South Dakota)', 'Verendrye Plate, one of the most significant historical finds in the state, discovered in 1913 (Travel South Dakota)', 'Extensive collection of Lakota Sioux artifacts and pioneer era objects (Tripadvisor)', 'State Archives research facility housing historical records and documents (South Dakota State Historical Society)', 'Heritage Store featuring South Dakota-made gifts and souvenirs (Travel South Dakota)', 'Unique underground architecture blending into the natural prairie landscape (Wikipedia)']"
+      ],
+      "tips": "The museum is currently undergoing a major renovation; while some areas like the Archives are open by appointment, the main museum galleries are scheduled for a partial reopening on July 1, 2026. Be sure to visit the Heritage Store, which often remains open during construction periods at the State Capitol nearby. (South Dakota State Historical Society, Travel South Dakota)",
+      "nearby": "South Dakota State Capitol, Trail of Governors, Flaming Fountain, South Dakota National Guard Museum, South Dakota Discovery Center, LaFramboise Island Nature Area (Travel South Dakota, Tripadvisor)"
+    },
+    {
+      "name": "South Dakota Discovery Center",
+      "category": "Museum",
+      "description": "The South Dakota Discovery Center delivers hands-on learning experiences about science, technology, engineering, and math (STEM) that create curiosity, excitement, and lifelong STEM exploration. Housed in a historic 1933 power plant, the center features over 60 interactive exhibits designed to engage visitors of all ages in scientific discovery. Source",
+      "address": "805 W Sioux Ave, Pierre, SD 57501",
+      "city": "Pierre",
+      "region": "Pierre Area / Central South Dakota",
+      "hours": "Summer (May 1-Aug 31): Mon-Sat 10:00am-5:00pm, Sun 1:00pm-5:00pm. Winter (Sep 1-Apr 30): Tue-Fri 1:00pm-5:00pm, Sat 10:00am-5:00pm, Sun 1:00pm-5:00pm, Mon Closed. Source",
+      "days_open": "Summer (May 1-Aug 31): Daily; Winter (Sep 1-Apr 30): Tuesday through Sunday. Source",
+      "admission": "$8.00 per person (ages 3-64); $6.00 for active military, veterans, seniors (65+), and AAA members; Free for children under 2; Free for SDDC Members and ASTC Passport Program members. Source",
+      "website": "https://sd-discovery.org",
+      "phone": "(605) 224-8295",
+      "image_url": "https://sd-discovery.org/photos/Exhibits_09082025154513.PNG",
+      "highlights": [
+        "'Over 60 hands-on STEM exhibits including the Anti-Gravity Mirror and Ball Race.', 'Discovery Town, an interactive area where children can explore various STEM careers. [Source', 'Historic building: The center is located in the original 1933 Pierre Power Plant. Source', 'Planetarium shows offered on select Saturdays throughout the month. Source', \"Special exhibits like 'Lunar Life: Destination Mars' and 'Native Waters: Sharing the Source'. Source\"]"
+      ],
+      "tips": "Check the official calendar for 'Free Exhibit Hall Days' sponsored by local organizations. Visitors typically spend 1 to 3 hours exploring the interactive displays. Membership includes reciprocal admission to over 500 science centers worldwide through the ASTC Travel Passport. Source",
+      "nearby": "South Dakota State Capitol, South Dakota National Guard Museum, Trail of Governors, Cultural Heritage Center, LaFramboise Island Nature Area. Source"
+    },
+    {
+      "name": "South Dakota National Guard Museum (Official Website)",
+      "category": "Museum",
+      "description": "The South Dakota National Guard Museum preserves the history and heritage of the Dakota Militia and the South Dakota Army and Air National Guard from 1861 to the present day (Official Website). It features a wide array of military equipment, relics, and memorabilia, including large outdoor displays of tanks and aircraft (South Dakota National Guard Enlisted Association). The museum also serves an educational role, teaching the public about the contributions of South Dakota guardsmen during peace and war (Travel South Dakota).",
+      "address": "301 East Dakota Avenue, Pierre, SD 57501 (Official Website)",
+      "city": "Pierre (Official Website)",
+      "region": "Central South Dakota (Travel South Dakota)",
+      "hours": "Monday: 9:00 AM - 4:00 PM, Tuesday: 9:00 AM - 4:00 PM, Wednesday: 9:00 AM - 4:00 PM, Thursday: 9:00 AM - 4:00 PM, Friday: 9:00 AM - 4:00 PM, Saturday: Closed, Sunday: Closed (Official Website)",
+      "days_open": "Monday through Friday (Official Website)",
+      "admission": "Free (Tripadvisor)",
+      "website": "https://sdnationalguardmuseum.sd.gov",
+      "phone": "(605) 773-2475 (National Guard Bureau)",
+      "image_url": "https://www.sd.gov/NGMuseum-01.jpg",
+      "highlights": [
+        "'Outdoor display featuring an A-7D Corsair II jet, Sherman tank, and anti-aircraft guns ([South Dakota National Guard Enlisted Association).', 'A collection of seven large binders detailing the lives of every South Dakotan who died in WWII (Tripadvisor).', 'Housed in a 1941 Art Deco style \"Truck and Gun Shed,\" the only remaining one of its kind in the state (Historic Pierre and Fort Pierre).', 'Artifacts ranging from the 1860s Dakota Militia to modern equipment used in Operation Enduring Freedom (Official Website).', 'One of only 20 authorized National Guard museums in the United States (South Dakota National Guard Enlisted Association).']"
+      ],
+      "tips": "Visitors should allow 1-2 hours to explore both the interior galleries and the exterior equipment displays (Tripadvisor). While admission is free, donations are encouraged to support the preservation of local military history (Official Website). The museum is closed on weekends and major holidays (Official Website).",
+      "nearby": "South Dakota State Capitol, Fighting Stallions Memorial, South Dakota Discovery Center, Cultural Heritage Center, and LaFramboise Island Nature Area (Travel South Dakota)."
+    },
+    {
+      "name": "South Dakota State Capitol",
+      "category": "Landmark",
+      "description": "The South Dakota State Capitol, completed in 1910, is a stunning Greek Revival building featuring a 96-foot dome and intricate terrazzo tile floors. It serves as the seat of government for South Dakota and houses the State Legislature and the Governor's offices.",
+      "address": "500 East Capitol Avenue, Pierre, SD 57501-5070",
+      "city": "Pierre",
+      "region": "Central Region / State Capitol Grounds",
+      "hours": "Daily: 8:00 AM – 5:00 PM; Extended hours (8:00 AM – 10:00 PM) from the Wednesday before Thanksgiving through the end of the Legislative Session.",
+      "days_open": "Daily (Monday - Sunday)",
+      "admission": "Free",
+      "website": "https://sd.gov/bhra?id=cs_kb_article_view&sysparm_article=KB0044719",
+      "phone": "605-773-3688",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/South_Dakota_State_Capitol.jpg",
+      "highlights": [
+        "['Intricate terrazzo tile floors with 66 \"hidden\" blue tiles left by Italian artists', 'The 96-foot rotunda dome featuring sixteen images of the Tree of Life', 'The First Lady Gown Collection featuring miniature replicas of inaugural gowns', 'Flaming Fountain Memorial, a perpetual natural gas flame honoring veterans', 'Trail of Governors featuring life-sized bronze statues of former state leaders on the grounds', 'Capitol Lake and surrounding memorials including the Fighting Stallions Memorial and WWII Memorial']"
+      ],
+      "tips": "Self-guided tour booklets are available for independent exploration, and guided tours can be scheduled 48 hours in advance for groups. Don't forget to look for the \"hidden\" blue tiles in the floor and the upside-down pillar on the second-floor staircase.",
+      "nearby": "South Dakota Cultural Heritage Center, South Dakota National Guard Museum, South Dakota Discovery Center, Oahe Dam, Missouri River Trail"
+    },
+    {
+      "name": "Steamboat Park City of Pierre",
+      "category": "Park",
+      "description": "Steamboat Park is a scenic urban oasis located on the banks of the Missouri River in Pierre, South Dakota. Named for the 19th-century river steamboats that once docked here, the park serves as a hub for outdoor recreation and community events, offering panoramic river views and a peaceful atmosphere. Kupi.com, KAYAK",
+      "address": "Poplar Ave & W Dakota Ave, Pierre, SD 57501 City of Pierre",
+      "city": "Pierre City of Pierre",
+      "region": "Downtown Pierre / Central Pierre KAYAK",
+      "hours": "Monday: Open 24 hours, Tuesday: Open 24 hours, Wednesday: Open 24 hours, Thursday: Open 24 hours, Friday: Open 24 hours, Saturday: Open 24 hours, Sunday: Open 24 hours Kupi.com, Evendo",
+      "days_open": "Daily Kupi.com",
+      "admission": "Free Pierre Area Chamber of Commerce",
+      "website": "https://www.cityofpierre.org/612/Steamboat-Park",
+      "phone": "605-773-7407 City of Pierre",
+      "image_url": "https://www.cityofpierre.org/ImageRepository/Document?documentID=2935",
+      "highlights": [
+        "'18-hole disc golf course [City of Pierre', 'Amphitheater for concerts and outdoor movies Pierre Area Chamber of Commerce', 'Fishing piers and boat ramp access to the Missouri River City of Pierre', 'Paved walking and biking trails along the riverfront KAYAK', 'Picnic shelters with electrical hookups City of Pierre', \"Children's playground and recreational zip line City of Pierre\"]"
+      ],
+      "tips": "The park is an ideal spot for watching sunrises and sunsets over the Missouri River; additionally, check the local calendar for summer concerts at the amphitheater. Kupi.com, Pierre Area Chamber of Commerce",
+      "nearby": "LaFramboise Island Nature Area, South Dakota State Capitol, Fighting Stallions Memorial, South Dakota Discovery Center Travel South Dakota"
+    },
+    {
+      "name": "Street Masters Classic Auto Dam Run (Capital City Classic Car Show)",
+      "category": "Entertainment",
+      "description": "The Street Masters Classic Auto Dam Run is a premier annual automotive event held in Pierre and Fort Pierre, featuring a large collection of classic cars, hot rods, and vintage vehicles. The event is highlighted by a \"Show and Shine\" on the grounds of the South Dakota State Capitol and a community ice cream social at the Oahe Downstream Recreation Area. Pierre Street Masters, GetOutGarage",
+      "address": "500 East Capitol Avenue (Show and Shine location) / 104 E Dakota Ave (Downtown)",
+      "city": "Pierre",
+      "region": "South Dakota",
+      "hours": "Friday (August 7, 2026): 1:00 PM – 3:00 PM (Show and Shine), evening Ice Cream Social; Saturday (August 8, 2026): 9:00 AM – 4:00 PM (Downtown and other events) American Collectors Insurance, GetOutGarage",
+      "days_open": "Friday and Saturday (Annual event) American Collectors Insurance",
+      "admission": "Free for spectators (participant registration fees vary) Pierre Street Masters, GetOutGarage",
+      "website": "https://www.pierrestreetmasters.com",
+      "phone": "(605) 441-3543 Western Pacific Cruise Calendar",
+      "image_url": "https://www.pierrestreetmasters.com/wp-content/uploads/2018/07/2018-Dam-Run-Tshirt-Design.jpg",
+      "highlights": [
+        "['Show and Shine event held on the picturesque grounds of the South Dakota State Capitol.', 'Community Ice Cream Social at the Oahe Downstream Recreation Area.', 'Classic car parade through local campgrounds at Farm Island and Oahe Downstream.', '\"Dam Run\" cruise between the sister cities of Pierre and Fort Pierre.', 'Trophy awards including the \"Camper\\'s Choice\" and People\\'s Choice.']"
+      ],
+      "tips": "The \"Show and Shine\" at the State Capitol is the best time for photography with the cars against the historic architecture. Bring lawn chairs for the evening ice cream social at the park. Pierre Street Masters",
+      "nearby": "South Dakota State Capitol, Oahe Downstream Recreation Area, Farm Island Recreation Area, South Dakota Cultural Heritage Center Fort Pierre Official Website"
+    },
+    {
+      "name": "Sylvan Lake Lodge",
+      "category": "Park",
+      "description": "Rich in history and natural beauty, Sylvan Lake Lodge is the crown jewel of Custer State Park. Situated at an elevation of 6,145 feet, the lodge features rustic architecture suggested by Frank Lloyd Wright and offers breathtaking views of the lake and granite spires. South Dakota Tourism, Custer Resorts",
+      "address": "24572 US Hwy 87, Custer, SD 57730",
+      "city": "Custer",
+      "region": "Black Hills / Custer State Park (Note: Located approximately 160 miles west of Pierre, SD)",
+      "hours": "Breakfast: 7:00 AM – 10:00 AM; Lunch & Lounge: 11:00 AM – 3:00 PM; Dinner: 4:00 PM – 8:00 PM (Lounge open until 9:00 PM). Custer Resorts",
+      "days_open": "Daily (Seasonal: May through October) Custer Resorts",
+      "admission": "Custer State Park Entrance Fee: $25 per vehicle (1-7 days), $20 per motorcycle (1-7 days), $4 per person via motorcoach. Annual passes: $40 for residents, $60 for non-residents. South Dakota GFP, Custer Resorts",
+      "website": "https://www.custerresorts.com/plan-your-trip/sylvan-lake-lodge",
+      "phone": "(605) 574-2561 Custer Resorts",
+      "image_url": "https://d1y6vw2yu4dxpf.cloudfront.net/generalUploads/SLL-Header.jpg",
+      "highlights": [
+        "['World-class hiking trails including the Sunday Gulch Trail and Sylvan Lake Shore Trail.', 'Watersport rentals such as kayaks and paddleboards available on Sylvan Lake.', 'Historic architecture suggested by Frank Lloyd Wright and built in 1937.', 'Stunning views of the granite \"Needles\" formations and Black Elk Peak.', 'Fine dining on the stone veranda featuring locally-sourced ingredients.', 'Featured as a prominent location in the film National Treasure: Book of Secrets.']"
+      ],
+      "tips": "Dinner reservations for the veranda are highly recommended; dogs are welcome for al fresco dining on the stone veranda; arrive early in the morning to secure parking as the area is very popular; motorized watercraft are not permitted on the lake. Custer Resorts",
+      "nearby": "Sylvan Lake, Needles Highway (SD-87), Black Elk Peak, Mount Rushmore National Memorial, Crazy Horse Memorial, Legion Lake Lodge. Custer Resorts"
+    },
+    {
+      "name": "Verendrye Site and Monument (Verendrye National Historic Landmark)",
+      "category": "Landmark",
+      "description": "The Verendrye Monument is a National Historic Landmark marking the spot where French explorers Chevalier and Louis la Verendrye buried a lead plate in 1743 to claim the region for France. Situated on a scenic hilltop, the site offers panoramic views of the Missouri River and the sister cities of Pierre and Fort Pierre. The original lead plate, discovered by schoolchildren in 1913, is now housed at the nearby Cultural Heritage Center. (Travel South Dakota, Fort Pierre Official Site)",
+      "address": "Verendrye Drive (between 2nd & 5th Streets and 2nd & 4th Avenues)",
+      "city": "Fort Pierre (Pierre area)",
+      "region": "Central South Dakota / Stanley County",
+      "hours": "Open daily during daylight hours. (Associated Museum: Mon-Sat 9:00 AM - 4:00 PM, Sun 11:00 AM - 4:00 PM from Memorial Day to Labor Day). (Verendrye Museum, Travel South Dakota)",
+      "days_open": "Daily (Wikipedia)",
+      "admission": "Free (Fort Pierre Official Site)",
+      "website": "https://www.verendryemuseum.com/",
+      "phone": "(605) 223-7697 (Travel South Dakota)",
+      "image_url": "https://www.fortpierre.com/wp-content/uploads/2015/12/verendry-monument.jpg",
+      "highlights": [
+        "'National Historic Landmark marking the 1743 French claim of the Missouri River drainage. ([NPS)', 'Location where local students famously discovered the buried Verendrye Plate in 1913. (Fort Pierre Official Site)', \"Features a four-foot granite monument inscribed with the site's historical significance. (National Geographic)\", 'Offers one of the best overlooks in the area, with views from Oahe Dam down to the city centers. (Missouri River Tourism)', \"Includes interpretive markers detailing the history of the Verendrye brothers' expedition. (HMdb)\"]"
+      ],
+      "tips": "The original lead plate is not located at the monument; visit the South Dakota Cultural Heritage Center in Pierre to see it. Visitors should be cautious of ticks in the grassy areas surrounding the monument. The site is a quick stop, typically taking 5–15 minutes to read the markers and enjoy the view. (Tripadvisor, Travel South Dakota)",
+      "nearby": "Casey Tibbs South Dakota Rodeo Center, Verendrye Museum, Fort Pierre Depot Museum, Log Cabin Visitor Center, Oahe Dam, South Dakota State Capitol (Travel South Dakota)"
+    },
+    {
+      "name": "Waterfront Gallery for the Arts (Search result for Walker Art Center in Pierre, SD area)",
+      "category": "Art Gallery",
+      "description": "Waterfront Gallery for the Arts is a non-profit art space in Pierre, South Dakota, dedicated to promoting the arts in the central South Dakota region. It serves as a unique venue for artists and performers from across the state to exhibit their work and share their creativity with the community. (Waterfront Gallery for the Arts)",
+      "address": "207 E Missouri Ave, Suite 1A, Pierre, SD 57501, USA",
+      "city": "Pierre",
+      "region": "Central South Dakota / Missouri River area",
+      "hours": "Wednesday: 11:00 AM – 4:00 PM, Thursday: 11:00 AM – 4:00 PM, Saturday: 11:00 AM – 2:00 PM (Other days by appointment) (Waterfront Gallery for the Arts)",
+      "days_open": "Wednesday, Thursday, Saturday (and by appointment) (Waterfront Gallery for the Arts)",
+      "admission": "Free (Waterfront Gallery for the Arts)",
+      "website": "https://www.waterfrontgalleryforthearts.com",
+      "phone": "605-494-1004",
+      "image_url": "https://static.wixstatic.com/media/b6d60c_7a0307849e7545939f4e2c60c918a002~mv2.jpg",
+      "highlights": [
+        "[\"Host of the Short Grass Arts Council's Annual Community Art Show.\", 'Monthly \"Second Saturdays Art Market\" featuring local artisans and food trucks.', '\"Mindfulness Mondays\" sessions with crystal singing bowl sound baths and arts activities.', 'Venue for touring exhibitions like \"I Believe II: Arts & Incarceration\".', 'Located in the Waterfront Plaza with scenic views of the Missouri River.', 'Showcases diverse artistic disciplines from both seasoned and developing local artists.']"
+      ],
+      "tips": "Visit during the monthly \"Second Saturdays Art Market\" for a lively outdoor experience with local vendors. If you wish to visit outside of regular gallery hours, you can schedule a private viewing by contacting the gallery director in advance. (Waterfront Gallery for the Arts)",
+      "nearby": "Missouri River, South Dakota State Capitol, Trail of Governors, South Dakota Cultural Heritage Center, Casey Tibbs South Dakota Rodeo Center, Steamboat Park (South Dakota Department of Tourism)"
+    },
+    {
+      "name": "Dignity of Earth and Sky, Wikipedia",
+      "category": "Landmark",
+      "description": "Dignity of Earth and Sky is a stunning 50-foot-tall stainless steel statue designed by sculptor Dale Claude Lamphere to honor the cultures of the Lakota and Dakota people. The monument depicts an Indigenous woman in traditional Plains-style dress receiving a star quilt, featuring 128 moving blue diamonds that glitter in the sun and ripple in the wind, Travel South Dakota, Wikipedia.",
+      "address": "I-90 Mile Marker 264.4, Chamberlain, SD 57325, Travel South Dakota",
+      "city": "Chamberlain, South Dakota Missouri River Tourism",
+      "region": "Missouri River Region (Central South Dakota), Travel South Dakota",
+      "hours": "Statue: 24/7; Welcome Center (Seasonal): Monday-Sunday 8:00 AM - 5:00 PM, Tripadvisor, SD Visit",
+      "days_open": "Statue: Daily (Year-round); Welcome Center: Daily (Mid-May through October), Travel South Dakota",
+      "admission": "Free, Travel South Dakota",
+      "website": "https://www.travelsouthdakota.com/trip-ideas/dignity-earth-sky",
+      "phone": "+1 605-734-4562, Trip.com",
+      "image_url": "https://upload.wikimedia.org/wikipedia/en/7/7c/Dignitiy_statue%2C_South_Dakota.jpg",
+      "highlights": [
+        "'50-foot-tall stainless steel construction overlooking the Missouri River, [Wikipedia', 'Star quilt with 128 blue diamond shapes that move in the wind, Travel South Dakota', 'Nighttime LED illumination providing a dramatic view after dark, Travel South Dakota', 'Accessible location at the Chamberlain Welcome Center rest area, South Dakota Missouri River Tourism', 'Symbolizes the courage, perseverance, and wisdom of Indigenous cultures, Travel South Dakota']"
+      ],
+      "tips": "Visit at sunset or night to see the statue illuminated by colorful LED lights. Stop by the adjacent Lewis and Clark Welcome Center for exhibits and local travel information. The statue is easily accessible from I-90 and has ample parking for RVs and trailers, Travel South Dakota, Tripadvisor.",
+      "nearby": "Akta Lakota Museum & Cultural Center, South Dakota Hall of Fame, Al's Oasis (Oacoma), Missouri River overlooks, Travel South Dakota"
+    },
+    {
+      "name": "Faulk County Historical Society (Pickler Mansion) (Faulkton SD)",
+      "category": "Historic Site",
+      "description": "The Faulk County Historical Society is dedicated to preserving the rich heritage of Faulkton and the surrounding region. Its centerpiece is the Pickler Mansion, a 20-room Victorian \"Pink Castle\" that served as the home of South Dakota's first U.S. Congressman, John Pickler, and his wife Alice, a prominent suffrage leader. The society also manages the Maloney One-room Schoolhouse Museum and oversees various local preservation projects (Faulkton SD, SD Glacial Lakes).",
+      "address": "900 8th Ave. South, Faulkton, SD 57438 (Faulkton SD)",
+      "city": "Faulkton (Faulkton SD)",
+      "region": "Faulk County / Central South Dakota (FamilySearch)",
+      "hours": "Mon-Sun: 1:00 PM - 4:00 PM (Memorial Day - Labor Day); Rest of year by appointment (Faulkton SD)",
+      "days_open": "Daily from Memorial Day through Labor Day; by appointment during the off-season (Faulkton SD)",
+      "admission": "$15.00 per person (Faulkton SD)",
+      "website": "https://www.faulktonsd.com/tourism/attractions/pickler-mansion/",
+      "phone": "(605) 598-4285 (Faulkton SD)",
+      "image_url": "https://www.faulktonsd.com/tourism/attractions/pickler-mansion/",
+      "highlights": [
+        "'Guided tours of the historic 20-room, three-story Victorian-era \"Pink Castle\" ([Faulkton SD)', 'Original 1890s furnishings and artifacts belonging to the Pickler family (SD Glacial Lakes)', \"Historical exhibits on Alice Pickler's leadership in the women's suffrage and temperance movements (Faulkton SD)\", 'The Maloney One-room Schoolhouse Museum located on the mansion grounds (SD Glacial Lakes)', \"Connection to Major John Pickler, a Civil War veteran and South Dakota's first U.S. Representative (Faulkton SD)\", 'Access to local historical landmarks like the Happy Times Carousel and historic murals (Faulkton SD)']"
+      ],
+      "tips": "Plan your visit between Memorial Day and Labor Day for daily guided tours, or call (605) 598-4285 in advance to schedule a private tour during the off-season (Faulkton SD). Allow enough time to explore all 20 rooms of the mansion to fully experience the historic artifacts (Tripadvisor).",
+      "nearby": "Happy Times Carousel, Faulkton American Legion Hall, Faulkton Murals, Lake Faulkton, Faulk County Courthouse (Faulkton SD, SD Glacial Lakes)"
+    },
+    {
+      "name": "Huron Arena and Exposition Center (part of the Huron Event Center)",
+      "category": "Entertainment",
+      "description": "The Huron Area Exposition Center and Arena is a premier multi-purpose facility in central South Dakota, bridging together a large arena, a convention hotel, and an event center. It provides over 34,000 square feet of versatile space for conventions, trade shows, athletic tournaments, and community gatherings. Huron SD Event Center, Huron SD Gov",
+      "address": "150 5th St SW (Arena) / 501 Wisconsin Ave SW (Event Center)",
+      "city": "Huron",
+      "region": "Central South Dakota (Beadle County)",
+      "hours": "Arena Office: 8:00 AM - 5:00 PM (Monday-Friday); Events: Varies (including evenings and weekends). Helpline Center, Huron SD Sports",
+      "days_open": "Monday - Sunday (Event-dependent); Office: Monday - Friday. Helpline Center, Huron SD Sports",
+      "admission": "Varies by event (e.g., $10 adults / $6 students for basketball); Free to enter for some public functions. ESPN Sioux Falls, Huron SD Arts",
+      "website": "https://www.huronsd.com/events-in-huron/planning-an-event/huron-event-center/",
+      "phone": "(605) 353-6970 (Arena) / (605) 554-0239 (Event Center)",
+      "image_url": "https://www.huronsd.com/images/layout/logo.png",
+      "highlights": [
+        "'Over 34,000 square feet of combined meeting and exposition space. [Huron SD', 'Connected to the Crossroads Hotel and Huron Arena for all-in-one event hosting. Huron SD', 'The Huron Arena seats up to 7,000 people and features unrestricted sightlines. TSP Inc', 'State-of-the-art kitchen facilities for high-caliber catering. Huron SD Gov', 'Equipped with advanced Daktronics digital displays for live events. Daktronics', 'A collaboration of the entire community, offering genuine South Dakota hospitality. Huron SD Gov']"
+      ],
+      "tips": "Take advantage of the drive-up access to the Arena and Event Center for easy loading of materials. If visiting for a major event, consider staying at the attached Crossroads Hotel for convenience. Huron SD Gov, Huron SD Event Center",
+      "nearby": "South Dakota State Fairgrounds, Campbell Park, Pyle House Museum, Splash Central Waterpark. Orbitz"
+    },
+    {
+      "name": "Adams Museum",
+      "category": "Museum",
+      "description": "The Adams Museum is the Black Hills’ oldest history museum, founded in 1930 by pioneer businessman W.E. Adams. It serves as a repository for the region's rich heritage, featuring a wide range of artifacts that reflect the legends and history of the Black Hills gold rush era. Deadwood History, Tripadvisor",
+      "address": "54 Sherman St, Deadwood, SD 57732",
+      "city": "Deadwood",
+      "region": "Black Hills",
+      "hours": "May through September: 9:00 a.m. to 5:00 p.m., daily. October through April: 10:00 a.m. to 4:00 p.m., Tuesday – Saturday (Closed Sundays, Mondays, and winter holidays). Deadwood History",
+      "days_open": "May–September: Daily; October–April: Tuesday–Saturday. Deadwood History",
+      "admission": "Suggested donation: $5 for adults, $3 for children. Individual Combo (Adams Museum and Days of ’76 Museum) $13, Trio Pass (Adams Museum, Days of ’76 Museum, and Historic Adams House) $22. Deadwood History",
+      "website": "https://www.deadwoodhistory.com/about-us/properties/adams-museum/",
+      "phone": "605-578-1714 Deadwood History",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/DeadwoodSD_AdamsMuseum.jpg",
+      "highlights": [
+        "'Potato Creek Johnny’s 7.346 troy ounce gold nugget [Deadwood History', 'N.C. Wyeth’s pencil sketch of Wild Bill Hickok Deadwood History', 'The mysterious Thoen Stone gold discovery record Deadwood History', 'A rare, one-of-a-kind plesiosaur marine reptile fossil Deadwood History', \"Interactive augmented reality sandbox and life-size puzzles for families We're in the Rockies\", 'Exhibits on Deadwood legends like Calamity Jane and Deadwood Dick Wikipedia']"
+      ],
+      "tips": "Allow at least an hour to explore the exhibits. Parking on downtown streets can be difficult during peak events; consider parking at the Deadwood History & Information Center or using the local trolley. The museum is wheelchair accessible on all levels. We're in the Rockies, Guide2Museums",
+      "nearby": "Historic Adams House, Days of ’76 Museum, Mount Moriah Cemetery, Historic Main Street, Broken Boot Gold Mine, and Tatanka: Story of the Bison. Deadwood Connections, We're in the Rockies"
+    },
+    {
+      "name": "Aktá Lakota Museum & Cultural Center (Official Website)",
+      "category": "Museum",
+      "description": "The Aktá Lakota Museum & Cultural Center is an educational outreach of St. Joseph’s Indian School that honors and preserves the rich culture of the Lakota people. Located on the banks of the Missouri River, the facility features both historical artifacts and contemporary works of art to tell the story of the Northern Plains Indian people from pre-contact to the present day (Official Website).",
+      "address": "1301 N. Main St., Chamberlain, SD 57325 (Official Website)",
+      "city": "Chamberlain (Official Website)",
+      "region": "St. Joseph’s Indian School campus, Missouri River (Official Website)",
+      "hours": "May – October: Monday – Saturday 8:00 am – 6:00 pm, Sunday 9:00 am – 5:00 pm; November – April: Monday – Friday 8:00 am – 4:30 pm, Closed weekends (Official Website)",
+      "days_open": "Daily (May – October); Monday – Friday (November – April) (Official Website)",
+      "admission": "Free for everyone; donations of $10 per person or $25 per family are suggested but not required (Official Website)",
+      "website": "https://aktalakota.stjo.org",
+      "phone": "800-798-3452 (Official Website)",
+      "image_url": "https://aktalakota.stjo.org/wp-content/uploads/2022/04/About-Pic-1.jpg",
+      "highlights": [
+        "\"'Camp Circle' exhibit depicting life on the plains before Euro-American contact ([Official Website)\", \"'Two Worlds Meet' exhibit detailing the arrival of explorers and missionaries in the 1800s (Official Website)\", \"'Broken Promises' exhibit outlining U.S. government involvement and treaty history (Official Website)\", \"'Continuity and Change' exhibit illustrating modern adaptation and cultural preservation (Official Website)\", \"Medicine Wheel Garden featuring the 'Mni Wiconi' (Water is Life) water feature (Official Website)\", 'Collector’s Gallery and Gift Shop with authentic Native American-made jewelry and quilts (Official Website)']"
+      ],
+      "tips": "The museum walk-through is designed to guide visitors chronologically through Lakota history associated with the four cardinal colors and directions (NPS). Guided tours of the St. Joseph’s Indian School campus are available upon request at the museum receptionist’s desk (Official Website).",
+      "nearby": "Dignity: of Earth & Sky Statue, South Dakota Hall of Fame, Roam Free Park, American Creek Recreation Area (Expedia, Lewis and Clark Travel)"
+    },
+    {
+      "name": "Al's Oasis",
+      "category": "Restaurant",
+      "description": "Al's Oasis is a historic South Dakota landmark and premier roadside stop located along Interstate 90 on the banks of the Missouri River. Established in 1919, the complex offers a unique blend of homestyle dining, specialized shopping at the RiverFront Boutique, a full-service saloon, and a grocery store featuring an impressive display of regional wildlife taxidermy. Al's Oasis, South Dakota Tourism",
+      "address": "1000 East South Dakota Highway 16, Oacoma, SD 57365",
+      "city": "Oacoma",
+      "region": "Missouri River Region / Lyman County",
+      "hours": "Restaurant: 8 am – 9 pm daily; Last Chance Saloon: 4 pm – 10 pm Mon-Fri, 11 am – 10 pm Sat-Sun; RiverFront Boutique: 10 am – 7 pm daily; Buche Foods: 8 am – 10 pm daily. Al's Oasis",
+      "days_open": "Daily Al's Oasis",
+      "admission": "Free admission to the complex; individual costs apply for dining, shopping, and arcade games. Al's Oasis",
+      "website": "https://alsoasissd.com",
+      "phone": "605-234-6054 Al's Oasis",
+      "image_url": "https://alsoasissd.com/wp-content/uploads/2025/01/DSCF9264-2048x1366.jpg",
+      "highlights": [
+        "['Famous 5-cent coffee, a tradition maintained since the early 20th century.', 'World-famous buffalo burgers and homemade pies, with over 50,000 slices served annually.', 'Extensive South Dakota animal taxidermy display located within the Buche Foods grocery store.', 'RiverFront Boutique offering Black Hills Gold jewelry, South Dakota apparel, and local souvenirs.', 'Last Chance Saloon, a full-service lounge featuring a state-of-the-art draft beer system.', 'Historic location near the site where Lewis and Clark camped during their famous expedition.']"
+      ],
+      "tips": "Be sure to try the 5-cent coffee and a slice of their famous homemade pie. Take time to walk through the grocery store to see the taxidermy animals, and if you are traveling with a large rig, take advantage of the spacious parking designed for truckers and RVs. Al's Oasis, Yelp",
+      "nearby": "Dignity of Earth & Sky statue, Akta Lakota Museum & Cultural Center, Lewis and Clark Welcome Center, Missouri River, American Creek Campground, and Old West Trading Post. Al's Oasis, South Dakota Tourism"
+    },
+    {
+      "name": "Art Alley Rapid City",
+      "category": "Art Gallery",
+      "description": "Art Alley is a dynamic, ever-changing outdoor public gallery located in the heart of downtown Rapid City. Established organically in 2003, it features a diverse collection of murals, graffiti, and street art that transform building walls, pipes, and dumpsters into a vibrant community canvas. managed by the Rapid City Arts Council, it serves as a space for personal and political expression where both local and visiting artists can contribute with a free permit.",
+      "address": "599 7th St, Rapid City, SD 57701-2729",
+      "city": "Rapid City",
+      "region": "Downtown Rapid City / Black Hills Region",
+      "hours": "Open 24 hours",
+      "days_open": "Daily",
+      "admission": "Free (Permit required to paint, but free to obtain)",
+      "website": "https://www.artalleyrc.com/",
+      "phone": "(605) 394-4101 x3",
+      "image_url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit",
+      "highlights": [
+        "['Ever-changing outdoor murals and street art created by local and national artists', 'Publicly accessible 24/7 as an open-air community gallery', 'Historical significance as an organic art project that began in 2003', 'Unique architectural features including painted brick patterns and buried utility lines', 'Opportunity for visitors to apply for a free permit to contribute their own art', 'Location within the historic downtown district, near the City of Presidents walking tour']"
+      ],
+      "tips": "Visit during the day for the best photography lighting, but the alley is also atmospheric at night with city lights. Be mindful of vehicles as it remains a functional alley for local businesses. Wear comfortable walking shoes to explore the surrounding downtown area and the City of Presidents statues. Check the official website or stop by the Dahl Arts Center if you are interested in obtaining a permit to paint.",
+      "nearby": "Main Street Square, Dahl Arts Center, City of Presidents Walking Tour, Prairie Edge Trading Co. & Galleries, Independent Ale House, Hotel Alex Johnson, Suzie Cappa Art Center, Firehouse Brewing Company"
+    },
+    {
+      "name": "Badlands National Park",
+      "category": "Park",
+      "description": "Badlands National Park consists of 244,000 acres of sharply eroded buttes, pinnacles, and spires blended with the largest protected mixed grass prairie in the United States. It contains one of the world's richest fossil beds, where ancient horses and rhinos once roamed. NPS, Helpline Center",
+      "address": "25216 Ben Reifel Road",
+      "city": "Interior",
+      "region": "Southwestern South Dakota",
+      "hours": "Park: Open 24 hours a day. Ben Reifel Visitor Center: 8:00am - 5:00pm (Summer), 9:00am - 4:00pm (Winter). Helpline Center",
+      "days_open": "Every day",
+      "admission": "Private Vehicle: $30 (valid for 7 days); Motorcycle: $25 (valid for 7 days); Individual (hike, bicycle, etc.): $15 per person (16 and older, valid for 7 days); America the Beautiful Pass: FREE–$250.00; Standard Pass: $15.00–$30.00. Cash is not accepted. NPS Fees, Cinders Travels",
+      "website": "https://www.nps.gov/badl/",
+      "phone": "605-433-5361 NPS",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/MK00609_Badlands.jpg",
+      "highlights": [
+        "'Hiking trails such as the Notch, Castle, and Saddle Pass trails for awe-inspiring views [Black Hills Badlands', 'Wildlife watching to spot bison, bighorn sheep, and prairie dogs Black Hills Badlands', 'Scenic drives along the Badlands Loop Road for panoramic vistas Black Hills Badlands', 'Stargazing under some of the clearest night skies in the country Black Hills Badlands', \"One of the world's richest fossil beds, containing remains of ancient horses and saber-tooth cats NPS\"]"
+      ],
+      "tips": "Plan to go cashless as the park only accepts credit/debit cards. Pack layers for fluctuating temperatures and bring plenty of water. Pets are not allowed on hiking trails. NPS, Black Hills Badlands",
+      "nearby": "Minuteman Missile National Historic Site, Mount Rushmore National Memorial, Custer State Park, Wall Drug Store. Wikipedia, Cinders Travels"
+    },
+    {
+      "name": "Bear Country U.S.A. (Official Website)",
+      "category": "Park",
+      "description": "Bear Country U.S.A. is a unique drive-through wildlife park located on over 200 acres of natural Black Hills terrain. Visitors can observe a variety of North American wildlife, including black bears, wolves, and elk, from the safety and comfort of their own vehicles. The park also features a walking area known as Babyland, where guests can see young animals and smaller species up close (Official Website, Wikipedia)",
+      "address": "13820 US-16, Rapid City, SD 57702 (Official Website)",
+      "city": "Rapid City (Official Website)",
+      "region": "Black Hills (Official Website)",
+      "hours": "April 24 – May 22: 9am – 5pm; May 23 – July 31: 8am – 6pm; Aug 1 – Sept 7: 8am – 5pm; Sept 8 – Sept 30: 9am – 3pm; Oct 1 – Nov 29: 9am – 3pm (Last entry times; park closes 1.5 hours later) (Official Website)",
+      "days_open": "Open daily from late April through late November, weather permitting (Official Website)",
+      "admission": "Adults: $25.00, Children (5-12): $20.00, Children 4 & Under: FREE, Seniors (62+): $22.00, Military Adult: $22.00, Military Child: $17.00. Maximum per private vehicle: $80.00 (Official Website)",
+      "website": "https://bearcountryusa.com",
+      "phone": "(605) 343-2290 (Official Website)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Bear_Country_USA_sign_2017.jpg",
+      "highlights": [
+        "'Three-mile drive-thru wildlife route featuring free-roaming bears and wolves ([Official Website)', 'Wildlife Walkway (Babyland) for viewing younger animals and offspring (Official Website)', \"The Bear's Den Gift Shop, one of the largest souvenir shops in the Black Hills (Official Website)\", 'Natural habitat enclosures for mountain lions, bison, and bighorn sheep (Official Website)', 'Opportunity to see seasonal bear cubs and other young wildlife (Official Website)']"
+      ],
+      "tips": "Arrive early in the morning when animals are most active. All vehicle windows and doors must remain tightly closed during the drive-thru. Convertibles and soft-top vehicles are not permitted in the drive-thru area (Official Website, Carltonaut's Travel Tips)",
+      "nearby": "Mount Rushmore National Memorial, Custer State Park, Sheridan Lake, Keystone, Cosmos Mystery Area (Official Website, Tripadvisor)"
+    },
+    {
+      "name": "Ben Reifel Visitor Center National Park Service",
+      "category": "Museum",
+      "description": "The Ben Reifel Visitor Center is the primary information hub and museum for the North Unit of Badlands National Park. It features extensive exhibits on the area's geology and history, an air-conditioned theater showing the park film \"The Land of Stone and Light,\" and a working Fossil Preparation Lab where visitors can observe paleontologists at work. National Park Service, Roadtrippers",
+      "address": "25216 Ben Reifel Road, Interior, SD 57750 National Park Service",
+      "city": "Interior National Park Service",
+      "region": "North Unit, Badlands National Park National Park Service",
+      "hours": "Summer (May 4 – October 4): Every Day 8:00 AM – 5:00 PM; Winter (October 5 – May 3): Every Day 9:00 AM – 4:00 PM National Park Service",
+      "days_open": "Daily, year-round (except Thanksgiving and Christmas) National Park Service",
+      "admission": "Free entry to the visitor center National Park Service; Park entrance fees: $30.00 per private vehicle, $25.00 per motorcycle, $15.00 per person Whichmuseum",
+      "website": "https://www.nps.gov/badl/planyourvisit/hours.htm",
+      "phone": "(605) 433-5361 National Park Service",
+      "image_url": "https://www.nps.gov/common/uploads/cropped_image/primary/3262D126-BD33-74C9-1452D66720B89B52.jpg",
+      "highlights": [
+        "'Museum exhibits on geology, wildlife, and Lakota history [National Park Service', 'Working Fossil Preparation Lab (live specimens) National Park Service', 'Park film \"The Land of Stone and Light\" shown on a loop National Park Service', 'Badlands Natural History Association Bookstore National Park Service', 'Junior Ranger program headquarters and self-serve passport stamping National Park Service']"
+      ],
+      "tips": "Start your visit here to obtain maps and current trail conditions from park rangers. Only service animals are permitted inside the building, and visitors should allow 15–60 minutes to explore the exhibits and watch the park film. National Park Service",
+      "nearby": "Fossil Exhibit Trail, Notch Trail, Door Trail, Window Trail, Big Badlands Overlook, and Cedar Pass Lodge Travel South Dakota"
+    },
+    {
+      "name": "Black Elk Peak (formerly Harney Peak)",
+      "category": "Landmark",
+      "description": "Black Elk Peak (formerly Harney Peak) is the highest natural point in South Dakota and the highest elevation in the United States east of the Rocky Mountains at 7,242 feet. The summit is crowned by a historic stone fire lookout tower built by the Civilian Conservation Corps in 1938, offering panoramic views of four states. (Travel South Dakota, Wikipedia)",
+      "address": "13329 US Highway 16A (Sylvan Lake Trailhead)",
+      "city": "Custer",
+      "region": "Black Hills / Pennington County",
+      "hours": "Open 24 hours (Park facilities have varying seasonal hours) (Custer State Park)",
+      "days_open": "Daily, year-round (Custer State Park)",
+      "admission": "$20 per vehicle (7-day pass), $10 per person on foot/bicycle, $40 Resident Annual, $60 Nonresident Annual (Custer State Park)",
+      "website": "https://gfp.sd.gov/parks/detail/custer-state-park/",
+      "phone": "605.394.2693 (Custer State Park)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Black_Elk_Peak%2C_the_highest_point_in_South_Dakota.jpg",
+      "highlights": [
+        "['Historic Harney Fire Lookout tower at the summit', '360-degree panoramic views of South Dakota, Wyoming, Montana, and Nebraska', 'Scenic trailhead at Sylvan Lake, one of the most photographed spots in the Black Hills', 'Unique granite rock formations including the nearby Cathedral Spires and Needles', 'Designated Black Elk Wilderness area for backcountry hiking experiences', 'Site of sacred significance to Lakota Sioux and other Native American tribes']"
+      ],
+      "tips": "Start your hike early in the morning to avoid midday crowds and potential afternoon thunderstorms, which can be dangerous on the exposed summit. Bring at least 2 liters of water per person, as there are no potable water sources on the trail, and wear sturdy hiking boots for the rocky terrain. (HikingGuy, Travel South Dakota)",
+      "nearby": "Mount Rushmore National Memorial, Crazy Horse Memorial, Needles Highway, Sylvan Lake, Iron Mountain Road (Tripadvisor)"
+    },
+    {
+      "name": "Broken Boot Gold Mine",
+      "category": "Entertainment",
+      "description": "The Broken Boot Gold Mine is a historic underground mine founded in 1878 by Olaf Seim and James Nelson during the peak of the Black Hills Gold Rush. After yielding 15,000 ounces of gold over 26 years, the mine closed in 1904 and sat vacant until 1954, when it was reopened for educational guided tours that allow visitors to walk through authentic century-old shafts. Official Website, News From The Diggings",
+      "address": "1200 Pioneer Way, Deadwood, SD 57732",
+      "city": "Deadwood",
+      "region": "Black Hills / Deadwood area",
+      "hours": "Daily: 8:00 AM – 6:00 PM (Last regular tour at 5:00 PM; Candlelight Tour at 5:30 PM) Official Website",
+      "days_open": "Daily (Memorial Day weekend through Labor Day) Official Website",
+      "admission": "Adults (18-59): $12.00; Students (6-17): $10.00; Seniors (60+): $10.00; Military (w/ ID): $10.00; AAA: $10.00; Children (5 & Under): FREE; Candlelight Ghost Tour: $14.00; Gem Panning Lesson: $12.00 Official Website",
+      "website": "https://brokenbootgoldmine.com",
+      "phone": "(605) 578-9997",
+      "image_url": "https://brokenbootgoldmine.com/wp-content/uploads/2022/05/about-the-boot-img2-1.jpg",
+      "highlights": [
+        "['Educational guided underground tours through historic 19th-century mining shafts.', 'Hands-on gem panning lessons where visitors can keep the gems they find.', 'Exclusive Candlelight Ghost Tours offered in the evenings for visitors aged 12 and up.', 'Authentic mining artifacts on display, including original ore cars and mining tools.', 'Every tour participant receives a commemorative souvenir stock certificate.', 'Opportunities to collect small rocks or graphite samples directly from the mine floor.']"
+      ],
+      "tips": "The mine remains a constant cool temperature year-round, so bringing a light jacket is recommended even on hot summer days. Hard hats are provided and required for all underground tours. It is advisable to call for same-day reservations or book online in advance as tours, especially the ghost tours, can sell out. Official Website, Tripadvisor",
+      "nearby": "Adams Museum, Mount Moriah Cemetery, Historic Old Town Deadwood, Mount Roosevelt Monument, Sanford Lab Homestake Visitor Center Tripadvisor"
+    },
+    {
+      "name": "Butterfly House & Aquarium",
+      "category": "Aquarium",
+      "description": "The Butterfly House & Aquarium is a unique year-round tropical destination featuring South Dakota's largest public saltwater aquarium and only butterfly conservatory ecosystem. Visitors can experience over 800 free-flying butterflies from around the world alongside vibrant marine life including corals, jellyfish, and tropical fish. (Great Plains Zoo & Aquarium, Experience Sioux Falls)",
+      "address": "4320 S Oxbow Ave",
+      "city": "Sioux Falls",
+      "region": "Sertoma Park",
+      "hours": "Monday: 10:00 am - 4:00 pm, Tuesday: 10:00 am - 4:00 pm, Wednesday: 10:00 am - 4:00 pm, Thursday: 10:00 am - 4:00 pm, Friday: 10:00 am - 4:00 pm, Saturday: 10:00 am - 4:00 pm, Sunday: 10:00 am - 4:00 pm (Final admission at 3:30 pm) (Great Plains Zoo & Aquarium)",
+      "days_open": "Daily (Monday–Sunday) (Great Plains Zoo & Aquarium)",
+      "admission": "Infant (Under age 2): Free, Youth (Ages 2-17): $11 + Tax, Adult (Ages 18-59): $15 + Tax, Senior (Ages 60+): $13 + Tax (Great Plains Zoo & Aquarium)",
+      "website": "https://www.greatzoo.org/butterfly-house-aquarium/",
+      "phone": "(605) 334-9466 (Great Plains Zoo & Aquarium)",
+      "image_url": "https://www.greatzoo.org/wp-content/uploads/2025/03/SFZA-Logo-w-Text-1536x603.png",
+      "highlights": [
+        "['Over 800 free-flying butterflies in a tropical conservatory', \"South Dakota's only public saltwater aquarium with coral reefs and marine fish\", 'Shark & Stingray Touch Pool for hands-on learning experiences', 'Pacific Tide Pool exhibit showcasing diverse ocean creatures', 'Pop-Up Dome Aquarium offering a unique perspective of marine life', 'Fins & Flutters Gift Shop for educational toys and unique gifts']"
+      ],
+      "tips": "Visit during the morning for active butterflies; use the outdoor stroller parking due to limited indoor space; and consider the Monarch Level Membership for combined access to the Great Plains Zoo. (Great Plains Zoo & Aquarium, Tripadvisor)",
+      "nearby": "Sertoma Park, The Outdoor Campus, Empire Mall, Great Plains Zoo (Tripadvisor)"
+    },
+    {
+      "name": "Chamberlain Lewis & Clark Welcome Center & Rest Area",
+      "category": "Landmark",
+      "description": "The Chamberlain Lewis & Clark Welcome Center is a premier roadside attraction featuring an interactive museum dedicated to the 1804-1806 expedition and the iconic 50-foot-tall 'Dignity: Of Earth & Sky' statue. Visitors can explore a life-size keelboat replica and enjoy sweeping panoramic views of the Missouri River from a unique keelboat-shaped balcony. (Travel South Dakota, Black Hills Hiking, Biking, and More)",
+      "address": "Interstate 90 Mile Marker 264.4, Chamberlain, SD 57325",
+      "city": "Chamberlain",
+      "region": "Missouri River Region / Brule County",
+      "hours": "8:00 AM - 5:00 PM daily (staffed seasonally mid-May through October); Restrooms and statue accessible 24/7 (Travel South Dakota)",
+      "days_open": "Open daily (seasonal staffing from mid-May through October) (Travel South Dakota)",
+      "admission": "Free (Travel South Dakota)",
+      "website": "https://www.travelsouthdakota.com/trip-ideas/welcome-centers",
+      "phone": "(605) 734-4562 (Trip.com)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Dignity_Statue_in_Chamberlain%2C_South_Dakota.jpg",
+      "highlights": [
+        "'Dignity: Of Earth & Sky 50-foot stainless steel statue ([Travel South Dakota)', 'Life-size replica of the Lewis and Clark expedition keelboat (Travel South Dakota)', 'Interactive museum exhibits detailing the Corps of Discovery journey (Travel South Dakota)', 'Keelboat-shaped observation balcony overlooking the Missouri River (Travel South Dakota)', 'Scenic walking paths and shaded picnic areas (Black Hills Hiking, Biking, and More)']"
+      ],
+      "tips": "Visit the Dignity statue at night to see it illuminated by internal LED lights. Be cautious on walking paths as signs warn of occasional rattlesnake presence in the prairie grass. The facility is a pet-friendly stop with designated exercise areas. (Travel South Dakota, Tripadvisor)",
+      "nearby": "Akta Lakota Museum & Cultural Center, South Dakota Hall of Fame, American Creek Recreation Area, Lake Francis Case (Travel South Dakota, Tripadvisor)"
+    },
+    {
+      "name": "Crazy Horse Memorial® (Official Website)",
+      "category": "Landmark",
+      "description": "The Crazy Horse Memorial is the world's largest mountain carving in progress, depicting the Oglala Lakota warrior Crazy Horse. It serves as a non-profit educational and cultural project dedicated to preserving the living heritage of North American Indians through its on-site museums and university (Official Website, Travel South Dakota)",
+      "address": "12151 Avenue of the Chiefs (Official Website)",
+      "city": "Crazy Horse (Official Website)",
+      "region": "Black Hills (Wikipedia)",
+      "hours": "Monday-Sunday: 8:00 AM - 8:00 PM (Summer Peak Season); Off-season hours vary but typically start at 8:00 AM (Official Website)",
+      "days_open": "Daily (Open year-round) (Official Website)",
+      "admission": "$35 for 3+ people in vehicle, $30 for 2 people, $15 for 1 person, $10 for motorcycle/bicycle/walking. Free for Native Americans, military, and children 6 and under (Official Website)",
+      "website": "https://crazyhorsememorial.org",
+      "phone": "605-673-4681 (Official Website)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Crazy_Horse_Memorial_from_Visitors_Center.jpg",
+      "highlights": [
+        "\"The world's largest mountain carving in progress ([Official Website)\", 'The Indian Museum of North America® featuring extensive tribal collections (Official Website)', 'The Ziolkowski Family Life Museum and historic log home studio (Official Website)', 'Laser Light Show on the mountain during summer evenings (Roosevelt Inn)', 'Native American Performers and Storytellers scheduled daily (Official Website)', 'Optional bus rides to the base of the mountain for close-up views (Official Website)']"
+      ],
+      "tips": "Take the $5 bus ride to the base of the mountain for a closer view, and visit in the afternoon to stay for the summer laser light show. Free re-admit passes are available at the Welcome Center for return visits (Official Website, Visit Rapid City)",
+      "nearby": "Mount Rushmore National Memorial, Custer State Park, Hill City, and Jewel Cave National Monument (Travel South Dakota, We're in the Rockies)"
+    },
+    {
+      "name": "Dacotah Prairie Museum",
+      "category": "Museum",
+      "description": "The Dacotah Prairie Museum is a premier local history museum located in the historic 1889 Northwestern Bank building in downtown Aberdeen, South Dakota. It preserves the collective memory of Brown County through diverse exhibits ranging from prehistoric fossils to early settler artifacts and regional wildlife. The museum serves as a cultural hub, offering educational programs and rotating art displays that highlight the rich heritage of the prairie region. Official Website, Wander Epic",
+      "address": "21 S. Main St., Aberdeen, SD 57401",
+      "city": "Aberdeen",
+      "region": "Downtown Aberdeen, Brown County",
+      "hours": "Monday: Closed; Tuesday: 10:00 AM – 5:00 PM; Wednesday: 10:00 AM – 5:00 PM; Thursday: 10:00 AM – 5:00 PM; Friday: 10:00 AM – 5:00 PM; Saturday: 11:00 AM – 4:00 PM; Sunday: Closed Official Website",
+      "days_open": "Tuesday, Wednesday, Thursday, Friday, Saturday",
+      "admission": "Free (Donations appreciated) Official Website, Tripadvisor",
+      "website": "https://dacotahprairiemuseum.org/",
+      "phone": "605-626-7117",
+      "image_url": "https://dacotahprairiemuseum.org/wp-content/uploads/2025/02/Prehistoric_Buster_5754_SM-577x461.jpg",
+      "highlights": [
+        "['Buster the Bison in the Exploring Prehistoric Brown County exhibit', 'The Rosemarie & Dean L. Buntrock Gallery featuring world biodiversity', 'New Dawn on the Prairie & Railroad Car historical display', 'Country School Days children’s interactive exhibit', 'Hatterscheidt Wildlife Gallery', 'The Lamont Gallery for rotating art and special exhibitions']"
+      ],
+      "tips": "Plan to spend 2-3 hours exploring the three floors of exhibits. The museum is free to the public, though donations are appreciated. Be sure to visit the on-site gift shop, The Mercantile, for unique local items. Tripadvisor, Official Website",
+      "nearby": "Storybook Land, Wylie Park, Land of Oz, Aberdeen Community Theatre, Capitol Cinema, Sand Lake National Wildlife Refuge Expedia, ViaTravelers"
+    },
+    {
+      "name": "Dinosaur Park",
+      "category": "Landmark",
+      "description": "Dinosaur Park is an iconic public park and historic site featuring seven life-sized concrete dinosaur sculptures overlooking the city from a sandstone ridge. Dedicated in 1936, the park was a Works Progress Administration project designed to attract tourists traveling to Mount Rushmore. It offers panoramic views of the Black Hills and the city, and it is listed on the National Register of Historic Places.",
+      "address": "940 Skyline Dr, Rapid City, SD 57701-4493, United States",
+      "city": "Rapid City",
+      "region": "Black Hills / West Region",
+      "hours": "Daily: 5:00 AM - 10:00 PM (Visitor Center/Gift Shop hours: May/Sept 9:00 AM - 5:00 PM; June/July 8:00 AM - 8:00 PM; August 8:00 AM - 6:00 PM)",
+      "days_open": "Daily",
+      "admission": "Free",
+      "website": "https://www.visitrapidcity.com/things-to-do/historic-sites/dinosaur-park/",
+      "phone": "(605) 343-8687",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Rapid_City%2C_SD%2C_USA_-_panoramio.jpg/250px-Rapid_City%2C_SD%2C_USA_-_panoramio.jpg",
+      "highlights": [
+        "['Seven life-sized concrete dinosaur sculptures including an 80-foot Brontosaurus and a T. rex.', 'Panoramic views of Rapid City and the surrounding Black Hills from a 300-foot-high ridge.', 'Historic Works Progress Administration (WPA) project dating back to 1936.', 'On-site Gift Shop and Visitors Center (seasonal) offering souvenirs and snacks.', 'Accessible pedestrian routes and site interpretation following a 2024 makeover.', 'Listed on the National Register of Historic Places since 1990.']"
+      ],
+      "tips": "Visit at sunrise or sunset for spectacular, colorful views of the city and landscape. While the park is open year-round, the gift shop and visitor center operate seasonally from May through September. Wear comfortable walking shoes as the park is situated on a steep ridge.",
+      "nearby": "Skyline Wilderness Area, Black Hills, Mount Rushmore, Art Alley, Storybook Island, The Journey Museum and Gardens"
+    },
+    {
+      "name": "Evans Plunge Mineral Springs",
+      "category": "Entertainment",
+      "description": "Established in 1890, Evans Plunge Mineral Springs is the oldest tourist attraction in the Black Hills and the world's largest natural warm water indoor swimming pool. The facility is fed by a natural thermal spring flowing at 5,000 gallons per minute, maintaining a consistent 87°F temperature year-round without the use of chlorine or sulfur smells. It offers a unique blend of historical charm and modern recreation with indoor and outdoor pools, water slides, and a full health club. Evans Plunge, Travel South Dakota",
+      "address": "1145 North River Street, Hot Springs, SD 57747-3078",
+      "city": "Hot Springs",
+      "region": "Black Hills / Fall River County",
+      "hours": "Monday: 6:00 AM - 7:00 PM, Tuesday: CLOSED, Wednesday: 6:00 AM - 7:00 PM, Thursday: 6:00 AM - 7:00 PM, Friday: 6:00 AM - 7:00 PM, Saturday: 10:00 AM - 6:00 PM, Sunday: 10:00 AM - 6:00 PM. (Slides and rings open at 10:00 AM; outdoor pool opens at 11:00 AM). Evans Plunge",
+      "days_open": "Monday, Wednesday, Thursday, Friday, Saturday, Sunday (Closed Tuesdays)",
+      "admission": "Ages 2 and Under: Free, Ages 3-15: $14.00, Ages 16 and up: $19.00 (includes health club access). Discounts: 10% for Veterans, Seniors (55+), AAA, and Stay & Play (with local hotel receipt). Twilight Special: Half price admission after 5:00 PM on weekdays. Evans Plunge",
+      "website": "http://www.evansplunge.com",
+      "phone": "605-745-5165",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/54f681f1e4b094fe88e5e857/1453475487109-CU2G2P0L2BTQSENVLKC8/IMG_1236.JPG?format=2500w",
+      "highlights": [
+        "['Oldest tourist attraction in the Black Hills, established in 1890.', 'Naturally warm 87°F mineral spring water with a flow rate of 5,000 gallons per minute.', 'Indoor and outdoor water slides including the Jet, Whale, and Frog slides.', 'Full-service health club featuring two hot tubs, a sauna, and a steam room.', 'Interactive aquatic activities such as swinging rings, water volleyball, and basketball.', 'Pure, crystal-clear water that completely refreshes the pool every 90 minutes.']"
+      ],
+      "tips": "Bring quarters for the one-time-use lockers. Pack your own towels to avoid the $2.00 rental fee. Visit after 5:00 PM on weekdays to take advantage of the half-price Twilight Special. If staying locally, bring your hotel or campground receipt for a 10% Stay & Play discount. Evans Plunge FAQ, Airial Travel",
+      "nearby": "The Mammoth Site, Moccasin Springs Natural Mineral Spa, Wind Cave National Park, Cascade Falls, Pioneer Museum, and World Fossil Finder Museum. Tripadvisor"
+    },
+    {
+      "name": "Fall River Pioneer Museum",
+      "category": "Museum",
+      "description": "Housed in a prominent four-story sandstone building that served as an elementary school until 1961, the Fall River Pioneer Museum showcases 25 exhibit areas of pioneer-era treasures. Visitors can explore a rich collection of artifacts, including handcrafted tools, original art, and historic photographs that vividly depict early life in Fall River County and the Black Hills region (Official Website).",
+      "address": "300 N Chicago St, Hot Springs, SD 57747-1657",
+      "city": "Hot Springs (Official Website)",
+      "region": "Black Hills (Black Hills Visitor)",
+      "hours": "Monday: 9:00 AM - 5:00 PM, Tuesday: 9:00 AM - 5:00 PM, Wednesday: 9:00 AM - 5:00 PM, Thursday: 9:00 AM - 5:00 PM, Friday: 9:00 AM - 5:00 PM, Saturday: 9:00 AM - 5:00 PM, Sunday: Closed (Open seasonally May 15 - October 1) (Official Website)",
+      "days_open": "Monday - Saturday (May 15 - October 1) (Official Website)",
+      "admission": "$6.00 Adults, $5.00 Seniors, FREE for children under 12, $15.00 Immediate Family Package, FREE for Fall River Historical Society Members (Official Website, WhichMuseum)",
+      "website": "https://fallriverpioneermuseum.wordpress.com",
+      "phone": "+1 (605) 745-5147 (Official Website)",
+      "image_url": "https://fallriverpioneermuseum.wordpress.com/wp-content/uploads/2015/08/11174630_10152866160583471_4392285821675240881_o.jpg",
+      "highlights": [
+        "\"25 distinct exhibit areas including a 19th-century classroom, a doctor's office, and a country general store ([Official Website)\", 'A rare handmade Hayes, Lattin and Company piano from the early 1800s (Tripadvisor)', 'Historic artifacts like wood cook stoves, kerosene lamps, and vintage washing machines (Official Website)', 'A specialized bedroom exhibit featuring a bed once used by President Calvin Coolidge (Tripadvisor)', 'Extensive galleries of original local art and historic photographs of the Black Hills (Official Website)', 'Interactive scavenger hunts and costumes for children to engage with local history (Tripadvisor)']"
+      ],
+      "tips": "The museum is not climate controlled, so visiting in the morning is recommended during hot summer days to stay comfortable. Allow at least 90 minutes to 3 hours to fully explore all four floors of exhibits. Children can enjoy scavenger hunts and dressing up in period costumes (Tripadvisor).",
+      "nearby": "The Mammoth Site, Evans Plunge Mineral Springs, Wind Cave National Park, Custer State Park, Fall River Trail (Official Website, Tripadvisor)"
+    },
+    {
+      "name": "Falls Park",
+      "category": "Park",
+      "description": "Falls Park is a 128-acre park featuring the cascades of the Big Sioux River as it drops 100 feet over unique Sioux quartzite formations. As the city's namesake, it offers a blend of natural beauty and historical significance, including the ruins of a 19th-century mill (Experience Sioux Falls, Danana GO!).",
+      "address": "131 E. Falls Park Dr.",
+      "city": "Sioux Falls",
+      "region": "North of Downtown Sioux Falls",
+      "hours": "Monday–Sunday: 05:00 AM – 11:59 PM (Sioux Falls Official Site)",
+      "days_open": "Daily",
+      "admission": "Free (Danana GO!)",
+      "website": "https://www.siouxfalls.gov/activities-recreation/parks-trails/directory/parks/falls",
+      "phone": "(605) 367-8222 (Sioux Falls Official Site)",
+      "image_url": "https://www.siouxfalls.gov/files/assets/public/v/1/parks-and-recreation/parks/falls-park/2025/falls.png",
+      "highlights": [
+        "'Breathtaking waterfalls with an average of 7,400 gallons of water dropping 100 feet each second ([Experience Sioux Falls).', 'A five-story observation tower at the Visitor Information Center providing panoramic views of the falls and city (Wanderlog).', 'Historic ruins of the seven-story Queen Bee Mill, once a state-of-the-art flour mill built in 1881 (Danana GO!).', 'The Falls Overlook Cafe, located in a beautifully renovated 1908 light and power company building (Sioux Falls Official Site).', 'Access to the 19-mile Big Sioux River Recreation Trail for walking and biking (Sioux Falls Official Site).', \"Stockyards Ag Experience, a museum within the park detailing the region's agricultural history (Sioux Falls Official Site).\"]"
+      ],
+      "tips": "Visit during the spring to see the falls at their peak flow from snowmelt, or visit on a Saturday morning between May and October to enjoy the local Farmers Market (Danana GO!). The observation tower is free to enter and offers the best vantage point for photography (Wanderlog).",
+      "nearby": "Stockyards Ag Experience, Old Minnehaha County Courthouse, SculptureWalk, Washington Pavilion, and Good Earth State Park (Wikipedia, Sioux Falls Official Site)."
+    },
+    {
+      "name": "Fisher Grove State Park",
+      "category": "Park",
+      "description": "Fisher Grove State Park is a scenic recreation area located along the James River, preserving a mature grove of cottonwood, elm, and ash trees. The park is historically significant as a former river crossing for the Watertown-to-Pierre stage line and is named after Spink County's first permanent European settler. South Dakota Game, Fish, and Parks, RVezy",
+      "address": "17290 Fishers Lane",
+      "city": "Frankfort",
+      "region": "Northeast Region (Spink County)",
+      "hours": "Open Year-round; Day-use hours are typically 6:00 AM to 11:00 PM in South Dakota state parks. South Dakota Game, Fish, and Parks, Wikipedia",
+      "days_open": "7 days a week (Open Year-round) South Dakota Game, Fish, and Parks",
+      "admission": "Daily: $10 for residents, $15 for nonresidents; Annual: $40 for residents, $60 for nonresidents; Campsites: $30 per night for electrical. South Dakota Game, Fish, and Parks",
+      "website": "https://gfp.sd.gov/parks/detail/-fisher-grove-state-park/",
+      "phone": "605.626.3488",
+      "image_url": "https://gfp.sd.gov/userdocs/fisher-grove-river.jpg",
+      "highlights": [
+        "['Canoeing and kayaking on the James River', 'Nine-hole golf course managed by the Fisher Grove Country Club', 'Historical one-room pioneer schoolhouse and river crossing site', '22 electrical campsites for RV and tent camping', 'Abundant wildlife viewing, including white-tailed deer and wild turkeys']"
+      ],
+      "tips": "Between October 1 and April 30, modern facilities like showers and flush toilets may be closed; vault toilets typically remain open. Reservations for campsites can be made up to 90 days in advance. South Dakota Game, Fish, and Parks, RoverPass",
+      "nearby": "Fisher Grove Country Club, Redfield Lake, Historic 1914 C&NW RR Depot Museum, Pheasant City Drive-In Theatre. City of Redfield Tourism"
+    },
+    {
+      "name": "Great Plains Zoo & Delbridge Museum of Natural History Great Plains Zoo",
+      "category": "Museum",
+      "description": "The Great Plains Zoo & Delbridge Museum of Natural History is a 45-acre park home to more than 1,000 animals from 137 species, including several endangered animals. It offers visitors up-close views of wildlife from seven continents and serves as a regional leader in conservation and education Great Plains Zoo, Experience Sioux Falls",
+      "address": "805 S Kiwanis Ave, Sioux Falls, SD 57104 Great Plains Zoo",
+      "city": "Sioux Falls Great Plains Zoo",
+      "region": "Minnehaha County / Sioux Falls Area Wikipedia",
+      "hours": "Monday - Sunday: 9:00 AM - 5:00 PM (Last admission at 4:00 PM; Africa area closes at 4:00 PM) Great Plains Zoo",
+      "days_open": "Open daily (361 days a year); closed Thanksgiving Day, Christmas Eve, Christmas Day, and New Year's Day Great Plains Zoo",
+      "admission": "Adults (13-59): $18.95, Seniors (60+)/Military/Students: $17.95, Youth (2-12): $14.95, Infants (Under 2): Free, Personal Aide: Free (through June 1, 2026, then $7) Great Plains Zoo Admission",
+      "website": "https://www.greatzoo.org",
+      "phone": "(605) 367-7003 or (605) 215-6392 Great Plains Zoo",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Great_Plains_Zoo.jpg",
+      "highlights": [
+        "'African Savanna featuring giraffes, lions, and zebras [Great Plains Zoo', 'Award-winning Snow Monkey exhibit Tripadvisor', 'Face-to-Face Farm for close-up animal encounters Travel South Dakota', 'Rare and endangered species including red wolves and rhinos Great Plains Zoo', 'Extensive primate collection including lemurs and monkeys Tripadvisor']"
+      ],
+      "tips": "Purchase your tickets online in advance to save $2 per ticket. Be sure to arrive well before 4:00 PM, as the Africa area and several animal exhibits begin closing an hour before the main gates Great Plains Zoo",
+      "nearby": "Butterfly House & Aquarium, Falls Park, USS South Dakota Battleship Memorial, Wild Water West Waterpark Travel South Dakota"
+    },
+    {
+      "name": "Hyde Lake (at Shelby Farms Park)",
+      "category": "Park",
+      "description": "Hyde Lake is the 80-acre centerpiece of Shelby Farms Park, featuring a boathouse, a 2.5-mile loop trail, and the Coastal Fish Company restaurant. It serves as the social and recreational hub for one of the largest urban parks in the country. Shelby Farms Park",
+      "address": "6903 Great View Dr N, Memphis, TN 38134-7970",
+      "city": "Memphis",
+      "region": "Shelby County",
+      "hours": "Daily: Sunrise to Sunset Shelby Farms Park",
+      "days_open": "365 days a year",
+      "admission": "Free (Park entry); Fees apply for specific activities like boat/bike rentals and Go Ape. Shelby Farms Park",
+      "website": "https://www.shelbyfarmspark.org/hyde-lake-expansion",
+      "phone": "(901) 222-7275",
+      "image_url": "https://www.shelbyfarmspark.org/sites/default/files/styles/banner_image/public/2023-09/shelby_farms_fall_20230j4a7783.jpg",
+      "highlights": [
+        "[\"Bison herd roaming in the park's natural areas\", '40 miles of paved and unpaved trails for hiking and cycling', 'Woodland Discovery Playground for children', 'Boathouse offering kayak, canoe, and paddleboard rentals', 'Go Ape Treetop Adventure course with ziplining', 'Coastal Fish Company restaurant with lakeside dining']"
+      ],
+      "tips": "Rent a bike from the Wheelhouse to enjoy the scenic loop around the lake; sunset views from the lakeside restaurant are highly recommended. Choose901",
+      "nearby": "Shelby Farms Greenline, Wolf River, FedEx Event Center, Woodland Discovery Playground Memphis Travel"
+    },
+    {
+      "name": "Iron Mountain Road (U.S. Route 16A)",
+      "category": "Landmark",
+      "description": "Iron Mountain Road (US 16A) is a world-famous 17-mile scenic drive in the Black Hills of South Dakota, connecting Custer State Park and Mount Rushmore National Memorial. Known as a \"historical work of art,\" the road features 314 curves, 14 switchbacks, and unique \"pigtail\" bridges designed to blend into the natural landscape. Iron Mountain Road Official Site, Travel South Dakota",
+      "address": "24631 Iron Mountain Rd, Keystone, SD 57751-6655",
+      "city": "Keystone",
+      "region": "Black Hills / Pennington & Custer Counties",
+      "hours": "Road: Open 24 hours daily (seasonal, closed in winter). Visitor Center & Store: Open daily approx. 8:00 AM - 6:00 PM (mid-May through November). Iron Mountain Road Official Site, Tripadvisor",
+      "days_open": "Daily (Seasonally from mid-May through October/November). Iron Mountain Road Official Site",
+      "admission": "Free for scenic drive; Custer State Park entrance fee ($20/vehicle for 1-7 days) applies if stopping or entering park facilities. Custer Resorts, AllTrips",
+      "website": "https://www.ironmountainroad.com",
+      "phone": "605-666-4609 Iron Mountain Road Official Site",
+      "image_url": "https://static.wixstatic.com/media/6305f6_7ea538ad34b44a5abdaeaa7e2e48b2e3~mv2_d_2816_2112_s_2.jpg/v1/fill/w_964",
+      "highlights": [
+        "['314 curves and 14 switchbacks in 17 miles', '3 \"pigtail\" bridges (spiraling wooden structures)', '3 one-lane granite tunnels (Doane Robinson, C.C. Gideon, Scovel Johnson) that frame Mount Rushmore', 'Norbeck Overlook at the summit for panoramic views of the Black Hills', 'Frequent wildlife sightings including bison, elk, bighorn sheep, and mountain goats', 'Iron Mountain Road Visitor Center & Store for memorabilia and locally roasted coffee']"
+      ],
+      "tips": "Drive north to see Mount Rushmore framed in the tunnels; avoid driving large RVs or trailers due to low/narrow tunnel clearances; allow at least 45-60 minutes for the 17-mile drive. Travel South Dakota",
+      "nearby": "Mount Rushmore National Memorial, Custer State Park, Spokane Ghost Town, Wildlife Loop Road, Needles Highway. Travel South Dakota"
+    },
+    {
+      "name": "Jerauld County Pioneer Museum Wikipedia",
+      "category": "Museum",
+      "description": "The Jerauld County Pioneer Museum is a local history complex in Wessington Springs that offers a fascinating look into early pioneer life on the northern plains. Operated by the Dunham Historical Society, the museum features a variety of exhibits including military artifacts, commercial items, and local religious history Travel South Dakota, Wikipedia.",
+      "address": "105 Main St E, Wessington Springs, SD 57382 Zola, Tripadvisor",
+      "city": "Wessington Springs Zola",
+      "region": "Jerauld County (Southeast South Dakota) Wikipedia",
+      "hours": "Available by appointment; open for community events and seasonal holiday open houses Wessington Springs Carnegie Library, Wessington Springs Official Site",
+      "days_open": "By appointment and during special community events Wessington Springs Carnegie Library, Wessington Springs Official Site",
+      "admission": "Free; donations are appreciated Tripadvisor, South Dakota State Historical Society",
+      "website": "https://www.facebook.com/DunhamHistoricalSociety",
+      "phone": "(605) 539-1620 or (605) 539-1929 South Dakota State Historical Society, Wessington Springs Official Site",
+      "image_url": "https://wessingtonsprings.yoursdlibrary.org/wp-content/uploads/sites/114/2021/05/Jerauld-County-Pioneer-Museum-1024x768.jpg",
+      "highlights": [
+        "'Jerauld County Heritage Center featuring hundreds of pioneer life artifacts [Zola', 'Fagerhaug one-room schoolhouse and Kraft Blacksmith and Repair Shop Zola', 'Items belonging to the \"Gann Valley Giant,\" a 7-foot-3-inch former sheriff Travel South Dakota', 'A unique stuffed conjoined calf exhibit Travel South Dakota', 'Extensive collection of local historical newspapers Wessington Springs Carnegie Library', 'Military, commercial, and religious historical displays from Jerauld County Travel South Dakota']"
+      ],
+      "tips": "Tours can be pre-arranged by contacting the Wessington Springs Chamber & Development Corporation or the Dunham Historical Society. It is recommended to check their Facebook page for current event schedules and seasonal open houses Wessington Springs Official Site, Wessington Springs Carnegie Library.",
+      "nearby": "Shakespeare Garden and Anne Hathaway Cottage, Wessington Springs Carnegie Library, 1905 Opera House, Jerauld County Courthouse True Dakotan"
+    },
+    {
+      "name": "Kirby Science Discovery Center Washington Pavilion",
+      "category": "Museum",
+      "description": "The Kirby Science Discovery Center is a hands-on science museum featuring over 100 interactive exhibits designed to engage visitors of all ages in learning through play. Located within the historic Washington Pavilion, it offers diverse explorations into space, dinosaurs, physics, and more, making it a premier indoor family destination in Sioux Falls. Washington Pavilion, Coast2CoastWithKids",
+      "address": "301 S Main Ave, Sioux Falls, SD 57104 Washington Pavilion",
+      "city": "Sioux Falls Washington Pavilion",
+      "region": "Downtown Sioux Falls Washington Pavilion",
+      "hours": "Monday–Saturday: 10 a.m. – 5 p.m.; Sunday: 12 p.m. – 5 p.m. Washington Pavilion",
+      "days_open": "Monday - Sunday Washington Pavilion",
+      "admission": "Adult (18+): $16.25, Student/Youth (3-17/student ID): $13.50, Seniors (65+): $14.00, Military: $14.00, Children 2 & Under: Free, Members: Free. Reserve online for $1.00 off. Afternoon Special: 50% off starting at 3:00 PM. Washington Pavilion",
+      "website": "https://www.washingtonpavilion.org/attractions/kirby-science-discovery-center/",
+      "phone": "(605) 367-6000 Washington Pavilion",
+      "image_url": "https://www.washingtonpavilion.org/wp-content/uploads/2023/04/Kirby-Science-Discovery-Center-Main.jpg",
+      "highlights": [
+        "'Interactive dinosaur exhibits including a \"driveable\" SUV experience [Nanonation', 'Space and astronomy exploration in the Wells Fargo CineDome & Sweetman Planetarium Washington Pavilion', 'Hands-on physics demonstrations featuring a bed of nails and vortex cannon Discovery Place Science', 'Interactive water room and ambulance exhibit for younger children Airial Travel', 'Color-a-Dino digital coloring book for creative learning Nanonation', 'Free First Fridays with special science activities from 5-8 p.m. Washington Pavilion']"
+      ],
+      "tips": "Visit on the first Friday of the month between 5-8 p.m. for free admission. Save $1 per ticket by booking online in advance, or visit after 3 p.m. to take advantage of the 50% off afternoon special. Washington Pavilion, dakotaathome.sd.gov",
+      "nearby": "SculptureWalk, Falls Park, Great Plains Zoo, Old Courthouse Museum, Butterfly House & Aquarium Tripadvisor, Experience Sioux Falls"
+    },
+    {
+      "name": "Klein Museum",
+      "category": "Museum",
+      "description": "Founded in 1975, the Klein Museum preserves the diverse heritage of the Mobridge area, specifically focusing on the meeting of European pioneer and Sioux Native American cultures. The museum features extensive collections of local artifacts, historical room recreations, and outdoor exhibits including a restored one-room schoolhouse and a replica Arikara earth lodge. Missouri River Tourism, Mobridge Chamber",
+      "address": "1820 W Grand Crossing, Mobridge, SD 57601",
+      "city": "Mobridge",
+      "region": "Walworth County / Missouri River area",
+      "hours": "Monday - Friday: 9:00 am - 12:00 pm, 1:00 pm - 5:00 pm; Saturday & Sunday: 1:00 pm - 4:00 pm (Open seasonally May 1st - October 15). Missouri River Tourism",
+      "days_open": "Daily (Monday through Sunday) during the open season. Missouri River Tourism",
+      "admission": "Admission is charged (specific general entry fees not listed; specialized Prairie Life Tours available for $15 and River Heritage Walks for $20). Mobridge Chamber, Official Wix Site",
+      "website": "https://kleinmuseum.org",
+      "phone": "(605) 845-7243 Mobridge Chamber",
+      "image_url": "https://www.sdmissouririver.com/assets/images/directory/slides/klein-museum-out-buildings-2024-3d64ca4955db.jpg",
+      "highlights": [
+        "['Extensive collection of Sioux Native American beadwork, headdresses, and tools.', 'Exhibits detailing the life and legacy of Chief Sitting Bull, whose monument is located nearby.', 'Replica Arikara earth lodge showcasing the dwellings encountered by Lewis and Clark in 1804.', 'Restored one-room country schoolhouse and homestead cabins on the museum grounds.', \"Pioneer room scenes featuring a trapper's shack, dentist's office, and a doctor's office with historical relics.\", 'Historical mannequins and wax dummies that bring prairie history to life.']"
+      ],
+      "tips": "The museum is open seasonally from May to mid-October, so plan your visit accordingly. Consider checking the museum's event calendar for living history presentations or the Harvest Festival held in September. Missouri River Tourism, Evendo",
+      "nearby": "Sitting Bull Monument, Sakakawea Monument, Walleye Up Statue, Scherr-Howe Arena (Oscar Howe Murals), Indian Creek Recreation Area. Trip.com, Evendo"
+    },
+    {
+      "name": "Laura Ingalls Wilder Historic Homes (Memorial Society)",
+      "category": "Historic Site",
+      "description": "The Laura Ingalls Wilder Historic Homes in De Smet, South Dakota, preserve the legacy of the beloved author whose family settled here in 1879. Visitors can tour original structures such as the Surveyor's House and the home built by Charles \"Pa\" Ingalls, as well as the town's first schoolhouse, all of which featured prominently in her series of pioneer books. Travel South Dakota, Discover Laura",
+      "address": "105 Olivet Avenue SE",
+      "city": "De Smet",
+      "region": "Northeast South Dakota / Kingsbury County",
+      "hours": "Oct–Apr: Tue–Sat 9:00 AM–4:00 PM; May & Sep: Mon–Sat 9:00 AM–4:00 PM; Jun–Aug (Memorial Day to Labor Day): Mon–Sat 9:00 AM–5:30 PM, Sun 11:00 AM–5:30 PM Little House on the Prairie, Discover Laura",
+      "days_open": "Year-round Discover Laura",
+      "admission": "Adults (13+): $16.00, Children (6-12): $8.00, Children (5 and under): Free Little House on the Prairie, Discover Laura",
+      "website": "https://discoverlaura.org/",
+      "phone": "605-854-3383",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Laura_ingalls_wilder_museum_surveyor%27s_house_desmet_sd.jpg",
+      "highlights": [
+        "['Guided tours of the original Surveyors\\' House from \"By the Shores of Silver Lake\"', 'The historic house built by Charles \"Pa\" Ingalls between 1887 and 1889', 'The First School of De Smet attended by Laura and her sister Carrie', 'Discovery Center featuring hands-on pioneer activities for children', 'Exhibition Room housing original Ingalls and Wilder family artifacts']"
+      ],
+      "tips": "Visitors should allow at least 2 hours for the full guided tour and are encouraged to arrive 30 minutes prior to their desired tour time to purchase tickets at the Gift Shop. Tours are limited to 20 people on a first-come, first-served basis, and only service animals are permitted inside the buildings. Discover Laura",
+      "nearby": "Ingalls Homestead (Laura's Living Prairie), De Smet Cemetery, Almanzo Wilder Homestead, The Loftus Store, Harvey Dunn School Discover Laura, Ingalls Homestead"
+    },
+    {
+      "name": "Laura Ingalls Wilder Historic Homes discoverlaura.org",
+      "category": "Historic Site",
+      "description": "The Laura Ingalls Wilder Historic Homes in De Smet feature original structures where the Ingalls family lived and Laura attended school. Visitors can tour the Surveyor's House, the first school of De Smet, and the final home built by Charles 'Pa' Ingalls. The site preserves the legacy of the 'Little House' books through guided tours and an extensive collection of original family artifacts discoverlaura.org, South Dakota Tourism.",
+      "address": "105 Olivet Ave., De Smet, SD 57231, US discoverlaura.org",
+      "city": "De Smet",
+      "region": "Kingsbury County Wikipedia",
+      "hours": "Memorial Day-August: Mon-Sat 9:00 AM - 5:30 PM, Sun 12:00 PM - 5:30 PM; May: Mon-Sat 9:00 AM - 4:00 PM; September-April: Tue-Sat 9:00 AM - 4:00 PM discoverlaura.org",
+      "days_open": "Open daily from May through August; Tuesday-Saturday from September through April discoverlaura.org",
+      "admission": "Adults (13+): $18.00; Children (6-12): $10.00; Children (under 5): FREE; Exhibit only: $8.00 discoverlaura.org",
+      "website": "https://discoverlaura.org",
+      "phone": "(605) 854-3383 discoverlaura.org",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Laura_ingalls_wilder_house_that_pa_built_de_smet.jpg",
+      "highlights": [
+        "\"Guided tour of the original Surveyors' House from 'By the Shores of Silver Lake' [discoverlaura.org\", \"Tour of the 'House That Pa Built,' the Ingalls family's permanent home discoverlaura.org\", 'Visit the original First School of De Smet attended by Laura and Carrie discoverlaura.org', 'Hands-on activities at the Discovery Center (open June-August) discoverlaura.org', 'View original artifacts and memorabilia in the Exhibition Room discoverlaura.org']"
+      ],
+      "tips": "Allow at least 2 hours for a full visit; arrive 30 minutes early to purchase tickets as tours are first-come, first-served. Guided tours are required to enter the historic homes discoverlaura.org.",
+      "nearby": "Ingalls Homestead, De Smet Cemetery, Almanzo Wilder Homestead, Memorial Site with five cottonwood trees discoverlaura.org"
+    },
+    {
+      "name": "Lead-Deadwood Historic District (National Park Service)",
+      "category": "Historic Site",
+      "description": "The Lead-Deadwood Historic District encompasses the preserved 19th-century gold rush settlements of Lead and Deadwood in the Black Hills. Designated as a National Historic Landmark District, it is renowned for its late-Victorian architecture and legendary associations with figures like Wild Bill Hickok and Calamity Jane (National Park Service).",
+      "address": "Main Street and surrounding city limits, Deadwood and Lead, SD 57732/57754 (City of Deadwood)",
+      "city": "Deadwood and Lead (Wikipedia)",
+      "region": "Black Hills / Lawrence County (Wikipedia)",
+      "hours": "District streets: Open 24/7. Museums (May-Sept): 9:00 AM - 5:00 PM daily; (Oct-April): 10:00 AM - 4:00 PM Tue-Sat (Deadwood History)",
+      "days_open": "Daily (Deadwood History)",
+      "admission": "Free to explore the historic district; museums have fees: Adams Museum (suggested $5 adults, $3 children), Days of '76 Museum ($10 adults, $5 children 6-12), Historic Adams House ($12 adults, $5 children 6-12). Individual Adult Museum Pass: $22 (Deadwood History)",
+      "website": "https://www.deadwood.com",
+      "phone": "(605) 578-1876 (Deadwood Chamber), (605) 722-4800 (Deadwood History) (Deadwood History)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Deadwood_Main_Street_2011.jpg",
+      "highlights": [
+        "'Mount Moriah Cemetery: The final resting place of Wild Bill Hickok and Calamity Jane ([Deadwood.com)', \"Adams Museum: The Black Hills' oldest history museum, featuring mining artifacts and unique gold specimens (Deadwood History)\", \"Days of '76 Museum: A vast collection of historic wagons, carriages, and American Indian artifacts (Deadwood History)\", 'Homestake Gold Mine: One of the deepest and most productive gold mines in the Western Hemisphere, now home to a physics research facility (City of Lead)', 'Main Street Reenactments: Free daily street performances, including shootouts and the Trial of Jack McCall (Deadwood Alive)', 'Historic Architecture: A high concentration of late 19th-century brick and stone commercial buildings and Victorian homes (National Park Service)']"
+      ],
+      "tips": "Wear comfortable walking shoes for hilly, brick-paved terrain; catch the free street reenactments held multiple times daily in summer; park near the Visitor Center for easy access (Deadwood.com)",
+      "nearby": "Spearfish Canyon, Mount Rushmore National Memorial, Crazy Horse Memorial, George S. Mickelson Trail (Deadwood.com)"
+    },
+    {
+      "name": "Main Street Square",
+      "category": "Entertainment",
+      "description": "Main Street Square is a vibrant public plaza and the heart of downtown Rapid City, serving as a year-round gathering place for the community and visitors. The square features an interactive splash patio with dancing fountains during the summer months and transforms into the region's only outdoor real-ice skating rink during the winter. It hosts over 150 events annually, including live concerts, seasonal festivals, and a massive granite sculpture project titled \"Passage of Wind and Water.\" Visit Rapid City, Travel South Dakota",
+      "address": "526 Main Street, Suite 240, Rapid City, SD 57701 Visit Rapid City",
+      "city": "Rapid City",
+      "region": "Downtown Rapid City",
+      "hours": "Fountain Hours (May 22 - Early Oct): Mon-Sat 10:00 AM - 8:00 PM, Sun 10:00 AM - 5:00 PM. Ice Rink Hours (Nov 29 - Feb 28): Tue-Sun 12:00 PM - 8:00 PM (Closed Mondays). Square Office Hours: Mon-Fri 8:00 AM - 5:00 PM Visit Rapid City, Tripadvisor",
+      "days_open": "Open daily (Hours vary by season and activity) Visit Rapid City",
+      "admission": "Free for general entry and fountain use. Ice Skating (Seasonal): Day Pass $10, Ice Skate Rentals $5, Family Pass (4 passes + 4 rentals) $50. Helmets and Walkers are free. $1 discount for military, first responders, seniors, and students Visit Rapid City",
+      "website": "https://mainstreetsquare.org/",
+      "phone": "(605) 716-7979 Visit Rapid City",
+      "image_url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit",
+      "highlights": [
+        "[\"Interactive Splash Patio with 11 different 'dancing' fountain songs\", 'Seasonal outdoor ice skating rink with real ice and warming station', 'The Sculpture Project: Passage of Wind and Water, featuring 21 massive granite sculptures', 'Live on the Lawn summer concert series and Movies on Main', 'Major community events such as Frühlingsfest and the Great Downtown Pumpkin Festival', 'Surrounded by unique local boutiques, eateries, and the City of Presidents statues']"
+      ],
+      "tips": "For the fountains, bring swim diapers for toddlers and wear appropriate non-slip shoes; the fountains close for high winds or lightning. For ice skating, sign the online waiver before arrival to skip the line at the Skate Shack. Check the downtown event calendar for Thursday night concerts and special holiday markets Visit Rapid City",
+      "nearby": "Art Alley, City of Presidents (bronze statues), Silver Lining Creamery, Mitzi’s Books, Hotel Alex Johnson & Vertex Sky Bar, Dahl Arts Center Visit Rapid City"
+    },
+    {
+      "name": "Miner County Rural Life Museum Miner County Historical Society",
+      "category": "Historic Site",
+      "description": "The Miner County Rural Life Museum, operated by the Miner County Historical Society, preserves the rich history of Howard and the surrounding Miner County region. It features a diverse collection of exhibits ranging from military and agricultural history to medical memorabilia and local family genealogies. Miner County Historical Society",
+      "address": "217 South Main Street Miner County Historical Society",
+      "city": "Howard Miner County Historical Society",
+      "region": "Southeast South Dakota Wikipedia",
+      "hours": "Thursdays: 10:00 AM - 2:00 PM; Saturdays & Sundays: 1:00 PM - 4:00 PM (June through December) Miner County Historical Society",
+      "days_open": "Thursdays, Saturdays, and Sundays (June through December); open when the \"Open\" flag is flying Miner County Historical Society",
+      "admission": "Free Miner County Historical Society",
+      "website": "https://www.minercountyhistoricalsociety.org",
+      "phone": "605-480-0125 Miner County Historical Society",
+      "image_url": "https://www.minercountyhistoricalsociety.org/uploads/1/2/6/2/126236136/published/play-cast-sepember-2021.jpg?1631546084",
+      "highlights": [
+        "'Extensive collection of local military history documents and memorabilia [Miner County Historical Society', 'Exhibits on agricultural life and family farming in the region Miner County Historical Society', 'Collections of Native American arrowheads and artifacts Miner County Historical Society', 'Historical library containing yearbooks, newspapers, and family genealogy books Miner County Historical Society', 'Memorabilia from local retail establishments and medical history Miner County Historical Society', 'Monthly historical columns published in the Miner County Pioneer newspaper Miner County Historical Society']"
+      ],
+      "tips": "Look for the \"Open\" flag flying in front of the museum to know if it's open outside of regular hours; you can also schedule a visit at other times by contacting the society via email or phone. Miner County Historical Society",
+      "nearby": "Lake Herman State Park, Howard Golf Course, Howard City Park, Ingalls Homestead, Porter Sculpture Park Tripadvisor, SouthDakota.com"
+    },
+    {
+      "name": "Minuteman Missile National Historic Site",
+      "category": "Landmark",
+      "description": "Minuteman Missile National Historic Site preserves the story of the Cold War and the Minuteman II intercontinental ballistic missile system. It consists of three separate sites—a visitor center, a launch control facility, and a missile silo—that once stood on constant alert as a nuclear deterrent in the American Great Plains.",
+      "address": "24545 Cottonwood Road",
+      "city": "Philip",
+      "region": "Western South Dakota (near Badlands)",
+      "hours": "Visitor Center: Tuesday–Saturday 8:00 AM – 4:00 PM (Winter); Delta-09 & Delta-01 (Outside Gates): Tuesday–Saturday 9:00 AM – 3:00 PM (Winter). Summer: Daily 8:00 AM – 4:00 PM. Closed on major holidays like Thanksgiving, Christmas, and New Year's Day.",
+      "days_open": "Tuesday–Saturday (Winter/Current), Daily (Summer)",
+      "admission": "Free for Visitor Center and Delta-09 Missile Silo. Guided tours of Delta-01 Launch Control Facility: Adults (17+) $12, Children (6-16) $8. Reservations are required for tours.",
+      "website": "https://www.nps.gov/mimi/index.htm",
+      "phone": "(605) 433-5552",
+      "image_url": "https://www.nps.gov/common/uploads/pwr/20170731/20170731/08CCD009-1DD8-B71B-0B268055F18EEA53/08CCD009-1DD8-B71B-0B268055F18EEA53.jpg",
+      "highlights": [
+        "['Delta-09 Missile Silo: View a deactivated Minuteman II missile through a glass cover.', \"Delta-01 Launch Control Facility: Tour the underground 'capsule' where missileers worked 31 feet below ground.\", \"Visitor Center Museum: Explore exhibits on the Cold War arms race and civil defense like 'duck and cover'.\", \"Park Film: Watch the 'Beneath the Plains' film to understand the site's role in global history.\", 'Junior Missileer Program: Interactive activities for children to earn a Junior Ranger patch.', 'Cell Phone Audio Tour: Self-guided narrated tours available at all three park locations.']"
+      ],
+      "tips": "Delta-01 tours are extremely popular and must be booked 24 hours to 90 days in advance; they often sell out months ahead. Wear comfortable walking shoes and bring water, as sites are spread across 15 miles of the prairie. Use the official NPS app for navigation as GPS can be unreliable in this remote area.",
+      "nearby": "Badlands National Park, Wall Drug Store, South Dakota Air and Space Museum, Prairie Homestead, Badlands Ranch Store."
+    },
+    {
+      "name": "Museum of Geology, South Dakota Mines",
+      "category": "Museum",
+      "description": "The Museum of Geology at South Dakota Mines explores the natural history of Earth through extensive collections of paleontologically and geologically significant objects from the Northern Great Plains. Visitors can admire mounted skeletons of dinosaurs and marine reptiles, rare fossils from the White River Badlands, and thousands of vibrant mineral specimens, including a captivating fluorescent mineral room. (South Dakota Mines, Visit Rapid City)",
+      "address": "501 E. Saint Joseph St., 3rd Floor of O'Harra Building, Rapid City, SD 57701",
+      "city": "Rapid City",
+      "region": "South Dakota Mines Campus (Foot of the Black Hills)",
+      "hours": "Winter (Labor Day to Memorial Day): Monday - Saturday, 9:00 AM - 4:30 PM (Closed Sundays and Federal Holidays). Summer (Memorial Day to Labor Day): Monday - Saturday, 9:00 AM - 6:00 PM (Closed Sundays and July 4th). (South Dakota Mines)",
+      "days_open": "Monday - Saturday",
+      "admission": "Adults (16+): $10.00, Children (6-15): $5.00, Seniors (60+): $8.00, Military (with ID): $8.00, Children under 5: Free. School Tours: $3.00 per student; Private Tours: $6.00 per person. (South Dakota Mines)",
+      "website": "https://www.sdsmt.edu/student-life/campus-points-of-interest/museum-of-geology/index.html",
+      "phone": "(605) 394-2467",
+      "image_url": "https://www.sdsmt.edu/academics/assets/MOGhomepage.jpg",
+      "highlights": [
+        "['Mounted skeletons of dinosaurs, mammals, and marine reptiles', 'Rare fossils from the White River Badlands arranged in dioramas', 'Hall of South Dakota Minerals and a fluorescent mineral room', 'The Discovery Zone with hands-on experiences for children', 'A 29-foot long prehistoric mosasaur mount', 'Online exhibits showcasing active research by faculty and students']"
+      ],
+      "tips": "Keep your admission receipt or take a selfie at the designated station to make your admission valid for the entire year. Guided tours must be scheduled at least 24 hours in advance by calling the museum. For easier access during campus construction, approach from the football stadium and follow the signs or painted footprints to the O'Harra Building. (South Dakota Mines, Tripadvisor)",
+      "nearby": "Journey Museum & Learning Center, Dinosaur Park, Downtown Rapid City (City of Presidents statues), and the Black Hills National Forest. (Tripadvisor)"
+    },
+    {
+      "name": "Needles Highway (SD Hwy 87 North)",
+      "category": "Landmark",
+      "description": "The Needles Highway is a spectacular 14-mile drive through ponderosa pine and Black Hills spruce forests, meadows, and rugged granite mountains. Part of the Peter Norbeck National Scenic Byway, it is named after the needle-like granite formations that seem to pierce the horizon along the route (South Dakota Game, Fish & Parks).",
+      "address": "SD Highway 87 North (Custer State Park), Custer, SD 57730",
+      "city": "Custer",
+      "region": "Black Hills",
+      "hours": "Open 24 hours daily (Seasonally for vehicles; typically early April to first snow) (South Dakota Game, Fish & Parks)",
+      "days_open": "Daily (Seasonally for vehicles; typically April through October) (South Dakota Game, Fish & Parks)",
+      "admission": "Custer State Park Entrance License: $25 per vehicle (1-7 days), $20 per motorcycle, $40 resident annual, $60 nonresident annual (South Dakota Game, Fish & Parks)",
+      "website": "https://gfp.sd.gov/csp-scenic-drives/",
+      "phone": "605-394-2693 (Custer State Park Office) (South Dakota Game, Fish & Parks)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Needles_Highway_overlook.jpg",
+      "highlights": [
+        "'Granite \"needles\" spires rock formations ([South Dakota Game, Fish & Parks)', \"The iconic Needle's Eye rock formation (South Dakota Game, Fish & Parks)\", \"Sylvan Lake, often called the 'crown jewel' of the park (Travel South Dakota)\", 'Cathedral Spires rock formations and hiking trail (Summer Creek Inn)', 'Narrow tunnels including the 8-foot-wide Needles Eye Tunnel (South Dakota Game, Fish & Parks)', \"Winding 'pigtail' bridges and hairpin curves (Summer Creek Inn)\"]"
+      ],
+      "tips": "Allow at least 60 minutes for the 14-mile drive and drive slowly (25 mph or less). Check vehicle dimensions before attempting the narrow tunnels, as the Needles Eye Tunnel is only 8'0\" wide. The road is closed to vehicles in winter but remains accessible for hiking and snowshoeing (South Dakota Game, Fish & Parks, Custer State Park Resort).",
+      "nearby": "Sylvan Lake Lodge, Cathedral Spires Trail, Mount Rushmore National Memorial, Crazy Horse Memorial, Wildlife Loop Road (South Dakota Game, Fish & Parks, Travel South Dakota)"
+    },
+    {
+      "name": "Old Courthouse Museum (Siouxland Heritage Museums)",
+      "category": "Historic Site",
+      "description": "The Old Courthouse Museum is a beautifully restored 1890s Richardsonian Romanesque building made of native pink quartzite that served as the Minnehaha County seat for 72 years. Today, it features three floors of regional history exhibits, including a restored circuit courtroom, a 165-foot clock tower, and 16 historic murals painted in the early 20th century. As part of the Siouxland Heritage Museums, it offers a deep look into the cultural and natural history of the Siouxland region. (Wikipedia, Experience Sioux Falls)",
+      "address": "200 West 6th Street, Sioux Falls, SD 57104",
+      "city": "Sioux Falls",
+      "region": "Old Courthouse Historic District / Downtown Sioux Falls (City of Sioux Falls)",
+      "hours": "Monday: 8:00 AM - 5:00 PM, Tuesday: 8:00 AM - 5:00 PM, Wednesday: 8:00 AM - 5:00 PM, Thursday: 8:00 AM - 9:00 PM, Friday: 8:00 AM - 5:00 PM, Saturday: 9:00 AM - 5:00 PM, Sunday: 12:00 PM - 5:00 PM (Tripadvisor, Dakota at Home)",
+      "days_open": "Monday through Sunday (Daily)",
+      "admission": "Free (donations welcome) (Siouxland Heritage Museums, Experience Sioux Falls)",
+      "website": "https://www.siouxlandmuseums.com",
+      "phone": "(605) 367-4210 (Siouxland Heritage Museums)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Old_Minnehaha_County_Courthouse%2C_Main_Avenue_and_6th_Street%2C_Sioux_Falls%2C_SD_-_53746800023.jpg",
+      "highlights": [
+        "'Richardsonian Romanesque architecture made from native pink quartzite ([City of Sioux Falls)', '165-foot tall 1893 clock tower that serves as a downtown landmark (Experience Sioux Falls)', 'Restored 1890s circuit courtroom and law library (Wikipedia)', '16 large oil murals painted by artist Ole Running between 1915 and 1917 (Siouxland Heritage Museums)', 'Three floors of exhibits covering Native American artistry, pioneer life, and regional history (Kupi.com)', 'The Museum Store featuring unique Dakota-made gifts and local history books (Siouxland Heritage Museums)']"
+      ],
+      "tips": "Admission is free with free parking available in the adjacent lot; visit on Thursday evenings to take advantage of extended hours until 9:00 PM. (Siouxland Heritage Museums, Kupi.com)",
+      "nearby": "Falls Park, SculptureWalk Downtown, Pettigrew Home & Museum, Washington Pavilion, St. Joseph Cathedral, Arc of Dreams (Tripadvisor)"
+    },
+    {
+      "name": "Old Style Saloon No. 10",
+      "category": "Bar",
+      "description": "The Old Style Saloon No. 10 is a world-famous living museum and bar where Deadwood's wild past comes to life with sawdust-lined floors and walls packed with frontier relics. It is legendary as the site where Wild Bill Hickok was assassinated, and it continues to host daily reenactments of the historic event alongside live music and gambling.",
+      "address": "657 Main St, Deadwood, SD 57732-1123",
+      "city": "Deadwood",
+      "region": "Lawrence County / Black Hills",
+      "hours": "Saloon: Monday - Sunday, 9:00 am - 2:00 am; Gift Shop: Monday - Sunday, 9:00 am - 10:00 pm; Social Club: Monday - Saturday, 11:00 am - 10:00 pm (Dinner starts at 4:00 pm) Saloon 10",
+      "days_open": "Monday - Sunday",
+      "admission": "Free (Show times: 1:00 pm, 3:00 pm, 5:00 pm & 7:00 pm) Saloon 10",
+      "website": "https://saloon10.com/",
+      "phone": "(800) 952-9398",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Saloon10-Exterior1-0001%400sm.gif",
+      "highlights": [
+        "['Wild Bill Hickok’s Death Chair exhibition', 'Daily reenactments of the shooting of Wild Bill Hickok', \"South Dakota's largest whiskey selection with over 171 varieties\", 'Live action gambling including Poker and Black Jack', 'Authentic Western artifacts and historic photographs throughout the museum-bar', 'Deadwood Social Club dining and Top of the 10 martini bar upstairs']"
+      ],
+      "tips": "Witness the 'Wild Bill - Killed Here Daily' reenactment shows held four times a day; arrive early for seating. Note that children are generally not allowed after 8:30 pm when live music begins. Saloon 10",
+      "nearby": "Adams Museum, Mount Moriah Cemetery (Wild Bill Hickok & Calamity Jane gravesites), Days of '76 Museum, Historic Adams House, Broken Boot Gold Mine Deadwood Chamber"
+    },
+    {
+      "name": "Reptile Gardens",
+      "category": "Botanical Garden",
+      "description": "Reptile Gardens is a premier South Dakota destination featuring one of the world's largest collections of reptile species and subspecies. The park is set within beautiful botanical gardens and is anchored by the iconic Sky Dome, a tropical oasis housing rare flora and fauna along with free-roaming reptiles and birds. (Reptile Gardens)",
+      "address": "8955 S Highway 16, Rapid City, SD 57702",
+      "city": "Rapid City",
+      "region": "Black Hills",
+      "hours": "Spring (Feb 28 - May 21): 9am - 4pm daily; Summer (May 22 - Sep 7): 8am - 6pm daily; Fall (Sep 8 - Oct 31): 8am - 4pm daily; Winter (Nov 1 - Nov 30): 9am - 3pm daily. Closed Dec-Feb. (Reptile Gardens Hours)",
+      "days_open": "Daily from February 28 through November 30 (Reptile Gardens)",
+      "admission": "Summer/Fall (May 22-Oct 31): Adults (16+) $26, Seniors (62+) $24, Youth (11-15) $22, Children (4-10) $20, Military $24. Spring/Winter (Feb 28-May 21 & Nov 1-30): Adults $23, Seniors $21, Youth $19, Children $17, Military $21. Free season pass included with full admission via photo at designated stands. (Reptile Gardens Rates)",
+      "website": "https://www.reptilegardens.com",
+      "phone": "1-605-342-5873 (Reptile Gardens Contact)",
+      "image_url": "https://www.reptilegardens.com/assets/images/gallery/images/skydome-8.jpg",
+      "highlights": [
+        "['The Sky Dome: A two-level tropical indoor jungle with exotic plants and free-roaming animals.', 'Giant Aldabra Tortoises: Gentle giants that visitors can interact with and pet.', 'Maniac: One of the largest giant saltwater crocodiles in the Western Hemisphere.', 'Animal Shows: Action-packed Gator, Snake, and Bird shows held daily during the peak season.', 'Botanical Gardens: Acres of lush flowerbeds, including the Living Wall and Tortuga Falls.', \"Deadliest Snakes: An extensive collection of some of the world's most venomous serpents.\"]"
+      ],
+      "tips": "Be sure to take your photo with a \"Shelly\" season pass sign inside the park to receive a free season pass for the rest of the year. No personal pets are allowed on grounds for safety reasons, but ADA service dogs are permitted in most areas. (Reptile Gardens FAQ)",
+      "nearby": "Bear Country USA, Mount Rushmore National Memorial, Crazy Horse Memorial, Custer State Park, Rushmore Tramway Adventures (Visit Rapid City)"
+    },
+    {
+      "name": "Richmond Lake Recreation Area",
+      "category": "Park",
+      "description": "Richmond Lake Recreation Area is a diverse outdoor destination featuring three distinct units: the South Unit for camping and swimming, the Forest Drive Unit for trails and disc golf, and the Boat Ramp Unit for water access. The park surrounds the 1,000-acre Richmond Lake, offering year-round activities from summer boating to winter cross-country skiing. (South Dakota Game, Fish, and Parks)",
+      "address": "37908 Youth Camp Road",
+      "city": "Aberdeen",
+      "region": "Northeast South Dakota (Brown County)",
+      "hours": "Year-round (Showers and flush toilets closed Oct. 1 - April 30) (South Dakota Game, Fish, and Parks)",
+      "days_open": "Daily",
+      "admission": "Daily: $10 for residents, $15 for nonresidents; Annual: $40 for residents, $60 for nonresidents (South Dakota Game, Fish, and Parks)",
+      "website": "https://gfp.sd.gov/parks/detail/richmond-lake-recreation-area/",
+      "phone": "605.626.3488",
+      "image_url": "https://gfp.sd.gov/userdocs/2017RichmondLake04.JPG",
+      "highlights": [
+        "['Over 1,000-acre lake popular for fishing walleye, bluegill, and crappie', 'Extensive multi-use trail system for hiking, biking, and horseback riding', '18-hole disc golf course with an additional 9 practice holes in the Forest Drive Unit', 'Campground with 26 campsites (electrical and non-electrical) and a camping cabin', 'Sandy swimming beach and multiple picnic areas with shelters', 'Winter recreation including groomed cross-country ski trails and snowshoeing']"
+      ],
+      "tips": "Between October 1 and April 30, water systems like showers and flush toilets may be closed, though vault toilets remain open. Visitors can borrow fishing poles, disc golf gear, and lawn games from the park office/store. (South Dakota Game, Fish, and Parks)",
+      "nearby": "Storybook Land and Land of Oz, Wylie Park, Dacotah Prairie Museum, Mina Lake Recreation Area (Tripadvisor)"
+    },
+    {
+      "name": "Riverbend Sports and Events Complex",
+      "category": "Entertainment",
+      "description": "The Riverbend Sports Complex is a versatile indoor athletic and event facility featuring two large buildings with high-quality turf fields built over dirt for a natural playing experience. It hosts various sports including soccer in the winter and basketball in the summer, alongside a range of community events, concerts, and private receptions. EPA Reuse and Benefit to Community, Building Salt Lake",
+      "address": "1085 Winding River Cove W, Salt Lake City, UT 84104",
+      "city": "Salt Lake City",
+      "region": "West Salt Lake City / 9-Line CRA Building Salt Lake",
+      "hours": "Monday - Friday: 6:00 PM - Midnight (Salt Lake County allotted time); Saturday - Sunday: 10:00 AM - Midnight. Salt Lake County",
+      "days_open": "Open daily (7 days a week) Salt Lake County",
+      "admission": "Varies by event and league; youth leagues typically include training fees, while concert tickets and special events range from $20 to $50+. Ticketsqueeze, Meet and Greet Pass",
+      "website": "https://www.tickeri.com/es/venues/5684654741b9ec1b861bcab5",
+      "phone": "801-688-1130 Salt Lake City Docs",
+      "image_url": "https://www.tickeri.com/images/venues/5684654741b9ec1b861bcab5/logo.jpg",
+      "highlights": [
+        "'Features premium indoor turf fields built over a dirt base for improved player experience. [EPA Reuse and Benefit to Community', 'Accommodates up to nine indoor basketball courts during the summer season. EPA Reuse and Benefit to Community', 'Serves as a multi-purpose venue for concerts, boxing, and private events like quinceañeras. Building Salt Lake', 'Home to elite youth soccer development programs such as Impact United. Impact United Soccer Club', 'Includes a full kitchen and catering services for large-scale gatherings. EPA Reuse and Benefit to Community', 'Part of the 9-Line Redevelopment Area with a planned expansion for increased parking and community amenities. Building Salt Lake']"
+      ],
+      "tips": "Visitors are encouraged to bring food donations for certain community events like Fight Night; always check event-specific seating charts as configurations vary. United Way of Salt Lake",
+      "nearby": "Jordan River, Surplus Canal, I-215 Belt Route, and the 9-Line Trail system. Building Salt Lake"
+    },
+    {
+      "name": "Sakakawea Monument (also known as the Sacagawea Monument)",
+      "category": "Landmark",
+      "description": "The Sakakawea Monument is a 12-foot stone obelisk overlooking the Missouri River that honors the Shoshone woman who served as a guide for the Lewis and Clark Expedition (South Dakota Department of Tourism). Erected in the 1920s with funds raised by local school children, the monument stands on a bluff within the Standing Rock Indian Reservation (Missouri River Tourism). It is situated adjacent to the memorial and burial site of the famous Lakota leader Sitting Bull (Mobridge Area Chamber).",
+      "address": "SD Highway 1806 (4 miles south of US Highway 12)",
+      "city": "Mobridge",
+      "region": "Standing Rock Indian Reservation",
+      "hours": "Monday: 12:00 AM - 11:59 PM, Tuesday: 12:00 AM - 11:59 PM, Wednesday: 12:00 AM - 11:59 PM, Thursday: 12:00 AM - 11:59 PM, Friday: 12:00 AM - 11:59 PM, Saturday: 12:00 AM - 11:59 PM, Sunday: 12:00 AM - 11:59 PM (Open 24/7) (TripAdvisor)",
+      "days_open": "Daily (Travel South Dakota)",
+      "admission": "Free (TripAdvisor, Trip.com)",
+      "website": "https://mobridge.org/sitting-bull-monument",
+      "phone": "(605) 845-2500 (Mobridge Area Chamber)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/SacagaweaPhilKonstantin.jpg",
+      "highlights": [
+        "'12-foot stone obelisk dedicated to the Shoshone guide of the Lewis and Clark Expedition ([Wikipedia)', 'Scenic overlook providing panoramic views of the Missouri River and Lake Oahe (TripAdvisor)', 'Located on the historic Standing Rock Indian Reservation (Travel South Dakota)', 'Adjacent to the memorial bust and burial site of Chief Sitting Bull (Mobridge Area Chamber)', 'Historically significant site funded by Mobridge school children in the 1920s (Missouri River Tourism)', 'A stop along the Native American Scenic Byway (National Scenic Byway Foundation)']"
+      ],
+      "tips": "The site is in a remote location; ensure you have sufficient fuel and water before visiting (TripAdvisor). Be cautious of loose livestock, such as horses, which may be on the roads leading to the monument (TripAdvisor). Sunset and sunrise offer the best lighting for photography and river views (Ordinary Philosophy).",
+      "nearby": "Sitting Bull Monument, Grand River Casino & Resort, Klein Museum, Missouri River, Lake Oahe (Mobridge Area Chamber)"
+    },
+    {
+      "name": "Senator George and Eleanor McGovern Library",
+      "category": "Landmark",
+      "description": "The Senator George and Eleanor McGovern Library is a 45,000-square-foot facility located on the Dakota Wesleyan University campus. It serves as an academic library and houses the McGovern Legacy Museum, which chronicles the lives of Senator George McGovern and his wife Eleanor, highlighting his WWII service, 1972 presidential campaign, and lifelong commitment to fighting global hunger.",
+      "address": "1200 W. University Ave.",
+      "city": "Mitchell",
+      "region": "Southeastern South Dakota (Mitchell)",
+      "hours": "Library: Mon-Thu 7:30 am - 10:00 pm, Fri 7:30 am - 5:00 pm, Sat 11:00 am - 3:00 pm, Sun 5:00 pm - 10:00 pm; Museum: Mon-Fri 8:00 am - 4:00 pm",
+      "days_open": "Monday - Sunday (Library); Monday - Friday (Legacy Museum)",
+      "admission": "Free (Donations welcome)",
+      "website": "https://library.dwu.edu",
+      "phone": "(605) 995-2618",
+      "image_url": "https://puetzdesignbuild.com/wp-content/uploads/2018/11/McGovern-Library-Exterior-DWU-Mitchell-SD-1.jpg",
+      "highlights": [
+        "['McGovern Legacy Museum featuring exhibits on the 1972 presidential race and WWII service', 'McGovern Center for Leadership and Public Service', 'Extensive archives including the Senator George McGovern Collections', 'Tiger Café and DWU Campus Store located within the facility', 'Interactive learning experiences and short films narrated by George McGovern', 'Dakota Wesleyan University and United Methodist Church Archives']"
+      ],
+      "tips": "Visitors should check both library and museum hours as they may differ seasonally; the museum is self-guided and features personal memorabilia and videos narrated by McGovern himself. Parking is available on the Dakota Wesleyan University campus.",
+      "nearby": "Corn Palace, Dakota Discovery Museum, Mitchell Prehistoric Indian Village, Carnegie Resource Center, Mitchell Aquatic Center"
+    },
+    {
+      "name": "Sertoma Park",
+      "category": "Park",
+      "description": "Sertoma Park is a premier recreational destination in Sioux Falls featuring five unique playpods and one of the state's largest picnic pavilions. It serves as a major educational hub, housing the Butterfly House & Aquarium and The Outdoor Campus, where visitors can engage with nature and marine life. The park is well-connected to the city's extensive bike trail system and offers scenic paths for walking and Nordic skiing. Experience Sioux Falls, City of Sioux Falls",
+      "address": "4300 S Oxbow Ave, Sioux Falls, SD 57106",
+      "city": "Sioux Falls",
+      "region": "Southwest Sioux Falls Homes.com",
+      "hours": "Monday-Sunday: 5:00 AM – 10:00 PM City of Sioux Falls",
+      "days_open": "Daily (Monday through Sunday) City of Sioux Falls",
+      "admission": "Free (Park admission). Separate fees apply for the onsite Butterfly House & Aquarium: Adults (18-59) $15.00, Seniors (60+) $13.00, Youth (2-17) $11.00, Infants (under 2) Free. Great Plains Zoo & Aquarium",
+      "website": "https://www.siouxfalls.gov/activities-recreation/parks-trails/directory/parks/sertoma",
+      "phone": "(605) 367-8222 City of Sioux Falls",
+      "image_url": "https://www.siouxfalls.gov/files/assets/public/v/1/parks-and-recreation/parks/sertoma-park/2025/sertoma.png",
+      "highlights": [
+        "'Five distinct playpods designed for different age groups [Kupi', \"One of South Dakota's largest picnic pavilions at 17,000 square feet City of Sioux Falls\", 'Home to the Sertoma Butterfly House & Aquarium Experience Sioux Falls', 'Houses The Outdoor Campus, a nature education center by SD Game, Fish & Parks South Dakota GFP', 'Access point for the citywide Recreation Trail and Nordic Ski Trails City of Sioux Falls', 'Features an outdoor archery range and a fishing dock South Dakota GFP']"
+      ],
+      "tips": "The playground is age-separated to ensure safety for toddlers and older children alike. It is a popular spot for senior portraits and nature photography due to its diverse landscape. Note that the Butterfly House and Outdoor Campus have separate, more limited operating hours than the park itself. Airial Travel, Kupi",
+      "nearby": "Butterfly House & Aquarium (0.2 mi), The Empire Mall (0.6 mi), Yankton Trail Park (1.2 mi), Great Plains Zoo (2.4 mi). Tripadvisor"
+    },
+    {
+      "name": "Sitting Bull Monument (Mobridge, SD area)",
+      "category": "Landmark",
+      "description": "The Sitting Bull Monument features a 7-ton granite bust of the legendary Hunkpapa Lakota leader, sculpted by Korczak Ziolkowski. It sits on a serene bluff overlooking the Missouri River and the Standing Rock Indian Reservation, serving as a memorial to Sitting Bull's legacy and the heritage of the Lakota people.",
+      "address": "Highway 1806, Mobridge, SD 57601 (2 miles southwest of Mobridge)",
+      "city": "Mobridge",
+      "region": "Walworth County / Standing Rock Indian Reservation",
+      "hours": "Open 24 hours",
+      "days_open": "Daily",
+      "admission": "Free",
+      "website": "https://mobridge.org/sitting-bull-monument",
+      "phone": "(605) 845-2500 (Mobridge Area Chamber of Commerce)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Sitting_Bull_Monument_Mobridge.jpg/800px-Sitting_Bull_Monument_Mobridge.jpg",
+      "highlights": [
+        "['7-ton granite bust of Sitting Bull sculpted by Korczak Ziolkowski', 'Adjacent monument to Sakakawea (Sacagawea)', 'Scenic panoramic views of the Missouri River and Lake Oahe', \"Site where Sitting Bull's remains were moved in 1953\", 'Located on the Standing Rock Native American Scenic Byway']"
+      ],
+      "tips": "The site is remote and undeveloped, providing a peaceful environment for reflection or picnics; it is especially beautiful at sunset.",
+      "nearby": "Klein Museum, Grand River Casino & Resort, Mobridge Auditorium (Oscar Howe Murals), Chief Standing Bear Memorial Bridge (approx. 200 miles south)"
+    },
+    {
+      "name": "Sitting Bull Monument (Sitting Bull Memorial)",
+      "category": "Landmark",
+      "description": "The Sitting Bull Monument is a historic burial site and memorial located on a scenic bluff overlooking the Missouri River. It features a granite bust of the legendary Hunkpapa Lakota leader Sitting Bull, sculpted by Korczak Ziolkowski in 1953 to commemorate the controversial reinterment of the chief's remains (Mobridge Tourism, South Dakota Department of Tourism).",
+      "address": "SD Highway 1806",
+      "city": "Mobridge",
+      "region": "Standing Rock Indian Reservation / Corson County",
+      "hours": "Monday: Open 24 hours, Tuesday: Open 24 hours, Wednesday: Open 24 hours, Thursday: Open 24 hours, Friday: Open 24 hours, Saturday: Open 24 hours, Sunday: Open 24 hours (Apple Maps)",
+      "days_open": "Monday - Sunday (Apple Maps)",
+      "admission": "Free (Mobridge Tourism)",
+      "website": "https://mobridge.org/sitting-bull-monument",
+      "phone": "(605) 845-2500 (Mobridge Area Chamber of Commerce)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Sitting_Bull_Monument1.JPG",
+      "highlights": [
+        "'Features a granite bust sculpted by Korczak Ziolkowski, the artist of the Crazy Horse Memorial ([South Dakota Department of Tourism)', 'Offers spectacular panoramic views of the Missouri River and Lake Oahe (Tripadvisor)', 'Listed on the National Register of Historic Places since 2006 (Missouri River Tourism)', 'Shares the site with the Sakakawea Monument, honoring the Shoshone woman from the Lewis and Clark Expedition (Travel South Dakota)', 'Located on the historic Standing Rock Indian Reservation (DocsTeach)']"
+      ],
+      "tips": "The site is a sacred burial ground on reservation land, so visitors are asked to be respectful. It is best visited during daylight hours for the views, and drivers should be cautious of livestock or wildlife on the paved access road (Mobridge Tourism, Tripadvisor).",
+      "nearby": "Sakakawea Monument, Grand River Casino & Resort, Klein Museum, Lake Oahe, Missouri River recreation areas, Jedediah Smith Historical Monument (Mobridge Tourism, Tripadvisor)"
+    },
+    {
+      "name": "South Dakota Air and Space Museum",
+      "category": "Museum",
+      "description": "The South Dakota Air and Space Museum is a premier aviation heritage destination located just outside the main gate of Ellsworth Air Force Base. It features over 30 historic aircraft in an outdoor air park and immersive indoor galleries highlighting military aviation from WWII to the modern era, including the B-1B Lancer. NPS, Travel South Dakota",
+      "address": "2890 Davis Drive",
+      "city": "Box Elder (near Rapid City)",
+      "region": "Western South Dakota / Black Hills Area",
+      "hours": "Wednesday-Friday: 9:00 AM - 4:00 PM; Saturday: 10:00 AM - 2:00 PM (Hours may vary seasonally; check official Facebook page for updates). Ellsworth AFB News, Facebook",
+      "days_open": "Wednesday, Thursday, Friday, Saturday (Year-round; note: some sources mention 7-day operations in peak summer). Facebook, Ellsworth AFB News",
+      "admission": "Free (donations accepted). Seasonal guided tours of the base and missile silo typically carry a nominal fee (e.g., $8 for adults). Tripadvisor, Ellsworth AFB News",
+      "website": "https://www.ellsworth.af.mil/About-Us/Museum/",
+      "phone": "(605) 385-5188 or (605) 385-5189 Facebook, Travel South Dakota",
+      "image_url": "https://www.nps.gov/common/uploads/places/images/nri/20160824/place/AF8A7D37-1DD8-B71B-0B28A2521C5CEF04/AF8A7D37-1DD8-B71B-0B28A2521C5CEF04.jpg",
+      "highlights": [
+        "['Outdoor air park with over 30 vintage and modern aircraft, including the B-1B Lancer and B-52 Stratofortress.', 'Indoor galleries featuring WWII, Korea, Vietnam, and Cold War history and technology.', 'Seasonal 50-minute guided bus tours of Ellsworth AFB and a Minuteman II missile training silo.', 'Interactive exhibits and flight simulators for all ages.', 'Rare artifacts such as a Norden bombsight and Eisenhower’s personal plane.', \"Exhibits on space technology, EROS, and South Dakota's aviation history.\"]"
+      ],
+      "tips": "Admission is free, but donations help maintain the exhibits. Wear comfortable walking shoes as the outdoor air park is large. If interested in the base tour, bring a valid photo ID (or passport for non-US citizens) and check for seasonal availability. Use GPS to ensure you arrive at the visitor entrance outside the security gates rather than a restricted military gate. Tripadvisor, Agoda",
+      "nearby": "Ellsworth Air Force Base, Bethlehem Cave Wild Adventure Park, Watiki Indoor Waterpark Resort, Black Hills Visitor Information Center, Rapid City Dinosaur Park. Tripadvisor, Agoda"
+    },
+    {
+      "name": "South Dakota School of Mines & Technology (South Dakota Mines)",
+      "category": "University",
+      "description": "South Dakota School of Mines & Technology is a public research university specializing in science and engineering. Founded in 1885, it is renowned for its high return on investment and its specialized focus on mineral industries and STEM education. (South Dakota Mines, US News)",
+      "address": "501 E Saint Joseph St (South Dakota Mines)",
+      "city": "Rapid City (South Dakota Mines)",
+      "region": "Black Hills (South Dakota Mines)",
+      "hours": "Winter (Labor Day to Memorial Day): Mon-Sat 9 AM - 4:30 PM; Summer (Memorial Day to Labor Day): Mon-Sat 9 AM - 6 PM; Closed Sundays and Federal Holidays (South Dakota Mines)",
+      "days_open": "Monday through Saturday (South Dakota Mines)",
+      "admission": "Adults (16+): $10.00; Seniors (60+): $8.00; Military (with ID): $8.00; Children (6-15): $5.00; Children under 5: Free (South Dakota Mines)",
+      "website": "https://www.sdsmt.edu",
+      "phone": "(605) 394-2511 (South Dakota Mines)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/SD_School_of_Mines_and_Technology_Arch.jpg",
+      "highlights": [
+        "'Home to the Museum of Geology featuring mounted skeletons of dinosaurs and rare Badlands fossils ([South Dakota Mines)', 'Ranked as the top South Dakota university for return on investment by Forbes (South Dakota Mines)', 'Boasts a 94% job placement rate for graduates with high average starting salaries (South Dakota Mines)', 'One of the few universities in the U.S. offering all mineral industries degree programs (South Dakota Mines)', 'Host of the annual Mines Day at the Capitol event in Pierre, SD (South Dakota Mines)', \"Historic campus featuring the Memorial Arch, symbolizing the school's heritage (South Dakota Mines)\"]"
+      ],
+      "tips": "Visit the Museum of Geology on the third floor of the O'Harra Building; it offers a fluorescent mineral room and hands-on exhibits for children in the Discovery Zone (South Dakota Mines, Powder House Lodge)",
+      "nearby": "Mount Rushmore National Memorial, Badlands National Park, and the South Dakota State Capitol in Pierre (South Dakota Mines - YouTube, South Dakota Mines)"
+    },
+    {
+      "name": "Splash Central Waterpark",
+      "category": "Entertainment",
+      "description": "Splash Central Waterpark is a premier summer destination in Huron, South Dakota, offering a variety of water attractions for all ages. The park features adventurous waterslides, a relaxing lazy river, and a multi-purpose 50-meter Olympic pool with diving boards. Source",
+      "address": "345 9th Street SW",
+      "city": "Huron",
+      "region": "Beadle County",
+      "hours": "12:15 pm - 8:00 pm daily (unless otherwise noted) Source",
+      "days_open": "Daily during summer season (typically late May to mid-August) Source",
+      "admission": "Daily Passes: Under Age 2: Free; Ages 2+: $9.00; Senior Age 62+: $7.00; Non-Swimmer: $6.00. Group Rates (20+ tickets) are $1.00 off. Source",
+      "website": "https://www.splashcentralwaterpark.com",
+      "phone": "605-353-8537",
+      "image_url": "https://huronsd.gov/ImageRepository/Document?documentId=549",
+      "highlights": [
+        "['Master Blaster Water Coaster', 'Free Fall Drop Slide', '50-meter Olympic Pool with 1m and 3m diving boards', 'Lazy River and Water Walk', 'Kid Pool and Obstacle Course', 'Campus Center for events and parties']"
+      ],
+      "tips": "You can purchase tickets in advance online. If you are not swimming, a discounted non-swimmer pass is available. The park is located next to Central Park, which is great for a picnic after your swim. Source",
+      "nearby": "Central Park (located just outside the gates with nature trails and picnicking areas), Huron Chamber & Visitors Bureau, Nordby Center for Recreation. Source"
+    },
+    {
+      "name": "Storybook Island",
+      "category": "Children's Museum",
+      "description": "Storybook Island is a whimsical family theme park in Rapid City that brings fairy tales and nursery rhymes to life through interactive play sets and sculptures. Spanning 8.5 acres, the park offers over 50 exhibits featuring beloved characters like Yogi Bear and the Cat in the Hat.",
+      "address": "1301 Sheridan Lake Rd, Rapid City, SD 57702-3462",
+      "city": "Rapid City",
+      "region": "Black Hills / Rapid City area",
+      "hours": "9:00 AM - 7:00 PM daily during the season (May 23 - September 7, 2026)",
+      "days_open": "Daily (seasonal: late May to early September)",
+      "admission": "Free admission (donations accepted); Train & Carousel: $4 per person; Family Fun Day: $5 per person; Fairytale 5k: $25 pre-reg / $30 day of (kids 10 & under free)",
+      "website": "https://storybookisland.org",
+      "phone": "(605) 342-6357",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Storybook-island.jpg",
+      "highlights": [
+        "['Over 50 interactive play sets and fairytale sculptures', 'Scenic train ride around the park ($4)', 'Classic carousel rides ($4)', 'Bippity Boppity Bounce inflatable attraction', 'A&W Ice Cream Shop and Enchanted Gift Shop on-site', \"Storybook Island Theater featuring children's plays\"]"
+      ],
+      "tips": "Outside food, drinks, and pets are not allowed in the park. Visit on Dollar Days (select Wednesdays in June and July) for $1 train and carousel rides. Plan to spend 2-3 hours to fully explore the park's 8.5 acres of attractions.",
+      "nearby": "Dinosaur Park, Canyon Lake Park, Chapel in the Hills, Sioux Park, Skyline Wilderness Area, Downtown Rapid City, Reptile Gardens"
+    },
+    {
+      "name": "Storybook Land and the Land of Oz",
+      "category": "Park",
+      "description": "Storybook Land is a magical theme park located within Wylie Park that brings children's classics and nursery rhymes to life through over 65 larger-than-life exhibits. Visitors can explore the Land of Oz, follow the Yellow Brick Road, and enjoy various themed rides and attractions in a beautiful recreational setting. (Aberdeen Area CVB, Aberdeen Magazine)",
+      "address": "2300 24th Ave NW (Highway 281 - 1 Mile North of Aberdeen)",
+      "city": "Aberdeen",
+      "region": "Wylie Park",
+      "hours": "Walk-through: Daily 10:00 AM - 9:00 PM (seasonal); Rides/Concessions: Daily 10:00 AM - 9:00 PM (Memorial Day to Labor Day) (City of Aberdeen, Tripadvisor)",
+      "days_open": "Daily (April 15 - October 15) (City of Aberdeen)",
+      "admission": "Free Admission for walk through; Rides: $3.00 per ticket or 10-ride punch card for $25.00 (City of Aberdeen)",
+      "website": "https://www.aberdeen.sd.us/1439/Storybook-Land-and-the-Land-of-Oz",
+      "phone": "(605) 626-3512 (City of Aberdeen)",
+      "image_url": "https://www.aberdeen.sd.us/ImageRepository/Document?documentID=11155",
+      "highlights": [
+        "[\"Land of Oz with Dorothy's House and the Yellow Brick Road\", 'Storybook Land Express Train guided tours', \"Humpty Dumpty Roller Coaster and Wizard's Balloon Ride\", 'Medieval Castle with a moat and knight displays', 'Over 65 fairy tale and nursery rhyme themed exhibits', 'Wylie Zoo featuring local and exotic animals']"
+      ],
+      "tips": "Admission to the park is free, but you'll need to purchase tickets for the rides at the Visitors Center or concessions. Visit during the Storybook Land Festival in July for special authors and storytellers, and check the weather beforehand as walk-through accessibility is weather-dependent. (City of Aberdeen, Tripadvisor)",
+      "nearby": "Wylie Park Campground, Wylie Lake (paddleboats/canoes), Thunder Road Family Fun Park (go-karts/mini-golf), Dacotah Prairie Museum (City of Aberdeen, Travel South Dakota)"
+    },
+    {
+      "name": "Tatanka: Story of the Bison",
+      "category": "Museum",
+      "description": "Founded by Kevin Costner, Tatanka: Story of the Bison is a cultural center that explores the deep relationship between the Lakota people and the North American Plains Bison. The center features the third-largest bronze sculpture in the world, depicting a historic bison jump with 17 larger-than-life figures (Official Website, Deadwood Connections).",
+      "address": "100 Tatanka Drive, Deadwood, SD 57783",
+      "city": "Deadwood",
+      "region": "Northern Black Hills / Deadwood Region (Travel South Dakota).",
+      "hours": "Monday: 9:00 AM – 5:00 PM, Tuesday: 9:00 AM – 5:00 PM, Wednesday: 9:00 AM – 5:00 PM, Thursday: 9:00 AM – 5:00 PM, Friday: 9:00 AM – 5:00 PM, Saturday: 9:00 AM – 5:00 PM, Sunday: 9:00 AM – 5:00 PM (Last admission at 4:30 PM) (Official Website).",
+      "days_open": "Monday - Sunday (Daily during the season) (Official Website).",
+      "admission": "Ages 13-59: $12; Ages 6-12: $6; Ages 5 & Under: Free; Wisdom & Warriors Discount: $2 off adult admissions for guests 60+, Military, Veterans, and First Responders (Official Website).",
+      "website": "https://storyofthebison.com/",
+      "phone": "(605) 584-5678 (Official Website).",
+      "image_url": "https://storyofthebison.com/wp-content/uploads/2023/04/tatanka-sculpture.jpg",
+      "highlights": [
+        "'3rd largest bronze sculpture in the world featuring 14 bison and 3 Lakota riders ([Official Website).', 'Northern Plains Peoples Educational Interpretive Center with artifacts and history (Travel South Dakota).', \"Original costumes from the Academy Award-winning film 'Dances With Wolves' (Official Website).\", 'Authentic Lakota Encampment with tipis that visitors can enter (YouTube).', 'Native American Gift Shop specializing in Lakota-made and local goods (Official Website).', 'Sweetgrass Grill & Snack Bar offering seasonal refreshments (Travel South Dakota).']"
+      ],
+      "tips": "Plan to spend about 1 to 1.5 hours to fully experience the museum, sculptures, and outdoor village; the site has strict guidelines such as no backpacks, food, or drinks inside the building (Tripadvisor). Check for seasonal presentations by Native American interpreters at the encampment (Deadwood Chamber of Commerce).",
+      "nearby": "Days of '76 Museum, Historic Old Town Deadwood, Mount Moriah Cemetery, Adams Museum, Cadillac Jack's Gaming Resort (Tripadvisor)."
+    },
+    {
+      "name": "The Journey Museum and Learning Center (Official Website)",
+      "category": "Museum",
+      "description": "The Journey Museum and Learning Center invites visitors to embark on a 2.5 billion-year journey through the history of the Black Hills and Western Great Plains. The museum integrates major collections in geology, paleontology, archaeology, Native American culture, and pioneer history to provide a comprehensive and immersive educational experience (Official Website, Visit Rapid City).",
+      "address": "222 New York Street, Rapid City, SD 57701",
+      "city": "Rapid City (Official Website)",
+      "region": "Downtown / Central Rapid City (West Region) (Tripadvisor, Travel South Dakota)",
+      "hours": "Summer (May 1 – Sept 30): Tue–Sat 10am-5pm, Sun 1pm-5pm, Mon Closed; Winter (Oct 1 – April 30): Wed–Sat 10am-5pm, Sun 1pm-5pm, Mon–Tue Closed (Official Website)",
+      "days_open": "Summer (May 1 – Sept 30): Tuesday–Sunday; Winter (Oct 1 – April 30): Wednesday–Sunday (Official Website)",
+      "admission": "Adults (18+): $14; Seniors & Military (62+): $12; Youth (6-17): $9; Children (5 & under): Free; Groups (15+): $9 per person; Students (educational groups): $5; College Students: $6 (Official Website, Dakota At Home)",
+      "website": "https://www.journeymuseum.org",
+      "phone": "(605) 394-6923 (Official Website)",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/659837ef97adbe489b4023e8/ec6d9f36-1ae3-43c8-9fa4-c2a0b29c33f1/Tinker.JPG?format=1500w",
+      "highlights": [
+        "'Star Room: Experience the dawn of time with astronomy and cultural night sky stories.', \"Paleontology: See a cast of 'Tinker' the T-Rex and the South Dakota state fossil, the Triceratops.\", \"Geology: View the region's only stratigraphic rock wall showing over 25 layers of the earth's crust.\", \"Sioux Indian Museum: Home to one of the nation's finest collections of Lakota art and artifacts.\", 'Pioneer Days: Explore a historic boardwalk and general store reflecting 19th-century expansion.', 'Wells Fargo Theater: Watch films about the 1972 Black Hills Flood and Native American heritage. ([Official Website)']"
+      ],
+      "tips": "Allow at least 2-3 hours for a full visit. Check the event calendar for 'STEAM Saturdays' and 'Slow Art Day' programs. Children 5 and under are free, making it very family-friendly (Tripadvisor, Official Website).",
+      "nearby": "Berlin Wall Exhibit, Downtown Rapid City, Main Street Square, Museum of Geology, Dinosaur Park, and Art Alley (Tripadvisor)"
+    },
+    {
+      "name": "The Mammoth Site of Hot Springs, South Dakota",
+      "category": "Museum",
+      "description": "The Mammoth Site is the world’s largest mammoth research facility and an active indoor paleontological excavation site where visitors can view fossils \"in situ\" exactly as they were discovered. Over 60 mammoths and 87 other Late Ice Age animals have been unearthed from this prehistoric sinkhole, which offers a unique window into the environment and wildlife of the Pleistocene era.",
+      "address": "1800 US 18 Bypass, Hot Springs, SD 57747-9604",
+      "city": "Hot Springs",
+      "region": "Black Hills",
+      "hours": "May 22 – August 23: 8:00am – 6:00pm; August 24 – October 31: 9:00am – 5:00pm; November 1 – February 28: 9:00am – 3:30pm; March 1 – May 21: 9:00am – 5:00pm",
+      "days_open": "Daily (Closed New Year’s Day, Easter Sunday, Thanksgiving, and Christmas Day)",
+      "admission": "Children 3 & Under: Free; Ages 4-12: $13.00; Active & Retired Military: $14.00; Ages 13-59: $15.00; Ages 60 & Over: $14.00",
+      "website": "https://mammothsite.org/",
+      "phone": "605-745-6017",
+      "image_url": "https://mammothsite.org/wp-content/uploads/2022/07/DSC4594-2.webp",
+      "highlights": [
+        "['View over 60 mammoth skeletons (58 Columbian and 3 woolly mammoths) preserved in their original positions.', 'Explore an active paleontological dig site where ongoing research and excavation occur year-round.', 'Visit the Ice Age Exhibit Hall featuring replicas of mammoths, a giant short-faced bear, and other prehistoric creatures.', 'Watch a 10-minute introductory film that explains the geological history and discovery of the sinkhole.', 'Participate in the Junior Paleontologist Program (ages 4-12) or Advanced Paleontology Program (ages 10+) for hands-on digging experience.']"
+      ],
+      "tips": "The facility is fully indoors and climate-controlled, making it a great year-round attraction regardless of weather. Download the free mobile app and bring headphones for an enhanced self-guided audio tour of the bonebed. If traveling with children for summer programs, book several weeks in advance as spots fill up quickly. Allow approximately 1.5 to 2.5 hours for a full visit including the film and exhibits.",
+      "nearby": "Wind Cave National Park, Custer State Park, Evans Plunge Mineral Springs, Moccasin Springs Natural Mineral Spa, Fall River Freedom Trail, Cascade Falls and Swimming Hole"
+    },
+    {
+      "name": "The World's Only Corn Palace",
+      "category": "Landmark",
+      "description": "The World’s Only Corn Palace is a multi-purpose folk-art auditorium that attracts hundreds of thousands of visitors annually to see its unique murals made of naturally colored corn, grains, and native grasses. Redecorated every year with a new theme, it serves as a gathering place for the community, a venue for high school and university basketball, and a premier South Dakota tourist icon. Official Website",
+      "address": "604 North Main Street",
+      "city": "Mitchell",
+      "region": "Davison County / Southeastern South Dakota",
+      "hours": "January 1 – April 30: Monday – Saturday 8am – 5pm; May 1 – Memorial Day: Daily 8am – 5pm; Memorial Day – Labor Day: Daily 8am – 9pm; Labor Day – October 31: Daily 8am – 5pm; November 1 – December 31: Monday – Saturday 8am – 5pm Official Website",
+      "days_open": "Daily (closed on major holidays) Official Website",
+      "admission": "Free Admission (some events may require tickets) Official Website",
+      "website": "https://cornpalace.com",
+      "phone": "605-995-8430",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Mitchell_Corn_Palace.jpg",
+      "highlights": [
+        "'Annual redecoration with new corn and grain murals [Official Website', 'Free guided tours during the summer months Official Website', 'A folk-art wonder featuring 12 different colors of corn Official Website', 'The \"Corn Cam\" for a live feed and souvenir photo Official Website', 'Home to the Mitchell High School Kernels basketball team Official Website', 'On-site gift shop featuring unique corn-themed products Official Website']"
+      ],
+      "tips": "The best time to see fresh murals is in November when the new crop is applied; summer murals may be faded or in the process of being replaced. Don't miss the balcony for a view of the Corn Cam. Roadside America",
+      "nearby": "Mitchell Prehistoric Indian Village, Dakota Discovery Museum, George and Eleanor McGovern Library, Lake Mitchell Campground, Cabela's Tripadvisor"
+    },
+    {
+      "name": "Washington Pavilion of Arts and Science",
+      "category": "Entertainment",
+      "description": "The Washington Pavilion is the region’s premier destination for arts, entertainment, and science, housed in the beautifully renovated historic Washington High School building. It is one of only a few facilities in the world to bring together performing arts, visual arts, interactive science, and educational opportunities under a single roof. (Washington Pavilion)",
+      "address": "301 S. Main Ave.",
+      "city": "Sioux Falls",
+      "region": "Downtown Sioux Falls",
+      "hours": "Museums & Box Office: Mon–Sat: 10 a.m.–5 p.m., Sun: 12–5 p.m.; The WP Café: Mon–Fri: 10 a.m.–2 p.m., Sat: 10 a.m.–3 p.m., Sun: 12–3 p.m. (Washington Pavilion)",
+      "days_open": "Daily (Closed on New Year’s Day, Easter Sunday, Thanksgiving Day, Christmas Eve, and Christmas Day) (Washington Pavilion)",
+      "admission": "Adult (18+): $16.25; Student/Youth (3–17): $13.50; Seniors (65+) & Military: $14; Members & Children 2 & under: Free. (Afternoon special: 50% off museum admission starting at 3 p.m.) (Washington Pavilion)",
+      "website": "https://www.washingtonpavilion.org",
+      "phone": "(605) 367-6000",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Washington_Pavilion_5.JPG",
+      "highlights": [
+        "['Kirby Science Discovery Center with over 100 hands-on exhibits', 'Visual Arts Center featuring eight galleries of regional and international art', 'Wells Fargo CineDome & Sweetman Planetarium for films and shows', 'Husby Performing Arts Center hosting Broadway tours and concerts', \"'Stan' the T-Rex fossil skeleton display\", 'Parlour Ice Cream and The WP Café for on-site dining']"
+      ],
+      "tips": "Reserve museum admission online to save $1 per ticket; take advantage of Free First Fridays from 5–8 p.m. each month; parking in the adjacent ramp is free after 5 p.m. on weekdays and all day on weekends; bring a change of clothes if visiting the splash-friendly water exhibit. (Washington Pavilion)",
+      "nearby": "Falls Park, SculptureWalk, Old Courthouse Museum, Pettigrew Home & Museum, St. Joseph Cathedral (Experience Sioux Falls)"
+    },
+    {
+      "name": "Webster Area Pumpkin Fest",
+      "category": "Entertainment",
+      "description": "The Webster Area Pumpkin Fest is a premier autumn celebration in South Dakota, featuring a wide array of pumpkin-themed activities and community events. Celebrating its 27th year in 2026, the festival draws visitors with its festive atmosphere and traditional harvest competitions (Travel South Dakota).",
+      "address": "Main Street (Downtown) and Various Locations, Webster, SD 57274",
+      "city": "Webster",
+      "region": "Northeast / Glacial Lakes & Prairies (Travel South Dakota)",
+      "hours": "Friday: 12:00 PM – 8:00 PM, Saturday: 9:00 AM – 9:00 PM (varies by event) (Webster Area Chamber of Commerce)",
+      "days_open": "Friday and Saturday (Travel South Dakota)",
+      "admission": "Free Admission (Travel South Dakota)",
+      "website": "https://webstersd.com",
+      "phone": "605-345-4668",
+      "image_url": "https://www.travelsouthdakota.com/sites/default/files/styles/hero_image_desktop/public/2023-09/Webster%20Pumpkin%20Fest.jpg",
+      "highlights": [
+        "['Lighted Parade (Saturday evening)', 'Pumpkin Pie Eating Contest', 'Giant Pumpkin Weigh-Off and Display', 'Petting Zoo and Wagon Rides', 'Craft and Vendor Fair', '5K Run/Walk and Poker Run']"
+      ],
+      "tips": "Be sure to grab a cup of free hot chocolate during the Lighted Parade on Saturday night for the ultimate fall experience (Travel South Dakota).",
+      "nearby": "Day County Museum, Museum of Wildlife, Science & Industry, Pickerel Lake State Park (Travel South Dakota)"
+    },
+    {
+      "name": "Wylie Park (including Storybook Land and Land of Oz)",
+      "category": "Entertainment",
+      "description": "Wylie Park is a sprawling 210-acre recreational complex in Aberdeen, South Dakota, famously home to Storybook Land and the Land of Oz. This family-friendly destination features interactive exhibits based on nursery rhymes, a castle, and characters from the \"Wizard of Oz,\" alongside a variety of outdoor activities like swimming and camping. Visitors can explore the Wylie Park Zoo, enjoy miles of scenic trails, or take part in attractions like go-karts and mini-golf at Thunder Road. Official Website, Visit Aberdeen",
+      "address": "2300 24th Ave NW",
+      "city": "Aberdeen",
+      "region": "Brown County / Northeastern South Dakota",
+      "hours": "Spring/Fall: 9:00 a.m. – 7:00 p.m.; Summer (Memorial Day to Labor Day): 9:00 a.m. – 8:00 p.m. Official Website",
+      "days_open": "Daily (Monday–Sunday) Official Website",
+      "admission": "Park and Storybook Land entry is Free; Ride Tickets: $3.00 each; 10-Ride Punch Card: $25.00; Children under 2: Free on rides with a paying adult. Official Website",
+      "website": "https://www.aberdeen.sd.us/1306/Wylie-Park",
+      "phone": "(605) 626-3512",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Storybook_Land_in_Aberdeen_%2C_South_Dakota.jpg",
+      "highlights": [
+        "'Storybook Land & Land of Oz: Whimsical theme areas with life-size characters and interactive scenes. [Visit Aberdeen', 'Wylie Park Zoo: A wildlife exhibit featuring native North American species like bison, elk, and deer. Official Website', 'Wylie Lake: A man-made lake offering a swimming beach, fishing, and paddleboat or canoe rentals. Official Website', 'Wylie Thunder Road: An action-packed area with go-karts, bumper boats, and an 18-hole miniature golf course. Thunder Road Aberdeen', 'Wylie Park Campground: Extensive facilities including 105 campsites and 23 camping cabins. Official Website', 'Recreational Trails: Miles of paved and rambling trails for walking, biking, and skating. Official Website']"
+      ],
+      "tips": "Purchase a 10-ride punch card for savings, as they do not expire. Check the 'Zoo Day' schedule for educational presentations on Thursdays during June and July. Camping cabin reservations open in early January and fill up quickly for the summer season. Official Website",
+      "nearby": "Lee Park Golf Course, Dacotah Prairie Museum, Brown County Fairgrounds, Kuhnert Arboretum. Tripadvisor"
+    }
+  ]
+}
