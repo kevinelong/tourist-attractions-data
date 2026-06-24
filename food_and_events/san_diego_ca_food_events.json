@@ -1,20 +1,22 @@
 {
   "title": "San Diego \u2014 Restaurant Openings & Events",
-  "generated": "2026-06-24T02:02:28Z",
+  "generated": "2026-06-24T05:02:30Z",
   "city": "San Diego",
   "tier": "west_coast_mega",
   "population_m": 3.3,
-  "extraction_method": "rss_first_with_deterministic_classifier_v1",
+  "extraction_method": "rss_first_with_deterministic_classifier_v1 + browser_v1_augment",
   "totals": {
     "restaurant_openings": 1,
-    "events_calendar": 0
+    "events_calendar": 12
   },
   "sources_used": {
     "restaurant_openings": [
       "Eater San Diego",
       "San Diego Magazine \u2014 Food News"
     ],
-    "events_calendar": []
+    "events_calendar": [
+      "San Diego Tourism Events"
+    ]
   },
   "sources_failed": [],
   "raw_html_pages_available": {
@@ -39,5 +41,174 @@
       }
     }
   ],
-  "events_calendar": []
+  "events_calendar": [
+    {
+      "name": "Ibeyi",
+      "url": "https://www.sandiego.org/events-festivals/ibeyi/bf971cba6d1711f1a7f2",
+      "summary": "Live performance by the musical duo Ibeyi in San Diego.",
+      "published_iso": null,
+      "date_text": "Jan 28, 2027",
+      "venue_or_address": "San Diego, CA",
+      "source": {
+        "name": "San Diego Tourism Events",
+        "url": "https://www.sandiego.org/events-festivals"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Events"
+    },
+    {
+      "name": "ROLE MODEL",
+      "url": "https://www.sandiego.org/events-festivals/role-model/3f919c066cdd11f1a7f2",
+      "summary": "Musical performance by ROLE MODEL as part of their upcoming tour.",
+      "published_iso": null,
+      "date_text": "Oct 13, 2026",
+      "venue_or_address": "San Diego, CA",
+      "source": {
+        "name": "San Diego Tourism Events",
+        "url": "https://www.sandiego.org/events-festivals"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Events"
+    },
+    {
+      "name": "Live Music at The Rooftop",
+      "url": "https://www.sandiego.org/events-festivals/live-music-at-the-rooftop/86d050b212a111f1b563",
+      "summary": "Regular live music sessions held at The Rooftop venue.",
+      "published_iso": null,
+      "date_text": "Jun 25, 2026 - Feb 25, 2027",
+      "venue_or_address": "The Rooftop, San Diego",
+      "source": {
+        "name": "San Diego Tourism Events",
+        "url": "https://www.sandiego.org/events-festivals"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Live Music"
+    },
+    {
+      "name": "Sunset Luaus at the Catamaran Resort Hotel",
+      "url": "https://www.sandiego.org/events-festivals/sunset-luaus-at-the-catamaran-resort-hotel/1a886b9a3ec411f1960a",
+      "summary": "Traditional Hawaiian-style sunset luaus featuring food and entertainment.",
+      "published_iso": null,
+      "date_text": "Jun 25 - Sep 3, 2026",
+      "venue_or_address": "Catamaran Resort Hotel, San Diego",
+      "source": {
+        "name": "San Diego Tourism Events",
+        "url": "https://www.sandiego.org/events-festivals"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Festival"
+    },
+    {
+      "name": "Monthly Movie Night at the Museum!",
+      "url": "https://www.sandiego.org/events-festivals/monthly-movie-night-at-the-museum/eb93ae4afce311f0b563",
+      "summary": "A recurring monthly event featuring film screenings at the museum.",
+      "published_iso": null,
+      "date_text": "Jul 16, 2026 - Jan 21, 2027",
+      "venue_or_address": "San Diego Museum, CA",
+      "source": {
+        "name": "San Diego Tourism Events",
+        "url": "https://www.sandiego.org/events-festivals"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Film"
+    },
+    {
+      "name": "Moonchild",
+      "url": "https://www.sandiego.org/events-festivals/moonchild/0cbcb451cabb11f0b563",
+      "summary": "Concert performance by the neo-soul band Moonchild.",
+      "published_iso": null,
+      "date_text": "Aug 2, 2026",
+      "venue_or_address": "San Diego, CA",
+      "source": {
+        "name": "San Diego Tourism Events",
+        "url": "https://www.sandiego.org/events-festivals"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Music"
+    },
+    {
+      "name": "Thievery Corporation",
+      "url": "https://www.sandiego.org/events-festivals/thievery-corporation/0ab1daee997511f0bdd7",
+      "summary": "Live performance by the electronic music group Thievery Corporation.",
+      "published_iso": null,
+      "date_text": "Sep 10, 2026",
+      "venue_or_address": "San Diego, CA",
+      "source": {
+        "name": "San Diego Tourism Events",
+        "url": "https://www.sandiego.org/events-festivals"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Music"
+    },
+    {
+      "name": "Start Making Sense",
+      "url": "https://www.sandiego.org/events-festivals/start-making-sense/cf406a3f336011f1960a",
+      "summary": "A Talking Heads tribute band performing live.",
+      "published_iso": null,
+      "date_text": "Aug 6, 2026",
+      "venue_or_address": "San Diego, CA",
+      "source": {
+        "name": "San Diego Tourism Events",
+        "url": "https://www.sandiego.org/events-festivals"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Music"
+    },
+    {
+      "name": "Julian Mountain Brewfest",
+      "url": "https://www.sandiego.org/events-festivals/julian-mountain-brewfest/5d7c4e480c9b11f1b563",
+      "summary": "Annual brew festival featuring local mountain craft beers and entertainment.",
+      "published_iso": null,
+      "date_text": "Aug 22, 2026",
+      "venue_or_address": "Julian, CA",
+      "source": {
+        "name": "San Diego Tourism Events",
+        "url": "https://www.sandiego.org/events-festivals"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Festival"
+    },
+    {
+      "name": "Bingo Unhinged",
+      "url": "https://www.sandiego.org/events-festivals/bingo-unhinged/2c60608ad49511f0b563",
+      "summary": "A lively and unconventional bingo event experience.",
+      "published_iso": null,
+      "date_text": "Jun 25, 2026 - Dec 23, 2027",
+      "venue_or_address": "San Diego, CA",
+      "source": {
+        "name": "San Diego Tourism Events",
+        "url": "https://www.sandiego.org/events-festivals"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Events"
+    },
+    {
+      "name": "Santee Summer Concert Series",
+      "url": "https://www.sandiego.org/events-festivals/santee-summer-concert-series/9f0b0f53595a11f1a7f2",
+      "summary": "Free outdoor summer concerts held in Santee.",
+      "published_iso": null,
+      "date_text": "Jun 25 - Aug 13, 2026",
+      "venue_or_address": "Santee, CA",
+      "source": {
+        "name": "San Diego Tourism Events",
+        "url": "https://www.sandiego.org/events-festivals"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Concert Series"
+    },
+    {
+      "name": "Grupo Frontera",
+      "url": "https://www.sandiego.org/events-festivals/grupo-frontera/185166641ee011f1b563",
+      "summary": "Live concert performance by the regional Mexican band Grupo Frontera.",
+      "published_iso": null,
+      "date_text": "Aug 6, 2026",
+      "venue_or_address": "San Diego, CA",
+      "source": {
+        "name": "San Diego Tourism Events",
+        "url": "https://www.sandiego.org/events-festivals"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Music"
+    }
+  ]
 }

@@ -1,19 +1,23 @@
 {
   "title": "Las Vegas \u2014 Restaurant Openings & Events",
-  "generated": "2026-06-24T02:02:28Z",
+  "generated": "2026-06-24T05:02:30Z",
   "city": "Las Vegas",
   "tier": "in_between_mega",
   "population_m": 2.4,
-  "extraction_method": "rss_first_with_deterministic_classifier_v1",
+  "extraction_method": "rss_first_with_deterministic_classifier_v1 + browser_v1_augment",
   "totals": {
-    "restaurant_openings": 2,
-    "events_calendar": 0
+    "restaurant_openings": 12,
+    "events_calendar": 28
   },
   "sources_used": {
     "restaurant_openings": [
-      "Eater Vegas"
+      "Eater Vegas",
+      "Las Vegas Weekly Dining"
     ],
-    "events_calendar": []
+    "events_calendar": [
+      "Las Vegas Weekly A&E",
+      "Visit Las Vegas Events"
+    ]
   },
   "sources_failed": [
     {
@@ -68,7 +72,560 @@
         "name": "Eater Vegas",
         "url": "https://vegas.eater.com"
       }
+    },
+    {
+      "name": "The Golden Tiki",
+      "url": "https://lasvegasweekly.com/dining/2026/jun/18/golden-tiki-remixes-its-menu-of-snacks-cocktails/",
+      "summary": "The Golden Tiki remixes its menu of snacks and cocktails, featuring lighter snacks like gochujang cucumbers and a crab Rangoon dip as strong companions to the new cocktail offerings.",
+      "published_iso": null,
+      "date_text": "Jun 18, 2026",
+      "venue_or_address": "The Golden Tiki",
+      "source": {
+        "name": "Las Vegas Weekly Dining",
+        "url": "https://lasvegasweekly.com/dining/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Cocktail Bar"
+      ]
+    },
+    {
+      "name": "Doanburi",
+      "url": "https://lasvegasweekly.com/dining/2026/jun/18/sushi-chef-jae-doan-sets-the-bar-high-for-doanburi/",
+      "summary": "Sushi chef Jae Doan and her partner, Katie Ray, opened Doanburi in the southwest valley in January, transitioning from a cloud kitchen to a permanent location.",
+      "published_iso": null,
+      "date_text": "Jun 18, 2026",
+      "venue_or_address": "Southwest Valley",
+      "source": {
+        "name": "Las Vegas Weekly Dining",
+        "url": "https://lasvegasweekly.com/dining/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Japanese Dining"
+      ]
+    },
+    {
+      "name": "Mama Mai Vietnamese Caf\u00e9",
+      "url": "https://lasvegasweekly.com/dining/2026/jun/11/mama-mai-vietnamese-cafe-delivers-a-taste-of-home/",
+      "summary": "The new southwest spot quickly garnered a loyal following for homemade banh mi sandwiches and coffee, delivering a taste of home.",
+      "published_iso": null,
+      "date_text": "Jun 11, 2026",
+      "venue_or_address": "Southwest Las Vegas",
+      "source": {
+        "name": "Las Vegas Weekly Dining",
+        "url": "https://lasvegasweekly.com/dining/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Vietnamese Cafe"
+      ]
+    },
+    {
+      "name": "Lotus of Siam / NADC / Redhead Burger",
+      "url": "https://lasvegasweekly.com/dining/2026/may/21/lotus-of-siam-resorts-world-dining-news/",
+      "summary": "Lotus of Siam is back, Resorts World introduces Savor Society, NADC has opened Downtown, and Redhead Burger is open at the Grand Canal Shoppes.",
+      "published_iso": null,
+      "date_text": "May 21, 2026",
+      "venue_or_address": "Downtown and Grand Canal Shoppes",
+      "source": {
+        "name": "Las Vegas Weekly Dining",
+        "url": "https://lasvegasweekly.com/dining/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Asian Fusion"
+      ]
+    },
+    {
+      "name": "Sartiano\u2019s Italian Steakhouse",
+      "url": "https://lasvegasweekly.com/dining/2026/may/14/sartianos-italian-steakhouse-wynn-las-vegas/",
+      "summary": "Sartiano\u2019s brings Manhattan steakhouse confidence and Italian indulgence to Wynn Las Vegas, the brainchild of legendary chef Alfred Portale.",
+      "published_iso": null,
+      "date_text": "May 14, 2026",
+      "venue_or_address": "Wynn Las Vegas",
+      "source": {
+        "name": "Las Vegas Weekly Dining",
+        "url": "https://lasvegasweekly.com/dining/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Italian Steakhouse"
+      ]
+    },
+    {
+      "name": "Las Vegas Ballpark Gourmet Menu",
+      "url": "https://lasvegassun.com/news/2026/may/07/las-vegas-ballpark-debuts-gourmet-2026-menu-beyond/",
+      "summary": "Las Vegas Ballpark debuts a gourmet 2026 menu beyond hot dogs, rolling out wood-fired pizza, Philly steaks, and Hawaiian-inspired plates.",
+      "published_iso": null,
+      "date_text": "May 07, 2026",
+      "venue_or_address": "Las Vegas Ballpark",
+      "source": {
+        "name": "Las Vegas Weekly Dining",
+        "url": "https://lasvegasweekly.com/dining/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Gourmet Dining"
+      ]
+    },
+    {
+      "name": "Bar Boheme",
+      "url": "https://lasvegasweekly.com/dining/2026/apr/30/bar-boheme-sets-an-opulent-new-table/",
+      "summary": "Bar Boheme sets an opulent new table with a new prix fixe menu that remains affordable, featuring a first course, main course, and dessert course.",
+      "published_iso": null,
+      "date_text": "Apr 30, 2026",
+      "venue_or_address": "Bar Boheme",
+      "source": {
+        "name": "Las Vegas Weekly Dining",
+        "url": "https://lasvegasweekly.com/dining/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "French Dining"
+      ]
+    },
+    {
+      "name": "Maroon / Villa\u2019s Tacos",
+      "url": "https://lasvegasweekly.com/dining/2026/apr/23/maroon-at-sahara-tea-at-resorts-world-villas-tacos/",
+      "summary": "The anticipated Afro-Caribbean steakhouse concept Maroon will open at Sahara, and Villa\u2019s Tacos is coming to Durango.",
+      "published_iso": null,
+      "date_text": "Apr 23, 2026",
+      "venue_or_address": "Sahara Las Vegas and Durango Resort",
+      "source": {
+        "name": "Las Vegas Weekly Dining",
+        "url": "https://lasvegasweekly.com/dining/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Steakhouse and Tacos"
+      ]
+    },
+    {
+      "name": "Cantina Contramar",
+      "url": "https://lasvegasweekly.com/dining/2026/apr/23/gabriela-camara-delivers-cantina-contramar/",
+      "summary": "Gabriela C\u00e1mara delivers sophistication from Mexico City with the opening of Cantina Contramar, an offshoot of her acclaimed seafood destination at Fontainebleau.",
+      "published_iso": null,
+      "date_text": "Apr 23, 2026",
+      "venue_or_address": "Fontainebleau Las Vegas",
+      "source": {
+        "name": "Las Vegas Weekly Dining",
+        "url": "https://lasvegasweekly.com/dining/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Mexican Seafood"
+      ]
+    },
+    {
+      "name": "Vegas Unstripped",
+      "url": "https://lasvegasweekly.com/dining/2026/apr/16/vegas-unstripped-returns-forever-focused-on-chefs/",
+      "summary": "Vegas Unstripped returns for its seventh year at the Palms, focusing on the creative talents of local Las Vegas chefs.",
+      "published_iso": null,
+      "date_text": "Apr 16, 2026",
+      "venue_or_address": "The Palms",
+      "source": {
+        "name": "Las Vegas Weekly Dining",
+        "url": "https://lasvegasweekly.com/dining/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Food Festival"
+      ]
     }
   ],
-  "events_calendar": []
+  "events_calendar": [
+    {
+      "name": "Weeb Wednesday Anime Night Market",
+      "url": "https://lasvegasweekly.com/events/ongoing/32561/",
+      "summary": "Come to Player 1 every Wednesday for our Anime Night Market. Free raffle tickets, drink specials, and anime vendors. Cosplayers ...",
+      "published_iso": null,
+      "date_text": "Wednesday, June 24th @ 7:00 p.m.",
+      "venue_or_address": "Player 1 Vegas - 2797 S Maryland Pkwy #24, Las Vegas, NV 89109",
+      "source": {
+        "name": "Las Vegas Weekly A&E",
+        "url": "https://lasvegasweekly.com/ae/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Bar"
+    },
+    {
+      "name": "Ellis Cup Watch Party 2026",
+      "url": "https://lasvegasweekly.com/events/ongoing/35994/",
+      "summary": "Big matches. Bigger screens. Ice cold beers. Catch every minute of the action during the ultimate Ellis Cup watch party ...",
+      "published_iso": null,
+      "date_text": "Wednesday, June 24th @ 9:00 a.m.",
+      "venue_or_address": "Ellis Island Casino & Brewery",
+      "source": {
+        "name": "Las Vegas Weekly A&E",
+        "url": "https://lasvegasweekly.com/ae/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Entertainment"
+    },
+    {
+      "name": "The Deck at Ellis Island: Las ...",
+      "url": "https://lasvegasweekly.com/events/ongoing/35972/",
+      "summary": "Experience the newest rooftop bar in Las Vegas at The Deck Rooftop Bar, located at Ellis Island. This open-air venue ...",
+      "published_iso": null,
+      "date_text": "Wednesday, June 24th @ 3:00 p.m.",
+      "venue_or_address": "Ellis Island Casino & Brewery",
+      "source": {
+        "name": "Las Vegas Weekly A&E",
+        "url": "https://lasvegasweekly.com/ae/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Entertainment"
+    },
+    {
+      "name": "UnCommons Unwind",
+      "url": "https://lasvegasweekly.com/events/ongoing/35411/",
+      "summary": "UnCommons Unwind returns in 2026 with weekly FREE mat Pilates classes on the rooftop with The Good Place from March ...",
+      "published_iso": null,
+      "date_text": "Wednesday, June 24th @ 6:00 p.m.",
+      "venue_or_address": "UnCommons",
+      "source": {
+        "name": "Las Vegas Weekly A&E",
+        "url": "https://lasvegasweekly.com/ae/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Entertainment"
+    },
+    {
+      "name": "Alicia Keys\u2019 Hell\u2019s Kitchen",
+      "url": "https://lasvegasweekly.com/events/2026/jun/24/60185/",
+      "summary": "Welcome to HELL\u2019S KITCHEN, the hit musical from 17-time Grammy\u00ae Award winning Alicia Keys\u2014inspired by her life, her music and ...",
+      "published_iso": null,
+      "date_text": "Wednesday, June 24th @ 7:30 p.m.",
+      "venue_or_address": "The Smith Center For The Performing Arts",
+      "source": {
+        "name": "Las Vegas Weekly A&E",
+        "url": "https://lasvegasweekly.com/ae/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Entertainment"
+    },
+    {
+      "name": "Criss Angel: Mindfreak",
+      "url": "https://lasvegasweekly.com/events/ongoing/32225/",
+      "summary": "After over a decade of dominating the world of magic, Angel is back where it all began. This brand-new 90-minute ...",
+      "published_iso": null,
+      "date_text": "Wednesday, June 24th @ 7:00 p.m.",
+      "venue_or_address": "Planet Hollywood Resort and Casino",
+      "source": {
+        "name": "Las Vegas Weekly A&E",
+        "url": "https://lasvegasweekly.com/ae/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Magic"
+    },
+    {
+      "name": "WOW- The Vegas Spectacular",
+      "url": "https://lasvegasweekly.com/events/ongoing/32227/",
+      "summary": "Experience the internationally - acclaimed production, seen by 2.5 million people that transforms the ordinary into the EXTRAORDINARY",
+      "published_iso": null,
+      "date_text": "Wednesday, June 24th @ 7:00 p.m.",
+      "venue_or_address": "The Rio All-Suite Hotel and Casino",
+      "source": {
+        "name": "Las Vegas Weekly A&E",
+        "url": "https://lasvegasweekly.com/ae/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Show"
+    },
+    {
+      "name": "Chippendales",
+      "url": "https://lasvegasweekly.com/events/ongoing/32228/",
+      "summary": "Chippendales Las Vegas is a mantastic, sex-god, abs party that will make you lose your damn mind\u2026 in the best ...",
+      "published_iso": null,
+      "date_text": "Wednesday, June 24th @ 8:00 p.m.",
+      "venue_or_address": "The Rio All-Suite Hotel and Casino",
+      "source": {
+        "name": "Las Vegas Weekly A&E",
+        "url": "https://lasvegasweekly.com/ae/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Show"
+    },
+    {
+      "name": "Absinthe",
+      "url": "https://lasvegasweekly.com/events/ongoing/31685/",
+      "summary": "Absinthe is a refreshing, irresistibly intoxicating blend of circus, burlesque and vaudeville, remixed and reimagined to delight savvy, seen-it-all modern ...",
+      "published_iso": null,
+      "date_text": "Wednesday, June 24th @ 7:00 p.m.",
+      "venue_or_address": "Caesars Palace",
+      "source": {
+        "name": "Las Vegas Weekly A&E",
+        "url": "https://lasvegasweekly.com/ae/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Show"
+    },
+    {
+      "name": "Tape Face",
+      "url": "https://lasvegasweekly.com/events/ongoing/31742/",
+      "summary": "Don\u2019t miss this silent sensation in this eccentric, whimsical experience that can be enjoyed by all ages, background and languages. ...",
+      "published_iso": null,
+      "date_text": "Wednesday, June 24th @ 7:30 p.m.",
+      "venue_or_address": "MGM Grand Hotel and Casino",
+      "source": {
+        "name": "Las Vegas Weekly A&E",
+        "url": "https://lasvegasweekly.com/ae/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Comedy"
+    },
+    {
+      "name": "Wine Wednesdays in the Front Yard",
+      "url": "https://lasvegasweekly.com/events/ongoing/33128/",
+      "summary": "Join us in The Front Yard this and every Wednesday. Enjoy 50% off bottles of wine from 5:00pm-midnight. Discount is ...",
+      "published_iso": null,
+      "date_text": "Wednesday, June 24th @ 5:00 p.m.",
+      "venue_or_address": "Ellis Island Casino & Brewery",
+      "source": {
+        "name": "Las Vegas Weekly A&E",
+        "url": "https://lasvegasweekly.com/ae/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Food & Drink"
+    },
+    {
+      "name": "Spin 2 Win Promotion at South Point",
+      "url": "https://lasvegasweekly.com/events/ongoing/36112/",
+      "summary": "Every Monday, Wednesday and Friday throughout June South Point offers its $400,000+ Spin 2 Win promotion. Beginning at 3 a.m., ...",
+      "published_iso": null,
+      "date_text": "Wednesday, June 24th @ 3:00 a.m.",
+      "venue_or_address": "South Point Hotel Casino and Spa",
+      "source": {
+        "name": "Las Vegas Weekly A&E",
+        "url": "https://lasvegasweekly.com/ae/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Entertainment"
+    },
+    {
+      "name": "Vegas Chamber\u2019s Business Expo",
+      "url": "https://lasvegasweekly.com/events/2026/jun/24/60436/",
+      "summary": "The popular Expo is back for 2026! Top Reasons to Attend: 1. Power Networking Meet hundreds of business professionals, industry ...",
+      "published_iso": null,
+      "date_text": "Wednesday, June 24th @ 12:00 p.m.",
+      "venue_or_address": "World Market Center",
+      "source": {
+        "name": "Las Vegas Weekly A&E",
+        "url": "https://lasvegasweekly.com/ae/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Entertainment"
+    },
+    {
+      "name": "Marc Anthony - Vegas... My Way!",
+      "url": "https://www.visitlasvegas.com/event/marc-anthony-vegas-my-way!/tm_1a9zk3vgkdf1xsw/",
+      "summary": "Experience the iconic Latin superstar live in his Las Vegas residency at Fontainebleau. The show features his signature high-energy performance and soulful vocals.",
+      "published_iso": null,
+      "date_text": "September 18, 2026",
+      "venue_or_address": "Fontainebleau Las Vegas",
+      "source": {
+        "name": "Visit Las Vegas Events",
+        "url": "https://www.visitlasvegas.com/shows-events/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Live Music"
+    },
+    {
+      "name": "New Kids On the Block: The Right Stuff Las Vegas Residency",
+      "url": "https://www.visitlasvegas.com/event/new-kids-on-the-block%3a-the-right-stuff-las-vegas-residency/tm_g5ezzbgxet8ul/",
+      "summary": "The legendary boy band returns to Las Vegas for their The Right Stuff residency. Fans can enjoy a night of nostalgia and high-energy pop hits at Dolby Live.",
+      "published_iso": null,
+      "date_text": "October 10, 2026",
+      "venue_or_address": "Dolby Live",
+      "source": {
+        "name": "Visit Las Vegas Events",
+        "url": "https://www.visitlasvegas.com/shows-events/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Pop Music"
+    },
+    {
+      "name": "VIVA LA LISA",
+      "url": "https://www.visitlasvegas.com/event/viva-la-lisa/tm_1ad0z_6gkmx1xsa/",
+      "summary": "Lisa from BLACKPINK brings her spectacular solo performance to The Colosseum at Caesars Palace. The show promises a stunning visual and musical experience for fans.",
+      "published_iso": null,
+      "date_text": "November 14, 2026",
+      "venue_or_address": "The Colosseum at Caesars Palace",
+      "source": {
+        "name": "Visit Las Vegas Events",
+        "url": "https://www.visitlasvegas.com/shows-events/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Pop Music"
+    },
+    {
+      "name": "Myst\u00e8re by Cirque du Soleil",
+      "url": "https://www.visitlasvegas.com/event/myst%c3%a8re-by-cirque-du-soleil/32359/",
+      "summary": "The original Cirque du Soleil production in Las Vegas featuring acrobatics and imagery. It offers a whimsical and thrilling performance at Treasure Island.",
+      "published_iso": null,
+      "date_text": "Ongoing",
+      "venue_or_address": "Treasure Island",
+      "source": {
+        "name": "Visit Las Vegas Events",
+        "url": "https://www.visitlasvegas.com/shows-events/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Cirque Theater"
+    },
+    {
+      "name": "ABSINTHE",
+      "url": "https://www.visitlasvegas.com/event/absinthe/32404/",
+      "summary": "An adult-themed circus show featuring wild acts and comedy in an intimate tent. It is known for its irreverent humor and spectacular feats at Caesars Palace.",
+      "published_iso": null,
+      "date_text": "Ongoing",
+      "venue_or_address": "Caesars Palace",
+      "source": {
+        "name": "Visit Las Vegas Events",
+        "url": "https://www.visitlasvegas.com/shows-events/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Comedy Variety"
+    },
+    {
+      "name": "Blue Man Group",
+      "url": "https://www.visitlasvegas.com/event/blue-man-group/32425/",
+      "summary": "A high-energy show combining music, comedy, and multimedia theatrics at the Luxor Hotel and Casino. The performance features the world-famous bald and blue trio.",
+      "published_iso": null,
+      "date_text": "Ongoing",
+      "venue_or_address": "Luxor Hotel and Casino",
+      "source": {
+        "name": "Visit Las Vegas Events",
+        "url": "https://www.visitlasvegas.com/shows-events/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Theater Music"
+    },
+    {
+      "name": "Jabbawockeez",
+      "url": "https://www.visitlasvegas.com/event/jabbawockeez/32427/",
+      "summary": "The world-famous dance crew performs their high-tech signature choreography at MGM Grand. This production features incredible visuals and precision dance moves.",
+      "published_iso": null,
+      "date_text": "Ongoing",
+      "venue_or_address": "MGM Grand",
+      "source": {
+        "name": "Visit Las Vegas Events",
+        "url": "https://www.visitlasvegas.com/shows-events/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Dance Performance"
+    },
+    {
+      "name": "Penn and Teller",
+      "url": "https://www.visitlasvegas.com/event/penn-and-teller/32365/",
+      "summary": "The legendary magic duo performs their long-running show filled with classic and new tricks at Rio Las Vegas. It blends sophisticated magic with edgy comedy.",
+      "published_iso": null,
+      "date_text": "Ongoing",
+      "venue_or_address": "Rio Las Vegas",
+      "source": {
+        "name": "Visit Las Vegas Events",
+        "url": "https://www.visitlasvegas.com/shows-events/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Magic Comedy"
+    },
+    {
+      "name": "Awakening",
+      "url": "https://www.visitlasvegas.com/event/awakening/42891/",
+      "summary": "A spectacular 360-degree theater experience with mythic storytelling and technology at Wynn Las Vegas. The show features a custom-built stage and immersive effects.",
+      "published_iso": null,
+      "date_text": "Ongoing",
+      "venue_or_address": "Wynn Las Vegas",
+      "source": {
+        "name": "Visit Las Vegas Events",
+        "url": "https://www.visitlasvegas.com/shows-events/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Theater Spectacle"
+    },
+    {
+      "name": "Michael Jackson ONE",
+      "url": "https://www.visitlasvegas.com/event/michael-jackson-one/52176/",
+      "summary": "A sonic and visual journey into the world of Michael Jackson by Cirque du Soleil at Mandalay Bay. The show celebrates the King of Pop's creative legacy through dance and acrobatics.",
+      "published_iso": null,
+      "date_text": "Ongoing",
+      "venue_or_address": "Mandalay Bay",
+      "source": {
+        "name": "Visit Las Vegas Events",
+        "url": "https://www.visitlasvegas.com/shows-events/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Cirque Music"
+    },
+    {
+      "name": "Kelly Clarkson: Studio Sessions - The Las Vegas Residency",
+      "url": "https://www.visitlasvegas.com/event/kelly-clarkson%3a-studio-sessions-the-las-vegas-residency/tm_1ad0zbggkm80nie/",
+      "summary": "Catch Kelly Clarkson live in her Studio Sessions residency. The show features her powerhouse vocals and hit songs in an intimate setting.",
+      "published_iso": null,
+      "date_text": "Check site for dates",
+      "venue_or_address": "Bakkt Theater at Planet Hollywood",
+      "source": {
+        "name": "Visit Las Vegas Events",
+        "url": "https://www.visitlasvegas.com/shows-events/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Entertainment"
+    },
+    {
+      "name": "Billy Idol: Hot In The City",
+      "url": "https://www.visitlasvegas.com/event/billy-idol%3a-hot-in-the-city/tm_1avjz_kgkumgfyb/",
+      "summary": "Rock legend Billy Idol brings his Hot In The City residency to Las Vegas. Fans can expect a night of classic rock hits and high-energy performance.",
+      "published_iso": null,
+      "date_text": "Check site for dates",
+      "venue_or_address": "The Cosmopolitan of Las Vegas",
+      "source": {
+        "name": "Visit Las Vegas Events",
+        "url": "https://www.visitlasvegas.com/shows-events/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Entertainment"
+    },
+    {
+      "name": "Sammy Hagar: The Best of All Worlds Las Vegas Residency",
+      "url": "https://www.visitlasvegas.com/event/sammy-hagar%3a-the-best-of-all-worlds-las-vegas-residency/tm_g5ezzbwjteizp/",
+      "summary": "Experience Sammy Hagar's high-energy rock residency in Las Vegas. The show features a celebration of his extensive career and greatest hits.",
+      "published_iso": null,
+      "date_text": "Check site for dates",
+      "venue_or_address": "Dolby Live",
+      "source": {
+        "name": "Visit Las Vegas Events",
+        "url": "https://www.visitlasvegas.com/shows-events/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Entertainment"
+    },
+    {
+      "name": "Rod Stewart: The Encore Shows Las Vegas Residency",
+      "url": "https://www.visitlasvegas.com/event/rod-stewart%3a-the-encore-shows-las-vegas-residency/tm_1ad0z_kgkm0ewkz/",
+      "summary": "Rod Stewart returns for his encore shows in Las Vegas. The legendary singer performs his iconic hits in a spectacular live production.",
+      "published_iso": null,
+      "date_text": "Check site for dates",
+      "venue_or_address": "The Colosseum at Caesars Palace",
+      "source": {
+        "name": "Visit Las Vegas Events",
+        "url": "https://www.visitlasvegas.com/shows-events/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Entertainment"
+    },
+    {
+      "name": "Wayne Newton: Up Close & Personal",
+      "url": "https://www.visitlasvegas.com/event/wayne-newton%3a-up-close-%26-personal/40577/",
+      "summary": "Mr. Las Vegas himself, Wayne Newton, performs an intimate show featuring stories and songs from his legendary career. This is a must-see for fans of classic Vegas entertainment.",
+      "published_iso": null,
+      "date_text": "Check site for dates",
+      "venue_or_address": "Flamingo Las Vegas",
+      "source": {
+        "name": "Visit Las Vegas Events",
+        "url": "https://www.visitlasvegas.com/shows-events/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Entertainment"
+    }
+  ]
 }

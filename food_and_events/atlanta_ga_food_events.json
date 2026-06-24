@@ -1,19 +1,24 @@
 {
   "title": "Atlanta \u2014 Restaurant Openings & Events",
-  "generated": "2026-06-24T02:02:28Z",
+  "generated": "2026-06-24T05:02:30Z",
   "city": "Atlanta",
   "tier": "east_coast_mega",
   "population_m": 6.31,
-  "extraction_method": "rss_first_with_deterministic_classifier_v1",
+  "extraction_method": "rss_first_with_deterministic_classifier_v1 + browser_v1_augment",
   "totals": {
-    "restaurant_openings": 0,
-    "events_calendar": 0
+    "restaurant_openings": 17,
+    "events_calendar": 30
   },
   "sources_used": {
     "restaurant_openings": [
-      "Eater Atlanta"
+      "Atlanta Magazine Dining",
+      "Eater Atlanta",
+      "The Infatuation Atlanta Openings"
     ],
-    "events_calendar": []
+    "events_calendar": [
+      "Atlanta Magazine Events",
+      "Discover Atlanta Events"
+    ]
   },
   "sources_failed": [
     {
@@ -35,6 +40,700 @@
       "Creative Loafing Atlanta"
     ]
   },
-  "restaurant_openings": [],
-  "events_calendar": []
+  "restaurant_openings": [
+    {
+      "name": "Alonetogether",
+      "url": "https://www.atlantamagazine.com/dining-news/haitian-french-creole-restaurant-opens-today-with-a-chef-driven-non-alcoholic-bar/",
+      "summary": "A 35-seat Haitian, French, and Creole restaurant from Chef Jonny Rhodes featuring live-fire cooking and a chef-driven non-alcoholic bar program. The menu includes globally inspired flavors and a seafood platter inspired by Gonave Island.",
+      "published_iso": null,
+      "date_text": "June 3, 2026",
+      "venue_or_address": "Midtown Atlanta (former DaVinci\u2019s space)",
+      "source": {
+        "name": "Atlanta Magazine Dining",
+        "url": "https://www.atlantamagazine.com/dining/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Haitian French Creole"
+      ]
+    },
+    {
+      "name": "Cuevac\u00eda",
+      "url": "https://www.atlantamagazine.com/dining-news/the-verdict-on-2-new-atlanta-dining-spots-cuevacia-and-pepper-roost-chili-fried-chicken/",
+      "summary": "A Oaxacan-inspired restaurant located in Colony Square featuring curved booths, succulents, and a tall wooden door. The menu offers smoked jalape\u00f1o margaritas, pink Paraiso cocktails, and shared desserts like churros with dipping sauces.",
+      "published_iso": null,
+      "date_text": "June 18, 2026",
+      "venue_or_address": "Colony Square, Midtown Atlanta",
+      "source": {
+        "name": "Atlanta Magazine Dining",
+        "url": "https://www.atlantamagazine.com/dining/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Mexican Oaxacan"
+      ]
+    },
+    {
+      "name": "LikeMinds",
+      "url": "https://www.theinfatuation.com/atlanta/reviews/likeminds",
+      "summary": "LikeMinds takes over the enormous space left behind by Brewdog on the Beltline. The pop-up sports bar features a curated selection of beers and classic bar food.",
+      "published_iso": null,
+      "date_text": "June 12, 2026",
+      "venue_or_address": "112 KROG ST NE, ATLANTA, GEORGIA 30307",
+      "source": {
+        "name": "The Infatuation Atlanta Openings",
+        "url": "https://www.theinfatuation.com/atlanta/guides/openings"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Bar"
+      ]
+    },
+    {
+      "name": "El Tesoro South Downtown",
+      "url": "https://www.theinfatuation.com/atlanta/reviews/el-tesoro-south-downtown",
+      "summary": "El Tesoro is expanding their taco empire with a third location in South Downtown. It features their signature favorites including a variety of tacos and regional Mexican specialties.",
+      "published_iso": null,
+      "date_text": "June 12, 2026",
+      "venue_or_address": "171 MITCHELL ST SW, ATLANTA, GEORGIA 30303",
+      "source": {
+        "name": "The Infatuation Atlanta Openings",
+        "url": "https://www.theinfatuation.com/atlanta/guides/openings"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Mexican"
+      ]
+    },
+    {
+      "name": "Brewhouse Cafe Downtown",
+      "url": "https://www.theinfatuation.com/atlanta/reviews/brewhouse-cafe-downtown",
+      "summary": "Brewhouse has been the premier soccer bar in Atlanta since 1997. Their new downtown location continues the tradition of hosting Atlanta United fans and international soccer supporters.",
+      "published_iso": null,
+      "date_text": "June 12, 2026",
+      "venue_or_address": "91 BROAD ST SW, ATLANTA, GEORGIA 30303",
+      "source": {
+        "name": "The Infatuation Atlanta Openings",
+        "url": "https://www.theinfatuation.com/atlanta/guides/openings"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Bar"
+      ]
+    },
+    {
+      "name": "La Cueva",
+      "url": "https://www.theinfatuation.com/atlanta/reviews/la-cueva",
+      "summary": "With a suave cave entrance like a red rock grotto, La Cueva is a new Mexican speakeasy and restaurant. It offers a unique atmosphere for dining and specialty cocktails in the Old Fourth Ward.",
+      "published_iso": null,
+      "date_text": "June 12, 2026",
+      "venue_or_address": "675 PONCE DE LEON AVE NE, ATLANTA, GEORGIA 30308",
+      "source": {
+        "name": "The Infatuation Atlanta Openings",
+        "url": "https://www.theinfatuation.com/atlanta/guides/openings"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Mexican"
+      ]
+    },
+    {
+      "name": "The Irish Exit",
+      "url": "https://www.theinfatuation.com/atlanta/reviews/the-irish-exit-atlanta",
+      "summary": "The Irish Exit comes from the team behind NYC's renowned Dead Rabbit. It brings an authentic Irish pub experience to Centennial Olympic Park with a focus on high-quality spirits and service.",
+      "published_iso": null,
+      "date_text": "June 12, 2026",
+      "venue_or_address": "85 CENTENNIAL OLYMPIC PARK DR NW, ATLANTA, GEORGIA 30303",
+      "source": {
+        "name": "The Infatuation Atlanta Openings",
+        "url": "https://www.theinfatuation.com/atlanta/guides/openings"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Bar"
+      ]
+    },
+    {
+      "name": "Nando's Peri Peri Krog",
+      "url": "https://www.theinfatuation.com/atlanta/reviews/nandos-peri-peri-krog",
+      "summary": "Nando's opened their first Georgia location in Dunwoody and has now expanded to Krog Street. They are known for their signature flame-grilled peri-peri chicken.",
+      "published_iso": null,
+      "date_text": "June 12, 2026",
+      "venue_or_address": "99 KROG ST NE, ATLANTA, GEORGIA 30307",
+      "source": {
+        "name": "The Infatuation Atlanta Openings",
+        "url": "https://www.theinfatuation.com/atlanta/guides/openings"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Chicken"
+      ]
+    },
+    {
+      "name": "CTR Food Works",
+      "url": "https://www.theinfatuation.com/atlanta/reviews/ctr-food-works",
+      "summary": "Joining the growing wave of restaurants and bars opening in the area, CTR Food Works offers a new dining destination for those visiting the Marietta Street area.",
+      "published_iso": null,
+      "date_text": "June 12, 2026",
+      "venue_or_address": "190 MARIETTA ST NW, ATLANTA, GEORGIA 30303",
+      "source": {
+        "name": "The Infatuation Atlanta Openings",
+        "url": "https://www.theinfatuation.com/atlanta/guides/openings"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Bar"
+      ]
+    },
+    {
+      "name": "Cosm Atlanta",
+      "url": "https://www.theinfatuation.com/atlanta/reviews/cosm-atlanta",
+      "summary": "Cosm Atlanta sits downtown near Centennial Olympic Park and features three distinct sections with different vibes. It offers a giant event space for watching live sports and entertainment.",
+      "published_iso": null,
+      "date_text": "June 12, 2026",
+      "venue_or_address": "85 CENTENNIAL OLYMPIC PARK DR NW, ATLANTA, GEORGIA 30313",
+      "source": {
+        "name": "The Infatuation Atlanta Openings",
+        "url": "https://www.theinfatuation.com/atlanta/guides/openings"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Event Space"
+      ]
+    },
+    {
+      "name": "Terminal 26",
+      "url": "https://www.theinfatuation.com/atlanta/reviews/terminal-26",
+      "summary": "Terminal 26 is a new addition to the Ponce City Market area offering a variety of food options for visitors. It joins a lineup of diverse culinary concepts in the Old Fourth Ward.",
+      "published_iso": null,
+      "date_text": "June 12, 2026",
+      "venue_or_address": "675 PONCE DE LEON AVE NE, ATLANTA, GEORGIA 30308",
+      "source": {
+        "name": "The Infatuation Atlanta Openings",
+        "url": "https://www.theinfatuation.com/atlanta/guides/openings"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Mexican"
+      ]
+    },
+    {
+      "name": "Pink Lotus",
+      "url": "https://www.theinfatuation.com/atlanta/reviews/pink-lotus",
+      "summary": "Pink Lotus is a new Vietnamese concept located in the Old Fourth Ward. It brings traditional flavors and modern presentation to the bustling Ponce City Market neighborhood.",
+      "published_iso": null,
+      "date_text": "June 12, 2026",
+      "venue_or_address": "675 PONCE DE LEON AVE NE, ATLANTA, GEORGIA 30308",
+      "source": {
+        "name": "The Infatuation Atlanta Openings",
+        "url": "https://www.theinfatuation.com/atlanta/guides/openings"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Vietnamese"
+      ]
+    },
+    {
+      "name": "Alonetogether",
+      "url": "https://www.theinfatuation.com/atlanta/reviews/alonetogether",
+      "summary": "This Haitian brasserie has a tidy menu of steak and seafood options and a soup joumou that's a standout. It brings authentic Caribbean flavors to Midtown Atlanta.",
+      "published_iso": null,
+      "date_text": "June 12, 2026",
+      "venue_or_address": "1270 W PEACHTREE ST NW, ATLANTA, GEORGIA 30309",
+      "source": {
+        "name": "The Infatuation Atlanta Openings",
+        "url": "https://www.theinfatuation.com/atlanta/guides/openings"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Haitian"
+      ]
+    },
+    {
+      "name": "Bless Your Heart",
+      "url": "https://www.theinfatuation.com/atlanta/reviews/bless-your-heart-atlanta",
+      "summary": "Bless Your Heart is a rooftop bar at the Hotel Phoenix that offers views of Centennial Olympic Park. It serves as a new social spot for drinks and snacks downtown.",
+      "published_iso": null,
+      "date_text": "June 12, 2026",
+      "venue_or_address": "70 CENTENNIAL OLYMPIC PARK DR NW, ATLANTA, GEORGIA 30313",
+      "source": {
+        "name": "The Infatuation Atlanta Openings",
+        "url": "https://www.theinfatuation.com/atlanta/guides/openings"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Bar"
+      ]
+    },
+    {
+      "name": "Zephyr Southern Brasserie",
+      "url": "https://www.theinfatuation.com/atlanta/reviews/zephyr-southern-brasserie",
+      "summary": "Zephyr Southern Brasserie adds a refined Southern dining option to the Hotel Phoenix. It features a menu focused on regional ingredients and classic brasserie techniques.",
+      "published_iso": null,
+      "date_text": "June 12, 2026",
+      "venue_or_address": "70 CENTENNIAL OLYMPIC PARK DR NW, ATLANTA, GEORGIA 30313",
+      "source": {
+        "name": "The Infatuation Atlanta Openings",
+        "url": "https://www.theinfatuation.com/atlanta/guides/openings"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Southern"
+      ]
+    },
+    {
+      "name": "Black Pizza",
+      "url": "https://www.theinfatuation.com/atlanta/reviews/black-pizza",
+      "summary": "Black Pizza in Bankhead sells whole pies, slices, and wings. They offer a ton of combos that include affordable options for the neighborhood.",
+      "published_iso": null,
+      "date_text": "June 12, 2026",
+      "venue_or_address": "2079 JOSEPH E BOONE BLVD NW, ATLANTA, GEORGIA 30314",
+      "source": {
+        "name": "The Infatuation Atlanta Openings",
+        "url": "https://www.theinfatuation.com/atlanta/guides/openings"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Pizza"
+      ]
+    },
+    {
+      "name": "Pie Bar",
+      "url": "https://www.theinfatuation.com/atlanta/reviews/pie-bar-atlanta",
+      "summary": "Pie Bar is exactly what it sounds like: a place where you can get a slice or a whole pie. They offer a variety of sweet and savory options in West Midtown.",
+      "published_iso": null,
+      "date_text": "June 12, 2026",
+      "venue_or_address": "1530 ELLSWORTH INDUSTRIAL BLVD NW, ATLANTA, GEORGIA 30318",
+      "source": {
+        "name": "The Infatuation Atlanta Openings",
+        "url": "https://www.theinfatuation.com/atlanta/guides/openings"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Bakery/Cafe"
+      ]
+    }
+  ],
+  "events_calendar": [
+    {
+      "name": "FIFA SOCCER CITY WORLD CUP EXPERIENCE",
+      "url": "https://www.atlantamagazine.com/events-calendar#/details/fifa-soccer-city-world-cup-experience/18589108/2026-06-24T11",
+      "summary": "Immerse yourself in the World Cup experience at the Londzell Performing Arts Theatre. This event features soccer-themed activities and viewing opportunities.",
+      "published_iso": null,
+      "date_text": "Jun 24 - Jun 25, 2026",
+      "venue_or_address": "Londzell Performing Arts Theatre, Tucker, GA",
+      "source": {
+        "name": "Atlanta Magazine Events",
+        "url": "https://www.atlantamagazine.com/atlanta-events/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Sports"
+    },
+    {
+      "name": "The Grown Folks Field Day: Games, Grilling & Genuine Connection (35+)",
+      "url": "https://www.atlantamagazine.com/events-calendar#/details/the-grown-folks-field-day-games-grilling-genuine-connection-35-/19147024/2026-06-27T14",
+      "summary": "A field day designed for adults 35 and older, featuring games, grilling, and a chance for genuine connection in Atlanta.",
+      "published_iso": null,
+      "date_text": "Jun 27, 2026",
+      "venue_or_address": "Atlanta, GA",
+      "source": {
+        "name": "Atlanta Magazine Events",
+        "url": "https://www.atlantamagazine.com/atlanta-events/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Social"
+    },
+    {
+      "name": "On the Record- Black Men, Mental Health and Vulnerability",
+      "url": "https://www.atlantamagazine.com/events-calendar#/details/on-the-record-black-men-mental-health-and-vulnerability/19235499/2026-06-25T18",
+      "summary": "A discussion event at Warehouse Studios focused on mental health and vulnerability among Black men.",
+      "published_iso": null,
+      "date_text": "Jun 25 - Jun 26, 2026",
+      "venue_or_address": "Warehouse Studios, Atlanta, GA",
+      "source": {
+        "name": "Atlanta Magazine Events",
+        "url": "https://www.atlantamagazine.com/atlanta-events/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Health"
+    },
+    {
+      "name": "Tours: Truist Park",
+      "url": "https://www.atlantamagazine.com/events-calendar#/details/tours-truist-park/15042788/2026-06-24T14",
+      "summary": "Take a guided tour of Truist Park, home of the Atlanta Braves, and see behind-the-scenes areas of the stadium.",
+      "published_iso": null,
+      "date_text": "Jun 24, 2026",
+      "venue_or_address": "Truist Park, Atlanta, GA",
+      "source": {
+        "name": "Atlanta Magazine Events",
+        "url": "https://www.atlantamagazine.com/atlanta-events/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Tours"
+    },
+    {
+      "name": "Luau Island Selfie Experience",
+      "url": "https://www.atlantamagazine.com/events-calendar#/details/luau-island-selfie-experience/19225579/2026-06-24T13",
+      "summary": "A tropical-themed selfie experience at the Selfie Paradise Museum with various photo opportunities.",
+      "published_iso": null,
+      "date_text": "Jun 24, 2026",
+      "venue_or_address": "Selfie Paradise Museum, Douglasville, GA",
+      "source": {
+        "name": "Atlanta Magazine Events",
+        "url": "https://www.atlantamagazine.com/atlanta-events/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Exhibits"
+    },
+    {
+      "name": "Struggle Jennings",
+      "url": "https://www.atlantamagazine.com/events-calendar#/details/struggle-jennings/18557345/2026-06-24T19",
+      "summary": "Musical performance by Struggle Jennings at Vinyl in Atlanta.",
+      "published_iso": null,
+      "date_text": "Jun 24, 2026",
+      "venue_or_address": "Vinyl, Atlanta, GA",
+      "source": {
+        "name": "Atlanta Magazine Events",
+        "url": "https://www.atlantamagazine.com/atlanta-events/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Music"
+    },
+    {
+      "name": "Great Ant Sleepover",
+      "url": "https://www.atlantamagazine.com/events-calendar#/details/great-ant-sleepover/18984725/2026-06-24T10",
+      "summary": "A family-friendly event at the Alliance Theatre featuring the 'Great Ant Sleepover'.",
+      "published_iso": null,
+      "date_text": "Jun 24, 2026",
+      "venue_or_address": "Alliance Theatre, Atlanta, GA",
+      "source": {
+        "name": "Atlanta Magazine Events",
+        "url": "https://www.atlantamagazine.com/atlanta-events/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Theater"
+    },
+    {
+      "name": "Rockdale Eats a Rainbow",
+      "url": "https://www.atlantamagazine.com/events-calendar#/details/rockdale-eats-a-rainbow/19098231/2026-06-24T11",
+      "summary": "A community event in Conyers focused on healthy eating and colorful foods.",
+      "published_iso": null,
+      "date_text": "Jun 24, 2026",
+      "venue_or_address": "Conyers, GA",
+      "source": {
+        "name": "Atlanta Magazine Events",
+        "url": "https://www.atlantamagazine.com/atlanta-events/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Community"
+    },
+    {
+      "name": "Celebration Park Ribbon Cutting",
+      "url": "https://www.atlantamagazine.com/events-calendar#/details/celebration-park-ribbon-cutting/19098226/2026-06-24T18",
+      "summary": "Official ribbon-cutting ceremony for the opening of Celebration Park in Conyers.",
+      "published_iso": null,
+      "date_text": "Jun 24, 2026",
+      "venue_or_address": "Conyers, GA",
+      "source": {
+        "name": "Atlanta Magazine Events",
+        "url": "https://www.atlantamagazine.com/atlanta-events/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Community"
+    },
+    {
+      "name": "Open Mic Night",
+      "url": "https://www.atlantamagazine.com/events-calendar#/details/open-mic-night/19003990/2026-06-24T20",
+      "summary": "Comedy open mic night at the Laughing Skull Lounge in Atlanta.",
+      "published_iso": null,
+      "date_text": "Jun 24, 2026",
+      "venue_or_address": "Laughing Skull Lounge, Atlanta, GA",
+      "source": {
+        "name": "Atlanta Magazine Events",
+        "url": "https://www.atlantamagazine.com/atlanta-events/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Comedy"
+    },
+    {
+      "name": "Kick It In The District Watch Party: Gocha's Tapas Bar",
+      "url": "https://www.atlantamagazine.com/events-calendar#/details/kick-it-in-the-district-watch-party-gocha-s-tapas-bar/19208728/2026-06-24T18",
+      "summary": "Watch party for soccer fans at Gocha's Tapas Bar as part of the Kick It In The District series.",
+      "published_iso": null,
+      "date_text": "Jun 24, 2026",
+      "venue_or_address": "Gocha's Tapas Bar, Atlanta, GA",
+      "source": {
+        "name": "Atlanta Magazine Events",
+        "url": "https://www.atlantamagazine.com/atlanta-events/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Sports"
+    },
+    {
+      "name": "Official 50th Birthday Celebration",
+      "url": "https://www.atlantamagazine.com/events-calendar#/details/official-50th-birthday-celebration/19210985/2026-06-24T08",
+      "summary": "The Chattahoochee Nature Center celebrates its 50th birthday with special events and activities.",
+      "published_iso": null,
+      "date_text": "Jun 24, 2026",
+      "venue_or_address": "Chattahoochee Nature Center, Roswell, GA",
+      "source": {
+        "name": "Atlanta Magazine Events",
+        "url": "https://www.atlantamagazine.com/atlanta-events/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Festivals"
+    },
+    {
+      "name": "Dinosaur Handprint Cards - Take and Make",
+      "url": "https://www.atlantamagazine.com/events-calendar#/details/dinosaur-handprint-cards-take-and-make/19193768/2026-06-24T10",
+      "summary": "A children's craft event where participants can make dinosaur handprint cards at the Cleveland Avenue Branch Library.",
+      "published_iso": null,
+      "date_text": "Jun 24, 2026",
+      "venue_or_address": "Cleveland Avenue Branch Library, Atlanta, GA",
+      "source": {
+        "name": "Atlanta Magazine Events",
+        "url": "https://www.atlantamagazine.com/atlanta-events/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Kids"
+    },
+    {
+      "name": "Dog in Human Costume",
+      "url": "https://www.atlantamagazine.com/events-calendar#/details/dog-in-human-costume/19186170/2026-06-24T19",
+      "summary": "A fun and quirky event at MadLife Stage & Studios featuring dogs in human costumes.",
+      "published_iso": null,
+      "date_text": "Jun 24, 2026",
+      "venue_or_address": "MadLife Stage & Studios, Woodstock, GA",
+      "source": {
+        "name": "Atlanta Magazine Events",
+        "url": "https://www.atlantamagazine.com/atlanta-events/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Entertainment"
+    },
+    {
+      "name": "College Park Welcomes the World Watch Party",
+      "url": "https://www.atlantamagazine.com/events-calendar#/details/college-park-welcomes-the-world-watch-party/19163486/2026-06-24T18",
+      "summary": "Community watch party at Badgett Stadium welcoming the world for international soccer events.",
+      "published_iso": null,
+      "date_text": "Jun 24, 2026",
+      "venue_or_address": "Badgett Stadium, College Park, GA",
+      "source": {
+        "name": "Atlanta Magazine Events",
+        "url": "https://www.atlantamagazine.com/atlanta-events/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Sports"
+    },
+    {
+      "name": "Discover ATL Hop & Ride",
+      "url": "https://discoveratlanta.com/event/detail/discover-atl-hop-ride/",
+      "summary": "Experience the free cultural shuttle in Atlanta featuring soccer-themed special events through the summer of 2026. This monthly event offers a unique way to explore Atlanta neighborhoods during the World Cup season.",
+      "published_iso": null,
+      "date_text": "Every month on 1st until 07/15/2026",
+      "venue_or_address": "Atlanta Neighborhoods, 233 Peachtree Rd NE, Suite 1400, Atlanta, GA 30303",
+      "source": {
+        "name": "Discover Atlanta Events",
+        "url": "https://discoveratlanta.com/events/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Soccer Special Event"
+    },
+    {
+      "name": "All the Soccer Things at The Works",
+      "url": "https://discoveratlanta.com/event/detail/all-the-soccer-things-at-the-works/",
+      "summary": "Enjoy a family-friendly celebration of soccer at The Works featuring watch parties and activities for all ages. The event runs daily throughout the summer soccer season in the Upper Westside.",
+      "published_iso": null,
+      "date_text": "6/24/26 - 7/19/26",
+      "venue_or_address": "The Works, 1295 Chattahoochee Ave NW, Atlanta, GA 30318",
+      "source": {
+        "name": "Discover Atlanta Events",
+        "url": "https://discoveratlanta.com/events/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Family & Kids"
+    },
+    {
+      "name": "Soccer Watch Party at Round Trip",
+      "url": "https://discoveratlanta.com/event/detail/soccer-watch-party-at-round-trip/",
+      "summary": "Join fellow fans for soccer watch parties at Round Trip Brewing Company in East Cobb. Experience the match day atmosphere with local craft beer and community viewing events.",
+      "published_iso": null,
+      "date_text": "6/24/26 - 6/27/26",
+      "venue_or_address": "Round Trip Brewing Co. - East Cobb, 4475 Roswell Road, Suire 1600, Marietta, GA 30062",
+      "source": {
+        "name": "Discover Atlanta Events",
+        "url": "https://discoveratlanta.com/events/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Soccer Special Event"
+    },
+    {
+      "name": "Kick It In The District : Nouveau Bar & Grill",
+      "url": "https://discoveratlanta.com/event/detail/kick-it-in-the-district-nouveau-bar-grill/",
+      "summary": "Visit Nouveau Bar & Grill in College Park for a sports-focused community gathering. This free event brings fans together for an evening of entertainment and athletic celebration.",
+      "published_iso": null,
+      "date_text": "6/24/26",
+      "venue_or_address": "Nouveau Bar & Grill, 3775 Main Street, College Park, GA 30337",
+      "source": {
+        "name": "Discover Atlanta Events",
+        "url": "https://discoveratlanta.com/events/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Sports"
+    },
+    {
+      "name": "Motion at MJQ",
+      "url": "https://discoveratlanta.com/event/detail/motion-at-mjq/",
+      "summary": "Experience the energy of Atlanta nightlife at the iconic MJQ Concourse. This late-night event features local DJs and a vibrant dance floor atmosphere in the heart of the city.",
+      "published_iso": null,
+      "date_text": "6/26/26",
+      "venue_or_address": "MJQ, 50 Upper Alabama St, Atlanta, GA 30303",
+      "source": {
+        "name": "Discover Atlanta Events",
+        "url": "https://discoveratlanta.com/events/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Nightlife"
+    },
+    {
+      "name": "TIO LUCHO\u2019S CELEBRATES FOUR YEARS",
+      "url": "https://discoveratlanta.com/event/detail/tio-lucho-s-celebrates-four-years/",
+      "summary": "Celebrate the four-year anniversary of Tio Lucho's with special menu items and dining experiences. This Peruvian-inspired restaurant honors its milestone with three days of festivities in Virginia-Highland.",
+      "published_iso": null,
+      "date_text": "6/26/26 - 6/28/26",
+      "venue_or_address": "Tio Lucho's, 675 N. Highland Avenue, Atlanta, GA 30306",
+      "source": {
+        "name": "Discover Atlanta Events",
+        "url": "https://discoveratlanta.com/events/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Dining"
+    },
+    {
+      "name": "Drag Bingo",
+      "url": "https://discoveratlanta.com/event/detail/drag-bingo-3/",
+      "summary": "Participate in a lively evening of bingo hosted by local drag performers at Schoolhouse Brewing. This recurring event combines competitive gaming with high-energy entertainment and local brews.",
+      "published_iso": null,
+      "date_text": "6/24/26 - 7/17/26",
+      "venue_or_address": "Schoolhouse Brewing, 840 Franklin Court, Suite 100, Marietta, GA 30067",
+      "source": {
+        "name": "Discover Atlanta Events",
+        "url": "https://discoveratlanta.com/events/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Gaming"
+    },
+    {
+      "name": "The Dynamic! \u2013 Funny scenes, songs and games!",
+      "url": "https://discoveratlanta.com/event/detail/the-dynamic-funny-scenes-songs-and-games-3/",
+      "summary": "Experience a night of improv comedy featuring funny scenes, original songs, and interactive games. This high-energy show at Dynamic El Dorado showcases Atlanta's top improvisational talent.",
+      "published_iso": null,
+      "date_text": "6/24/26 - 6/27/26",
+      "venue_or_address": "Dynamic El Dorado, 572 Edgewood Ave, Suite 116, Atlanta, GA 30312",
+      "source": {
+        "name": "Discover Atlanta Events",
+        "url": "https://discoveratlanta.com/events/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Comedy"
+    },
+    {
+      "name": "Match Day Watch Parties at Fairway Social",
+      "url": "https://discoveratlanta.com/event/detail/match-day-watch-parties-at-fairway-social/",
+      "summary": "Fairway Social hosts premier match day watch parties for soccer enthusiasts in Alpharetta. Enjoy the game on large screens with food, drinks, and a social atmosphere designed for sports fans.",
+      "published_iso": null,
+      "date_text": "6/24/26 - 6/27/26",
+      "venue_or_address": "Fairway Social, 240 South Main St, Alpharetta, GA 30009",
+      "source": {
+        "name": "Discover Atlanta Events",
+        "url": "https://discoveratlanta.com/events/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Soccer Special Event"
+    },
+    {
+      "name": "Showdown Social Alpharetta Watch Parties",
+      "url": "https://discoveratlanta.com/event/detail/showdown-social-alpharetta-watch-parties/",
+      "summary": "Join the crowd at Showdown Social for summer soccer watch parties. This venue serves as a hub for fans to gather and support their teams throughout the international tournament season.",
+      "published_iso": null,
+      "date_text": "6/24/26 - 7/19/26",
+      "venue_or_address": "Showdown Social, 7955 North Point Pkwy, Alpharetta, GA 30022",
+      "source": {
+        "name": "Discover Atlanta Events",
+        "url": "https://discoveratlanta.com/events/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Soccer Special Event"
+    },
+    {
+      "name": "Atlanta Ice Cream Festival",
+      "url": "https://discoveratlanta.com/event/detail/atlanta-ice-cream-festival/",
+      "summary": "Cool off at Piedmont Park with the annual Atlanta Ice Cream Festival. This family-oriented event features ice cream vendors, live music, and activities for children in one of the city's premier parks.",
+      "published_iso": null,
+      "date_text": "7/25/26",
+      "venue_or_address": "Charles Allen Gate at Piedmont Park, 1000 Charles Allen Dr NE, Atlanta, GA 30309",
+      "source": {
+        "name": "Discover Atlanta Events",
+        "url": "https://discoveratlanta.com/events/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Family & Kids"
+    },
+    {
+      "name": "T Rex: The Ultimate Predator",
+      "url": "https://discoveratlanta.com/event/detail/t-rex-the-ultimate-predator/",
+      "summary": "Discover the world of the most famous dinosaur at Fernbank Museum's immersive exhibit. This educational experience explores the biology and behavior of the T. rex through fossils and interactive displays.",
+      "published_iso": null,
+      "date_text": "6/24/26 - 9/7/26",
+      "venue_or_address": "Fernbank Museum of Natural History, 767 Clifton Rd NE, Atlanta, GA 30307",
+      "source": {
+        "name": "Discover Atlanta Events",
+        "url": "https://discoveratlanta.com/events/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Family & Kids"
+    },
+    {
+      "name": "Soccer Fest",
+      "url": "https://discoveratlanta.com/event/detail/soccer-fest/",
+      "summary": "Celebrate the spirit of the game at Soccer Fest in Castleberry Hill. This recurring community festival features sports activities, food, and music for residents and visitors alike.",
+      "published_iso": null,
+      "date_text": "Every month on 1st until 07/19/2026",
+      "venue_or_address": "The Commons at Castleberry Hill, 443 Nelson St SW, Suite 1600, Atlanta, GA 30323",
+      "source": {
+        "name": "Discover Atlanta Events",
+        "url": "https://discoveratlanta.com/events/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Sports"
+    },
+    {
+      "name": "Prime Fan Zone Experience",
+      "url": "https://discoveratlanta.com/event/detail/prime-fan-zone-experience/",
+      "summary": "Experience the ultimate fan zone at F1 Arcade Atlanta during the soccer season. This event provides a high-tech environment for watching matches and enjoying racing-themed entertainment.",
+      "published_iso": null,
+      "date_text": "6/24/26 - 7/21/26",
+      "venue_or_address": "F1 Arcade Atlanta, 1154 Howell Mill Rd NW, Suite G205, Atlanta, GA 30318",
+      "source": {
+        "name": "Discover Atlanta Events",
+        "url": "https://discoveratlanta.com/events/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Soccer Special Event"
+    },
+    {
+      "name": "Alif Institute WC Watch Party: Morocco vs Haiti",
+      "url": "https://discoveratlanta.com/event/detail/alif-institute-wc-watch-party-morocco-vs-haiti/",
+      "summary": "Join the Alif Institute for a community watch party featuring the match between Morocco and Haiti. This cultural event offers a welcoming space for soccer fans to enjoy international competition together.",
+      "published_iso": null,
+      "date_text": "6/24/26",
+      "venue_or_address": "Alif Institute, 3288 Marjan Drive, Atlanta, GA 30340",
+      "source": {
+        "name": "Discover Atlanta Events",
+        "url": "https://discoveratlanta.com/events/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Soccer Special Event"
+    }
+  ]
 }

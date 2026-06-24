@@ -1,19 +1,23 @@
 {
   "title": "Nashville \u2014 Restaurant Openings & Events",
-  "generated": "2026-06-24T02:02:28Z",
+  "generated": "2026-06-24T05:02:30Z",
   "city": "Nashville",
   "tier": "in_between_mega",
   "population_m": 2.16,
-  "extraction_method": "rss_first_with_deterministic_classifier_v1",
+  "extraction_method": "rss_first_with_deterministic_classifier_v1 + browser_v1_augment",
   "totals": {
-    "restaurant_openings": 1,
-    "events_calendar": 0
+    "restaurant_openings": 12,
+    "events_calendar": 29
   },
   "sources_used": {
     "restaurant_openings": [
-      "Eater Nashville"
+      "Eater Nashville",
+      "Nashville Scene Food"
     ],
-    "events_calendar": []
+    "events_calendar": [
+      "Nashville Scene Calendar",
+      "Visit Music City Events"
+    ]
   },
   "sources_failed": [
     {
@@ -55,7 +59,590 @@
         "name": "Eater Nashville",
         "url": "https://nashville.eater.com"
       }
+    },
+    {
+      "name": "Hattie B\u2019s Prepares to Open New Outpost in East Nashville",
+      "url": "https://www.nashvillescene.com/food_drink/bites/hattie-bs-east-nashville/article_8a6f4471-03fc-419f-82ea-c586f464764e.html",
+      "summary": "Hattie B's is preparing to open a new restaurant location in the East Nashville neighborhood.",
+      "published_iso": null,
+      "date_text": "JUN 18, 2026",
+      "venue_or_address": "East Nashville",
+      "source": {
+        "name": "Nashville Scene Food",
+        "url": "https://www.nashvillescene.com/food_drink/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Fried Chicken"
+      ]
+    },
+    {
+      "name": "Bar Roza Opens in the Arcade",
+      "url": "https://www.nashvillescene.com/food_drink/bites/bar-roza-the-arcade-julia-jaksic/article_4fe38177-1695-55be-b322-3fc98f3eae97.html",
+      "summary": "Veteran restauranteur Julia Jaksic operates an intimate cocktail bar next to The Peanut Shop in The Arcade.",
+      "published_iso": null,
+      "date_text": "JUN 11, 2026",
+      "venue_or_address": "The Arcade",
+      "source": {
+        "name": "Nashville Scene Food",
+        "url": "https://www.nashvillescene.com/food_drink/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Cocktail Bar"
+      ]
+    },
+    {
+      "name": "Nashville Brew Project Returns",
+      "url": "https://www.nashvillescene.com/food_drink/bites/nashville-brew-project-leipers-fork-fathers-day/article_95be20ac-cc01-4616-91c7-878df742af43.html",
+      "summary": "Nashville Brew Project returns with upcoming events at Leiper\u2019s Fork Distillery.",
+      "published_iso": null,
+      "date_text": "JUN 12, 2026",
+      "venue_or_address": "Leiper\u2019s Fork Distillery",
+      "source": {
+        "name": "Nashville Scene Food",
+        "url": "https://www.nashvillescene.com/food_drink/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Brewery"
+      ]
+    },
+    {
+      "name": "Sally's Stay Awhile Will Open Thursday in Wedgewood-Houston",
+      "url": "https://www.nashvillescene.com/food_drink/bites/sallys-stay-awhile-opening/article_7d4486e2-0144-4581-bb16-cf918d777293.html",
+      "summary": "The latest Strategic Hospitality Project will feature chef Andy Little at the helm in Wedgewood-Houston.",
+      "published_iso": null,
+      "date_text": "JUN 2, 2026",
+      "venue_or_address": "Wedgewood-Houston",
+      "source": {
+        "name": "Nashville Scene Food",
+        "url": "https://www.nashvillescene.com/food_drink/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Restaurant Opening"
+      ]
+    },
+    {
+      "name": "Lost & Found Is Now Open for Lunch",
+      "url": "https://www.nashvillescene.com/food_drink/bites/lost-and-found-lunch-hours/article_699a281d-86f2-4480-8c84-713d24cee1ea.html",
+      "summary": "The Inglewood food truck park launches new midday hours for diners.",
+      "published_iso": null,
+      "date_text": "MAY 29, 2026",
+      "venue_or_address": "Inglewood",
+      "source": {
+        "name": "Nashville Scene Food",
+        "url": "https://www.nashvillescene.com/food_drink/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Food Truck Park"
+      ]
+    },
+    {
+      "name": "Beloved Cherokee Steakhouse Poised to Reopen",
+      "url": "https://www.nashvillescene.com/food_drink/features/cherokee-steakhouse-lebanon-reopening/article_453664fb-b1d7-4c76-9606-2ba587b5b1e9.html",
+      "summary": "The restaurant on Old Hickory Lake in Lebanon will return this summer thanks to new ownership.",
+      "published_iso": null,
+      "date_text": "MAY 28, 2026",
+      "venue_or_address": "Old Hickory Lake, Lebanon",
+      "source": {
+        "name": "Nashville Scene Food",
+        "url": "https://www.nashvillescene.com/food_drink/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Steakhouse"
+      ]
+    },
+    {
+      "name": "Sho Pizza Bar Planned for West Side",
+      "url": "https://www.nashvillescene.com/food_drink/bites/sho-pizza-west-nashville/article_6448e4c8-15b9-5776-b257-5841efa8a211.html",
+      "summary": "Tokyo-inspired, neo-Neapolitan pizzeria started in Riverside Village and now targets a location on White Bridge Road.",
+      "published_iso": null,
+      "date_text": "MAY 26, 2026",
+      "venue_or_address": "White Bridge Road",
+      "source": {
+        "name": "Nashville Scene Food",
+        "url": "https://www.nashvillescene.com/food_drink/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Pizzeria"
+      ]
+    },
+    {
+      "name": "Frankies Makes a Move Downtown",
+      "url": "https://www.nashvillescene.com/food_drink/bites/frankies-urban-cowboy-downtown-nashville/article_438bd700-8da0-4c9c-9f7a-76cc4dd5af8e.html",
+      "summary": "East Nashville pizza favorite replaces Roberta\u2019s in The Arcade.",
+      "published_iso": null,
+      "date_text": "MAY 22, 2026",
+      "venue_or_address": "The Arcade",
+      "source": {
+        "name": "Nashville Scene Food",
+        "url": "https://www.nashvillescene.com/food_drink/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Pizzeria"
+      ]
+    },
+    {
+      "name": "Antoinette\u2019s Wine + Provisions to Open in Sylvan Park",
+      "url": "https://www.nashvillescene.com/food_drink/bites/antoinettes-wine-provisions-opens-sylvan-park/article_6ccf625f-fa49-4c8d-9a88-c1a529fb02c1.html",
+      "summary": "The wine bar and market hopes to make wine and wine cocktails accessible and fun in Sylvan Park.",
+      "published_iso": null,
+      "date_text": "MAY 13, 2026",
+      "venue_or_address": "Sylvan Park",
+      "source": {
+        "name": "Nashville Scene Food",
+        "url": "https://www.nashvillescene.com/food_drink/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Wine Bar"
+      ]
+    },
+    {
+      "name": "Foundry Fieldhouse Is Now Open at Gaylord Opryland Resort",
+      "url": "https://www.nashvillescene.com/food_drink/bites/foundry-fieldhouse-gaylord-opryland-resort/article_41f9ad22-4ce7-4a7f-8f32-ca38c2ad5681.html",
+      "summary": "The massive sports bar and taproom provides a new option for watching games while eating and drinking well.",
+      "published_iso": null,
+      "date_text": "MAY 8, 2026",
+      "venue_or_address": "Gaylord Opryland Resort",
+      "source": {
+        "name": "Nashville Scene Food",
+        "url": "https://www.nashvillescene.com/food_drink/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Sports Bar"
+      ]
+    },
+    {
+      "name": "HoneyFire Barbeque Expands",
+      "url": "https://www.nashvillescene.com/food_drink/bites/honeyfire-barbeque-expands/article_1313c6f4-eaa2-415f-a859-0bc4d2430ae2.html",
+      "summary": "The popular barbecue shop is opening a third outpost and hosting a visit from a 'Top Chef' favorite.",
+      "published_iso": null,
+      "date_text": "MAY 4, 2026",
+      "venue_or_address": "Nashville",
+      "source": {
+        "name": "Nashville Scene Food",
+        "url": "https://www.nashvillescene.com/food_drink/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Barbecue"
+      ]
     }
   ],
-  "events_calendar": []
+  "events_calendar": [
+    {
+      "name": "Musicians Corner",
+      "url": "https://www.visitmusiccity.com/node/79596",
+      "summary": "Nashville's beloved free outdoor concert series celebrates its 17th year with a multi-week series of live music in Centennial Park featuring multi-genre artists.",
+      "published_iso": null,
+      "date_text": "Friday times 5PM to 9PM, Saturday noon to 6PM",
+      "venue_or_address": "Centennial Park",
+      "source": {
+        "name": "Visit Music City Events",
+        "url": "https://www.visitmusiccity.com/nashville-events/upcoming-events"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Live Music"
+    },
+    {
+      "name": "Summer Kickoff",
+      "url": "https://www.visitmusiccity.com/nashville-events/summer-kickoff/117254683ea011f1960a",
+      "summary": "A month-long celebration at GEODIS Park featuring concerts, Nashville SC soccer celebrations, and cultural moments for fans and visitors.",
+      "published_iso": null,
+      "date_text": "June 2026",
+      "venue_or_address": "GEODIS Park",
+      "source": {
+        "name": "Visit Music City Events",
+        "url": "https://www.visitmusiccity.com/nashville-events/upcoming-events"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Festival"
+    },
+    {
+      "name": "Wine Down Wednesday",
+      "url": "https://www.visitmusiccity.com/nashville-events/wine-down-wednesday/369a332aa8f811ef9d63",
+      "summary": "Weekly wine and social event held at Frothy Monkey's 12South location.",
+      "published_iso": null,
+      "date_text": "Jun 24 - Aug 26, 2026",
+      "venue_or_address": "Frothy Monkey 12South",
+      "source": {
+        "name": "Visit Music City Events",
+        "url": "https://www.visitmusiccity.com/nashville-events/upcoming-events"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Social Event"
+    },
+    {
+      "name": "Grapes and Guitars",
+      "url": "https://www.visitmusiccity.com/nashville-events/grapes-and-guitars/8a056d45928911f0bdd7",
+      "summary": "Enjoy live music and wine at the Conrad Nashville's recurring Grapes and Guitars series.",
+      "published_iso": null,
+      "date_text": "Jun 24 - Sep 16, 2026",
+      "venue_or_address": "Conrad Nashville",
+      "source": {
+        "name": "Visit Music City Events",
+        "url": "https://www.visitmusiccity.com/nashville-events/upcoming-events"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Live Music"
+    },
+    {
+      "name": "Two Hour Brunch Experience",
+      "url": "https://www.visitmusiccity.com/nashville-events/two-hour-brunch-experience/15186de50d1f11f1b563",
+      "summary": "A curated brunch experience at Federales Tacos & Tequila featuring signature dishes and drinks.",
+      "published_iso": null,
+      "date_text": "Jun 27 - Feb 14, 2027",
+      "venue_or_address": "Federales Tacos & Tequila",
+      "source": {
+        "name": "Visit Music City Events",
+        "url": "https://www.visitmusiccity.com/nashville-events/upcoming-events"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Food And Drink"
+    },
+    {
+      "name": "Happy Hour",
+      "url": "https://www.visitmusiccity.com/nashville-events/happy-hour/05abcda63ea011f1960a",
+      "summary": "Daily happy hour specials at Villa Castrioti featuring discounted drinks and appetizers.",
+      "published_iso": null,
+      "date_text": "Jun 24 - Apr 30, 2027",
+      "venue_or_address": "Villa Castrioti",
+      "source": {
+        "name": "Visit Music City Events",
+        "url": "https://www.visitmusiccity.com/nashville-events/upcoming-events"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Social Event"
+    },
+    {
+      "name": "Team Trivia",
+      "url": "https://www.visitmusiccity.com/nashville-events/team-trivia/e0955d16d7af11f0b563",
+      "summary": "Weekly team trivia competition at M.L.Rose Neighborhood Pub in Capitol View.",
+      "published_iso": null,
+      "date_text": "Jun 30 - Jan 5, 2027",
+      "venue_or_address": "M.L.Rose Neighborhood Pub - Capitol View",
+      "source": {
+        "name": "Visit Music City Events",
+        "url": "https://www.visitmusiccity.com/nashville-events/upcoming-events"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Trivia"
+    },
+    {
+      "name": "Pizza, Pints, & Prizes: Monday Night Trivia",
+      "url": "https://www.visitmusiccity.com/nashville-events/pizza-pints-prizes-monday-night-trivia/07fd10d63ea011f1960a",
+      "summary": "Monday night trivia at Villa Castrioti featuring pizza and beer specials with prizes for the winners.",
+      "published_iso": null,
+      "date_text": "Jun 29 - Apr 26, 2027",
+      "venue_or_address": "Villa Castrioti",
+      "source": {
+        "name": "Visit Music City Events",
+        "url": "https://www.visitmusiccity.com/nashville-events/upcoming-events"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Trivia"
+    },
+    {
+      "name": "Trivia",
+      "url": "https://www.visitmusiccity.com/nashville-events/trivia/b16e83f154a011f1a7f2",
+      "summary": "General knowledge trivia nights held weekly at Nick the Greek.",
+      "published_iso": null,
+      "date_text": "Jun 24 - May 19, 2027",
+      "venue_or_address": "Nick the Greek",
+      "source": {
+        "name": "Visit Music City Events",
+        "url": "https://www.visitmusiccity.com/nashville-events/upcoming-events"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Trivia"
+    },
+    {
+      "name": "Nerdy Talk Trivia",
+      "url": "https://www.visitmusiccity.com/nashville-events/nerdy-talk-trivia/3682a369a8f811ef9d63",
+      "summary": "Pop-culture and geek-themed trivia night at Tennessee Brew Works.",
+      "published_iso": null,
+      "date_text": "Jun 28 - Aug 2, 2026",
+      "venue_or_address": "Tennessee Brew Works",
+      "source": {
+        "name": "Visit Music City Events",
+        "url": "https://www.visitmusiccity.com/nashville-events/upcoming-events"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Trivia"
+    },
+    {
+      "name": "Speakeasy Secrets Vintage Cocktail Crawl",
+      "url": "https://www.visitmusiccity.com/nashville-events/speakeasy-secrets-vintage-cocktail-crawl/896244e9928911f0bdd7",
+      "summary": "A guided tour of Nashville's hidden speakeasies and vintage cocktail bars.",
+      "published_iso": null,
+      "date_text": "Jun 25 - Sep 13, 2026",
+      "venue_or_address": "Local Tastes of Nashville",
+      "source": {
+        "name": "Visit Music City Events",
+        "url": "https://www.visitmusiccity.com/nashville-events/upcoming-events"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Tour"
+    },
+    {
+      "name": "Free Creative Writing Workshops",
+      "url": "https://www.visitmusiccity.com/nashville-events/free-creative-writing-workshops/e15377eb270c11f1b563",
+      "summary": "Community creative writing workshops held at Church Street Park.",
+      "published_iso": null,
+      "date_text": "Jul 11 - Nov 14, 2026",
+      "venue_or_address": "Church Street Park",
+      "source": {
+        "name": "Visit Music City Events",
+        "url": "https://www.visitmusiccity.com/nashville-events/upcoming-events"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Workshop"
+    },
+    {
+      "name": "Sushi Rolling Classes",
+      "url": "https://www.visitmusiccity.com/nashville-events/sushi-rolling-classes/55ac7cac4f2011f1a7f2",
+      "summary": "Learn the art of sushi rolling in this hands-on class at Sunda New Asian.",
+      "published_iso": null,
+      "date_text": "Jul 4 - May 1, 2027",
+      "venue_or_address": "Sunda New Asian",
+      "source": {
+        "name": "Visit Music City Events",
+        "url": "https://www.visitmusiccity.com/nashville-events/upcoming-events"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Workshop"
+    },
+    {
+      "name": "Partner & Line Dance Lessons",
+      "url": "https://www.visitmusiccity.com/nashville-events/partner-line-dance-lessons/df9276fe6ae411f1a7f2",
+      "summary": "Interactive dance lessons for couples and individuals wanting to learn country line dancing.",
+      "published_iso": null,
+      "date_text": "Now - Jun 20, 2027",
+      "venue_or_address": "Nashville Line Dance",
+      "source": {
+        "name": "Visit Music City Events",
+        "url": "https://www.visitmusiccity.com/nashville-events/upcoming-events"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Dance Class"
+    },
+    {
+      "name": "Line Dancing on Broadway with Free Keepsake Video",
+      "url": "https://www.visitmusiccity.com/nashville-events/line-dancing-broadway-free-keepsake-video/020ad5152a0911f090db",
+      "summary": "Learn to line dance in the heart of Nashville and receive a video of your performance.",
+      "published_iso": null,
+      "date_text": "Jun 25 - Oct 3, 2027",
+      "venue_or_address": "Stompin' Grounds Nashville",
+      "source": {
+        "name": "Visit Music City Events",
+        "url": "https://www.visitmusiccity.com/nashville-events/upcoming-events"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Dance Class"
+    },
+    {
+      "name": "DinoTrek",
+      "url": "https://www.nashvillescene.com/criticspicks/critics-pick-dinotrek/article_308f1d7e-d411-4a74-9135-78858ca45a6b.html",
+      "summary": "A Nashville Scene Critic's Pick featuring life-sized dinosaurs along a wooded path at the Nashville Zoo. This immersive exhibit continues through July 26.",
+      "published_iso": null,
+      "date_text": "Through July 26",
+      "venue_or_address": "the Nashville Zoo",
+      "source": {
+        "name": "Nashville Scene Calendar",
+        "url": "https://www.nashvillescene.com/calendar/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Exhibit"
+    },
+    {
+      "name": "Richard Heinsohn: 'The Ghost We Live By'",
+      "url": "https://www.nashvillescene.com/criticspicks/critics-pick-richard-heinsohn-the-ghost-we-live-by/article_ccce3979-9d4d-40a8-aa54-baa1b1183f33.html",
+      "summary": "A Nashville Scene Critic's Pick art exhibit by Richard Heinsohn hosted at Bankers Alley. The show runs through August 1 with various gallery hours.",
+      "published_iso": null,
+      "date_text": "Opening reception March 14; through Aug. 1",
+      "venue_or_address": "Bankers Alley",
+      "source": {
+        "name": "Nashville Scene Calendar",
+        "url": "https://www.nashvillescene.com/calendar/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Art Exhibit"
+    },
+    {
+      "name": "Tamara Reynolds: 'Melungeon'",
+      "url": "https://www.nashvillescene.com/criticspicks/critics-pick-tamara-reynolds-melungeon/article_5830cc93-e2b9-45c5-9547-e31fa73b7fc7.html",
+      "summary": "A Nashville Scene Critic's Pick photography exhibition by Tamara Reynolds at Begonia Labs. This collection explores regional identity and history through June 26.",
+      "published_iso": null,
+      "date_text": "Through June 26",
+      "venue_or_address": "Begonia Labs",
+      "source": {
+        "name": "Nashville Scene Calendar",
+        "url": "https://www.nashvillescene.com/calendar/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Photography Exhibit"
+    },
+    {
+      "name": "'America the Beautiful: National Parks & Landmarks by Rail'",
+      "url": "https://www.nashvillescene.com/criticspicks/critics-pick-america-the-beautiful-national-parks-landmarks-by-rail/article_611d2d43-83ca-424d-821f-78d4eb1de2b0.html",
+      "summary": "A Nashville Scene Critic's Pick outdoor exhibit at Cheekwood Estate & Gardens. The display features intricate rail models of national landmarks through September 6.",
+      "published_iso": null,
+      "date_text": "Through Sept. 6",
+      "venue_or_address": "Cheekwood Estate & Gardens",
+      "source": {
+        "name": "Nashville Scene Calendar",
+        "url": "https://www.nashvillescene.com/calendar/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Outdoor Exhibit"
+    },
+    {
+      "name": "'International Surrealism From Tate: Fifty Years of Dreams'",
+      "url": "https://www.nashvillescene.com/criticspicks/critics-pick-international-surrealism-from-tate-fifty-years-of-dreams/article_42bb0e8c-206e-420d-8955-6b9ab2753eeb.html",
+      "summary": "A Nashville Scene Critic's Pick art exhibition at the Frist featuring surrealist works from the Tate collection. The exhibit is available for viewing through August 30.",
+      "published_iso": null,
+      "date_text": "Through Aug. 30",
+      "venue_or_address": "the Frist",
+      "source": {
+        "name": "Nashville Scene Calendar",
+        "url": "https://www.nashvillescene.com/calendar/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Art Exhibit"
+    },
+    {
+      "name": "Summer at the Library Feat. Wishing Chair Productions & More",
+      "url": "https://www.nashvillescene.com/criticspicks/critics-pick-summer-at-the-library-feat-wishing-chair-productions-more/article_4524bf66-150e-4f27-b20d-65cbfc7a422a.html",
+      "summary": "A Nashville Scene Critic's Pick family event at the Nashville Public Library. Activities include puppet shows by Wishing Chair Productions on May 22 and 23.",
+      "published_iso": null,
+      "date_text": "May 22-23",
+      "venue_or_address": "Nashville Public Library",
+      "source": {
+        "name": "Nashville Scene Calendar",
+        "url": "https://www.nashvillescene.com/calendar/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Family Event"
+    },
+    {
+      "name": "Anila Quayyum Agha: 'Interwoven'",
+      "url": "https://www.nashvillescene.com/criticspicks/critics-pick-anila-quayyum-agha-interwoven/article_63ca01df-9de1-49d8-9fa0-2d582519f5dd.html",
+      "summary": "A Nashville Scene Critic's Pick installation by Anila Quayyum Agha at the Frist Art Museum. The 'Interwoven' exhibit runs through August 30.",
+      "published_iso": null,
+      "date_text": "Through Aug. 30",
+      "venue_or_address": "the Frist",
+      "source": {
+        "name": "Nashville Scene Calendar",
+        "url": "https://www.nashvillescene.com/calendar/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Art Installation"
+    },
+    {
+      "name": "Dan Mandelbaum & Lindsey Rome: 'Archetypos'",
+      "url": "https://www.nashvillescene.com/criticspicks/critics-pick-dan-mandelbaum-lindsey-rome-archetypos/article_a4922d8b-0875-4960-87b1-06b23d147977.html",
+      "summary": "A Nashville Scene Critic's Pick collaborative art exhibit titled 'Archetypos' at ZieherSmith. The show is open for viewing through June 27.",
+      "published_iso": null,
+      "date_text": "Through June 27",
+      "venue_or_address": "ZieherSmith",
+      "source": {
+        "name": "Nashville Scene Calendar",
+        "url": "https://www.nashvillescene.com/calendar/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Art Exhibit"
+    },
+    {
+      "name": "Lesley Patterson-Marx: 'The Ephemeral Tarot'",
+      "url": "https://www.nashvillescene.com/criticspicks/critics-pick-lesley-patterson-marx-the-ephemeral-tarot/article_04b5aa29-790e-4963-8065-eef179de6e5e.html",
+      "summary": "A Nashville Scene Critic's Pick mixed media exhibit at the Arcade. Lesley Patterson-Marx presents 'The Ephemeral Tarot' through June 23.",
+      "published_iso": null,
+      "date_text": "Opening June 13; exhibit runs June 13-23",
+      "venue_or_address": "the Arcade",
+      "source": {
+        "name": "Nashville Scene Calendar",
+        "url": "https://www.nashvillescene.com/calendar/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Mixed Media Exhibit"
+    },
+    {
+      "name": "Actors Bridge Ensemble: 'Honour'",
+      "url": "https://www.nashvillescene.com/criticspicks/critics-pick-actors-bridge-ensemble-honour/article_4c780632-7020-4c19-969d-0ed51789204d.html",
+      "summary": "A Nashville Scene Critic's Pick theatrical production of 'Honour' by the Actors Bridge Ensemble. Performances take place June 19 through 28 at the Actors Bridge Studio.",
+      "published_iso": null,
+      "date_text": "June 19-28",
+      "venue_or_address": "the Actors Bridge Studio",
+      "source": {
+        "name": "Nashville Scene Calendar",
+        "url": "https://www.nashvillescene.com/calendar/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Theater"
+    },
+    {
+      "name": "'There Goes the Point' Screening",
+      "url": "https://www.nashvillescene.com/criticspicks/critics-pick-there-goes-the-point-screening/article_8e4c1b43-5a9b-41d1-93ac-7c476b57ec3b.html",
+      "summary": "A Nashville Scene Critic's Pick film screening at The Green Ray. The event begins at 8 p.m. on June 24.",
+      "published_iso": null,
+      "date_text": "8 p.m. June 24",
+      "venue_or_address": "The Green Ray",
+      "source": {
+        "name": "Nashville Scene Calendar",
+        "url": "https://www.nashvillescene.com/calendar/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Film Screening"
+    },
+    {
+      "name": "Joe Jackson",
+      "url": "https://www.nashvillescene.com/criticspicks/critics-pick-joe-jackson/article_fedb040d-b872-4775-be03-a2e412f5c63a.html",
+      "summary": "A Nashville Scene Critic's Pick concert featuring Joe Jackson at the historic Ryman Auditorium. The performance starts at 7:30 p.m. on June 24.",
+      "published_iso": null,
+      "date_text": "7:30 p.m June 24",
+      "venue_or_address": "the Ryman",
+      "source": {
+        "name": "Nashville Scene Calendar",
+        "url": "https://www.nashvillescene.com/calendar/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Live Music"
+    },
+    {
+      "name": "Paz Suay: 'Anew: Elementary and Secondary Practice'",
+      "url": "https://www.nashvillescene.com/criticspicks/critics-pick-paz-suay-anew-elementary-and-secondary-practice/article_0985492c-9303-4456-9884-38758314e812.html",
+      "summary": "A Nashville Scene Critic's Pick art exhibit by Paz Suay at Coop Gallery. This limited run continues through June 24.",
+      "published_iso": null,
+      "date_text": "June 22-24",
+      "venue_or_address": "Coop Gallery",
+      "source": {
+        "name": "Nashville Scene Calendar",
+        "url": "https://www.nashvillescene.com/calendar/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Art Exhibit"
+    },
+    {
+      "name": "'Twin Peaks: Fire Walk With Me'",
+      "url": "https://www.nashvillescene.com/criticspicks/critics-pick-twin-peaks-fire-walk-with-me/article_b716b249-3b11-4c15-b7f9-ca19426ece9f.html",
+      "summary": "A Nashville Scene Critic's Pick screening of the cult classic 'Twin Peaks: Fire Walk With Me' at the Belcourt Theatre. The film starts at 9 p.m. on June 24.",
+      "published_iso": null,
+      "date_text": "9 p.m. June 24",
+      "venue_or_address": "the Belcourt",
+      "source": {
+        "name": "Nashville Scene Calendar",
+        "url": "https://www.nashvillescene.com/calendar/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Film Screening"
+    }
+  ]
 }
