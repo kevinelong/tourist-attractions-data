@@ -1,20 +1,25 @@
 {
   "title": "Los Angeles \u2014 Restaurant Openings & Events",
-  "generated": "2026-06-24T02:02:28Z",
+  "generated": "2026-06-24T06:46:36Z",
   "city": "Los Angeles",
   "tier": "west_coast_mega",
   "population_m": 12.81,
-  "extraction_method": "rss_first_with_deterministic_classifier_v1",
+  "extraction_method": "rss_first_with_deterministic_classifier_v1 + browser_v1_augment",
   "totals": {
-    "restaurant_openings": 4,
-    "events_calendar": 3
+    "restaurant_openings": 34,
+    "events_calendar": 33
   },
   "sources_used": {
     "restaurant_openings": [
-      "Eater LA"
+      "Eater LA",
+      "Eater LA Heatmap",
+      "LA Times Food",
+      "The Infatuation LA New Restaurants"
     ],
     "events_calendar": [
+      "Discover Los Angeles Events",
       "LAist Events",
+      "Time Out LA Things to Do",
       "We Like LA Events"
     ]
   },
@@ -103,6 +108,486 @@
         "name": "LA Times Food",
         "url": "https://www.latimes.com/food"
       }
+    },
+    {
+      "name": "Suki",
+      "url": "https://www.theinfatuation.com/los-angeles/reviews/suki-beverly-hills",
+      "summary": "A Beverly Hills handroll bar from the team behind Savta and Sora. It features a long counter where you can enjoy fresh sushi and handrolls.",
+      "published_iso": null,
+      "date_text": "June 18, 2026",
+      "venue_or_address": "Beverly Hills",
+      "source": {
+        "name": "The Infatuation LA New Restaurants",
+        "url": "https://www.theinfatuation.com/los-angeles/guides/new-la-restaurants-openings"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Sushi Bar"
+      ]
+    },
+    {
+      "name": "Clio Vine",
+      "url": "https://www.theinfatuation.com/los-angeles/reviews/clio-vine",
+      "summary": "A Beverly Grove cafe serving coffee, matcha, and pastries from Artelice. They are also known for their smoothie menu featuring superfood ingredients.",
+      "published_iso": null,
+      "date_text": "June 18, 2026",
+      "venue_or_address": "Beverly Grove",
+      "source": {
+        "name": "The Infatuation LA New Restaurants",
+        "url": "https://www.theinfatuation.com/los-angeles/guides/new-la-restaurants-openings"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Coffee"
+      ]
+    },
+    {
+      "name": "Bengara",
+      "url": "https://www.theinfatuation.com/los-angeles/reviews/bengara",
+      "summary": "A Japanese spot in the Arts District that explores meat-on-a-stick and other traditional dishes. It features a thorough menu highlighting various grilled skewers.",
+      "published_iso": null,
+      "date_text": "June 18, 2026",
+      "venue_or_address": "Arts District",
+      "source": {
+        "name": "The Infatuation LA New Restaurants",
+        "url": "https://www.theinfatuation.com/los-angeles/guides/new-la-restaurants-openings"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Japanese"
+      ]
+    },
+    {
+      "name": "Nam Coffee",
+      "url": "https://www.theinfatuation.com/los-angeles/reviews/nam-coffee",
+      "summary": "A local roaster importing robusta beans from Vietnam, which just opened its second cafe location in Chinatown. It is a good spot for something sweet or getting work done.",
+      "published_iso": null,
+      "date_text": "June 18, 2026",
+      "venue_or_address": "Chinatown",
+      "source": {
+        "name": "The Infatuation LA New Restaurants",
+        "url": "https://www.theinfatuation.com/los-angeles/guides/new-la-restaurants-openings"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Coffee"
+      ]
+    },
+    {
+      "name": "Korean Ice Co.",
+      "url": "https://www.theinfatuation.com/los-angeles/reviews/korean-ice-co",
+      "summary": "A new Korean dessert spot in Sawtelle. It offers a variety of ice cream and sweet treats in a busy neighborhood.",
+      "published_iso": null,
+      "date_text": "June 18, 2026",
+      "venue_or_address": "Sawtelle",
+      "source": {
+        "name": "The Infatuation LA New Restaurants",
+        "url": "https://www.theinfatuation.com/los-angeles/guides/new-la-restaurants-openings"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Dessert"
+      ]
+    },
+    {
+      "name": "Coucou",
+      "url": "https://www.theinfatuation.com/los-angeles/reviews/coucou-manhattan-beach",
+      "summary": "A French-ish bistro in Manhattan Beach perfect for steak frites and oyster platters. It is a great spot for Francophiles and martini drinkers in the South Bay.",
+      "published_iso": null,
+      "date_text": "June 18, 2026",
+      "venue_or_address": "Manhattan Beach",
+      "source": {
+        "name": "The Infatuation LA New Restaurants",
+        "url": "https://www.theinfatuation.com/los-angeles/guides/new-la-restaurants-openings"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "French"
+      ]
+    },
+    {
+      "name": "Shin-Sen-Gumi Yakitori Izakaya",
+      "url": "https://www.theinfatuation.com/los-angeles/reviews/shin-sen-gumi-yakitori-izakaya",
+      "summary": "A new location of the Shin-Sen-Gumi chain in Little Tokyo focusing on yakitori and izakaya dishes. Menu items include chicken gizzard skewers and pan-fried gyoza.",
+      "published_iso": null,
+      "date_text": "June 18, 2026",
+      "venue_or_address": "Little Tokyo",
+      "source": {
+        "name": "The Infatuation LA New Restaurants",
+        "url": "https://www.theinfatuation.com/los-angeles/guides/new-la-restaurants-openings"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Japanese"
+      ]
+    },
+    {
+      "name": "Big Sur Grill",
+      "url": "https://www.theinfatuation.com/los-angeles/reviews/big-sur-grill",
+      "summary": "A Santa Monica dinner spot offering live-fire, farm-to-table cooking. It promises a menu focused on fresh ingredients and open-flame techniques.",
+      "published_iso": null,
+      "date_text": "June 18, 2026",
+      "venue_or_address": "Santa Monica",
+      "source": {
+        "name": "The Infatuation LA New Restaurants",
+        "url": "https://www.theinfatuation.com/los-angeles/guides/new-la-restaurants-openings"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "American"
+      ]
+    },
+    {
+      "name": "Dr. Bombay Ice Cream",
+      "url": "https://www.theinfatuation.com/los-angeles/reviews/dr-bombay-ice-cream",
+      "summary": "Snoop Dogg\u2019s latest side quest is an ice cream shop in Venice. It offers a selection of cold treats right on Ocean Front Walk.",
+      "published_iso": null,
+      "date_text": "June 18, 2026",
+      "venue_or_address": "Venice",
+      "source": {
+        "name": "The Infatuation LA New Restaurants",
+        "url": "https://www.theinfatuation.com/los-angeles/guides/new-la-restaurants-openings"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Ice Cream"
+      ]
+    },
+    {
+      "name": "Luscious Dumplings",
+      "url": "https://www.theinfatuation.com/los-angeles/reviews/luscious-dumplings",
+      "summary": "The popular SGV dumpling empire has opened a new branch in Beverly Hills. It is located just a short walk from the central shopping area.",
+      "published_iso": null,
+      "date_text": "June 18, 2026",
+      "venue_or_address": "Beverly Hills",
+      "source": {
+        "name": "The Infatuation LA New Restaurants",
+        "url": "https://www.theinfatuation.com/los-angeles/guides/new-la-restaurants-openings"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Chinese"
+      ]
+    },
+    {
+      "name": "Malaya",
+      "url": "https://www.theinfatuation.com/los-angeles/reviews/malaya",
+      "summary": "A popular Silver Lake cafe that has expanded with a new location in Arcadia. They serve Filipino-inspired drinks and rainbow-colored beverages.",
+      "published_iso": null,
+      "date_text": "June 18, 2026",
+      "venue_or_address": "Arcadia",
+      "source": {
+        "name": "The Infatuation LA New Restaurants",
+        "url": "https://www.theinfatuation.com/los-angeles/guides/new-la-restaurants-openings"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Coffee"
+      ]
+    },
+    {
+      "name": "Bar Betsy",
+      "url": "https://www.theinfatuation.com/los-angeles/reviews/bar-betsy",
+      "summary": "A new wine bar in Altadena located next to its sibling restaurant, Betsy. It focuses on drinks and light bites in a cozy neighborhood setting.",
+      "published_iso": null,
+      "date_text": "June 18, 2026",
+      "venue_or_address": "Altadena",
+      "source": {
+        "name": "The Infatuation LA New Restaurants",
+        "url": "https://www.theinfatuation.com/los-angeles/guides/new-la-restaurants-openings"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Wine Bar"
+      ]
+    },
+    {
+      "name": "Mitsi",
+      "url": "https://www.theinfatuation.com/los-angeles/reviews/mitsi",
+      "summary": "A new sushi bar and cocktail spot north of Chinatown, opened by a member of Mumford & Sons. It is perfect for great cocktails and a light bite.",
+      "published_iso": null,
+      "date_text": "June 18, 2026",
+      "venue_or_address": "Downtown LA",
+      "source": {
+        "name": "The Infatuation LA New Restaurants",
+        "url": "https://www.theinfatuation.com/los-angeles/guides/new-la-restaurants-openings"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Bar"
+      ]
+    },
+    {
+      "name": "Joint Seafood & Uoichiba",
+      "url": "https://www.theinfatuation.com/los-angeles/reviews/joint-seafood-and-uoichiba",
+      "summary": "A fish market known for dry-aging fish that has now opened a location in Downtown LA. It offers high-quality seafood and a unique dry-aging process.",
+      "published_iso": null,
+      "date_text": "June 18, 2026",
+      "venue_or_address": "Downtown LA",
+      "source": {
+        "name": "The Infatuation LA New Restaurants",
+        "url": "https://www.theinfatuation.com/los-angeles/guides/new-la-restaurants-openings"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Seafood"
+      ]
+    },
+    {
+      "name": "Tr\u00e8s LA Bistro",
+      "url": "https://www.theinfatuation.com/los-angeles/reviews/tres-la-bistro",
+      "summary": "A new bistro located in the Pacific Design Center in West Hollywood. It serves as a cafe and dining spot for those visiting the surrounding showrooms and offices.",
+      "published_iso": null,
+      "date_text": "June 18, 2026",
+      "venue_or_address": "West Hollywood",
+      "source": {
+        "name": "The Infatuation LA New Restaurants",
+        "url": "https://www.theinfatuation.com/los-angeles/guides/new-la-restaurants-openings"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Bakery/Cafe"
+      ]
+    },
+    {
+      "name": "Perse",
+      "url": "https://la.eater.com/dining-report/300064/toranj-westwood-manhattan-beach-review",
+      "summary": "The family behind one of Los Angeles\u2019s best Persian restaurants, Toranj, opened a new, upscale destination for wagyu kebabs, tart fesenjoon, and sour cherry\u2013dotted rice in February. Set on San Vicente Boulevard in Brentwood, Perse offers regional dishes and shareable grilled items like koobideh and saffron lamb chops.",
+      "published_iso": null,
+      "date_text": "June 4, 2026",
+      "venue_or_address": "11677 West San Vicente Boulevard, STE 315, Los Angeles, California 90049, United States",
+      "source": {
+        "name": "Eater LA Heatmap",
+        "url": "https://la.eater.com/maps/best-new-restaurants-los-angeles-heatmap"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Persian"
+      ]
+    },
+    {
+      "name": "Badmaash Venice",
+      "url": "https://la.eater.com/venue/25437/badmaash",
+      "summary": "Acclaimed modern Indian restaurant Badmaash expanded with a new location on Abbot Kinney in Venice on Friday, March 27. The restaurant serves a menu of familiar classics alongside newer dishes like steak frites and hamachi crudo in a warmly lit space.",
+      "published_iso": null,
+      "date_text": "June 4, 2026",
+      "venue_or_address": "1600 Abbot Kinney Boulevard, Venice, California 90291, United States",
+      "source": {
+        "name": "Eater LA Heatmap",
+        "url": "https://la.eater.com/maps/best-new-restaurants-los-angeles-heatmap"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Indian"
+      ]
+    },
+    {
+      "name": "Very Thai",
+      "url": "https://la.eater.com/dining-report/301121/very-thai-review",
+      "summary": "Taiwan-based Thai restaurant, Very Thai, made its U.S. debut at Westfield Century City in mid-March. The restaurant serves traditional Thai cooking like Massaman beef curry alongside unexpected renditions like green curry pad Thai.",
+      "published_iso": null,
+      "date_text": "June 4, 2026",
+      "venue_or_address": "10250 Santa Monica Boulevard, STE 2800, Los Angeles, California 90067, United States",
+      "source": {
+        "name": "Eater LA Heatmap",
+        "url": "https://la.eater.com/maps/best-new-restaurants-los-angeles-heatmap"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Thai"
+      ]
+    },
+    {
+      "name": "Bad Roman",
+      "url": "https://la.eater.com/venue/965517/bad-roman",
+      "summary": "New York\u2019s irreverent, maximalist Italian destination, Bad Roman, recently made its Los Angeles debut in Beverly Hills. The menu includes roasted garlic babka, a seafood tower, and various fresh pastas made daily at the restaurant.",
+      "published_iso": null,
+      "date_text": "June 4, 2026",
+      "venue_or_address": "267 North Canon Drive, Beverly Hills, California 90210, United States",
+      "source": {
+        "name": "Eater LA Heatmap",
+        "url": "https://la.eater.com/maps/best-new-restaurants-los-angeles-heatmap"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Italian"
+      ]
+    },
+    {
+      "name": "Lielle",
+      "url": "https://la.eater.com/dining-report/303553/lielle-marcus-jernmark-los-angeles-review",
+      "summary": "Celebrated Swedish chef Marcus Jernmark debuted a fresh California-centric restaurant in the former Pico-Robertson Bicyclette space on February 12. The 42-seat venue showcases a simple four-course menu designed to shift with the seasons.",
+      "published_iso": null,
+      "date_text": "June 4, 2026",
+      "venue_or_address": "9575 West Pico Boulevard, Los Angeles, California 90035, United States",
+      "source": {
+        "name": "Eater LA Heatmap",
+        "url": "https://la.eater.com/maps/best-new-restaurants-los-angeles-heatmap"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Swedish"
+      ]
+    },
+    {
+      "name": "Sushi Samba West Hollywood",
+      "url": "https://www.sushisamba.com/",
+      "summary": "London-based Sushi Samba has landed in West Hollywood, serving a blend of Japanese, Brazilian, and Peruvian flavors. The lively restaurant features a menu of sashimi, sushi, ceviches, and robata-grilled items accompanied by live entertainment.",
+      "published_iso": null,
+      "date_text": "June 4, 2026",
+      "venue_or_address": "639 North La Peer Drive, West Hollywood, California 90069, United States",
+      "source": {
+        "name": "Eater LA Heatmap",
+        "url": "https://la.eater.com/maps/best-new-restaurants-los-angeles-heatmap"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Japanese"
+      ]
+    },
+    {
+      "name": "Sushi Nakazawa",
+      "url": "https://la.eater.com/venue/92221/sushi-nakazawa-los-angeles",
+      "summary": "Chef Daisuke Nakazawa has opened a Los Angeles outpost of his Michelin-starred temple of sushi on South Robertson Boulevard. The restaurant offers signature Edomae-style nigiri-centered omakase alongside an expanded chef\u2019s menu.",
+      "published_iso": null,
+      "date_text": "June 4, 2026",
+      "venue_or_address": "145 S Robertson Blvd, Los Angeles, CA 90048",
+      "source": {
+        "name": "Eater LA Heatmap",
+        "url": "https://la.eater.com/maps/best-new-restaurants-los-angeles-heatmap"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Japanese"
+      ]
+    },
+    {
+      "name": "Picala",
+      "url": "https://picala.com/",
+      "summary": "Acme Hospitality made its Los Angeles debut with Picala, a new restaurant in West Adams that embodies California cooking through a Spanish lens. The menu features seasonal shaved asparagus salad, pan con tomate, and prime rib-eye with Spanish accents.",
+      "published_iso": null,
+      "date_text": "June 4, 2026",
+      "venue_or_address": "3321 South La Cienega Boulevard, STE G, Los Angeles, California 90016, United States",
+      "source": {
+        "name": "Eater LA Heatmap",
+        "url": "https://la.eater.com/maps/best-new-restaurants-los-angeles-heatmap"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Spanish"
+      ]
+    },
+    {
+      "name": "Alta Adams",
+      "url": "http://altaadams.com/",
+      "summary": "Alta Adams is back with a new seasonal menu from chef and owner Keith Corbin featuring citrusy hamachi crudo and fire-roasted cabbage. The restaurant continues its focus on California soul food with updated takes on traditional flavors.",
+      "published_iso": null,
+      "date_text": "June 4, 2026",
+      "venue_or_address": "5359 West Adams Boulevard, Los Angeles, California 90016, United States",
+      "source": {
+        "name": "Eater LA Heatmap",
+        "url": "https://la.eater.com/maps/best-new-restaurants-los-angeles-heatmap"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Southern"
+      ]
+    },
+    {
+      "name": "Jacaranda",
+      "url": "https://jacaranda.la/",
+      "summary": "Chef Daniel Patterson and Sarah Lewitinn debuted a 10-course tasting menu that embraces fine dining in a casual, intimate 30-seat room. The menu focuses heavily on seasonal California vegetables and high-quality local seafood.",
+      "published_iso": null,
+      "date_text": "June 4, 2026",
+      "venue_or_address": "6623 Melrose Avenue, Los Angeles, California 90038, United States",
+      "source": {
+        "name": "Eater LA Heatmap",
+        "url": "https://la.eater.com/maps/best-new-restaurants-los-angeles-heatmap"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Seafood"
+      ]
+    },
+    {
+      "name": "ABL Hollywood",
+      "url": "https://www.abl-la.com/",
+      "summary": "The team behind Little Tokyo\u2019s A Beautiful Life opened a new destination for Jamaican-Chinese cooking in Hollywood. The menu features oxtail macaroni and cheese, jerk fried egg rolls, and whole escovitch snapper.",
+      "published_iso": null,
+      "date_text": "June 4, 2026",
+      "venue_or_address": "1649 North Cahuenga Boulevard, Los Angeles, California 90028, United States",
+      "source": {
+        "name": "Eater LA Heatmap",
+        "url": "https://la.eater.com/maps/best-new-restaurants-los-angeles-heatmap"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Jamaican"
+      ]
+    },
+    {
+      "name": "Roshona Bilash",
+      "url": "https://la.eater.com/dining-report/304105/roshona-bilash-review",
+      "summary": "Roshona Bilash is a family-run Bangladeshi spot in Melrose Hill serving comforting platters of goat biryani and kebabs. Special highlights include the chile and ginger-tinged nihari stew and weekend-only braised lamb shank.",
+      "published_iso": null,
+      "date_text": "June 4, 2026",
+      "venue_or_address": "861 N Western Ave, Los Angeles, CA, 90012, US",
+      "source": {
+        "name": "Eater LA Heatmap",
+        "url": "https://la.eater.com/maps/best-new-restaurants-los-angeles-heatmap"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Bangladeshi"
+      ]
+    },
+    {
+      "name": "Bar di Bello",
+      "url": "http://resy.com/cities/los-angeles-ca/venues/bar-di-bello",
+      "summary": "Bar di Bello is a Milan-inspired bar and restaurant located at Silver Lake\u2019s Sunset Row development. The menu features sophisticated cocktails alongside Italian mains like trofie alla Genovese and chicken cutlet Milanese.",
+      "published_iso": null,
+      "date_text": "June 4, 2026",
+      "venue_or_address": "3300 West Sunset Boulevard, #109-110, Los Angeles, California 90026, United States",
+      "source": {
+        "name": "Eater LA Heatmap",
+        "url": "https://la.eater.com/maps/best-new-restaurants-los-angeles-heatmap"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Italian"
+      ]
+    },
+    {
+      "name": "The Holloway",
+      "url": "https://la.eater.com/dining-report/303176/the-holloway-review",
+      "summary": "The Holloway sports bar has reopened in Echo Park with easygoing cocktails and a menu of casual bites. The revived neighborhood hangout features televisions for sports fans and classic bar food like burgers and hot dogs.",
+      "published_iso": null,
+      "date_text": "June 4, 2026",
+      "venue_or_address": "1320 Echo Park Avenue, Los Angeles, California 90026, United States",
+      "source": {
+        "name": "Eater LA Heatmap",
+        "url": "https://la.eater.com/maps/best-new-restaurants-los-angeles-heatmap"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Restaurant"
+      ]
+    },
+    {
+      "name": "Bengara",
+      "url": "https://www.opentable.com/r/bengara-los-angeles",
+      "summary": "Bengara in the Arts District serves a menu centered on Japan\u2019s binchotan charcoal used for genshiyaki-style cooking. Featured dishes include grilled rice skewers with uni and pork shoulder with house bacon and fermented garlic.",
+      "published_iso": null,
+      "date_text": "June 4, 2026",
+      "venue_or_address": "803 Traction Avenue, STE 140, Los Angeles, California 90013, United States",
+      "source": {
+        "name": "Eater LA Heatmap",
+        "url": "https://la.eater.com/maps/best-new-restaurants-los-angeles-heatmap"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Japanese"
+      ]
     }
   ],
   "events_calendar": [
@@ -141,6 +626,426 @@
         "name": "We Like LA Events",
         "url": "https://www.welikela.com/category/events/"
       }
+    },
+    {
+      "name": "Hospital of Emotions",
+      "url": "https://www.timeout.com/los-angeles/things-to-do/hospital-of-emotions",
+      "summary": "A visually dazzling, site-specific art pop-up has taken over the former St. Vincent Medical Center featuring 80 individual hospital rooms transformed by 70 local and international artists.",
+      "published_iso": null,
+      "date_text": "Until Jul 31, 2026",
+      "venue_or_address": "former St. Vincent Medical Center (Westlake)",
+      "source": {
+        "name": "Time Out LA Things to Do",
+        "url": "https://www.timeout.com/los-angeles/things-to-do"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Exhibitions"
+    },
+    {
+      "name": "CicLAvia\u2014Leimert Park meets Expo Park",
+      "url": "https://www.timeout.com/los-angeles/things-to-do/ciclavia",
+      "summary": "This massive open streets event allows bike-riders and pedestrians to take over the road and explore neighborhoods.",
+      "published_iso": null,
+      "date_text": "Jun 28 - Jul 19, 2026",
+      "venue_or_address": "Leimert Park and Expo Park",
+      "source": {
+        "name": "Time Out LA Things to Do",
+        "url": "https://www.timeout.com/los-angeles/things-to-do"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Things to do"
+    },
+    {
+      "name": "Griffith Park Free Shakespeare Festival",
+      "url": "https://www.timeout.com/los-angeles/theater/griffith-park-free-shakespeare-festival",
+      "summary": "Outdoor performances of Shakespeare's works held at the historic Old Zoo in Griffith Park.",
+      "published_iso": null,
+      "date_text": "Jun 24 - Sep 6, 2026",
+      "venue_or_address": "Old Zoo in Griffith Park",
+      "source": {
+        "name": "Time Out LA Things to Do",
+        "url": "https://www.timeout.com/los-angeles/things-to-do"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Shakespeare"
+    },
+    {
+      "name": "Yoko Ono: Music of the Mind",
+      "url": "https://www.timeout.com/los-angeles/museums/yoko-ono-music-of-the-mind",
+      "summary": "A comprehensive exhibition at the Broad focusing on the artist, musician and activist Yoko Ono.",
+      "published_iso": null,
+      "date_text": "Until Oct 11, 2026",
+      "venue_or_address": "The Broad (Downtown)",
+      "source": {
+        "name": "Time Out LA Things to Do",
+        "url": "https://www.timeout.com/los-angeles/things-to-do"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Art and design"
+    },
+    {
+      "name": "Thursday Jazz Night Series at the Spotlight",
+      "url": "https://www.timeout.com/los-angeles/music/thursday-jazz-night-series-at-the-spotlight",
+      "summary": "A weekly jazz series at the Spotlight, a popular nightlife destination in Hollywood.",
+      "published_iso": null,
+      "date_text": "Until Jun 25, 2026",
+      "venue_or_address": "the Spotlight (Hollywood)",
+      "source": {
+        "name": "Time Out LA Things to Do",
+        "url": "https://www.timeout.com/los-angeles/things-to-do"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Jazz"
+    },
+    {
+      "name": "Friday Movie Nights",
+      "url": "https://www.timeout.com/los-angeles/movies/friday-movie-nights",
+      "summary": "A free series of outdoor movie screenings held at the former Hollywood & Highland.",
+      "published_iso": null,
+      "date_text": "Until Sep 25, 2026",
+      "venue_or_address": "Hollywood & Highland",
+      "source": {
+        "name": "Time Out LA Things to Do",
+        "url": "https://www.timeout.com/los-angeles/things-to-do"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Movies"
+    },
+    {
+      "name": "Marilyn Monroe: Hollywood Icon",
+      "url": "https://www.timeout.com/los-angeles/museums/marilyn-monroe-hollywood-icon",
+      "summary": "An exhibition at the Academy Museum celebrating Marilyn Monroe's 100th birthday with iconic artifacts from her career.",
+      "published_iso": null,
+      "date_text": "Until Feb 28, 2027",
+      "venue_or_address": "Academy Museum (Miracle Mile)",
+      "source": {
+        "name": "Time Out LA Things to Do",
+        "url": "https://www.timeout.com/los-angeles/things-to-do"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Museums"
+    },
+    {
+      "name": "The Music Center\u2019s Dance DTLA",
+      "url": "https://www.timeout.com/los-angeles/things-to-do/dance-dtla",
+      "summary": "A free outdoor event in Downtown L.A. featuring various music genres and guided dance lessons.",
+      "published_iso": null,
+      "date_text": "Jun 26 - Aug 14, 2026",
+      "venue_or_address": "The Music Center (Downtown)",
+      "source": {
+        "name": "Time Out LA Things to Do",
+        "url": "https://www.timeout.com/los-angeles/things-to-do"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Classes and workshops"
+    },
+    {
+      "name": "Summer Music Series at the Original Farmers Market",
+      "url": "https://www.timeout.com/los-angeles/music/summer-music-at-the-original-farmers-market",
+      "summary": "A series of free, family-friendly outdoor concerts held at the historic Original Farmers Market.",
+      "published_iso": null,
+      "date_text": "Until Sep 3, 2026",
+      "venue_or_address": "Original Farmers Market (Fairfax District)",
+      "source": {
+        "name": "Time Out LA Things to Do",
+        "url": "https://www.timeout.com/los-angeles/things-to-do"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Music"
+    },
+    {
+      "name": "Forest Bathing at the Arboretum",
+      "url": "https://www.timeout.com/los-angeles/things-to-do/flower-super-moon-forest-bathing",
+      "summary": "Guided walks at the Los Angeles County Arboretum based on the Japanese practice of forest bathing.",
+      "published_iso": null,
+      "date_text": "Until Sep 26, 2026",
+      "venue_or_address": "Los Angeles County Arboretum (Arcadia)",
+      "source": {
+        "name": "Time Out LA Things to Do",
+        "url": "https://www.timeout.com/los-angeles/things-to-do"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Walks and tours"
+    },
+    {
+      "name": "The Music Center\u2019s \u00a1DALE! F\u00fatbol Watch Party: Spain v. Uruguay",
+      "url": "https://www.timeout.com/los-angeles/things-to-do/the-music-centers-dale-futbol-watch-party-spain-v-uruguay",
+      "summary": "A public event in Downtown L.A. to watch the soccer match between Spain and Uruguay.",
+      "published_iso": null,
+      "date_text": "Jun 26, 2026",
+      "venue_or_address": "Downtown L.A.",
+      "source": {
+        "name": "Time Out LA Things to Do",
+        "url": "https://www.timeout.com/los-angeles/things-to-do"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Sport events"
+    },
+    {
+      "name": "Inventing America: The Comic Book Revolution",
+      "url": "https://www.timeout.com/los-angeles/things-to-do/inventing-america-the-comic-book-revolution",
+      "summary": "An exhibition at the Skirball Cultural Center exploring the cultural impact and history of comic books in America.",
+      "published_iso": null,
+      "date_text": "Until Feb 28, 2027",
+      "venue_or_address": "Skirball Cultural Center (Westside)",
+      "source": {
+        "name": "Time Out LA Things to Do",
+        "url": "https://www.timeout.com/los-angeles/things-to-do"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Exhibitions"
+    },
+    {
+      "name": "The Queer Mercado",
+      "url": "https://www.timeout.com/los-angeles/things-to-do/the-queer-mercado",
+      "summary": "A marketplace dedicated to queer Latino creators and vendors at the birthplace of Los Angeles.",
+      "published_iso": null,
+      "date_text": "Until Aug 15, 2026",
+      "venue_or_address": "Downtown",
+      "source": {
+        "name": "Time Out LA Things to Do",
+        "url": "https://www.timeout.com/los-angeles/things-to-do"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Markets and fairs"
+    },
+    {
+      "name": "Declarations of Independence",
+      "url": "https://www.timeout.com/los-angeles/lgbtq/declarations-of-independence",
+      "summary": "A Pride Month concert series from the Gay Men\u2019s Chorus of Los Angeles.",
+      "published_iso": null,
+      "date_text": "Jun 27 - Jun 28, 2026",
+      "venue_or_address": "Beverly Hills",
+      "source": {
+        "name": "Time Out LA Things to Do",
+        "url": "https://www.timeout.com/los-angeles/things-to-do"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "LGBTQ+"
+    },
+    {
+      "name": "Beach Movie Nights",
+      "url": "https://www.timeout.com/los-angeles/movies/beach-movie-nights",
+      "summary": "Free movie screenings on the sand at Dockweiler Beach.",
+      "published_iso": null,
+      "date_text": "Until Aug 28, 2026",
+      "venue_or_address": "Dockweiler Youth Center (Playa del Rey)",
+      "source": {
+        "name": "Time Out LA Things to Do",
+        "url": "https://www.timeout.com/los-angeles/things-to-do"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Movies"
+    },
+    {
+      "name": "Experience Play at Union Station",
+      "url": "https://www.discoverlosangeles.com/event/2026/05/09/experience-play-at-union-station",
+      "summary": "An immersive experience called Play hosted at the historic Los Angeles Union Station. It offers an engaging environment for visitors to explore and enjoy during the summer months.",
+      "published_iso": null,
+      "date_text": "June 30, 2026, 4:00 AM",
+      "venue_or_address": "Los Angeles Union Station",
+      "source": {
+        "name": "Discover Los Angeles Events",
+        "url": "https://www.discoverlosangeles.com/events"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Arts & Culture"
+    },
+    {
+      "name": "Grand Central Market-Downtown Los Angeles-FIFA Store-Merchandise",
+      "url": "https://www.discoverlosangeles.com/event/2026/06/12/grand-central-market-downtown-los-angeles-fifa-store-merchandise",
+      "summary": "Official FIFA World Cup 2026 merchandise available at the Grand Central Market in Downtown Los Angeles. Fans can purchase official gear and memorabilia at this central location.",
+      "published_iso": null,
+      "date_text": "June 30, 2026, 8:00 AM",
+      "venue_or_address": "Grand Central Market",
+      "source": {
+        "name": "Discover Los Angeles Events",
+        "url": "https://www.discoverlosangeles.com/events"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Merchandise"
+    },
+    {
+      "name": "Bitter Root Pottery Aqueous",
+      "url": "https://www.discoverlosangeles.com/event/2026/06/11/bitter-root-pottery-aqueous",
+      "summary": "An aqueous-themed pottery event or exhibit held at Bitter Root Pottery. Participants can view or engage with ceramic works inspired by water and fluid forms.",
+      "published_iso": null,
+      "date_text": "June 30, 2026, 9:00 AM",
+      "venue_or_address": "Bitter Root Pottery",
+      "source": {
+        "name": "Discover Los Angeles Events",
+        "url": "https://www.discoverlosangeles.com/events"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Arts & Culture"
+    },
+    {
+      "name": "VISIT THE IN-PROCESS PALISADES FIRE MEMORIAL AND HEAR THE STORIES OF THE STONEHENGE BY THE SEA",
+      "url": "https://www.discoverlosangeles.com/event/2026/05/01/visit-the-in-process-palisades-fire-memorial-and-hear-the-stories-of-the-",
+      "summary": "A guided tour of the in-progress Palisades Fire Memorial featuring stories of the Stonehenge by the Sea. The memorial commemorates local history and significant fire events.",
+      "published_iso": null,
+      "date_text": "June 30, 2026, 10:00 AM",
+      "venue_or_address": "Pacific Palisades",
+      "source": {
+        "name": "Discover Los Angeles Events",
+        "url": "https://www.discoverlosangeles.com/events"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Cultural Heritage"
+    },
+    {
+      "name": "60out Escape Rooms - Koreatown",
+      "url": "https://www.discoverlosangeles.com/event/2026/06/01/60out-escape-rooms-koreatown",
+      "summary": "Immersive escape room experiences located in the Koreatown district of Los Angeles. Groups can challenge themselves with various themed puzzles and interactive storylines.",
+      "published_iso": null,
+      "date_text": "June 30, 2026, 10:00 AM",
+      "venue_or_address": "60out Escape Rooms - Koreatown",
+      "source": {
+        "name": "Discover Los Angeles Events",
+        "url": "https://www.discoverlosangeles.com/events"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Music & Entertainment"
+    },
+    {
+      "name": "Play Fan v Fan Soccer matches. Represent your nation.",
+      "url": "https://www.discoverlosangeles.com/event/2026/06/11/play-fan-v-fan-soccer-matches-represent-your-nation",
+      "summary": "Fans can participate in soccer matches representing their nations at SoFive SouthGate. This event fosters community spirit and friendly competition among international football enthusiasts.",
+      "published_iso": null,
+      "date_text": "June 30, 2026, 10:00 AM",
+      "venue_or_address": "SoFive SouthGate",
+      "source": {
+        "name": "Discover Los Angeles Events",
+        "url": "https://www.discoverlosangeles.com/events"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Arts & Culture"
+    },
+    {
+      "name": "Santa Monica-FIFA Store- Merchandise",
+      "url": "https://www.discoverlosangeles.com/event/2026/05/23/santa-monica-fifa-store-merchandise",
+      "summary": "Official FIFA World Cup 2026 merchandise store located at the 3rd Street Promenade in Santa Monica. It offers a variety of products for fans to commemorate the global tournament.",
+      "published_iso": null,
+      "date_text": "June 30, 2026, 10:00 AM",
+      "venue_or_address": "3rd Street Promenade",
+      "source": {
+        "name": "Discover Los Angeles Events",
+        "url": "https://www.discoverlosangeles.com/events"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Merchandise"
+    },
+    {
+      "name": "Manhattan Beach-FIFA Store-Merchandise",
+      "url": "https://www.discoverlosangeles.com/event/2026/05/30/manhattan-beach-fifa-store-merchandise",
+      "summary": "Official FIFA World Cup 2026 merchandise available at Manhattan Village in Manhattan Beach. This location provides access to exclusive tournament gear and apparel.",
+      "published_iso": null,
+      "date_text": "June 30, 2026, 10:00 AM",
+      "venue_or_address": "Manhattan Village",
+      "source": {
+        "name": "Discover Los Angeles Events",
+        "url": "https://www.discoverlosangeles.com/events"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Merchandise"
+    },
+    {
+      "name": "Hollywood-FIFA Store-Merchandise",
+      "url": "https://www.discoverlosangeles.com/event/2026/06/09/hollywood-fifa-store-merchandise",
+      "summary": "Official FIFA World Cup 2026 merchandise available at Ovation Hollywood in the heart of Hollywood. Fans can browse and buy tournament-themed clothing and accessories.",
+      "published_iso": null,
+      "date_text": "June 30, 2026, 10:00 AM",
+      "venue_or_address": "Ovation Hollywood",
+      "source": {
+        "name": "Discover Los Angeles Events",
+        "url": "https://www.discoverlosangeles.com/events"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Merchandise"
+    },
+    {
+      "name": "Century City Westfield",
+      "url": "https://www.discoverlosangeles.com/event/2026/06/15/century-city-westfield",
+      "summary": "Community viewing parties for World Cup matches and events at Westfield Century City. The mall provides a vibrant atmosphere for fans to watch games together on large screens.",
+      "published_iso": null,
+      "date_text": "June 30, 2026, 12:00 PM",
+      "venue_or_address": "Holiday Market at Century City Mall",
+      "source": {
+        "name": "Discover Los Angeles Events",
+        "url": "https://www.discoverlosangeles.com/events"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Community Viewing Parties"
+    },
+    {
+      "name": "GAME ON! Science, Sports & Play",
+      "url": "https://www.discoverlosangeles.com/event/2026/01/15/game-on-science-sports-play",
+      "summary": "An exhibit exploring the science behind sports and play at the California Science Center. It features interactive displays that explain the physics and biology of athletic performance.",
+      "published_iso": null,
+      "date_text": "July 1, 2026, 10:00 AM",
+      "venue_or_address": "California Science Center",
+      "source": {
+        "name": "Discover Los Angeles Events",
+        "url": "https://www.discoverlosangeles.com/events"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Arts & Culture"
+    },
+    {
+      "name": "Downtown Los Angeles-FIFA Store-Merchandise",
+      "url": "https://www.discoverlosangeles.com/event/2026/06/08/downtown-los-angeles-fifa-store-merchandise",
+      "summary": "Official FIFA World Cup 2026 merchandise available at The Bloc in Downtown Los Angeles. This retail destination hosts a dedicated store for all tournament-related merchandise.",
+      "published_iso": null,
+      "date_text": "July 1, 2026, 11:00 AM",
+      "venue_or_address": "The Bloc",
+      "source": {
+        "name": "Discover Los Angeles Events",
+        "url": "https://www.discoverlosangeles.com/events"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Merchandise"
+    },
+    {
+      "name": "Los Angeles World Cup 26 Fan Zone at Hansen Dam Lake",
+      "url": "https://www.discoverlosangeles.com/event/2026/07/02/los-angeles-world-cup-26-fan-zone-at-hansen-dam-lake",
+      "summary": "An official fan zone for the FIFA World Cup 2026 located at Hansen Dam Lake. It features public viewings of matches, entertainment, and family-friendly activities.",
+      "published_iso": null,
+      "date_text": "July 2, 2026, 10:00 AM",
+      "venue_or_address": "Hansen Dam",
+      "source": {
+        "name": "Discover Los Angeles Events",
+        "url": "https://www.discoverlosangeles.com/events"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Official Fan Zones"
+    },
+    {
+      "name": "Round of 32 \u2013 Group 1H vs 2J",
+      "url": "https://www.discoverlosangeles.com/event/2026/07/02/round-of-32-%E2%80%93-group-1h-vs-2j",
+      "summary": "A FIFA World Cup 2026 Round of 32 match between the winner of Group H and the runner-up of Group J. The game takes place at the Los Angeles Stadium.",
+      "published_iso": null,
+      "date_text": "July 2, 2026, 12:00 PM",
+      "venue_or_address": "Los Angeles Stadium",
+      "source": {
+        "name": "Discover Los Angeles Events",
+        "url": "https://www.discoverlosangeles.com/events"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "World Cup Matches"
+    },
+    {
+      "name": "Soccer Celebration - LA Galaxy",
+      "url": "https://www.discoverlosangeles.com/event/2026/07/04/soccer-celebration-la-galaxy",
+      "summary": "A community soccer celebration hosted by the LA Galaxy at Dignity Health Sports Park. The event includes fan activities, viewing parties, and celebrations of local soccer culture.",
+      "published_iso": null,
+      "date_text": "July 4, 2026, 9:00 AM",
+      "venue_or_address": "Dignity Health Sports Park",
+      "source": {
+        "name": "Discover Los Angeles Events",
+        "url": "https://www.discoverlosangeles.com/events"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Community Viewing Parties"
     }
   ]
 }

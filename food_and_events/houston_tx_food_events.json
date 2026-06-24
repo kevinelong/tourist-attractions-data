@@ -1,22 +1,26 @@
 {
   "title": "Houston \u2014 Restaurant Openings & Events",
-  "generated": "2026-06-24T02:02:28Z",
+  "generated": "2026-06-24T06:46:36Z",
   "city": "Houston",
   "tier": "in_between_mega",
   "population_m": 7.51,
-  "extraction_method": "rss_first_with_deterministic_classifier_v1",
+  "extraction_method": "rss_first_with_deterministic_classifier_v1 + browser_v1_augment",
   "totals": {
-    "restaurant_openings": 0,
-    "events_calendar": 7
+    "restaurant_openings": 41,
+    "events_calendar": 15
   },
   "sources_used": {
     "restaurant_openings": [
       "Eater Houston",
-      "Houston Press \u2014 Restaurants"
+      "Eater Houston Heatmap",
+      "Houston Chronicle Food",
+      "Houston Press \u2014 Restaurants",
+      "The Infatuation Houston New Restaurants"
     ],
     "events_calendar": [
       "365 Things to Do in Houston",
-      "Houston Press \u2014 Events"
+      "Houston Press \u2014 Events",
+      "Time Out Houston Things to Do"
     ]
   },
   "sources_failed": [],
@@ -26,7 +30,664 @@
       "Visit Houston \u2014 Events"
     ]
   },
-  "restaurant_openings": [],
+  "restaurant_openings": [
+    {
+      "name": "Alturas Mexican Cafe",
+      "url": "https://www.alturasmexcafe.com/",
+      "summary": "A casual, family-owned restaurant in the Heights serving traditional Mexican dishes based on family recipes.",
+      "published_iso": null,
+      "date_text": "June 2, 2026",
+      "venue_or_address": "2409 Airline Dr # The, Houston, TX, 77009",
+      "source": {
+        "name": "Eater Houston Heatmap",
+        "url": "https://houston.eater.com/maps/houston-texas-best-new-restaurants"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Mexican"
+      ]
+    },
+    {
+      "name": "Hypsi",
+      "url": "https://www.hypsirestaurant.com/",
+      "summary": "Located in the luxury Heights Hotel Daphne, Hypsi hosts both travelers and locals with a menu from Chef Terrence.",
+      "published_iso": null,
+      "date_text": "June 2, 2026",
+      "venue_or_address": "347 West 20th Street, Houston, Texas 77008",
+      "source": {
+        "name": "Eater Houston Heatmap",
+        "url": "https://houston.eater.com/maps/houston-texas-best-new-restaurants"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Modern American"
+      ]
+    },
+    {
+      "name": "Long Weekend",
+      "url": "https://longweekendtx.com/",
+      "summary": "Fans of the TV series Yellowstone will feel right at home at this Western-inspired spot in the Lazybrook/Timbergrove neighborhood.",
+      "published_iso": null,
+      "date_text": "June 2, 2026",
+      "venue_or_address": "2044 East T C Jester Boulevard, Houston, Texas 77008",
+      "source": {
+        "name": "Eater Houston Heatmap",
+        "url": "https://houston.eater.com/maps/houston-texas-best-new-restaurants"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Western Inspired"
+      ]
+    },
+    {
+      "name": "Star Rover",
+      "url": "https://www.starroverhtx.com/",
+      "summary": "A throwback steakhouse offering approachable dinners where diners choose their cut of beef and choice of sides.",
+      "published_iso": null,
+      "date_text": "June 2, 2026",
+      "venue_or_address": "1801 North Shepherd Drive, Houston, Texas 77008",
+      "source": {
+        "name": "Eater Houston Heatmap",
+        "url": "https://houston.eater.com/maps/houston-texas-best-new-restaurants"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Steakhouse"
+      ]
+    },
+    {
+      "name": "The Green Room",
+      "url": "https://www.thegreenroomhouston.com/",
+      "summary": "A 26-seat restaurant in the Heights featuring dishes from James Beard Award-winning chef Tom Cunanan and Daniel Davidson.",
+      "published_iso": null,
+      "date_text": "June 2, 2026",
+      "venue_or_address": "1343 Yale Street, Houston, Texas 77008",
+      "source": {
+        "name": "Eater Houston Heatmap",
+        "url": "https://houston.eater.com/maps/houston-texas-best-new-restaurants"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Modern American"
+      ]
+    },
+    {
+      "name": "Exilio Latin Flair",
+      "url": "https://www.exiliolatinflair.com/",
+      "summary": "The latest addition to the Harlow District transports diners to Spain and Latin America through a diverse mix of flavors.",
+      "published_iso": null,
+      "date_text": "June 2, 2026",
+      "venue_or_address": "2817 West Dallas Street, BLDG C, Houston, Texas 77019",
+      "source": {
+        "name": "Eater Houston Heatmap",
+        "url": "https://houston.eater.com/maps/houston-texas-best-new-restaurants"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Latin American"
+      ]
+    },
+    {
+      "name": "Zaranda",
+      "url": "https://www.zarandahouston.com/",
+      "summary": "Created by James Beard Award-winner Hugo Ortega, Zaranda offers traditional Mexican flavors in a refined setting.",
+      "published_iso": null,
+      "date_text": "June 2, 2026",
+      "venue_or_address": "1550 Lamar St, Houston, TX, 77010",
+      "source": {
+        "name": "Eater Houston Heatmap",
+        "url": "https://houston.eater.com/maps/houston-texas-best-new-restaurants"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Mexican"
+      ]
+    },
+    {
+      "name": "Jantra",
+      "url": "https://www.jantra.net/",
+      "summary": "Chef Benchawon Jabthong Painter has expanded her culinary reach with this new Thai concept.",
+      "published_iso": null,
+      "date_text": "June 2, 2026",
+      "venue_or_address": "3401 Harrisburg Boulevard, STE g-1, Houston, Texas 77003",
+      "source": {
+        "name": "Eater Houston Heatmap",
+        "url": "https://houston.eater.com/maps/houston-texas-best-new-restaurants"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Thai"
+      ]
+    },
+    {
+      "name": "1111",
+      "url": "https://1111htx.com/",
+      "summary": "This newest nightlife destination from the team behind Melrose was developed as a Mexico City-style lounge.",
+      "published_iso": null,
+      "date_text": "June 2, 2026",
+      "venue_or_address": "1111 Westheimer Rd, Houston, TX 77006",
+      "source": {
+        "name": "Eater Houston Heatmap",
+        "url": "https://houston.eater.com/maps/houston-texas-best-new-restaurants"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Mexico City Style Lounge"
+      ]
+    },
+    {
+      "name": "Pinkerton\u2019s Barbecue",
+      "url": "https://www.pinkertonsbarbecue.com/",
+      "summary": "The second Houston location of the acclaimed barbecue spot takes over the former 59 Diner space.",
+      "published_iso": null,
+      "date_text": "June 2, 2026",
+      "venue_or_address": "3801 Farnham St, Houston, TX, 77098",
+      "source": {
+        "name": "Eater Houston Heatmap",
+        "url": "https://houston.eater.com/maps/houston-texas-best-new-restaurants"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Barbecue"
+      ]
+    },
+    {
+      "name": "Crawfish Cafe and Pho Prime",
+      "url": "https://www.crawfishcafe.com/houston-alief/",
+      "summary": "This two-for-one concept from Mamba Hospitality Group brings together classic Vietnamese and Cajun flavors.",
+      "published_iso": null,
+      "date_text": "June 2, 2026",
+      "venue_or_address": "11209 Bellaire Blvd, Houston, TX, 77072",
+      "source": {
+        "name": "Eater Houston Heatmap",
+        "url": "https://houston.eater.com/maps/houston-texas-best-new-restaurants"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Vietnamese Cajun"
+      ]
+    },
+    {
+      "name": "Captain Mc\u2019s Seafood",
+      "url": "https://www.theinfatuation.com/houston/reviews/captain-mcs-seafood",
+      "summary": "Local fisherman Captain Fred delivers his catch of the day from his boat directly to this Third Ward restaurant's kitchen. The recipes were developed with help from local chefs, featuring fried crab fingers, battered black drum, and Gulf shrimp po\u2019boys.",
+      "published_iso": null,
+      "date_text": "May 2026",
+      "venue_or_address": "5055 GRIGGS RD, HOUSTON, TX 77021",
+      "source": {
+        "name": "The Infatuation Houston New Restaurants",
+        "url": "https://www.theinfatuation.com/houston/guides/houston-new-restaurant-openings"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Seafood"
+      ]
+    },
+    {
+      "name": "Jantra",
+      "url": "https://www.theinfatuation.com/houston/reviews/jantra",
+      "summary": "From the team behind Street To Kitchen, this new tasting counter offers just one seating a night. The $175 multi-course menu moves beyond Thai food to feature global ingredients like Japanese A5 wagyu and Texas okra.",
+      "published_iso": null,
+      "date_text": "May 2026",
+      "venue_or_address": "3401 HARRISBURG BLVD SUITE G-1, HOUSTON, TX 77003",
+      "source": {
+        "name": "The Infatuation Houston New Restaurants",
+        "url": "https://www.theinfatuation.com/houston/guides/houston-new-restaurant-openings"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Fusion"
+      ]
+    },
+    {
+      "name": "La Rosa",
+      "url": "https://www.theinfatuation.com/houston/reviews/la-rosa",
+      "summary": "This Florence-style sandwich shop in the Tlaquepaque Market offers a limited menu of three sandwiches, including mortadella with pistachio pesto. The sandwiches are known to sell out quickly after doors open at noon.",
+      "published_iso": null,
+      "date_text": "May 2026",
+      "venue_or_address": "724 TELEPHONE RD, HOUSTON, TX 77023",
+      "source": {
+        "name": "The Infatuation Houston New Restaurants",
+        "url": "https://www.theinfatuation.com/houston/guides/houston-new-restaurant-openings"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Sandwiches"
+      ]
+    },
+    {
+      "name": "1111",
+      "url": "https://www.theinfatuation.com/houston/reviews/1111",
+      "summary": "1111 is an upscale cocktail lounge and restaurant inspired by Mexico City. The food menu features Gulf prawn empanadas and whole charcoal-grilled seabass, while the bar serves masa old fashioneds.",
+      "published_iso": null,
+      "date_text": "May 2026",
+      "venue_or_address": "1111 MONTROSE BLVD, HOUSTON, TX 77019",
+      "source": {
+        "name": "The Infatuation Houston New Restaurants",
+        "url": "https://www.theinfatuation.com/houston/guides/houston-new-restaurant-openings"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Bar"
+      ]
+    },
+    {
+      "name": "Kirkwood",
+      "url": "https://www.theinfatuation.com/houston/reviews/kirkwood",
+      "summary": "Located in the Energy Corridor, this restaurant serves American classics like steaks and seafood. Highlights include caviar service and tableside carved chateaubriand, set under a unique Astrodome-inspired ceiling installation.",
+      "published_iso": null,
+      "date_text": "May 2026",
+      "venue_or_address": "11720 KATY FWY SUITE 140, HOUSTON, TX 77079",
+      "source": {
+        "name": "The Infatuation Houston New Restaurants",
+        "url": "https://www.theinfatuation.com/houston/guides/houston-new-restaurant-openings"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "American"
+      ]
+    },
+    {
+      "name": "Killer Burger",
+      "url": "https://www.theinfatuation.com/houston/reviews/killer-burger",
+      "summary": "This Portland-based burger spot has opened its first Houston location in the Arts District. It is famous for the Peanut Butter Pickle Bacon Burger and offers various house-made sauces like habanero bomb sauce.",
+      "published_iso": null,
+      "date_text": "May 2026",
+      "venue_or_address": "1909 TAYLOR ST SUITE A, HOUSTON, TX 77007",
+      "source": {
+        "name": "The Infatuation Houston New Restaurants",
+        "url": "https://www.theinfatuation.com/houston/guides/houston-new-restaurant-openings"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Burgers"
+      ]
+    },
+    {
+      "name": "Anthony's New York Italian",
+      "url": "https://www.theinfatuation.com/houston/reviews/anthonys-new-york-italian",
+      "summary": "An offshoot of the Russo\u2019s pizza chain, this River Oaks spot is a red sauce Italian steakhouse. It combines traditional Italian favorites with a steakhouse atmosphere.",
+      "published_iso": null,
+      "date_text": "May 2026",
+      "venue_or_address": "3748 WESTHEIMER RD SUITE 100, HOUSTON, TX 77027",
+      "source": {
+        "name": "The Infatuation Houston New Restaurants",
+        "url": "https://www.theinfatuation.com/houston/guides/houston-new-restaurant-openings"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Italian"
+      ]
+    },
+    {
+      "name": "Atlantic Ocean",
+      "url": "https://www.theinfatuation.com/houston/reviews/atlantic-ocean",
+      "summary": "A coastal restaurant on Washington Ave from an Atlanta-based chef. The menu is seafood-heavy with Southern influences, taking over the former Passerella space.",
+      "published_iso": null,
+      "date_text": "April 2026",
+      "venue_or_address": "6011 WASHINGTON AVE, HOUSTON, TEXAS 77007",
+      "source": {
+        "name": "The Infatuation Houston New Restaurants",
+        "url": "https://www.theinfatuation.com/houston/guides/houston-new-restaurant-openings"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Seafood"
+      ]
+    },
+    {
+      "name": "Exilio Latin Flair",
+      "url": "https://www.theinfatuation.com/houston/reviews/exilio-latin-flair",
+      "summary": "Located in Montrose\u2019s Harlow District, Exilio offers a menu with Latin and Spanish influences. It joins the neighborhood as a new destination for diverse regional flavors.",
+      "published_iso": null,
+      "date_text": "April 2026",
+      "venue_or_address": "2817 W DALLAS ST, HOUSTON, TEXAS 77019",
+      "source": {
+        "name": "The Infatuation Houston New Restaurants",
+        "url": "https://www.theinfatuation.com/houston/guides/houston-new-restaurant-openings"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Latin"
+      ]
+    },
+    {
+      "name": "Osteria Di Mercato",
+      "url": "https://www.theinfatuation.com/houston/reviews/osteria-di-mercato",
+      "summary": "This 30-seat Italian restaurant in West University is a dinner-only extension of the Mercato and Company market. It offers a cozy atmosphere for Italian dining and wine.",
+      "published_iso": null,
+      "date_text": "April 2026",
+      "venue_or_address": "3642 UNIVERSITY BLVD, WEST UNIVERSITY PLACE, TEXAS 77005",
+      "source": {
+        "name": "The Infatuation Houston New Restaurants",
+        "url": "https://www.theinfatuation.com/houston/guides/houston-new-restaurant-openings"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Italian"
+      ]
+    },
+    {
+      "name": "Truffle & Rye",
+      "url": "https://www.theinfatuation.com/houston/reviews/truffle-and-rye",
+      "summary": "A new cafe and market in Richmond featuring sourdough banana bread and ricotta-fig toast. It offers a local spot for fresh baked goods and specialized market items.",
+      "published_iso": null,
+      "date_text": "April 2026",
+      "venue_or_address": "107 S THIRD ST, RICHMOND, TEXAS 77469",
+      "source": {
+        "name": "The Infatuation Houston New Restaurants",
+        "url": "https://www.theinfatuation.com/houston/guides/houston-new-restaurant-openings"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Bakery/Cafe"
+      ]
+    },
+    {
+      "name": "Birdies Icehouse",
+      "url": "https://www.theinfatuation.com/houston/reviews/birdies-icehouse",
+      "summary": "This casual icehouse in the East End features an indoor-outdoor setup at East River 9. It provides a relaxed environment for drinks and bar food with views of the Houston skyline.",
+      "published_iso": null,
+      "date_text": "March 2026",
+      "venue_or_address": "65 HIRSCH RD, HOUSTON, TEXAS 77020",
+      "source": {
+        "name": "The Infatuation Houston New Restaurants",
+        "url": "https://www.theinfatuation.com/houston/guides/houston-new-restaurant-openings"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Bar Food"
+      ]
+    },
+    {
+      "name": "The Green Room",
+      "url": "https://www.theinfatuation.com/houston/reviews/the-green-room-heights",
+      "summary": "A 26-seat enclosed porch in The Heights offering a quieter, more focused dining experience. The menu changes frequently, focusing on seasonal European-inspired dishes.",
+      "published_iso": null,
+      "date_text": "March 2026",
+      "venue_or_address": "1343 YALE ST, HOUSTON, TEXAS 77008",
+      "source": {
+        "name": "The Infatuation Houston New Restaurants",
+        "url": "https://www.theinfatuation.com/houston/guides/houston-new-restaurant-openings"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "European"
+      ]
+    },
+    {
+      "name": "Toga",
+      "url": "https://www.theinfatuation.com/houston/reviews/toga",
+      "summary": "A new izakaya in the River Oaks District specializing in yakitori. The restaurant focuses on binchotan-grilled skewers and traditional Japanese small plates.",
+      "published_iso": null,
+      "date_text": "March 2026",
+      "venue_or_address": "2800 KIRBY DR, HOUSTON, TEXAS 77098",
+      "source": {
+        "name": "The Infatuation Houston New Restaurants",
+        "url": "https://www.theinfatuation.com/houston/guides/houston-new-restaurant-openings"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Japanese"
+      ]
+    },
+    {
+      "name": "Yuma",
+      "url": "https://www.theinfatuation.com/houston/reviews/yuma",
+      "summary": "Starting as a popular pop-up, Yuma has moved into a permanent space on Washington Ave. The menu specializes in Cuban and Brazilian sandwiches made on fresh-baked bread.",
+      "published_iso": null,
+      "date_text": "March 2026",
+      "venue_or_address": "4219 WASHINGTON AVE, HOUSTON, TEXAS 77007",
+      "source": {
+        "name": "The Infatuation Houston New Restaurants",
+        "url": "https://www.theinfatuation.com/houston/guides/houston-new-restaurant-openings"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Brazilian"
+      ]
+    },
+    {
+      "name": "Aga's",
+      "url": "https://www.houstonchronicle.com/food-restaurants/article/agas-katy-open-monday-22281060.php",
+      "summary": "Aga's, the Indian-Pakistani restaurant that ranked No. 1 on the Houston Chronicle\u2019s Top 100 restaurants list, will open its second location in Katy on June 24. This marks the halal restaurant's first new restaurant since it opened in 2001.",
+      "published_iso": null,
+      "date_text": "June 17, 2026",
+      "venue_or_address": "102 W. Grand Parkway S., Suite 100, Katy",
+      "source": {
+        "name": "Houston Chronicle Food",
+        "url": "https://www.houstonchronicle.com/food-restaurants/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Indian Pakistani"
+      ]
+    },
+    {
+      "name": "Yuma",
+      "url": "https://www.houstonchronicle.com/food-restaurants/article/yuma-houston-sandwich-opens-22298241.php",
+      "summary": "Yuma opens Friday on Washington Avenue, bringing Houston Cuban and Brazilian sandwiches from its popup, plus a Latin-forward bar. The restaurant is located in the former Ninja Ramen space.",
+      "published_iso": null,
+      "date_text": "June 23, 2026",
+      "venue_or_address": "4219 Washington Ave, Houston",
+      "source": {
+        "name": "Houston Chronicle Food",
+        "url": "https://www.houstonchronicle.com/food-restaurants/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Cuban Brazilian Sandwiches"
+      ]
+    },
+    {
+      "name": "Jantra",
+      "url": "https://www.houstonchronicle.com/food-restaurants/reviews/article/jantra-houston-restaurant-opening-22234986.php",
+      "summary": "Jantra is the latest project from chef Benchawan Jabthong Painter and husband Graham Painter, the team behind Street to Kitchen. It is an 8-seat tasting counter concept connected to Street to Kitchen in the East End.",
+      "published_iso": null,
+      "date_text": "2026",
+      "venue_or_address": "East End, Houston",
+      "source": {
+        "name": "Houston Chronicle Food",
+        "url": "https://www.houstonchronicle.com/food-restaurants/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Thai Tasting Counter"
+      ]
+    },
+    {
+      "name": "Oru",
+      "url": "https://www.houstonchronicle.com/food-restaurants/reviews/article/oru-japanese-restaurant-review-22229250.php",
+      "summary": "A design-forward Japanese restaurant in the Heights neighborhood from the team behind Neo and Kira, where minimalism and whimsy meet.",
+      "published_iso": null,
+      "date_text": "2026",
+      "venue_or_address": "The Heights, Houston",
+      "source": {
+        "name": "Houston Chronicle Food",
+        "url": "https://www.houstonchronicle.com/food-restaurants/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Japanese"
+      ]
+    },
+    {
+      "name": "Zaranda",
+      "url": "https://www.houstonchronicle.com/food-restaurants/reviews/article/zaranda-restaurant-review-22092332.php",
+      "summary": "Hugo Ortega\u2019s new Zaranda in downtown Houston spotlights grilled seafood and a showstopping tableside Caesar salad.",
+      "published_iso": null,
+      "date_text": "2026",
+      "venue_or_address": "Downtown Houston",
+      "source": {
+        "name": "Houston Chronicle Food",
+        "url": "https://www.houstonchronicle.com/food-restaurants/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Seafood"
+      ]
+    },
+    {
+      "name": "Hypsi",
+      "url": "https://www.houstonchronicle.com/food-restaurants/reviews/article/hypsi-restaurant-review-22092324.php",
+      "summary": "Located inside the stylish Hotel Daphne, chef Terrence Gallivan offers an Italian menu with imaginative dishes.",
+      "published_iso": null,
+      "date_text": "2026",
+      "venue_or_address": "Hotel Daphne, Houston",
+      "source": {
+        "name": "Houston Chronicle Food",
+        "url": "https://www.houstonchronicle.com/food-restaurants/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Italian"
+      ]
+    },
+    {
+      "name": "Annam",
+      "url": "https://www.houstonchronicle.com/food-restaurants/reviews/article/annam-restaurant-review-21295357.php",
+      "summary": "Annam, a restaurant from the MF Sushi team, explores fine-dining Vietnamese food in Houston\u2019s Autry Park.",
+      "published_iso": null,
+      "date_text": "2026",
+      "venue_or_address": "Autry Park, Houston",
+      "source": {
+        "name": "Houston Chronicle Food",
+        "url": "https://www.houstonchronicle.com/food-restaurants/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Vietnamese"
+      ]
+    },
+    {
+      "name": "Late August",
+      "url": "https://www.houstonchronicle.com/food-restaurants/reviews/article/late-august-restaurant-review-21915778.php",
+      "summary": "Chef-owner Chris Williams makes the Ion, once the home of a Sears, a restaurant destination with an Afro-Mexican menu.",
+      "published_iso": null,
+      "date_text": "2026",
+      "venue_or_address": "Historic Midtown, Houston",
+      "source": {
+        "name": "Houston Chronicle Food",
+        "url": "https://www.houstonchronicle.com/food-restaurants/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Afro Mexican"
+      ]
+    },
+    {
+      "name": "Latuli",
+      "url": "https://www.houstonchronicle.com/food-restaurants/reviews/article/latuli-restaurant-review-21916499.php",
+      "summary": "Bryan Caswell returns to the Houston dining scene with Latuli in Memorial, serving seafood, pizza and other hits from his past.",
+      "published_iso": null,
+      "date_text": "2026",
+      "venue_or_address": "Memorial, Houston",
+      "source": {
+        "name": "Houston Chronicle Food",
+        "url": "https://www.houstonchronicle.com/food-restaurants/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Seafood Pizza"
+      ]
+    },
+    {
+      "name": "Jane & the Lion Bakehouse",
+      "url": "https://www.houstonchronicle.com/food-restaurants/reviews/article/jane-lion-bakehouse-restaurant-review-22257088.php",
+      "summary": "Chef Jane Wild\u2019s bakery reflects a devotion to community and craft, offering everything from savory hand pies to dramatic cream-topped pies.",
+      "published_iso": null,
+      "date_text": "2026",
+      "venue_or_address": "Houston",
+      "source": {
+        "name": "Houston Chronicle Food",
+        "url": "https://www.houstonchronicle.com/food-restaurants/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Bakery"
+      ]
+    },
+    {
+      "name": "Kandahari",
+      "url": "https://www.houstonchronicle.com/food-restaurants/reviews/article/kandahari-afghan-restaurant-review-22285977.php",
+      "summary": "An Afghan restaurant in Houston's Hillcroft area where Afghan cooking shines through flavorful kabobs, pulao and tandoori bread.",
+      "published_iso": null,
+      "date_text": "2026",
+      "venue_or_address": "Hillcroft area, Houston",
+      "source": {
+        "name": "Houston Chronicle Food",
+        "url": "https://www.houstonchronicle.com/food-restaurants/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Afghan"
+      ]
+    },
+    {
+      "name": "Grace's Cafe",
+      "url": "https://www.houstonchronicle.com/food-restaurants/reviews/article/graces-cafe-jamaican-restaurant-review-22229249.php",
+      "summary": "Chef-owner Grace Grant cooks up slow-braised oxtails, smoky jerk chicken and other Jamaican classics in Missouri City.",
+      "published_iso": null,
+      "date_text": "2026",
+      "venue_or_address": "Missouri City",
+      "source": {
+        "name": "Houston Chronicle Food",
+        "url": "https://www.houstonchronicle.com/food-restaurants/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Jamaican"
+      ]
+    },
+    {
+      "name": "Yiayia's Greek Kitchen",
+      "url": "https://www.houstonchronicle.com/food-restaurants/reviews/article/yiayias-restaurant-review-22092352.php",
+      "summary": "A Pappas family restaurant in Houston that serves Greek classics with upscale flair, earning a rare four-star review.",
+      "published_iso": null,
+      "date_text": "2026",
+      "venue_or_address": "Houston",
+      "source": {
+        "name": "Houston Chronicle Food",
+        "url": "https://www.houstonchronicle.com/food-restaurants/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Greek"
+      ]
+    },
+    {
+      "name": "Charm Taphouse & BBQ",
+      "url": "https://www.houstonchronicle.com/food-restaurants/reviews/article/charm-taphouse-bbq-restaurant-review-22229251.php",
+      "summary": "A Conroe restaurant where smoky meats and Thai curries share the menu with surprising ease.",
+      "published_iso": null,
+      "date_text": "2026",
+      "venue_or_address": "Conroe",
+      "source": {
+        "name": "Houston Chronicle Food",
+        "url": "https://www.houstonchronicle.com/food-restaurants/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Thai Barbecue"
+      ]
+    },
+    {
+      "name": "Burmalicious",
+      "url": "https://www.houstonchronicle.com/food-restaurants/reviews/article/burmalicious-burmese-restaurant-review-22212842.php",
+      "summary": "Suu Khin, a former 'MasterChef' finalist, shares Burmese culture through her Burmese popup restaurant.",
+      "published_iso": null,
+      "date_text": "2026",
+      "venue_or_address": "Houston",
+      "source": {
+        "name": "Houston Chronicle Food",
+        "url": "https://www.houstonchronicle.com/food-restaurants/"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "categories": [
+        "Burmese"
+      ]
+    }
+  ],
   "events_calendar": [
     {
       "name": "Spamilton Roasts Hamilton in a Funny But Loving Way at Stages",
@@ -111,6 +772,118 @@
         "name": "365 Things to Do in Houston",
         "url": "https://365thingsinhouston.com"
       }
+    },
+    {
+      "name": "Cabo Verde vs. Saudi Arabia (FIFA World Cup)",
+      "url": "https://www.timeout.com/usa/things-to-do/fifa-world-cup-2026-houston-guide",
+      "summary": "This Group H match of the 2026 FIFA World Cup features Cabo Verde against Saudi Arabia. The game will be played at 7pm at Houston Stadium.",
+      "published_iso": null,
+      "date_text": "June 26, 2026",
+      "venue_or_address": "Houston Stadium (NRG Stadium)",
+      "source": {
+        "name": "Time Out Houston Things to Do",
+        "url": "https://www.timeout.com/houston/things-to-do"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Sports"
+    },
+    {
+      "name": "Overnight Camping at Space Center Houston",
+      "url": "https://www.timeout.com/houston/museums/space-center-houston",
+      "summary": "An opportunity to sleep in a tent under the Falcon 9 rocket at NASA's official visitor center. This immersive experience is a highlight of the June calendar.",
+      "published_iso": null,
+      "date_text": "June 24, 2026",
+      "venue_or_address": "Space Center Houston",
+      "source": {
+        "name": "Time Out Houston Things to Do",
+        "url": "https://www.timeout.com/houston/things-to-do"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Science and Technology"
+    },
+    {
+      "name": "Meow Wolf Houston: Radio Tave",
+      "url": "https://www.timeout.com/houston/attractions/meow-wolf",
+      "summary": "An immersive art experience that transports visitors into a multidimensional radio station. It features work from over 100 artists in a colorful kaleidoscope.",
+      "published_iso": null,
+      "date_text": "Ongoing (June 2026)",
+      "venue_or_address": "2103 Lyons Ave",
+      "source": {
+        "name": "Time Out Houston Things to Do",
+        "url": "https://www.timeout.com/houston/things-to-do"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Art Exhibit"
+    },
+    {
+      "name": "Artechouse Houston Exhibit",
+      "url": "https://www.timeout.com/houston/things-to-do/best-things-to-do-in-houston",
+      "summary": "A 26,000-square-foot digital art space that combines technology and creativity. The venue includes several viewing rooms and a dedicated cocktail bar.",
+      "published_iso": null,
+      "date_text": "Ongoing (June 2026)",
+      "venue_or_address": "600 W 6th St",
+      "source": {
+        "name": "Time Out Houston Things to Do",
+        "url": "https://www.timeout.com/houston/things-to-do"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Art Exhibit"
+    },
+    {
+      "name": "Art Club at POST Houston",
+      "url": "https://www.timeout.com/houston/things-to-do/post-htx",
+      "summary": "A hybrid museum and nightclub located in a transformed mail processing center. The space features large-scale installations and immersive cultural experiences.",
+      "published_iso": null,
+      "date_text": "Ongoing (June 2026)",
+      "venue_or_address": "401 Franklin St",
+      "source": {
+        "name": "Time Out Houston Things to Do",
+        "url": "https://www.timeout.com/houston/things-to-do"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Nightlife and Art"
+    },
+    {
+      "name": "Miller Outdoor Theatre Performances",
+      "url": "https://www.timeout.com/houston/theater/miller-outdoor-theatre",
+      "summary": "Free outdoor performances including theater, dance, and music in the heart of Hermann Park. It remains one of the city's most cherished cultural institutions.",
+      "published_iso": null,
+      "date_text": "Ongoing (June 2026)",
+      "venue_or_address": "6000 Hermann Park Dr",
+      "source": {
+        "name": "Time Out Houston Things to Do",
+        "url": "https://www.timeout.com/houston/things-to-do"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Theater"
+    },
+    {
+      "name": "Candlelight Concerts",
+      "url": "https://www.timeout.com/houston/music/candlelight-concerts",
+      "summary": "Musical performances held in intimate settings across the city, illuminated by thousands of candles. These events offer unique tributes to popular artists.",
+      "published_iso": null,
+      "date_text": "Every Friday",
+      "venue_or_address": "Various venues",
+      "source": {
+        "name": "Time Out Houston Things to Do",
+        "url": "https://www.timeout.com/houston/things-to-do"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Music"
+    },
+    {
+      "name": "Houston Museum Free Days",
+      "url": "https://www.timeout.com/houston/attractions/free-museum-and-zoo-days",
+      "summary": "Several major institutions offer free admission on specific days, including the Museum of Fine Arts and the Museum of Natural Science.",
+      "published_iso": null,
+      "date_text": "Weekly (Tuesdays and Thursdays)",
+      "venue_or_address": "Various museums",
+      "source": {
+        "name": "Time Out Houston Things to Do",
+        "url": "https://www.timeout.com/houston/things-to-do"
+      },
+      "classification_hint": "browser_extracted_v1",
+      "category": "Attractions"
     }
   ]
 }
