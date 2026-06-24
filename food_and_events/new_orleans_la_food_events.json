@@ -1,0 +1,336 @@
+{
+  "title": "New Orleans \u2014 Restaurant Openings & Events",
+  "generated": "2026-06-24T02:02:28Z",
+  "city": "New Orleans",
+  "tier": "in_between_mega",
+  "population_m": 1.27,
+  "extraction_method": "rss_first_with_deterministic_classifier_v1",
+  "totals": {
+    "restaurant_openings": 0,
+    "events_calendar": 25
+  },
+  "sources_used": {
+    "restaurant_openings": [
+      "Eater New Orleans"
+    ],
+    "events_calendar": []
+  },
+  "sources_failed": [
+    {
+      "name": "NOLA.com \u2014 Food",
+      "url": "https://www.nola.com/entertainment_life/eat-drink/",
+      "content_type": "restaurant_openings",
+      "error": "HTTP 429"
+    }
+  ],
+  "raw_html_pages_available": {
+    "restaurant_openings": [],
+    "events_calendar": [
+      "New Orleans CVB \u2014 Events",
+      "Gambit Weekly \u2014 Calendar"
+    ]
+  },
+  "restaurant_openings": [],
+  "events_calendar": [
+    {
+      "name": "ESSENCE Festival of Culture\u00ae Presented By Coca-Cola\u00ae - New Orleans",
+      "url": "https://www.neworleans.com/events/",
+      "summary": "26 ESSENCE Festival of Culture\u00ae Presented By Coca-Cola\u00ae - New Orleans Caesars Superdome Jul 3, 2026 - Jul 5, 2026",
+      "category": "Music",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "New Orleans CVB \u2014 Events",
+        "url": "https://www.neworleans.com/events/"
+      }
+    },
+    {
+      "name": "Caesars Superdome",
+      "url": "https://www.neworleans.com/events/",
+      "summary": "ESSENCE Festival of Culture\u00ae Presented By Coca-Cola\u00ae - New Orleans Caesars Superdome Jul 3, 2026 - Jul 5, 2026 Jul",
+      "category": "Music",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "New Orleans CVB \u2014 Events",
+        "url": "https://www.neworleans.com/events/"
+      }
+    },
+    {
+      "name": "Tipitina's",
+      "url": "https://www.neworleans.com/events/",
+      "summary": "Tipitina's Free Fridays Tipitina's Jun 26, 2026 - Sep 4, 2026 ESSENCE Festival of Culture\u00ae Presented By Coca-Cola\u00ae - New Orleans",
+      "category": "Music",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "New Orleans CVB \u2014 Events",
+        "url": "https://www.neworleans.com/events/"
+      }
+    },
+    {
+      "name": "Jun 26, 2026 - Sep 4, 2026",
+      "url": "https://www.neworleans.com/events/",
+      "summary": "Tipitina's Jun 26, 2026 - Sep 4, 2026 ESSENCE Festival of Culture\u00ae Presented By Coca-Cola\u00ae - New Orleans Caesars Superdome",
+      "category": "Music",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "New Orleans CVB \u2014 Events",
+        "url": "https://www.neworleans.com/events/"
+      }
+    },
+    {
+      "name": "View All Live Music",
+      "url": "https://www.neworleans.com/events/",
+      "summary": "New Orleans Live Music Calendar View All Live Music Jun 23",
+      "category": "Music",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "New Orleans CVB \u2014 Events",
+        "url": "https://www.neworleans.com/events/"
+      }
+    },
+    {
+      "name": "@  9:00pm",
+      "url": "https://calendar.gambitweekly.com",
+      "summary": "Jun 23 @  9:00pm Gasa Gasa Lafreniere Park Farmer's & Art Market",
+      "category": "Art & Exhibits",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Gambit Weekly \u2014 Calendar",
+        "url": "https://calendar.gambitweekly.com"
+      }
+    },
+    {
+      "name": "Gasa Gasa",
+      "url": "https://calendar.gambitweekly.com",
+      "summary": "@  9:00pm Gasa Gasa Lafreniere Park Farmer's & Art Market Jun 24",
+      "category": "Art & Exhibits",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Gambit Weekly \u2014 Calendar",
+        "url": "https://calendar.gambitweekly.com"
+      }
+    },
+    {
+      "name": "Lafreniere Park Farmer's & Art Market",
+      "url": "https://calendar.gambitweekly.com",
+      "summary": "Gasa Gasa Lafreniere Park Farmer's & Art Market Jun 24 @  1:00pm",
+      "category": "Art & Exhibits",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Gambit Weekly \u2014 Calendar",
+        "url": "https://calendar.gambitweekly.com"
+      }
+    },
+    {
+      "name": "@  7:00pm",
+      "url": "https://calendar.gambitweekly.com",
+      "summary": "Jun 24 @  7:00pm The Joy Theater Rhinestone Cowpoke - Queer Country Line Dance Night",
+      "category": "Theater & Performance",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Gambit Weekly \u2014 Calendar",
+        "url": "https://calendar.gambitweekly.com"
+      }
+    },
+    {
+      "name": "The Joy Theater",
+      "url": "https://calendar.gambitweekly.com",
+      "summary": "@  7:00pm The Joy Theater Rhinestone Cowpoke - Queer Country Line Dance Night Jun 24",
+      "category": "Theater & Performance",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Gambit Weekly \u2014 Calendar",
+        "url": "https://calendar.gambitweekly.com"
+      }
+    },
+    {
+      "name": "Rhinestone Cowpoke - Queer Country Line Dance Night",
+      "url": "https://calendar.gambitweekly.com",
+      "summary": "The Joy Theater Rhinestone Cowpoke - Queer Country Line Dance Night Jun 24 @  7:00pm",
+      "category": "Theater & Performance",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Gambit Weekly \u2014 Calendar",
+        "url": "https://calendar.gambitweekly.com"
+      }
+    },
+    {
+      "name": "International House Hotel",
+      "url": "https://calendar.gambitweekly.com",
+      "summary": "@  7:00pm International House Hotel Swarm Comp, Silver Godling, The World is a Vampire play P... Jun 24",
+      "category": "Theater & Performance",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Gambit Weekly \u2014 Calendar",
+        "url": "https://calendar.gambitweekly.com"
+      }
+    },
+    {
+      "name": "Swarm Comp, Silver Godling, The World is a Vampire play P...",
+      "url": "https://calendar.gambitweekly.com",
+      "summary": "International House Hotel Swarm Comp, Silver Godling, The World is a Vampire play P... Jun 24 @  8:00pm",
+      "category": "Theater & Performance",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Gambit Weekly \u2014 Calendar",
+        "url": "https://calendar.gambitweekly.com"
+      }
+    },
+    {
+      "name": "@ 10:00pm",
+      "url": "https://calendar.gambitweekly.com",
+      "summary": "Jun 24 @ 10:00pm Holy Diver NOLA Health Fair | Senior Expo",
+      "category": "Community & Outdoor",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Gambit Weekly \u2014 Calendar",
+        "url": "https://calendar.gambitweekly.com"
+      }
+    },
+    {
+      "name": "Holy Diver NOLA",
+      "url": "https://calendar.gambitweekly.com",
+      "summary": "@ 10:00pm Holy Diver NOLA Health Fair | Senior Expo Jun 25",
+      "category": "Community & Outdoor",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Gambit Weekly \u2014 Calendar",
+        "url": "https://calendar.gambitweekly.com"
+      }
+    },
+    {
+      "name": "Health Fair | Senior Expo",
+      "url": "https://calendar.gambitweekly.com",
+      "summary": "Holy Diver NOLA Health Fair | Senior Expo Jun 25 @  8:30am",
+      "category": "Community & Outdoor",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Gambit Weekly \u2014 Calendar",
+        "url": "https://calendar.gambitweekly.com"
+      }
+    },
+    {
+      "name": "@  4:00pm",
+      "url": "https://calendar.gambitweekly.com",
+      "summary": "Jun 25 @  4:00pm Bourbon O Bar Live Music Thursdays at Saint John with Sean Riley & The ...",
+      "category": "Music",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Gambit Weekly \u2014 Calendar",
+        "url": "https://calendar.gambitweekly.com"
+      }
+    },
+    {
+      "name": "Bourbon O Bar",
+      "url": "https://calendar.gambitweekly.com",
+      "summary": "@  4:00pm Bourbon O Bar Live Music Thursdays at Saint John with Sean Riley & The ... Jun 25",
+      "category": "Music",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Gambit Weekly \u2014 Calendar",
+        "url": "https://calendar.gambitweekly.com"
+      }
+    },
+    {
+      "name": "Live Music Thursdays at Saint John with Sean Riley & The ...",
+      "url": "https://calendar.gambitweekly.com",
+      "summary": "Bourbon O Bar Live Music Thursdays at Saint John with Sean Riley & The ... Jun 25 @  4:00pm",
+      "category": "Music",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Gambit Weekly \u2014 Calendar",
+        "url": "https://calendar.gambitweekly.com"
+      }
+    },
+    {
+      "name": "Games for Good: Mahjong Night at Big Couch",
+      "url": "https://calendar.gambitweekly.com",
+      "summary": "The Joy Theater Games for Good: Mahjong Night at Big Couch Jun 25 @  6:00pm",
+      "category": "Theater & Performance",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Gambit Weekly \u2014 Calendar",
+        "url": "https://calendar.gambitweekly.com"
+      }
+    },
+    {
+      "name": "@  6:00pm",
+      "url": "https://calendar.gambitweekly.com",
+      "summary": "Jun 25 @  6:00pm Big Couch New Orleans 3Quency - Girls Talk Tour",
+      "category": "Other",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Gambit Weekly \u2014 Calendar",
+        "url": "https://calendar.gambitweekly.com"
+      }
+    },
+    {
+      "name": "Big Couch New Orleans",
+      "url": "https://calendar.gambitweekly.com",
+      "summary": "@  6:00pm Big Couch New Orleans 3Quency - Girls Talk Tour Jun 25",
+      "category": "Other",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Gambit Weekly \u2014 Calendar",
+        "url": "https://calendar.gambitweekly.com"
+      }
+    },
+    {
+      "name": "Quency - Girls Talk Tour",
+      "url": "https://calendar.gambitweekly.com",
+      "summary": "Big Couch New Orleans 3Quency - Girls Talk Tour Jun 25 @  7:00pm",
+      "category": "Other",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Gambit Weekly \u2014 Calendar",
+        "url": "https://calendar.gambitweekly.com"
+      }
+    },
+    {
+      "name": "House Of Blues",
+      "url": "https://calendar.gambitweekly.com",
+      "summary": "@  7:00pm House Of Blues Backstage Burlesque at Toulouse Theatre Jun 25",
+      "category": "Theater & Performance",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Gambit Weekly \u2014 Calendar",
+        "url": "https://calendar.gambitweekly.com"
+      }
+    },
+    {
+      "name": "Backstage Burlesque at Toulouse Theatre",
+      "url": "https://calendar.gambitweekly.com",
+      "summary": "House Of Blues Backstage Burlesque at Toulouse Theatre Jun 25 @  8:00pm",
+      "category": "Theater & Performance",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Gambit Weekly \u2014 Calendar",
+        "url": "https://calendar.gambitweekly.com"
+      }
+    }
+  ]
+}

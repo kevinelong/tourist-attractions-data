@@ -1,0 +1,425 @@
+{
+  "title": "San Francisco \u2014 Restaurant Openings & Events",
+  "generated": "2026-06-24T02:02:28Z",
+  "city": "San Francisco",
+  "tier": "west_coast_mega",
+  "population_m": 4.57,
+  "extraction_method": "rss_first_with_deterministic_classifier_v1",
+  "totals": {
+    "restaurant_openings": 10,
+    "events_calendar": 21
+  },
+  "sources_used": {
+    "restaurant_openings": [
+      "Eater SF",
+      "Eater SF \u2014 Openings"
+    ],
+    "events_calendar": [
+      "SF Funcheap"
+    ]
+  },
+  "sources_failed": [],
+  "raw_html_pages_available": {
+    "restaurant_openings": [],
+    "events_calendar": [
+      "Time Out San Francisco",
+      "SF Station Events"
+    ]
+  },
+  "restaurant_openings": [
+    {
+      "name": "All of the Bay Area\u2019s Left Bank Restaurants Have Suddenly Closed",
+      "url": "https://sf.eater.com/restaurant-news/212735/san-francisco-bay-area-restaurant-closures-june-2026",
+      "summary": "This is a curated list of the Bay Area\u2019s most notable and permanent restaurant and bar closures, with new updates published once a week. See a closing we missed? Then drop us a line. For more news, check out our list of restaurants that closed earlier in May. June 23 BAY AREA \u2014 All seven locations of Left Bank, LB [\u2026]",
+      "categories": [
+        "Bar & Cocktails"
+      ],
+      "published_iso": "2026-06-23",
+      "classification_hint": "opening",
+      "source": {
+        "name": "Eater SF",
+        "url": "https://sf.eater.com"
+      }
+    },
+    {
+      "name": "All of the Bay Area\u2019s Left Bank Restaurants Have Suddenly Closed",
+      "url": "https://sf.eater.com/restaurant-news/212735/san-francisco-bay-area-restaurant-closures-june-2026",
+      "summary": "This is a curated list of the Bay Area\u2019s most notable and permanent restaurant and bar closures, with new updates published once a week. See a closing we missed? Then drop us a line. For more news, check out our list of restaurants that closed earlier in May. June 23 BAY AREA \u2014 All seven locations of Left Bank, LB [\u2026]",
+      "categories": [
+        "Bar & Cocktails"
+      ],
+      "published_iso": "2026-06-23",
+      "classification_hint": "opening",
+      "source": {
+        "name": "Eater SF \u2014 Openings",
+        "url": "https://sf.eater.com/openings"
+      }
+    },
+    {
+      "name": "The Team Behind Michelin-Starred Niku Steakhouse Opens a Corporate Food Hall",
+      "url": "https://sf.eater.com/restaurant-news/212905/omakase-world-market-opening-food-hall-south-san-francisco-biomed-realty",
+      "summary": "Is the heyday of corporate amenities coming back? Well, if you work for BioMed Realty\u2019s South San Francisco campus, you may think so. Omakase Restaurant Group, the team behind one-Michelin-star Niku Steakhouse, as well as Dumpling Time, Prelude, and more, debuts its new food hall, Omakase World Market, at the Gateway of Pacific campus, opening [\u2026]",
+      "categories": [
+        "Steakhouse"
+      ],
+      "published_iso": "2026-06-17",
+      "classification_hint": "opening",
+      "source": {
+        "name": "Eater SF",
+        "url": "https://sf.eater.com"
+      }
+    },
+    {
+      "name": "The Team Behind Michelin-Starred Niku Steakhouse Opens a Corporate Food Hall",
+      "url": "https://sf.eater.com/restaurant-news/212905/omakase-world-market-opening-food-hall-south-san-francisco-biomed-realty",
+      "summary": "Is the heyday of corporate amenities coming back? Well, if you work for BioMed Realty\u2019s South San Francisco campus, you may think so. Omakase Restaurant Group, the team behind one-Michelin-star Niku Steakhouse, as well as Dumpling Time, Prelude, and more, debuts its new food hall, Omakase World Market, at the Gateway of Pacific campus, opening [\u2026]",
+      "categories": [
+        "Steakhouse"
+      ],
+      "published_iso": "2026-06-17",
+      "classification_hint": "opening",
+      "source": {
+        "name": "Eater SF \u2014 Openings",
+        "url": "https://sf.eater.com/openings"
+      }
+    },
+    {
+      "name": "Here Are the Bay Area\u2019s Biggest Winners at the 2026 James Beard Awards",
+      "url": "https://sf.eater.com/restaurant-news/212883/san-francisco-bay-area-2026-james-beard-award-bar-restaurant-winners-quince-pacific-cocktail-haven",
+      "summary": "Two big Bay Area winners emerged from Monday night\u2019s 2026 James Beard Awards in Chicago: Michael Tusk of three-Michelin-starred Quince walked away with the Outstanding Chef award, and Kevin Diedrich of Pacific Cocktail Haven won the award for Outstanding Professional in Cocktail Service. Tusk took to the stage at the Lyric Opera with his wife [\u2026]",
+      "categories": [
+        "Bar & Cocktails"
+      ],
+      "published_iso": "2026-06-16",
+      "classification_hint": "opening",
+      "source": {
+        "name": "Eater SF",
+        "url": "https://sf.eater.com"
+      }
+    },
+    {
+      "name": "Here Are the Bay Area\u2019s Biggest Winners at the 2026 James Beard Awards",
+      "url": "https://sf.eater.com/restaurant-news/212883/san-francisco-bay-area-2026-james-beard-award-bar-restaurant-winners-quince-pacific-cocktail-haven",
+      "summary": "Two big Bay Area winners emerged from Monday night\u2019s 2026 James Beard Awards in Chicago: Michael Tusk of three-Michelin-starred Quince walked away with the Outstanding Chef award, and Kevin Diedrich of Pacific Cocktail Haven won the award for Outstanding Professional in Cocktail Service. Tusk took to the stage at the Lyric Opera with his wife [\u2026]",
+      "categories": [
+        "Bar & Cocktails"
+      ],
+      "published_iso": "2026-06-16",
+      "classification_hint": "opening",
+      "source": {
+        "name": "Eater SF \u2014 Openings",
+        "url": "https://sf.eater.com/openings"
+      }
+    },
+    {
+      "name": "SF\u2019s Most Exciting New Pop-Up Celebrates Open-Air Asian Street Food Markets",
+      "url": "https://sf.eater.com/restaurant-news/212845/dai-pai-dai-lo-pop-up-san-francisco-vincent-yu",
+      "summary": "There\u2019s a new pop-up celebrating open-air Asian food courts, known as dai pai dongs, in San Francisco. Dai Pai Dai Lo is the project of Vincent Yu, a young chef working at the popular Four Kings in Chinatown. It is an ambitious pop-up that sees Yu combining food memories of China with American influences. \u201cI\u2019ve [\u2026]",
+      "categories": [
+        "Restaurant"
+      ],
+      "published_iso": "2026-06-12",
+      "classification_hint": "opening",
+      "source": {
+        "name": "Eater SF",
+        "url": "https://sf.eater.com"
+      }
+    },
+    {
+      "name": "SF\u2019s Most Exciting New Pop-Up Celebrates Open-Air Asian Street Food Markets",
+      "url": "https://sf.eater.com/restaurant-news/212845/dai-pai-dai-lo-pop-up-san-francisco-vincent-yu",
+      "summary": "There\u2019s a new pop-up celebrating open-air Asian food courts, known as dai pai dongs, in San Francisco. Dai Pai Dai Lo is the project of Vincent Yu, a young chef working at the popular Four Kings in Chinatown. It is an ambitious pop-up that sees Yu combining food memories of China with American influences. \u201cI\u2019ve [\u2026]",
+      "categories": [
+        "Restaurant"
+      ],
+      "published_iso": "2026-06-12",
+      "classification_hint": "opening",
+      "source": {
+        "name": "Eater SF \u2014 Openings",
+        "url": "https://sf.eater.com/openings"
+      }
+    },
+    {
+      "name": "Oakland\u2019s Newest Queer Bar There/There Is Now Open",
+      "url": "https://sf.eater.com/restaurant-news/212809/san-francisco-bay-area-restaurant-bar-openings-june-2026",
+      "summary": "This is a list of the Bay Area\u2019s most notable restaurant and bar openings, with new updates published once a week. Did we miss something great? Please, drop us a line. SOMA \u2014 Bar Malone\u2019s is a new bar from industry vets Gabriel Freiberg and Eric Passetti, set in the former District San Francisco space on Townsend. [\u2026]",
+      "categories": [
+        "Bar & Cocktails"
+      ],
+      "published_iso": "2026-06-10",
+      "classification_hint": "opening",
+      "source": {
+        "name": "Eater SF",
+        "url": "https://sf.eater.com"
+      }
+    },
+    {
+      "name": "Oakland\u2019s Newest Queer Bar There/There Is Now Open",
+      "url": "https://sf.eater.com/restaurant-news/212809/san-francisco-bay-area-restaurant-bar-openings-june-2026",
+      "summary": "This is a list of the Bay Area\u2019s most notable restaurant and bar openings, with new updates published once a week. Did we miss something great? Please, drop us a line. SOMA \u2014 Bar Malone\u2019s is a new bar from industry vets Gabriel Freiberg and Eric Passetti, set in the former District San Francisco space on Townsend. [\u2026]",
+      "categories": [
+        "Bar & Cocktails"
+      ],
+      "published_iso": "2026-06-10",
+      "classification_hint": "opening",
+      "source": {
+        "name": "Eater SF \u2014 Openings",
+        "url": "https://sf.eater.com/openings"
+      }
+    }
+  ],
+  "events_calendar": [
+    {
+      "name": "12/24/26: Free HellaFunny Thursday Comedy Night (Downtown SF) - FREE",
+      "url": "https://sf.funcheap.com/free-hellafunny-thursday-comedy-night-downtown-sf-27/",
+      "summary": "The post Free HellaFunny Thursday Comedy Night (Downtown SF) appeared first on Funcheap .",
+      "category": "Comedy",
+      "published_iso": "2026-06-23",
+      "classification_hint": "event",
+      "source": {
+        "name": "SF Funcheap",
+        "url": "https://sf.funcheap.com"
+      }
+    },
+    {
+      "name": "12/17/26: Free HellaFunny Thursday Comedy Night (Downtown SF) - FREE",
+      "url": "https://sf.funcheap.com/free-hellafunny-thursday-comedy-night-downtown-sf-26/",
+      "summary": "The post Free HellaFunny Thursday Comedy Night (Downtown SF) appeared first on Funcheap .",
+      "category": "Comedy",
+      "published_iso": "2026-06-23",
+      "classification_hint": "event",
+      "source": {
+        "name": "SF Funcheap",
+        "url": "https://sf.funcheap.com"
+      }
+    },
+    {
+      "name": "12/10/26: Free HellaFunny Thursday Comedy Night (Downtown SF) - FREE",
+      "url": "https://sf.funcheap.com/free-hellafunny-thursday-comedy-night-downtown-sf-25/",
+      "summary": "The post Free HellaFunny Thursday Comedy Night (Downtown SF) appeared first on Funcheap .",
+      "category": "Comedy",
+      "published_iso": "2026-06-23",
+      "classification_hint": "event",
+      "source": {
+        "name": "SF Funcheap",
+        "url": "https://sf.funcheap.com"
+      }
+    },
+    {
+      "name": "12/3/26: Free HellaFunny Thursday Comedy Night (Downtown SF) - FREE",
+      "url": "https://sf.funcheap.com/free-hellafunny-thursday-comedy-night-downtown-sf-24/",
+      "summary": "The post Free HellaFunny Thursday Comedy Night (Downtown SF) appeared first on Funcheap .",
+      "category": "Comedy",
+      "published_iso": "2026-06-23",
+      "classification_hint": "event",
+      "source": {
+        "name": "SF Funcheap",
+        "url": "https://sf.funcheap.com"
+      }
+    },
+    {
+      "name": "11/26/26: Free HellaFunny Thursday Comedy Night (Downtown SF) - FREE",
+      "url": "https://sf.funcheap.com/free-hellafunny-thursday-comedy-night-downtown-sf-23/",
+      "summary": "The post Free HellaFunny Thursday Comedy Night (Downtown SF) appeared first on Funcheap .",
+      "category": "Comedy",
+      "published_iso": "2026-06-23",
+      "classification_hint": "event",
+      "source": {
+        "name": "SF Funcheap",
+        "url": "https://sf.funcheap.com"
+      }
+    },
+    {
+      "name": "11/19/26: Free HellaFunny Thursday Comedy Night (Downtown SF) - FREE",
+      "url": "https://sf.funcheap.com/free-hellafunny-thursday-comedy-night-downtown-sf-22/",
+      "summary": "The post Free HellaFunny Thursday Comedy Night (Downtown SF) appeared first on Funcheap .",
+      "category": "Comedy",
+      "published_iso": "2026-06-23",
+      "classification_hint": "event",
+      "source": {
+        "name": "SF Funcheap",
+        "url": "https://sf.funcheap.com"
+      }
+    },
+    {
+      "name": "11/12/26: Free HellaFunny Thursday Comedy Night (Downtown SF) - FREE",
+      "url": "https://sf.funcheap.com/free-hellafunny-thursday-comedy-night-downtown-sf-21/",
+      "summary": "The post Free HellaFunny Thursday Comedy Night (Downtown SF) appeared first on Funcheap .",
+      "category": "Comedy",
+      "published_iso": "2026-06-23",
+      "classification_hint": "event",
+      "source": {
+        "name": "SF Funcheap",
+        "url": "https://sf.funcheap.com"
+      }
+    },
+    {
+      "name": "11/5/26: Free HellaFunny Thursday Comedy Night (Downtown SF) - FREE",
+      "url": "https://sf.funcheap.com/free-hellafunny-thursday-comedy-night-downtown-sf-20/",
+      "summary": "The post Free HellaFunny Thursday Comedy Night (Downtown SF) appeared first on Funcheap .",
+      "category": "Comedy",
+      "published_iso": "2026-06-23",
+      "classification_hint": "event",
+      "source": {
+        "name": "SF Funcheap",
+        "url": "https://sf.funcheap.com"
+      }
+    },
+    {
+      "name": "10/29/26: Free HellaFunny Thursday Comedy Night (Downtown SF) - FREE",
+      "url": "https://sf.funcheap.com/free-hellafunny-thursday-comedy-night-downtown-sf-19/",
+      "summary": "The post Free HellaFunny Thursday Comedy Night (Downtown SF) appeared first on Funcheap .",
+      "category": "Comedy",
+      "published_iso": "2026-06-23",
+      "classification_hint": "event",
+      "source": {
+        "name": "SF Funcheap",
+        "url": "https://sf.funcheap.com"
+      }
+    },
+    {
+      "name": "10/22/26: Free HellaFunny Thursday Comedy Night (Downtown SF) - FREE",
+      "url": "https://sf.funcheap.com/free-hellafunny-thursday-comedy-night-downtown-sf-18/",
+      "summary": "The post Free HellaFunny Thursday Comedy Night (Downtown SF) appeared first on Funcheap .",
+      "category": "Comedy",
+      "published_iso": "2026-06-23",
+      "classification_hint": "event",
+      "source": {
+        "name": "SF Funcheap",
+        "url": "https://sf.funcheap.com"
+      }
+    },
+    {
+      "name": "Buy Tickets",
+      "url": "https://www.sfstation.com/calendar",
+      "summary": "CA Buy Tickets SHOW ALL Tuesday EVENTS Wednesday June 24, 2026",
+      "category": "Other",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "SF Station Events",
+        "url": "https://www.sfstation.com/calendar"
+      }
+    },
+    {
+      "name": "SHOW ALL Tuesday EVENTS",
+      "url": "https://www.sfstation.com/calendar",
+      "summary": "Buy Tickets SHOW ALL Tuesday EVENTS Wednesday June 24, 2026 2026-06-24",
+      "category": "Other",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "SF Station Events",
+        "url": "https://www.sfstation.com/calendar"
+      }
+    },
+    {
+      "name": "Wednesday June 24, 2026",
+      "url": "https://www.sfstation.com/calendar",
+      "summary": "SHOW ALL Tuesday EVENTS Wednesday June 24, 2026 2026-06-24 2026-06-24",
+      "category": "Other",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "SF Station Events",
+        "url": "https://www.sfstation.com/calendar"
+      }
+    },
+    {
+      "name": "SHOW ALL Wednesday EVENTS",
+      "url": "https://www.sfstation.com/calendar",
+      "summary": "FREE SHOW ALL Wednesday EVENTS Thursday June 25, 2026 2026-06-25",
+      "category": "Other",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "SF Station Events",
+        "url": "https://www.sfstation.com/calendar"
+      }
+    },
+    {
+      "name": "Thursday June 25, 2026",
+      "url": "https://www.sfstation.com/calendar",
+      "summary": "SHOW ALL Wednesday EVENTS Thursday June 25, 2026 2026-06-25 2026-06-25",
+      "category": "Other",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "SF Station Events",
+        "url": "https://www.sfstation.com/calendar"
+      }
+    },
+    {
+      "name": "SHOW ALL Thursday EVENTS",
+      "url": "https://www.sfstation.com/calendar",
+      "summary": "Buy Tickets SHOW ALL Thursday EVENTS Friday June 26, 2026 2026-06-26",
+      "category": "Other",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "SF Station Events",
+        "url": "https://www.sfstation.com/calendar"
+      }
+    },
+    {
+      "name": "Friday June 26, 2026",
+      "url": "https://www.sfstation.com/calendar",
+      "summary": "SHOW ALL Thursday EVENTS Friday June 26, 2026 2026-06-26 2026-06-26",
+      "category": "Other",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "SF Station Events",
+        "url": "https://www.sfstation.com/calendar"
+      }
+    },
+    {
+      "name": "SHOW ALL Friday EVENTS",
+      "url": "https://www.sfstation.com/calendar",
+      "summary": "FREE SHOW ALL Friday EVENTS Saturday June 27, 2026 2026-06-27",
+      "category": "Other",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "SF Station Events",
+        "url": "https://www.sfstation.com/calendar"
+      }
+    },
+    {
+      "name": "Saturday June 27, 2026",
+      "url": "https://www.sfstation.com/calendar",
+      "summary": "SHOW ALL Friday EVENTS Saturday June 27, 2026 2026-06-27 2026-06-27",
+      "category": "Other",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "SF Station Events",
+        "url": "https://www.sfstation.com/calendar"
+      }
+    },
+    {
+      "name": "SHOW ALL Saturday EVENTS",
+      "url": "https://www.sfstation.com/calendar",
+      "summary": "FREE SHOW ALL Saturday EVENTS Send Us A Tip Subscribe",
+      "category": "Other",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "SF Station Events",
+        "url": "https://www.sfstation.com/calendar"
+      }
+    },
+    {
+      "name": "Send Us A Tip",
+      "url": "https://www.sfstation.com/calendar",
+      "summary": "SHOW ALL Saturday EVENTS Send Us A Tip Subscribe Add Event",
+      "category": "Other",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "SF Station Events",
+        "url": "https://www.sfstation.com/calendar"
+      }
+    }
+  ]
+}

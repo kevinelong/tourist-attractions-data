@@ -1,0 +1,74 @@
+{
+  "title": "Las Vegas \u2014 Restaurant Openings & Events",
+  "generated": "2026-06-24T02:02:28Z",
+  "city": "Las Vegas",
+  "tier": "in_between_mega",
+  "population_m": 2.4,
+  "extraction_method": "rss_first_with_deterministic_classifier_v1",
+  "totals": {
+    "restaurant_openings": 2,
+    "events_calendar": 0
+  },
+  "sources_used": {
+    "restaurant_openings": [
+      "Eater Vegas"
+    ],
+    "events_calendar": []
+  },
+  "sources_failed": [
+    {
+      "name": "Visit Las Vegas \u2014 Events",
+      "url": "https://www.visitlasvegas.com/things-to-do/shows-and-events/",
+      "content_type": "events_calendar",
+      "error": "HTTP 404"
+    },
+    {
+      "name": "Las Vegas Weekly \u2014 Dining",
+      "url": "https://lasvegasweekly.com/dining/",
+      "content_type": "restaurant_openings",
+      "error": "HTTP 404"
+    },
+    {
+      "name": "Las Vegas Weekly \u2014 A&E",
+      "url": "https://lasvegasweekly.com/ae/",
+      "content_type": "events_calendar",
+      "error": "HTTP 404"
+    }
+  ],
+  "raw_html_pages_available": {
+    "restaurant_openings": [],
+    "events_calendar": []
+  },
+  "restaurant_openings": [
+    {
+      "name": "Las Vegas Wins Its First James Beard Best Chef Award in 15 Years",
+      "url": "https://vegas.eater.com/restaurant-news/131298/casa-playa-2026-las-vegas-james-beard-best-chef-award-sarah-thompson",
+      "summary": "On June 15, 2026, Las Vegas was recognized with its first James Beard Foundation Best Chef award in almost two decades. Casa Playa chef Sarah Thompson took home the 2026 James Beard Awards Best Chef: Southwest. It\u2019s a massive win for the celebrated chef, her restaurant, and for the City of Las Vegas; the last [\u2026]",
+      "categories": [
+        "Restaurant"
+      ],
+      "published_iso": "2026-06-15",
+      "classification_hint": "opening",
+      "source": {
+        "name": "Eater Vegas",
+        "url": "https://vegas.eater.com"
+      }
+    },
+    {
+      "name": "At Maroon, Kwame Onwuachi Takes an Afro-Caribbean Lens to the Classic Steakhouse",
+      "url": "https://vegas.eater.com/openings/131099/maroon-kwame-onwuachi-caribbean-steakhouse-opening",
+      "summary": "Chef Kwame Onwuachi \u2014 the James Beard Award\u2013winning chef behind New York\u2019s Tatiana and Washington, D.C.\u2019s D\u014dgon \u2014 made his Las Vegas debut with a new Caribbean steakhouse in the Sahara. At Maroon, which opened in late April, Onwuachi takes an Afro-Caribbean lens to the classic steakhouse, reimagining it with flavors and techniques from Jamaica [\u2026]",
+      "categories": [
+        "Asian & World Cuisine",
+        "Steakhouse"
+      ],
+      "published_iso": "2026-05-11",
+      "classification_hint": "opening",
+      "source": {
+        "name": "Eater Vegas",
+        "url": "https://vegas.eater.com"
+      }
+    }
+  ],
+  "events_calendar": []
+}

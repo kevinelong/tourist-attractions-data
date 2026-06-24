@@ -1,0 +1,172 @@
+{
+  "title": "Washington \u2014 Restaurant Openings & Events",
+  "generated": "2026-06-24T02:02:28Z",
+  "city": "Washington",
+  "tier": "east_coast_mega",
+  "population_m": 6.3,
+  "extraction_method": "rss_first_with_deterministic_classifier_v1",
+  "totals": {
+    "restaurant_openings": 1,
+    "events_calendar": 10
+  },
+  "sources_used": {
+    "restaurant_openings": [
+      "Eater DC"
+    ],
+    "events_calendar": [
+      "Washingtonian \u2014 Calendar"
+    ]
+  },
+  "sources_failed": [
+    {
+      "name": "Washingtonian \u2014 Food",
+      "url": "https://www.washingtonian.com/sections/food-drink/",
+      "content_type": "restaurant_openings",
+      "error": "HTTP 404"
+    }
+  ],
+  "raw_html_pages_available": {
+    "restaurant_openings": [],
+    "events_calendar": [
+      "Washington.org \u2014 Events"
+    ]
+  },
+  "restaurant_openings": [
+    {
+      "name": "What\u2019s Old Is New Again at the Resurrected Riggsby in D.C.",
+      "url": "https://dc.eater.com/openings/168144/the-riggsby-michael-schlow-dupont-dc-restaurant-openings",
+      "summary": "The Riggsby, chef Michael Schlow\u2019s cult-favorite American restaurant that enjoyed a popular pre-pandemic run in Dupont before it closed in 2019, resurfaced this week in the same Northwest neighborhood. Now tucked inside the 335-room Royal Sonesta Hotel (2121 P Street NW), regulars can expect about 60 percent of the same menu they grew to love, [\u2026]",
+      "categories": [
+        "Restaurant"
+      ],
+      "published_iso": "2026-06-04",
+      "classification_hint": "opening",
+      "source": {
+        "name": "Eater DC",
+        "url": "https://dc.eater.com"
+      }
+    }
+  ],
+  "events_calendar": [
+    {
+      "name": "17 Things to Do in DC and Beyond to Celebrate America\u2019s 250th",
+      "url": "https://washingtonian.com/2026/06/23/things-to-do-in-dc-and-beyond-to-celebrate-americas-250/?utm_source=rss&utm_medium=rss&utm_campaign=things-to-do-in-dc-and-beyond-to-celebrate-americas-250",
+      "summary": "\u201cAmerica\u2019s State Flowers\u201d location_onUS Botanic Garden languageWebsite Stop and smell the roses\u2014plus the magnolias, orchids, bluebonnets, and saguaro cactus blossoms\u2014at this outdoor display of official flowers from each US state and territory. Through October 12. \u201cAmerica\u2019s Presidents\u201d location_onNational Portrait Gallery languageWebsite The newly updated exhibit offers more than 1,730 likenesses of American Presidents and [\u2026] The post 17 Things to Do in DC and Beyond to Celebrate America\u2019s 250th first appeared on Washingtonian .",
+      "category": "Art & Exhibits",
+      "published_iso": "2026-06-23",
+      "classification_hint": "event",
+      "source": {
+        "name": "Washingtonian \u2014 Calendar",
+        "url": "https://www.washingtonian.com/calendar-2/"
+      }
+    },
+    {
+      "name": "VIEW DETAILS",
+      "url": "https://washington.org/find-dc-listings/dc-events",
+      "summary": "\u00a1Puro Ritmo! The Musical Journey of Salsa VIEW DETAILS Jun 24",
+      "category": "Theater & Performance",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Washington.org \u2014 Events",
+        "url": "https://washington.org/find-dc-listings/dc-events"
+      }
+    },
+    {
+      "name": "Our end-of-the-week picks for June 26-28, 2026",
+      "url": "https://washington.org/find-dc-listings/dc-events",
+      "summary": "Things to Do This Weekend in Washington, DC Our end-of-the-week picks for June 26-28, 2026 Things to Do This Month Check out an exciting list of exhibits, concerts, theater and more all month long in the nation's capital.",
+      "category": "Music",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Washington.org \u2014 Events",
+        "url": "https://washington.org/find-dc-listings/dc-events"
+      }
+    },
+    {
+      "name": "Things to Do This Month",
+      "url": "https://washington.org/find-dc-listings/dc-events",
+      "summary": "Our end-of-the-week picks for June 26-28, 2026 Things to Do This Month Check out an exciting list of exhibits, concerts, theater and more all month long in the nation's capital. View Events",
+      "category": "Music",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Washington.org \u2014 Events",
+        "url": "https://washington.org/find-dc-listings/dc-events"
+      }
+    },
+    {
+      "name": "The annual Giant BBQ Battle is back on Pennsylvania Avenue, June 27-...",
+      "url": "https://washington.org/find-dc-listings/dc-events",
+      "summary": "10 Reasons to Go to the 34th Annual Giant BBQ Battle The annual Giant BBQ Battle is back on Pennsylvania Avenue, June 27-... READ MORE 10 Reasons to See D.C. United Play at Audi Field",
+      "category": "Theater & Performance",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Washington.org \u2014 Events",
+        "url": "https://washington.org/find-dc-listings/dc-events"
+      }
+    },
+    {
+      "name": "READ MORE",
+      "url": "https://washington.org/find-dc-listings/dc-events",
+      "summary": "The annual Giant BBQ Battle is back on Pennsylvania Avenue, June 27-... READ MORE 10 Reasons to See D.C. United Play at Audi Field D.C. United and Audi Field are the place to be for Major League Socc...",
+      "category": "Theater & Performance",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Washington.org \u2014 Events",
+        "url": "https://washington.org/find-dc-listings/dc-events"
+      }
+    },
+    {
+      "name": "Planning Ahead",
+      "url": "https://washington.org/find-dc-listings/dc-events",
+      "summary": "Head to Nationals Park to experience exciting MLB action. Planning Ahead Things to Do June 2026 in Washington, DC This June in DC will be one for the books thanks to Capital Pride, the Giant National BBQ Battle, Home Rule Music Festival and more.",
+      "category": "Music",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Washington.org \u2014 Events",
+        "url": "https://washington.org/find-dc-listings/dc-events"
+      }
+    },
+    {
+      "name": "Things to Do June 2026 in Washington, DC",
+      "url": "https://washington.org/find-dc-listings/dc-events",
+      "summary": "Planning Ahead Things to Do June 2026 in Washington, DC This June in DC will be one for the books thanks to Capital Pride, the Giant National BBQ Battle, Home Rule Music Festival and more. READ MORE",
+      "category": "Music",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Washington.org \u2014 Events",
+        "url": "https://washington.org/find-dc-listings/dc-events"
+      }
+    },
+    {
+      "name": "This June in DC will be one for the books thanks to Capital Pride, the Giant National BBQ Battle, Home Rule Music Festival and more.",
+      "url": "https://washington.org/find-dc-listings/dc-events",
+      "summary": "Things to Do June 2026 in Washington, DC This June in DC will be one for the books thanks to Capital Pride, the Giant National BBQ Battle, Home Rule Music Festival and more. READ MORE Things to Do July 2026 in Washington, DC",
+      "category": "Music",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Washington.org \u2014 Events",
+        "url": "https://washington.org/find-dc-listings/dc-events"
+      }
+    },
+    {
+      "name": "Concert on the Avenue",
+      "url": "https://washington.org/find-dc-listings/dc-events",
+      "summary": "Penn Quarter & Chinatown Concert on the Avenue Jun 24",
+      "category": "Music",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Washington.org \u2014 Events",
+        "url": "https://washington.org/find-dc-listings/dc-events"
+      }
+    }
+  ]
+}

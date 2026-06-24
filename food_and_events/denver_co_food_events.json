@@ -1,0 +1,363 @@
+{
+  "title": "Denver \u2014 Restaurant Openings & Events",
+  "generated": "2026-06-24T02:02:28Z",
+  "city": "Denver",
+  "tier": "in_between_mega",
+  "population_m": 3.05,
+  "extraction_method": "rss_first_with_deterministic_classifier_v1",
+  "totals": {
+    "restaurant_openings": 0,
+    "events_calendar": 27
+  },
+  "sources_used": {
+    "restaurant_openings": [
+      "Eater Denver",
+      "South Denver Guide \u2014 New Openings"
+    ],
+    "events_calendar": [
+      "303 Magazine \u2014 Events"
+    ]
+  },
+  "sources_failed": [
+    {
+      "name": "5280 Magazine \u2014 Food",
+      "url": "https://www.5280.com/eat-drink/",
+      "content_type": "restaurant_openings",
+      "error": "parse_error: XML or text declaration not at start of entity: line 2, column 0"
+    }
+  ],
+  "raw_html_pages_available": {
+    "restaurant_openings": [],
+    "events_calendar": [
+      "Westword \u2014 Events",
+      "Visit Denver \u2014 Events"
+    ]
+  },
+  "restaurant_openings": [],
+  "events_calendar": [
+    {
+      "name": "Tour Five of Denver\u2019s Most Stylish Homes",
+      "url": "https://303magazine.com/2026/06/tour-five-of-denvers-most-stylish-homes/",
+      "summary": "Ever wonder what\u2019s behind your neighbor\u2019s front door? Consider this your all-access pass. Furniture Row\u2019s Real Spaces series is\u2026",
+      "category": "Other",
+      "published_iso": "2026-06-15",
+      "classification_hint": "event_no_date",
+      "source": {
+        "name": "303 Magazine \u2014 Events",
+        "url": "https://303magazine.com/events/"
+      }
+    },
+    {
+      "name": "Monolord + Mizmor",
+      "url": "https://www.westword.com/calendar",
+      "summary": "Downtown Denver Monolord + Mizmor Tue., Jun 23, 7:00 pm Marquis Theater",
+      "category": "Theater & Performance",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Westword \u2014 Events",
+        "url": "https://www.westword.com/calendar"
+      }
+    },
+    {
+      "name": "Tue., Jun 23, 7:00 pm",
+      "url": "https://www.westword.com/calendar",
+      "summary": "Monolord + Mizmor Tue., Jun 23, 7:00 pm Marquis Theater , 2009 Larimer St.",
+      "category": "Theater & Performance",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Westword \u2014 Events",
+        "url": "https://www.westword.com/calendar"
+      }
+    },
+    {
+      "name": "Marquis Theater",
+      "url": "https://www.westword.com/calendar",
+      "summary": "Tue., Jun 23, 7:00 pm Marquis Theater , 2009 Larimer St. Neighborhood:",
+      "category": "Theater & Performance",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Westword \u2014 Events",
+        "url": "https://www.westword.com/calendar"
+      }
+    },
+    {
+      "name": "Billy Bob Thornton & The Boxmasters",
+      "url": "https://www.westword.com/calendar",
+      "summary": "advertisement Billy Bob Thornton & The Boxmasters Tue., Jun 23, 8:00 pm Gothic Theatre",
+      "category": "Theater & Performance",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Westword \u2014 Events",
+        "url": "https://www.westword.com/calendar"
+      }
+    },
+    {
+      "name": "Tue., Jun 23, 8:00 pm",
+      "url": "https://www.westword.com/calendar",
+      "summary": "Billy Bob Thornton & The Boxmasters Tue., Jun 23, 8:00 pm Gothic Theatre , 3263 S. Broadway",
+      "category": "Theater & Performance",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Westword \u2014 Events",
+        "url": "https://www.westword.com/calendar"
+      }
+    },
+    {
+      "name": "Gothic Theatre",
+      "url": "https://www.westword.com/calendar",
+      "summary": "Tue., Jun 23, 8:00 pm Gothic Theatre , 3263 S. Broadway Neighborhood:",
+      "category": "Theater & Performance",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Westword \u2014 Events",
+        "url": "https://www.westword.com/calendar"
+      }
+    },
+    {
+      "name": "Harry Potter\u2122: The Exhibition celebrates all things Harry Potter\u2122 with many of your favorite moments, characters, settings, and creatures from the\u2026",
+      "url": "https://www.denver.org/events/",
+      "summary": "Recurring daily Harry Potter\u2122: The Exhibition celebrates all things Harry Potter\u2122 with many of your favorite moments, characters, settings, and creatures from the\u2026 Jun 28",
+      "category": "Art & Exhibits",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Visit Denver \u2014 Events",
+        "url": "https://www.denver.org/events/"
+      }
+    },
+    {
+      "name": "Same Pride, new place! This year, we\u2019re taking over downtown and bringing the party to 16th Street. For more than five decades, the festival has\u2026",
+      "url": "https://www.denver.org/events/",
+      "summary": "16th Street Same Pride, new place! This year, we\u2019re taking over downtown and bringing the party to 16th Street. For more than five decades, the festival has\u2026 Jul 03",
+      "category": "Music",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Visit Denver \u2014 Events",
+        "url": "https://www.denver.org/events/"
+      }
+    },
+    {
+      "name": "Join the Sundance Film Festival, along with event partners Rocky Mountain Equality and The Center on Colfax, for Andrea Gibson: Love Letter from the\u2026",
+      "url": "https://www.denver.org/events/",
+      "summary": "Red Rocks Park & Amphitheatre Join the Sundance Film Festival, along with event partners Rocky Mountain Equality and The Center on Colfax, for Andrea Gibson: Love Letter from the\u2026 Jul 12",
+      "category": "Music",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Visit Denver \u2014 Events",
+        "url": "https://www.denver.org/events/"
+      }
+    },
+    {
+      "name": "Join us for three days and 200+ musical performances across multiple outdoor stages, and over a dozen indoor music venues in Denver's RiNo\u2026",
+      "url": "https://www.denver.org/events/",
+      "summary": "Recurring daily Join us for three days and 200+ musical performances across multiple outdoor stages, and over a dozen indoor music venues in Denver's RiNo\u2026 Jul 31",
+      "category": "Theater & Performance",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Visit Denver \u2014 Events",
+        "url": "https://www.denver.org/events/"
+      }
+    },
+    {
+      "name": "Nathaniel Rateliff teams up with the Colorado Symphony this summer at Red Rocks Amphitheatre! Experience Rateliff's own Americana and vintage R&B\u2026",
+      "url": "https://www.denver.org/events/",
+      "summary": "Red Rocks Park & Amphitheatre Nathaniel Rateliff teams up with the Colorado Symphony this summer at Red Rocks Amphitheatre! Experience Rateliff's own Americana and vintage R&B\u2026 Aug 26",
+      "category": "Music",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Visit Denver \u2014 Events",
+        "url": "https://www.denver.org/events/"
+      }
+    },
+    {
+      "name": "Auraria Campus \u2014 Tivoli Quad",
+      "url": "https://www.denver.org/events/",
+      "summary": "The Denver Food + Wine Festival Auraria Campus \u2014 Tivoli Quad Recurring daily Savor the best of Colorado\u2019s restaurant scene at the Denver Food + Wine Festival, August 26 - 29, 2026! This four-day celebration brings together top\u2026",
+      "category": "Music",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Visit Denver \u2014 Events",
+        "url": "https://www.denver.org/events/"
+      }
+    },
+    {
+      "name": "Recurring daily",
+      "url": "https://www.denver.org/events/",
+      "summary": "Auraria Campus \u2014 Tivoli Quad Recurring daily Savor the best of Colorado\u2019s restaurant scene at the Denver Food + Wine Festival, August 26 - 29, 2026! This four-day celebration brings together top\u2026 Sep",
+      "category": "Music",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Visit Denver \u2014 Events",
+        "url": "https://www.denver.org/events/"
+      }
+    },
+    {
+      "name": "AEG Presents: Brandi Carlile - The Human Tour with Stephen Wilson Jr. Red Rocks Amphitheatre, Morrison, CO, United States",
+      "url": "https://www.denver.org/events/",
+      "summary": "Recurring daily AEG Presents: Brandi Carlile - The Human Tour with Stephen Wilson Jr. Red Rocks Amphitheatre, Morrison, CO, United States Sep 18",
+      "category": "Theater & Performance",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Visit Denver \u2014 Events",
+        "url": "https://www.denver.org/events/"
+      }
+    },
+    {
+      "name": "The Denver Oktoberfest has been a staple two weekend festival in Downtown Denver since 1969. From keg bowling to stein hoisting, live music and more\u2026",
+      "url": "https://www.denver.org/events/",
+      "summary": "The Denver Oktoberfest The Denver Oktoberfest has been a staple two weekend festival in Downtown Denver since 1969. From keg bowling to stein hoisting, live music and more\u2026 Sep 26",
+      "category": "Music",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Visit Denver \u2014 Events",
+        "url": "https://www.denver.org/events/"
+      }
+    },
+    {
+      "name": "Fans of taiko drumming, teriyaki chicken, sake and Japanese artwork and wares won\u2019t want to miss the Denver Cherry Blossom Festival \u2013 \u201cSakura\u2026",
+      "url": "https://www.denver.org/events/",
+      "summary": "Recurring daily Fans of taiko drumming, teriyaki chicken, sake and Japanese artwork and wares won\u2019t want to miss the Denver Cherry Blossom Festival \u2013 \u201cSakura\u2026 Jun 28",
+      "category": "Music",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Visit Denver \u2014 Events",
+        "url": "https://www.denver.org/events/"
+      }
+    },
+    {
+      "name": "We had so much fun on 17th Ave that we decided to run it back. The Vizzy Denver Pride Parade is a celebration of fearless self-expression, joy, and\u2026",
+      "url": "https://www.denver.org/events/",
+      "summary": "Vizzy Denver Pride Parade We had so much fun on 17th Ave that we decided to run it back. The Vizzy Denver Pride Parade is a celebration of fearless self-expression, joy, and\u2026 Jul 03",
+      "category": "Community & Outdoor",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Visit Denver \u2014 Events",
+        "url": "https://www.denver.org/events/"
+      }
+    },
+    {
+      "name": "The Cherry Creek Arts Festival offers a perfect opportunity to find inspiration, connect with others through art, and expand your worldview. Our\u2026",
+      "url": "https://www.denver.org/events/",
+      "summary": "Recurring daily The Cherry Creek Arts Festival offers a perfect opportunity to find inspiration, connect with others through art, and expand your worldview. Our\u2026 Jul 10",
+      "category": "Music",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Visit Denver \u2014 Events",
+        "url": "https://www.denver.org/events/"
+      }
+    },
+    {
+      "name": "Join the Colorado Celebration of African American Arts and Culture for the 40th Annual Colorado Black Arts Festival, a vibrant, three-day celebration\u2026",
+      "url": "https://www.denver.org/events/",
+      "summary": "Recurring daily Join the Colorado Celebration of African American Arts and Culture for the 40th Annual Colorado Black Arts Festival, a vibrant, three-day celebration\u2026 Jul 11",
+      "category": "Music",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Visit Denver \u2014 Events",
+        "url": "https://www.denver.org/events/"
+      }
+    },
+    {
+      "name": "CROSSCURRENTS is Denver\u2019s favorite riverside festival taking over Confluence Park this summer! Frolic on the banks of the South Platte while sipping\u2026",
+      "url": "https://www.denver.org/events/",
+      "summary": "Confluence Park CROSSCURRENTS is Denver\u2019s favorite riverside festival taking over Confluence Park this summer! Frolic on the banks of the South Platte while sipping\u2026 Jul 18",
+      "category": "Music",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Visit Denver \u2014 Events",
+        "url": "https://www.denver.org/events/"
+      }
+    },
+    {
+      "name": "Denver\u2019s original lantern festival experience returns! Each year unveils a brand-new theme, fresh experiences, and stunning new sculptures. Stay tuned\u2026",
+      "url": "https://www.denver.org/events/",
+      "summary": "Recurring daily Denver\u2019s original lantern festival experience returns! Each year unveils a brand-new theme, fresh experiences, and stunning new sculptures. Stay tuned\u2026 Jul 23",
+      "category": "Music",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Visit Denver \u2014 Events",
+        "url": "https://www.denver.org/events/"
+      }
+    },
+    {
+      "name": "The Big Eat, presented by and benefiting EatDenver, is Denver's premier food festival celebrating the region\u2019s vibrant and dynamic independent food\u2026",
+      "url": "https://www.denver.org/events/",
+      "summary": "DPAC/Denver Performing Arts Complex The Big Eat, presented by and benefiting EatDenver, is Denver's premier food festival celebrating the region\u2019s vibrant and dynamic independent food\u2026 Jul 30",
+      "category": "Music",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Visit Denver \u2014 Events",
+        "url": "https://www.denver.org/events/"
+      }
+    },
+    {
+      "name": "The 30th Annual Chicano Music Festival is a four-day tribute to the cultural messiahs who keep our culture alive: it is a roots music festival\u2026",
+      "url": "https://www.denver.org/events/",
+      "summary": "Recurring daily The 30th Annual Chicano Music Festival is a four-day tribute to the cultural messiahs who keep our culture alive: it is a roots music festival\u2026 Jul 31",
+      "category": "Music",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Visit Denver \u2014 Events",
+        "url": "https://www.denver.org/events/"
+      }
+    },
+    {
+      "name": "Civic Center NIGHT MARKET: Homegrown Colorado",
+      "url": "https://www.denver.org/events/",
+      "summary": "31 Civic Center NIGHT MARKET: Homegrown Colorado Civic Center Park Join us for a uniquely Colorado celebration as Civic Center NIGHT MARKET: Homegrown Colorado takes over Civic Center Park on July 31. In honor of\u2026",
+      "category": "Community & Outdoor",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Visit Denver \u2014 Events",
+        "url": "https://www.denver.org/events/"
+      }
+    },
+    {
+      "name": "Civic Center Park",
+      "url": "https://www.denver.org/events/",
+      "summary": "Civic Center NIGHT MARKET: Homegrown Colorado Civic Center Park Join us for a uniquely Colorado celebration as Civic Center NIGHT MARKET: Homegrown Colorado takes over Civic Center Park on July 31. In honor of\u2026 Aug",
+      "category": "Community & Outdoor",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Visit Denver \u2014 Events",
+        "url": "https://www.denver.org/events/"
+      }
+    },
+    {
+      "name": "Join us for a uniquely Colorado celebration as Civic Center NIGHT MARKET: Homegrown Colorado takes over Civic Center Park on July 31. In honor of\u2026",
+      "url": "https://www.denver.org/events/",
+      "summary": "Civic Center Park Join us for a uniquely Colorado celebration as Civic Center NIGHT MARKET: Homegrown Colorado takes over Civic Center Park on July 31. In honor of\u2026 Aug 01",
+      "category": "Community & Outdoor",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Visit Denver \u2014 Events",
+        "url": "https://www.denver.org/events/"
+      }
+    }
+  ]
+}

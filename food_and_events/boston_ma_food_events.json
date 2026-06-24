@@ -1,0 +1,555 @@
+{
+  "title": "Boston \u2014 Restaurant Openings & Events",
+  "generated": "2026-06-24T02:02:28Z",
+  "city": "Boston",
+  "tier": "east_coast_mega",
+  "population_m": 4.94,
+  "extraction_method": "rss_first_with_deterministic_classifier_v1",
+  "totals": {
+    "restaurant_openings": 3,
+    "events_calendar": 40
+  },
+  "sources_used": {
+    "restaurant_openings": [
+      "Boston Magazine \u2014 Restaurants",
+      "Boston.com \u2014 Food News",
+      "Eater Boston"
+    ],
+    "events_calendar": []
+  },
+  "sources_failed": [],
+  "raw_html_pages_available": {
+    "restaurant_openings": [],
+    "events_calendar": [
+      "Boston Magazine \u2014 Things to Do",
+      "Meet Boston \u2014 Events",
+      "The Boston Calendar"
+    ]
+  },
+  "restaurant_openings": [
+    {
+      "name": "Here are the James Beard Award Winners From New England",
+      "url": "https://boston.eater.com/restaurant-news/124429/james-beard-award-winners-new-england-boston-rhode-island-maine-connecticut-massachusetts",
+      "summary": "The annual James Beard Awards, often called the Oscars of the food world, returned to Chicago\u2019s Lyric Opera on Monday, June 15. This year, New England took home three awards \u2014 none of them in Boston. Instead, the night\u2019s wins went to the smaller cities that have spent years building ambitious dining scenes of their [\u2026]",
+      "categories": [
+        "Restaurant"
+      ],
+      "published_iso": "2026-06-15",
+      "classification_hint": "opening",
+      "source": {
+        "name": "Eater Boston",
+        "url": "https://boston.eater.com"
+      }
+    },
+    {
+      "name": "A New Era, but the Same Heart, for Urban Hearth",
+      "url": "https://www.bostonmagazine.com/restaurants/2026/06/11/urban-hearth-restaurant-inman-square/",
+      "summary": "Chef and owner Erin Miller calls Urban Hearth an \u201caccidental restaurant,\u201d a formal evolution of Miller\u2019s private dining and catering company that first opened in [\u2026] The post A New Era, but the Same Heart, for Urban Hearth appeared first on Boston Magazine .",
+      "categories": [
+        "Restaurant"
+      ],
+      "published_iso": "2026-06-11",
+      "classification_hint": "opening",
+      "source": {
+        "name": "Boston Magazine \u2014 Restaurants",
+        "url": "https://www.bostonmagazine.com/restaurants/"
+      }
+    },
+    {
+      "name": "The Governor Bradford Is Back\u2014and Provincetown Can Exhale",
+      "url": "https://www.bostonmagazine.com/restaurants/2026/06/02/governor-bradford-provincetown-restaurant-reopening/",
+      "summary": "During a mid-May grand opening party, the new Governor Bradford in Provincetown feels remarkably like the old Governor Bradford. The interior is a bit different, [\u2026] The post The Governor Bradford Is Back\u2014and Provincetown Can Exhale appeared first on Boston Magazine .",
+      "categories": [
+        "Restaurant"
+      ],
+      "published_iso": "2026-06-02",
+      "classification_hint": "opening",
+      "source": {
+        "name": "Boston Magazine \u2014 Restaurants",
+        "url": "https://www.bostonmagazine.com/restaurants/"
+      }
+    }
+  ],
+  "events_calendar": [
+    {
+      "name": "at Charlestown\u2019s The Anchor, which will be showing all 104 matches.",
+      "url": "https://www.bostonmagazine.com/things-to-do/weekend/",
+      "summary": "Boston Watches the World at Charlestown\u2019s The Anchor, which will be showing all 104 matches. Free, through July 19, various locations, Boston area FIFA Fan Festival",
+      "category": "Music",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Boston Magazine \u2014 Things to Do",
+        "url": "https://www.bostonmagazine.com/things-to-do/weekend/"
+      }
+    },
+    {
+      "name": "Free, through July 19, various locations, Boston area",
+      "url": "https://www.bostonmagazine.com/things-to-do/weekend/",
+      "summary": "at Charlestown\u2019s The Anchor, which will be showing all 104 matches. Free, through July 19, various locations, Boston area FIFA Fan Festival For soccer fans who can\u2019t make it to the pricey matches in Foxborough, City Hall Plaza is World Cup central, with livestreamed matches from around the country, live entertainment and DJs, food vendors, and soccer-related activities.",
+      "category": "Music",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Boston Magazine \u2014 Things to Do",
+        "url": "https://www.bostonmagazine.com/things-to-do/weekend/"
+      }
+    },
+    {
+      "name": "FIFA Fan Festival",
+      "url": "https://www.bostonmagazine.com/things-to-do/weekend/",
+      "summary": "Free, through July 19, various locations, Boston area FIFA Fan Festival For soccer fans who can\u2019t make it to the pricey matches in Foxborough, City Hall Plaza is World Cup central, with livestreamed matches from around the country, live entertainment and DJs, food vendors, and soccer-related activities. Free (",
+      "category": "Music",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Boston Magazine \u2014 Things to Do",
+        "url": "https://www.bostonmagazine.com/things-to-do/weekend/"
+      }
+    },
+    {
+      "name": "Honey Honey Moon",
+      "url": "https://www.bostonmagazine.com/things-to-do/weekend/",
+      "summary": "Couplet: Honey Honey Moon With \u201ccatchy songs and Muppet-y energy,\u201d musical comedy duo Couplet tells the over-the-top story of their wedding, intended to be lovely but beset in reality by the Los Angeles area wildfires, bed bugs, and the final boss: a judgmental couples therapist. $40-$44, Saturday and Sunday, June 27-28, Maso Studio, Huntington Theater, 264 Huntington Ave., Boston",
+      "category": "Comedy",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Boston Magazine \u2014 Things to Do",
+        "url": "https://www.bostonmagazine.com/things-to-do/weekend/"
+      }
+    },
+    {
+      "name": "$40-$44, Saturday and Sunday, June 27-28, Maso Studio, Huntington Theater, 264 Huntington Ave., Boston",
+      "url": "https://www.bostonmagazine.com/things-to-do/weekend/",
+      "summary": "With \u201ccatchy songs and Muppet-y energy,\u201d musical comedy duo Couplet tells the over-the-top story of their wedding, intended to be lovely but beset in reality by the Los Angeles area wildfires, bed bugs, and the final boss: a judgmental couples therapist. $40-$44, Saturday and Sunday, June 27-28, Maso Studio, Huntington Theater, 264 Huntington Ave., Boston DANCE Alexandria Nunweiler:",
+      "category": "Comedy",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Boston Magazine \u2014 Things to Do",
+        "url": "https://www.bostonmagazine.com/things-to-do/weekend/"
+      }
+    },
+    {
+      "name": "takes the form of a megachurch service undermined by tension, absurdity, and the most subversive element of all: critical thought.",
+      "url": "https://www.bostonmagazine.com/things-to-do/weekend/",
+      "summary": "SALVAGE takes the form of a megachurch service undermined by tension, absurdity, and the most subversive element of all: critical thought. $25, Thursday through Saturday, June 25-27, Plaza Theater, Boston Center for the Arts, 539 Tremont St., Boston ART",
+      "category": "Art & Exhibits",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Boston Magazine \u2014 Things to Do",
+        "url": "https://www.bostonmagazine.com/things-to-do/weekend/"
+      }
+    },
+    {
+      "name": "$25, Thursday through Saturday, June 25-27, Plaza Theater, Boston Center for the Arts, 539 Tremont St., Boston",
+      "url": "https://www.bostonmagazine.com/things-to-do/weekend/",
+      "summary": "takes the form of a megachurch service undermined by tension, absurdity, and the most subversive element of all: critical thought. $25, Thursday through Saturday, June 25-27, Plaza Theater, Boston Center for the Arts, 539 Tremont St., Boston ART Heather Kapplow:",
+      "category": "Art & Exhibits",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Boston Magazine \u2014 Things to Do",
+        "url": "https://www.bostonmagazine.com/things-to-do/weekend/"
+      }
+    },
+    {
+      "name": "Attach\u00e9: An ASB Group Show",
+      "url": "https://www.bostonmagazine.com/things-to-do/weekend/",
+      "summary": "This participatory pop-up installation brings a campy, inflatable version of heaven to Atlantic Wharf, inviting visitors to \u201ccome as you are and encounter a sanctuary from judgment and an invitation for understanding.\u201d Currently in residence at the Boston Center for the Arts, Heather Kapplow also appears in the Mills Gallery\u2019s exhibition Attach\u00e9: An ASB Group Show . Free, Friday through Sunday, Ju",
+      "category": "Art & Exhibits",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Boston Magazine \u2014 Things to Do",
+        "url": "https://www.bostonmagazine.com/things-to-do/weekend/"
+      }
+    },
+    {
+      "name": "Free, Friday through Sunday, June 26-28, Atlantic Wharf, 290 Congress St., Boston",
+      "url": "https://www.bostonmagazine.com/things-to-do/weekend/",
+      "summary": ". Free, Friday through Sunday, June 26-28, Atlantic Wharf, 290 Congress St., Boston THEATER Smoke",
+      "category": "Theater & Performance",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Boston Magazine \u2014 Things to Do",
+        "url": "https://www.bostonmagazine.com/things-to-do/weekend/"
+      }
+    },
+    {
+      "name": "Pay-what-you-can (Free-$50), Friday through Sunday, June 26-28, Modern Theater, 525 Washington St., Boston",
+      "url": "https://www.bostonmagazine.com/things-to-do/weekend/",
+      "summary": "The Theater Offensive presents the world premiere of Lady Dane Figueroa Edidi\u2019s 1960s-set drama about a mother who takes her young son to live with her grandmother in Washington, D.C., prompting surprising connections, old and new, and unearthing her past in unexpected ways. Pay-what-you-can (Free-$50), Friday through Sunday, June 26-28, Modern Theater, 525 Washington St., Boston Lifetime Warranty",
+      "category": "Comedy",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Boston Magazine \u2014 Things to Do",
+        "url": "https://www.bostonmagazine.com/things-to-do/weekend/"
+      }
+    },
+    {
+      "name": "Lifetime Warranty",
+      "url": "https://www.bostonmagazine.com/things-to-do/weekend/",
+      "summary": "Pay-what-you-can (Free-$50), Friday through Sunday, June 26-28, Modern Theater, 525 Washington St., Boston Lifetime Warranty A new dark comedy produced by the local theater company Little Birdie, Abby Sommers\u2019 Lifetime Warranty",
+      "category": "Comedy",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Boston Magazine \u2014 Things to Do",
+        "url": "https://www.bostonmagazine.com/things-to-do/weekend/"
+      }
+    },
+    {
+      "name": "$34, through Saturday, June 27, Mosesian Center for the Arts, 321 Arsenal St., Watertown",
+      "url": "https://www.bostonmagazine.com/things-to-do/weekend/",
+      "summary": "follows a recent widower, Professor Charles Goldschmidt, in his grief-stricken attempt to return a blender he bought decades ago to the department store where he bought it. In his way stands his daughter, Ellie, who needs the blender, of all things, for a school project. $34, through Saturday, June 27, Mosesian Center for the Arts, 321 Arsenal St., Watertown Delirium The innovative, Massachusetts-",
+      "category": "Theater & Performance",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Boston Magazine \u2014 Things to Do",
+        "url": "https://www.bostonmagazine.com/things-to-do/weekend/"
+      }
+    },
+    {
+      "name": "Delirium",
+      "url": "https://www.bostonmagazine.com/things-to-do/weekend/",
+      "summary": "$34, through Saturday, June 27, Mosesian Center for the Arts, 321 Arsenal St., Watertown Delirium The innovative, Massachusetts-born Arlekin Players Theater takes on Eug\u00e8ne Ionesco in Artistic Director Igor Golyak\u2019s adaptation of the great avant-garde playwright\u2019s Frenzy for Two",
+      "category": "Theater & Performance",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Boston Magazine \u2014 Things to Do",
+        "url": "https://www.bostonmagazine.com/things-to-do/weekend/"
+      }
+    },
+    {
+      "name": "Frenzy for Two",
+      "url": "https://www.bostonmagazine.com/things-to-do/weekend/",
+      "summary": "The innovative, Massachusetts-born Arlekin Players Theater takes on Eug\u00e8ne Ionesco in Artistic Director Igor Golyak\u2019s adaptation of the great avant-garde playwright\u2019s Frenzy for Two , about a couple too busy arguing to notice the destruction happening all around them\u2014but in Golyak\u2019s reading, the fighting both belies and perversely expresses a deeper mutual devotion. $54.50-$156.25, through July 2,",
+      "category": "Theater & Performance",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Boston Magazine \u2014 Things to Do",
+        "url": "https://www.bostonmagazine.com/things-to-do/weekend/"
+      }
+    },
+    {
+      "name": ", about a couple too busy arguing to notice the destruction happening all around them\u2014but in Golyak\u2019s reading, the fighting both belies and perversely expresses a deeper mutual devotion.",
+      "url": "https://www.bostonmagazine.com/things-to-do/weekend/",
+      "summary": "Frenzy for Two , about a couple too busy arguing to notice the destruction happening all around them\u2014but in Golyak\u2019s reading, the fighting both belies and perversely expresses a deeper mutual devotion. $54.50-$156.25, through July 2, Calderwood Pavilion, Boston Center for the Arts, 527 Tremont St., Boston Frankie & Johnny in the Clair de Lune",
+      "category": "Workshops & Talks",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Boston Magazine \u2014 Things to Do",
+        "url": "https://www.bostonmagazine.com/things-to-do/weekend/"
+      }
+    },
+    {
+      "name": "$54.50-$156.25, through July 2, Calderwood Pavilion, Boston Center for the Arts, 527 Tremont St., Boston",
+      "url": "https://www.bostonmagazine.com/things-to-do/weekend/",
+      "summary": ", about a couple too busy arguing to notice the destruction happening all around them\u2014but in Golyak\u2019s reading, the fighting both belies and perversely expresses a deeper mutual devotion. $54.50-$156.25, through July 2, Calderwood Pavilion, Boston Center for the Arts, 527 Tremont St., Boston Frankie & Johnny in the Clair de Lune Broadway actor Julia Murney (",
+      "category": "Theater & Performance",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Boston Magazine \u2014 Things to Do",
+        "url": "https://www.bostonmagazine.com/things-to-do/weekend/"
+      }
+    },
+    {
+      "name": "$55-$63.75, through Sunday, June 28, Plaza Black Box Theater, Boston Center for the Arts, 539 Tremont St., Boston",
+      "url": "https://www.bostonmagazine.com/things-to-do/weekend/",
+      "summary": ") directs Terrence McNally\u2019s love story for the Psych Drama Company. The 1987 play features just the two titular characters, who find themselves with contrasting feelings about each other after a one-night stand\u2014but perhaps there\u2019s a path to a resolution? $55-$63.75, through Sunday, June 28, Plaza Black Box Theater, Boston Center for the Arts, 539 Tremont St., Boston Les Mis\u00e9rables Go figure: the ",
+      "category": "Theater & Performance",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Boston Magazine \u2014 Things to Do",
+        "url": "https://www.bostonmagazine.com/things-to-do/weekend/"
+      }
+    },
+    {
+      "name": "Les Mis\u00e9rables",
+      "url": "https://www.bostonmagazine.com/things-to-do/weekend/",
+      "summary": "$55-$63.75, through Sunday, June 28, Plaza Black Box Theater, Boston Center for the Arts, 539 Tremont St., Boston Les Mis\u00e9rables Go figure: the first critics of this grand tale of ordinary folks swept up in the French Revolution dismissed it as tasteless, overwrought, and tragically ambitious, but today it enjoys a scarcely disputed status as a Broadway classic. This touring production is an exten",
+      "category": "Music",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Boston Magazine \u2014 Things to Do",
+        "url": "https://www.bostonmagazine.com/things-to-do/weekend/"
+      }
+    },
+    {
+      "name": "$62.75-$351.25, through Sunday, June 28, Citizens Opera House, 539 Washington St., Boston",
+      "url": "https://www.bostonmagazine.com/things-to-do/weekend/",
+      "summary": "Go figure: the first critics of this grand tale of ordinary folks swept up in the French Revolution dismissed it as tasteless, overwrought, and tragically ambitious, but today it enjoys a scarcely disputed status as a Broadway classic. This touring production is an extension of producer Cameron Mackintosh\u2019s well-received 2022 revival. $62.75-$351.25, through Sunday, June 28, Citizens Opera House, ",
+      "category": "Music",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Boston Magazine \u2014 Things to Do",
+        "url": "https://www.bostonmagazine.com/things-to-do/weekend/"
+      }
+    },
+    {
+      "name": "In Old Age",
+      "url": "https://www.bostonmagazine.com/things-to-do/weekend/",
+      "summary": "$62.75-$351.25, through Sunday, June 28, Citizens Opera House, 539 Washington St., Boston In Old Age Front Porch Arts Collective and ArtsEmerson take on the eighth and penultimate installment of Boston\u2019s Ufot Family Cycle",
+      "category": "Music",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Boston Magazine \u2014 Things to Do",
+        "url": "https://www.bostonmagazine.com/things-to-do/weekend/"
+      }
+    },
+    {
+      "name": "Harvard Museum of Natural History",
+      "url": "https://www.thebostoncalendar.com",
+      "summary": "Tuesday, Jun 23, 2026 9:00a Harvard Museum of Natural History url Summer Kids' Hour at Boston Public Market",
+      "category": "Community & Outdoor",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "The Boston Calendar",
+        "url": "https://www.thebostoncalendar.com"
+      }
+    },
+    {
+      "name": "Summer Kids' Hour at Boston Public Market",
+      "url": "https://www.thebostoncalendar.com",
+      "summary": "url Summer Kids' Hour at Boston Public Market Tuesday, Jun 23, 2026 10:00a Boston Public Market",
+      "category": "Community & Outdoor",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "The Boston Calendar",
+        "url": "https://www.thebostoncalendar.com"
+      }
+    },
+    {
+      "name": "Tuesday, Jun 23, 2026 10:00a",
+      "url": "https://www.thebostoncalendar.com",
+      "summary": "Summer Kids' Hour at Boston Public Market Tuesday, Jun 23, 2026 10:00a Boston Public Market url",
+      "category": "Community & Outdoor",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "The Boston Calendar",
+        "url": "https://www.thebostoncalendar.com"
+      }
+    },
+    {
+      "name": "Boston Public Market",
+      "url": "https://www.thebostoncalendar.com",
+      "summary": "Tuesday, Jun 23, 2026 10:00a Boston Public Market url Jewelry Shop - Guided Open Studio",
+      "category": "Community & Outdoor",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "The Boston Calendar",
+        "url": "https://www.thebostoncalendar.com"
+      }
+    },
+    {
+      "name": "Cathedral Church of St. Paul",
+      "url": "https://www.thebostoncalendar.com",
+      "summary": "Tuesday, Jun 23, 2026 10:00a Cathedral Church of St. Paul url PhotoWalks Beacon Hill Tour",
+      "category": "Other",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "The Boston Calendar",
+        "url": "https://www.thebostoncalendar.com"
+      }
+    },
+    {
+      "name": "PhotoWalks Beacon Hill Tour",
+      "url": "https://www.thebostoncalendar.com",
+      "summary": "url PhotoWalks Beacon Hill Tour Tuesday, Jun 23, 2026 10:15a Beacon Hill",
+      "category": "Other",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "The Boston Calendar",
+        "url": "https://www.thebostoncalendar.com"
+      }
+    },
+    {
+      "name": "Tuesday, Jun 23, 2026 10:15a",
+      "url": "https://www.thebostoncalendar.com",
+      "summary": "PhotoWalks Beacon Hill Tour Tuesday, Jun 23, 2026 10:15a Beacon Hill url",
+      "category": "Other",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "The Boston Calendar",
+        "url": "https://www.thebostoncalendar.com"
+      }
+    },
+    {
+      "name": "Beyond the Music: Romantic to Contemporary",
+      "url": "https://www.thebostoncalendar.com",
+      "summary": "url Beyond the Music: Romantic to Contemporary Tuesday, Jun 23, 2026 11:00a Shalin Liu Performance Center",
+      "category": "Other",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "The Boston Calendar",
+        "url": "https://www.thebostoncalendar.com"
+      }
+    },
+    {
+      "name": "Tuesday, Jun 23, 2026 11:00a",
+      "url": "https://www.thebostoncalendar.com",
+      "summary": "Beyond the Music: Romantic to Contemporary Tuesday, Jun 23, 2026 11:00a Shalin Liu Performance Center url",
+      "category": "Other",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "The Boston Calendar",
+        "url": "https://www.thebostoncalendar.com"
+      }
+    },
+    {
+      "name": "Shalin Liu Performance Center",
+      "url": "https://www.thebostoncalendar.com",
+      "summary": "Tuesday, Jun 23, 2026 11:00a Shalin Liu Performance Center url Frog Pond Spray Pool Opening 2026",
+      "category": "Other",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "The Boston Calendar",
+        "url": "https://www.thebostoncalendar.com"
+      }
+    },
+    {
+      "name": "Frog Pond Spray Pool",
+      "url": "https://www.thebostoncalendar.com",
+      "summary": "Tuesday, Jun 23, 2026 11:00a Frog Pond Spray Pool url Copley Square Farmers Market",
+      "category": "Community & Outdoor",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "The Boston Calendar",
+        "url": "https://www.thebostoncalendar.com"
+      }
+    },
+    {
+      "name": "Copley Square Farmers Market",
+      "url": "https://www.thebostoncalendar.com",
+      "summary": "url Copley Square Farmers Market Tuesday, Jun 23, 2026 11:00a Copley Square Park",
+      "category": "Community & Outdoor",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "The Boston Calendar",
+        "url": "https://www.thebostoncalendar.com"
+      }
+    },
+    {
+      "name": "Copley Square Park",
+      "url": "https://www.thebostoncalendar.com",
+      "summary": "Tuesday, Jun 23, 2026 11:00a Copley Square Park url A Taste of the Freedom Trail: Boston's Iconic Food & History Tour",
+      "category": "Other",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "The Boston Calendar",
+        "url": "https://www.thebostoncalendar.com"
+      }
+    },
+    {
+      "name": "A Taste of the Freedom Trail: Boston's Iconic Food & History Tour",
+      "url": "https://www.thebostoncalendar.com",
+      "summary": "url A Taste of the Freedom Trail: Boston's Iconic Food & History Tour Tuesday, Jun 23, 2026 11:00a Exact Meeting Location Provided at Time of Ticket Purchase",
+      "category": "Other",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "The Boston Calendar",
+        "url": "https://www.thebostoncalendar.com"
+      }
+    },
+    {
+      "name": "Exact Meeting Location Provided at Time of Ticket Purchase",
+      "url": "https://www.thebostoncalendar.com",
+      "summary": "Tuesday, Jun 23, 2026 11:00a Exact Meeting Location Provided at Time of Ticket Purchase url Market to Table at OAK",
+      "category": "Community & Outdoor",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "The Boston Calendar",
+        "url": "https://www.thebostoncalendar.com"
+      }
+    },
+    {
+      "name": "Market to Table at OAK",
+      "url": "https://www.thebostoncalendar.com",
+      "summary": "url Market to Table at OAK Tuesday, Jun 23, 2026 11:30a OAK Long Bar + Kitchen",
+      "category": "Community & Outdoor",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "The Boston Calendar",
+        "url": "https://www.thebostoncalendar.com"
+      }
+    },
+    {
+      "name": "Tuesday, Jun 23, 2026 11:30a",
+      "url": "https://www.thebostoncalendar.com",
+      "summary": "Market to Table at OAK Tuesday, Jun 23, 2026 11:30a OAK Long Bar + Kitchen url",
+      "category": "Community & Outdoor",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "The Boston Calendar",
+        "url": "https://www.thebostoncalendar.com"
+      }
+    },
+    {
+      "name": "Kathryn Schultz Gallery",
+      "url": "https://www.thebostoncalendar.com",
+      "summary": "Tuesday, Jun 23, 2026 12:30p Kathryn Schultz Gallery url PhotoWalks Freedom Trail tour",
+      "category": "Art & Exhibits",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "The Boston Calendar",
+        "url": "https://www.thebostoncalendar.com"
+      }
+    },
+    {
+      "name": "PhotoWalks Freedom Trail tour",
+      "url": "https://www.thebostoncalendar.com",
+      "summary": "url PhotoWalks Freedom Trail tour Tuesday, Jun 23, 2026 1:15p Park Street Church",
+      "category": "Other",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "The Boston Calendar",
+        "url": "https://www.thebostoncalendar.com"
+      }
+    },
+    {
+      "name": "Tuesday, Jun 23, 2026 1:15p",
+      "url": "https://www.thebostoncalendar.com",
+      "summary": "PhotoWalks Freedom Trail tour Tuesday, Jun 23, 2026 1:15p Park Street Church url",
+      "category": "Other",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "The Boston Calendar",
+        "url": "https://www.thebostoncalendar.com"
+      }
+    }
+  ]
+}

@@ -1,0 +1,490 @@
+{
+  "title": "Chicago \u2014 Restaurant Openings & Events",
+  "generated": "2026-06-24T02:02:28Z",
+  "city": "Chicago",
+  "tier": "in_between_mega",
+  "population_m": 9.26,
+  "extraction_method": "rss_first_with_deterministic_classifier_v1",
+  "totals": {
+    "restaurant_openings": 5,
+    "events_calendar": 31
+  },
+  "sources_used": {
+    "restaurant_openings": [
+      "Eater Chicago"
+    ],
+    "events_calendar": [
+      "Block Club Chicago",
+      "Chicago Reader \u2014 Events"
+    ]
+  },
+  "sources_failed": [
+    {
+      "name": "Chicago Tribune \u2014 Dining",
+      "url": "https://www.chicagotribune.com/dining/",
+      "content_type": "restaurant_openings",
+      "error": "HTTP 403"
+    },
+    {
+      "name": "The Infatuation Chicago",
+      "url": "https://www.theinfatuation.com/chicago/guides/new-restaurants-chicago",
+      "content_type": "restaurant_openings",
+      "error": "HTTP 404"
+    }
+  ],
+  "raw_html_pages_available": {
+    "restaurant_openings": [],
+    "events_calendar": [
+      "Time Out Chicago \u2014 Events Calendar",
+      "Choose Chicago \u2014 Events"
+    ]
+  },
+  "restaurant_openings": [
+    {
+      "name": "Chicago Wins One Medal During the 2026 James Beard Awards",
+      "url": "https://chicago.eater.com/restaurant-news/168329/feld-jake-potashnick-james-beard-award-winner-best-chef-great-lakes2026",
+      "summary": "Chef Jacob Potashnick of the highly ambitious Ukrainian Village restaurant Feld brought home Chicago\u2019s lone James Beard Award for 2026. Potashnick earned his medal in the Best Chef: Great Lakes category, where he faced off against a fleet of top talents, including fellow Chicago chef Norman Fenton of Michelin-recognized Latin restaurant Cari\u00f1o, Vinnie Cimino of [\u2026]",
+      "categories": [
+        "Restaurant"
+      ],
+      "published_iso": "2026-06-15",
+      "classification_hint": "opening",
+      "source": {
+        "name": "Eater Chicago",
+        "url": "https://chicago.eater.com"
+      }
+    },
+    {
+      "name": "Chicago\u2019s Most Anticipated Restaurant Openings of Summer 2026",
+      "url": "https://chicago.eater.com/restaurant-news/168286/biggest-new-restaurant-bar-openings-chicago-summer-2026",
+      "summary": "While Chicago summers are typically reserved for festivals and anywhere with access to the great outdoors, there\u2019s a slate of new restaurant openings on the horizon that are equally worthy of attention. Bonus: Some even have patios of their own. As with some recent additions to Chicago\u2019s hospitality scene, these newcomers don\u2019t limit themselves to [\u2026]",
+      "categories": [
+        "Restaurant"
+      ],
+      "published_iso": "2026-06-11",
+      "classification_hint": "opening",
+      "source": {
+        "name": "Eater Chicago",
+        "url": "https://chicago.eater.com"
+      }
+    },
+    {
+      "name": "11 Chicago Restaurant and Bar Openings to Know in June",
+      "url": "https://chicago.eater.com/restaurant-news/168251/chicago-new-restaurant-bar-openings-june-2026",
+      "summary": "Chicago\u2019s restaurant openings roundup is your resource to find out what\u2019s on its way in . The list is by no means comprehensive. Have information on another opening? Send all tips to chicago@eater.com. LINCOLN PARK\u2014 On the edge of Oz Park sits Paper Tiger, a new North Side cafe serving coffee, tea, and frozen matcha [\u2026]",
+      "categories": [
+        "Bar & Cocktails",
+        "Caf\u00e9 & Coffee"
+      ],
+      "published_iso": "2026-06-09",
+      "classification_hint": "opening",
+      "source": {
+        "name": "Eater Chicago",
+        "url": "https://chicago.eater.com"
+      }
+    },
+    {
+      "name": "A New Chicago Bakery Channels France With an Edge",
+      "url": "https://chicago.eater.com/restaurant-news/168109/guillotine-bakery-new-opening-french-pastry-bread-west-town",
+      "summary": "Walking into West Town\u2019s Guillotine Bakery it\u2019s hard to know where to look first. There\u2019s the sparkly copper U-shaped counter near the front door. Above it hangs six industrial lights emitting a soft yellow glow. An old link chain is delicately draped on one of the earth-toned, color-washed walls. But come Wednesday, June 17, when [\u2026]",
+      "categories": [
+        "Bakery"
+      ],
+      "published_iso": "2026-06-03",
+      "classification_hint": "opening",
+      "source": {
+        "name": "Eater Chicago",
+        "url": "https://chicago.eater.com"
+      }
+    },
+    {
+      "name": "An Expansive New Waterfront Restaurant Settles in Along the Chicago River",
+      "url": "https://chicago.eater.com/openings/168044/naia-new-chicago-river-restaurant-opening-waterfront-greek-levantine-dineamic",
+      "summary": "For years, Prime & Provisions owners Luke Stoioff and David Rekhson would look out from their downtown steakhouse towards the north bank of the Chicago River and ask themselves, \u2018What if?\u2019 Across multi-lane Wabash Avenue and over the river sat a space with spectacular views \u2014 a basement cafeteria that catered to the workers in [\u2026]",
+      "categories": [
+        "Caf\u00e9 & Coffee",
+        "Steakhouse"
+      ],
+      "published_iso": "2026-05-28",
+      "classification_hint": "opening",
+      "source": {
+        "name": "Eater Chicago",
+        "url": "https://chicago.eater.com"
+      }
+    }
+  ],
+  "events_calendar": [
+    {
+      "name": "After Devastating Fire, Owner Of Jay\u2019s Backyard BBQ In Austin Looks To Rebuild",
+      "url": "https://blockclubchicago.org/2026/06/23/after-devastating-fire-owner-of-jays-backyard-bbq-in-austin-looks-to-rebuild/",
+      "summary": "A kitchen fire on Friday destroyed much of Jay Young\u2019s 7-year-old restaurant as well as neighboring businesses. A fundraiser has been launched to help Young with repairs.",
+      "category": "Other",
+      "published_iso": "2026-06-23",
+      "classification_hint": "event",
+      "source": {
+        "name": "Block Club Chicago",
+        "url": "https://blockclubchicago.org"
+      }
+    },
+    {
+      "name": "Leopoldstadt is a monumental final gift from Tom Stoppard",
+      "url": "https://chicagoreader.com/performing-arts/theater/theater-review/leopoldstadt-writers-theatre/",
+      "summary": "Leopoldstadt , through 8/16 at Writers Theatre The post <i>Leopoldstadt</i> is a monumental final gift from Tom Stoppard appeared first on Chicago Reader .",
+      "category": "Theater & Performance",
+      "published_iso": "2026-06-18",
+      "classification_hint": "event",
+      "source": {
+        "name": "Chicago Reader \u2014 Events",
+        "url": "https://chicagoreader.com/events/"
+      }
+    },
+    {
+      "name": "Untitled Vampire Play is a toothsome delight at Lookingglass",
+      "url": "https://chicagoreader.com/performing-arts/theater/theater-review/untitled-vampire-play-lookingglass-theatre/",
+      "summary": "Untitled Vampire Play , through 7/12 at Lookingglass Theatre The post <i>Untitled Vampire Play</i> is a toothsome delight at Lookingglass appeared first on Chicago Reader .",
+      "category": "Theater & Performance",
+      "published_iso": "2026-06-18",
+      "classification_hint": "event",
+      "source": {
+        "name": "Chicago Reader \u2014 Events",
+        "url": "https://chicagoreader.com/events/"
+      }
+    },
+    {
+      "name": "Two Out of Three Falls is a cunning look at kayfabe",
+      "url": "https://chicagoreader.com/performing-arts/theater/theater-review/two-out-of-three-falls-factory-theater/",
+      "summary": "Two Out of Three Falls , through 7/18 at Factory Theater The post <i>Two Out of Three Falls</i> is a cunning look at kayfabe appeared first on Chicago Reader .",
+      "category": "Theater & Performance",
+      "published_iso": "2026-06-18",
+      "classification_hint": "event",
+      "source": {
+        "name": "Chicago Reader \u2014 Events",
+        "url": "https://chicagoreader.com/events/"
+      }
+    },
+    {
+      "name": "Two families face minor irritations and major cataclysms in Catch as Catch Can",
+      "url": "https://chicagoreader.com/performing-arts/theater/theater-review/catch-as-catch-can-steppenwolf-theatre/",
+      "summary": "Catch as Catch Can , through 7/12 at Steppenwolf Theatre The post Two families face minor irritations and major cataclysms in <i>Catch as Catch Can</i> appeared first on Chicago Reader .",
+      "category": "Theater & Performance",
+      "published_iso": "2026-06-18",
+      "classification_hint": "event",
+      "source": {
+        "name": "Chicago Reader \u2014 Events",
+        "url": "https://chicagoreader.com/events/"
+      }
+    },
+    {
+      "name": "Southern Rapture tackles the culture wars",
+      "url": "https://chicagoreader.com/performing-arts/theater/theater-review/southern-rapture-tin-drum-theatre/",
+      "summary": "Southern Rapture , through 6/28, Tin Drum Theatre at Theater Wit The post <i>Southern Rapture</i> tackles the culture wars appeared first on Chicago Reader .",
+      "category": "Theater & Performance",
+      "published_iso": "2026-06-18",
+      "classification_hint": "event",
+      "source": {
+        "name": "Chicago Reader \u2014 Events",
+        "url": "https://chicagoreader.com/events/"
+      }
+    },
+    {
+      "name": "The Elephant Man explores the real-life story of John Merrick",
+      "url": "https://chicagoreader.com/performing-arts/theater/theater-review/elephant-man-surging-films-and-theatrics/",
+      "summary": "The Elephant Man , through 6/28, Surging Films & Theatrics at Theater Wit The post <i>The Elephant Man</i> explores the real-life story of John Merrick appeared first on Chicago Reader .",
+      "category": "Theater & Performance",
+      "published_iso": "2026-06-18",
+      "classification_hint": "event",
+      "source": {
+        "name": "Chicago Reader \u2014 Events",
+        "url": "https://chicagoreader.com/events/"
+      }
+    },
+    {
+      "name": "Rated Q remains an unquestionable success",
+      "url": "https://chicagoreader.com/film-tv/movie-feature/rated-q-ramona-slick-drag-music-box-theatre/",
+      "summary": "On a bitter winter night in 2023, I settled in at the Music Box Theatre with my best friend to enjoy my first ever Rated Q screening: Twilight (2008). It\u2019s a night I cherish deeply and recount often as one of my most unique movie outings, and since then, I\u2019ve regularly brought new people to [\u2026] The post Rated Q remains an unquestionable success appeared first on Chicago Reader .",
+      "category": "Theater & Performance",
+      "published_iso": "2026-06-17",
+      "classification_hint": "event_no_date",
+      "source": {
+        "name": "Chicago Reader \u2014 Events",
+        "url": "https://chicagoreader.com/events/"
+      }
+    },
+    {
+      "name": "Things to do",
+      "url": "https://www.timeout.com/chicago/events-calendar",
+      "summary": "August 2026 events Things to do September 2026 events Show more",
+      "category": "Other",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Time Out Chicago \u2014 Events Calendar",
+        "url": "https://www.timeout.com/chicago/events-calendar"
+      }
+    },
+    {
+      "name": "September 2026 events",
+      "url": "https://www.timeout.com/chicago/events-calendar",
+      "summary": "Things to do September 2026 events Show more Enter email address",
+      "category": "Other",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Time Out Chicago \u2014 Events Calendar",
+        "url": "https://www.timeout.com/chicago/events-calendar"
+      }
+    },
+    {
+      "name": "Show more",
+      "url": "https://www.timeout.com/chicago/events-calendar",
+      "summary": "September 2026 events Show more Enter email address D\u00e9j\u00e0 vu! We already have this email. Try another?",
+      "category": "Other",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Time Out Chicago \u2014 Events Calendar",
+        "url": "https://www.timeout.com/chicago/events-calendar"
+      }
+    },
+    {
+      "name": "Theatre & Performing Arts",
+      "url": "https://www.choosechicago.com/events/",
+      "summary": "23 Theatre & Performing Arts Theater of the Mind Now through July 12, 2026 Multiple experiences per day at the Reid Murdoch Building, 333 N LaSalle Visit TheateroftheMindChicago.com for dates, times, and tickets Created\u2026",
+      "category": "Theater & Performance",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Choose Chicago \u2014 Events",
+        "url": "https://www.choosechicago.com/events/"
+      }
+    },
+    {
+      "name": "Theater of the Mind",
+      "url": "https://www.choosechicago.com/events/",
+      "summary": "Theatre & Performing Arts Theater of the Mind Now through July 12, 2026 Multiple experiences per day at the Reid Murdoch Building, 333 N LaSalle Visit TheateroftheMindChicago.com for dates, times, and tickets Created\u2026 Event details",
+      "category": "Theater & Performance",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Choose Chicago \u2014 Events",
+        "url": "https://www.choosechicago.com/events/"
+      }
+    },
+    {
+      "name": "Now through July 12, 2026 Multiple experiences per day at the Reid Murdoch Building, 333 N LaSalle Visit TheateroftheMindChicago.com for dates, times, and tickets Created\u2026",
+      "url": "https://www.choosechicago.com/events/",
+      "summary": "Theater of the Mind Now through July 12, 2026 Multiple experiences per day at the Reid Murdoch Building, 333 N LaSalle Visit TheateroftheMindChicago.com for dates, times, and tickets Created\u2026 Event details Tuesday",
+      "category": "Theater & Performance",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Choose Chicago \u2014 Events",
+        "url": "https://www.choosechicago.com/events/"
+      }
+    },
+    {
+      "name": "Event details",
+      "url": "https://www.choosechicago.com/events/",
+      "summary": "Now through July 12, 2026 Multiple experiences per day at the Reid Murdoch Building, 333 N LaSalle Visit TheateroftheMindChicago.com for dates, times, and tickets Created\u2026 Event details Tuesday , June 23rd",
+      "category": "Theater & Performance",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Choose Chicago \u2014 Events",
+        "url": "https://www.choosechicago.com/events/"
+      }
+    },
+    {
+      "name": "NoMI Gallery Presents: \u842c\u7269\u751f\u8f1d Everything is Bright. All Things are Beautiful. NoMI is proud to present a curated exhibition by contemporary artist Dwight Hwang, whose\u2026",
+      "url": "https://www.choosechicago.com/events/",
+      "summary": "NoMI Gallery | Everything is Bright. All Things are Beautiful. NoMI Gallery Presents: \u842c\u7269\u751f\u8f1d Everything is Bright. All Things are Beautiful. NoMI is proud to present a curated exhibition by contemporary artist Dwight Hwang, whose\u2026 Event details Tuesday",
+      "category": "Art & Exhibits",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Choose Chicago \u2014 Events",
+        "url": "https://www.choosechicago.com/events/"
+      }
+    },
+    {
+      "name": "The new public art exhibit We the People: Life, Liberty and the Pursuit of Beauty in Greektown Chicago celebrates the 250th anniversary of the Declaration\u2026",
+      "url": "https://www.choosechicago.com/events/",
+      "summary": "We the People: Life, Liberty and the Pursuit of Beauty in Greektown Chicago The new public art exhibit We the People: Life, Liberty and the Pursuit of Beauty in Greektown Chicago celebrates the 250th anniversary of the Declaration\u2026 Event details Tuesday",
+      "category": "Art & Exhibits",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Choose Chicago \u2014 Events",
+        "url": "https://www.choosechicago.com/events/"
+      }
+    },
+    {
+      "name": "S. Michigan Avenue",
+      "url": "https://www.choosechicago.com/events/",
+      "summary": "Fine Arts Building \u2013 Studebaker Theater 410 S. Michigan Avenue Jun 23",
+      "category": "Theater & Performance",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Choose Chicago \u2014 Events",
+        "url": "https://www.choosechicago.com/events/"
+      }
+    },
+    {
+      "name": "Eight artists invite you to an exhibition of refined and personal work. Hosted in the historic gallery of the Palette & Chisel Academy of Fine\u2026",
+      "url": "https://www.choosechicago.com/events/",
+      "summary": "Art Exhibition: Sharing Space Eight artists invite you to an exhibition of refined and personal work. Hosted in the historic gallery of the Palette & Chisel Academy of Fine\u2026 Event details Tuesday",
+      "category": "Art & Exhibits",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Choose Chicago \u2014 Events",
+        "url": "https://www.choosechicago.com/events/"
+      }
+    },
+    {
+      "name": "Music & Comedy",
+      "url": "https://www.choosechicago.com/events/",
+      "summary": "23 Music & Comedy Joji \u2013 Solaris Tour Joji is scheduled to perform in Chicago on Tuesday, June 23, 2026, as part of his newly announced SOLARIS global arena tour. Special Guests: The\u2026",
+      "category": "Comedy",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Choose Chicago \u2014 Events",
+        "url": "https://www.choosechicago.com/events/"
+      }
+    },
+    {
+      "name": "Joji \u2013 Solaris Tour",
+      "url": "https://www.choosechicago.com/events/",
+      "summary": "Music & Comedy Joji \u2013 Solaris Tour Joji is scheduled to perform in Chicago on Tuesday, June 23, 2026, as part of his newly announced SOLARIS global arena tour. Special Guests: The\u2026 West Loop",
+      "category": "Comedy",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Choose Chicago \u2014 Events",
+        "url": "https://www.choosechicago.com/events/"
+      }
+    },
+    {
+      "name": "Joji is scheduled to perform in Chicago on Tuesday, June 23, 2026, as part of his newly announced SOLARIS global arena tour. Special Guests: The\u2026",
+      "url": "https://www.choosechicago.com/events/",
+      "summary": "Joji \u2013 Solaris Tour Joji is scheduled to perform in Chicago on Tuesday, June 23, 2026, as part of his newly announced SOLARIS global arena tour. Special Guests: The\u2026 West Loop Event details",
+      "category": "Art & Exhibits",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Choose Chicago \u2014 Events",
+        "url": "https://www.choosechicago.com/events/"
+      }
+    },
+    {
+      "name": "West Loop",
+      "url": "https://www.choosechicago.com/events/",
+      "summary": "Joji is scheduled to perform in Chicago on Tuesday, June 23, 2026, as part of his newly announced SOLARIS global arena tour. Special Guests: The\u2026 West Loop Event details Tuesday",
+      "category": "Art & Exhibits",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Choose Chicago \u2014 Events",
+        "url": "https://www.choosechicago.com/events/"
+      }
+    },
+    {
+      "name": "W. Randolph St.",
+      "url": "https://www.choosechicago.com/events/",
+      "summary": "James M. Nederlander Theatre 24 W. Randolph St. Jun 23",
+      "category": "Theater & Performance",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Choose Chicago \u2014 Events",
+        "url": "https://www.choosechicago.com/events/"
+      }
+    },
+    {
+      "name": "Steppenwolf Theatre Company",
+      "url": "https://www.choosechicago.com/events/",
+      "summary": "See all events in series Steppenwolf Theatre Company Jun 23",
+      "category": "Theater & Performance",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Choose Chicago \u2014 Events",
+        "url": "https://www.choosechicago.com/events/"
+      }
+    },
+    {
+      "name": "Iceboy! The Musical",
+      "url": "https://www.choosechicago.com/events/",
+      "summary": "Theatre & Performing Arts Iceboy! The Musical Starts June 20 Extended by Popular Demand Through August 9! MUSIC BY MARK HOLLMANN LYRICS BY MARK HOLLMANN AND JAY REISS BOOK BY ERIN QUINN\u2026 Loop",
+      "category": "Theater & Performance",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Choose Chicago \u2014 Events",
+        "url": "https://www.choosechicago.com/events/"
+      }
+    },
+    {
+      "name": "Starts June 20 Extended by Popular Demand Through August 9! MUSIC BY MARK HOLLMANN LYRICS BY MARK HOLLMANN AND JAY REISS BOOK BY ERIN QUINN\u2026",
+      "url": "https://www.choosechicago.com/events/",
+      "summary": "Iceboy! The Musical Starts June 20 Extended by Popular Demand Through August 9! MUSIC BY MARK HOLLMANN LYRICS BY MARK HOLLMANN AND JAY REISS BOOK BY ERIN QUINN\u2026 Loop Event details",
+      "category": "Theater & Performance",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Choose Chicago \u2014 Events",
+        "url": "https://www.choosechicago.com/events/"
+      }
+    },
+    {
+      "name": "N. Dearborn St.",
+      "url": "https://www.choosechicago.com/events/",
+      "summary": "Goodman Theatre 170 N. Dearborn St. Jun 23",
+      "category": "Theater & Performance",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Choose Chicago \u2014 Events",
+        "url": "https://www.choosechicago.com/events/"
+      }
+    },
+    {
+      "name": "The Human League, Soft Cell & Alison Moyet \u2013 The Generations Tour",
+      "url": "https://www.choosechicago.com/events/",
+      "summary": "Music & Comedy The Human League, Soft Cell & Alison Moyet \u2013 The Generations Tour The Human League, Soft Cell, and Alison Moyet are co-headlining The Generations Tour 2026, which stops in Chicago on Tuesday, June 23, 2026. This \u201conce\u2026 Loop",
+      "category": "Comedy",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Choose Chicago \u2014 Events",
+        "url": "https://www.choosechicago.com/events/"
+      }
+    },
+    {
+      "name": "The Human League, Soft Cell, and Alison Moyet are co-headlining The Generations Tour 2026, which stops in Chicago on Tuesday, June 23, 2026. This \u201conce\u2026",
+      "url": "https://www.choosechicago.com/events/",
+      "summary": "The Human League, Soft Cell & Alison Moyet \u2013 The Generations Tour The Human League, Soft Cell, and Alison Moyet are co-headlining The Generations Tour 2026, which stops in Chicago on Tuesday, June 23, 2026. This \u201conce\u2026 Loop Event details",
+      "category": "Other",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Choose Chicago \u2014 Events",
+        "url": "https://www.choosechicago.com/events/"
+      }
+    },
+    {
+      "name": "N. State",
+      "url": "https://www.choosechicago.com/events/",
+      "summary": "The Chicago Theatre 175 N. State Jun 23",
+      "category": "Theater & Performance",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Choose Chicago \u2014 Events",
+        "url": "https://www.choosechicago.com/events/"
+      }
+    }
+  ]
+}

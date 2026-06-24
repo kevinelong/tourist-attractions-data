@@ -1,0 +1,61 @@
+{
+  "title": "Nashville \u2014 Restaurant Openings & Events",
+  "generated": "2026-06-24T02:02:28Z",
+  "city": "Nashville",
+  "tier": "in_between_mega",
+  "population_m": 2.16,
+  "extraction_method": "rss_first_with_deterministic_classifier_v1",
+  "totals": {
+    "restaurant_openings": 1,
+    "events_calendar": 0
+  },
+  "sources_used": {
+    "restaurant_openings": [
+      "Eater Nashville"
+    ],
+    "events_calendar": []
+  },
+  "sources_failed": [
+    {
+      "name": "Nashville Scene \u2014 Food",
+      "url": "https://www.nashvillescene.com/food_drink/",
+      "content_type": "restaurant_openings",
+      "error": "HTTP 429"
+    },
+    {
+      "name": "Nashville Scene \u2014 Calendar",
+      "url": "https://www.nashvillescene.com/calendar/",
+      "content_type": "events_calendar",
+      "error": "HTTP 429"
+    },
+    {
+      "name": "Nashville Lifestyles",
+      "url": "https://nashvillelifestyles.com/food-drink/",
+      "content_type": "restaurant_openings",
+      "error": "HTTP 404"
+    }
+  ],
+  "raw_html_pages_available": {
+    "restaurant_openings": [],
+    "events_calendar": [
+      "Nashville Downtown \u2014 Events"
+    ]
+  },
+  "restaurant_openings": [
+    {
+      "name": "Nashville\u2019s Jake Howell Gets a James Beard Award for Best Chef: Southeast",
+      "url": "https://nashville.eater.com/restaurant-news/24835/jake-howell-james-beard-award-best-chef-southeast",
+      "summary": "Jake Howell has received the prestigious James Beard Award in the category of Best Chef: Southeast. The chef from Nashville\u2019s acclaimed Iberian restaurant Peninsula was the city\u2019s only finalist for the awards, sometimes nicknamed the \u201cOscars\u201d of the food world. Winners were announced at a ceremony yesterday evening in Chicago. Howell faced stiff competition in [\u2026]",
+      "categories": [
+        "Restaurant"
+      ],
+      "published_iso": "2025-06-17",
+      "classification_hint": "opening",
+      "source": {
+        "name": "Eater Nashville",
+        "url": "https://nashville.eater.com"
+      }
+    }
+  ],
+  "events_calendar": []
+}

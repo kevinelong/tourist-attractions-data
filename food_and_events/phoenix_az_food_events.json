@@ -1,0 +1,416 @@
+{
+  "title": "Phoenix \u2014 Restaurant Openings & Events",
+  "generated": "2026-06-24T02:02:28Z",
+  "city": "Phoenix",
+  "tier": "in_between_mega",
+  "population_m": 5.07,
+  "extraction_method": "rss_first_with_deterministic_classifier_v1",
+  "totals": {
+    "restaurant_openings": 7,
+    "events_calendar": 24
+  },
+  "sources_used": {
+    "restaurant_openings": [],
+    "events_calendar": []
+  },
+  "sources_failed": [],
+  "raw_html_pages_available": {
+    "restaurant_openings": [
+      "Phoenix New Times \u2014 Restaurants"
+    ],
+    "events_calendar": [
+      "Phoenix New Times \u2014 Events",
+      "Visit Phoenix \u2014 Events"
+    ]
+  },
+  "restaurant_openings": [
+    {
+      "name": "FOOD",
+      "url": "https://www.phoenixnewtimes.com/restaurants",
+      "summary": "ding FOOD & DRINK Beaver believers flocked to Buc-ee\u2019s. What\u2019s up with the gas station cult? Summer\u2019s here. These 8 Phoenix restaurants are taking a break The most anticipated new Phoenix restaurants opening this summer Photos: Fans camped out as Arizona\u2019s first Buc-ee\u2019s officially opened Over 770,000 children no longer receive SNAP after Trump changes food program advertisement Restaurants Summer",
+      "categories": [
+        "Restaurant"
+      ],
+      "published_iso": null,
+      "classification_hint": "opening_from_html_listing",
+      "source": {
+        "name": "Phoenix New Times \u2014 Restaurants",
+        "url": "https://www.phoenixnewtimes.com/restaurants"
+      }
+    },
+    {
+      "name": "Summer\u2019s",
+      "url": "https://www.phoenixnewtimes.com/restaurants",
+      "summary": "ion cult? Summer\u2019s here. These 8 Phoenix restaurants are taking a break The most anticipated new Phoenix restaurants opening this summer Photos: Fans camped out as Arizona\u2019s first Buc-ee\u2019s officially opened Over 770,000 children no longer receive SNAP after Trump changes food program advertisement Restaurants Summer\u2019s here. These 8 Phoenix restaurants are taking a break By Sara Crocker Restaurants",
+      "categories": [
+        "Restaurant"
+      ],
+      "published_iso": null,
+      "classification_hint": "opening_from_html_listing",
+      "source": {
+        "name": "Phoenix New Times \u2014 Restaurants",
+        "url": "https://www.phoenixnewtimes.com/restaurants"
+      }
+    },
+    {
+      "name": "SNAP",
+      "url": "https://www.phoenixnewtimes.com/restaurants",
+      "summary": "SNAP after Trump changes food program advertisement Restaurants Summer\u2019s here. These 8 Phoenix restaurants are taking a break By Sara Crocker Restaurants The most anticipated new Phoenix restaurants opening this summer By Sara Crocker Shops & Markets Photos: Fans camped out as Arizona\u2019s first Buc-ee\u2019s officially opened By Zach Oden and Others advertisement GET MORE COVERAGE LIKE THIS Sign up for o",
+      "categories": [
+        "Restaurant"
+      ],
+      "published_iso": null,
+      "classification_hint": "opening_from_html_listing",
+      "source": {
+        "name": "Phoenix New Times \u2014 Restaurants",
+        "url": "https://www.phoenixnewtimes.com/restaurants"
+      }
+    },
+    {
+      "name": "By Sara Crocker\nRestaurants\nThe",
+      "url": "https://www.phoenixnewtimes.com/restaurants",
+      "summary": "ing a break By Sara Crocker Restaurants The most anticipated new Phoenix restaurants opening this summer By Sara Crocker Shops & Markets Photos: Fans camped out as Arizona\u2019s first Buc-ee\u2019s officially opened By Zach Oden and Others advertisement GET MORE COVERAGE LIKE THIS Sign up for our Food & Drink newsletter to get the latest stories delivered to your inbox. Email * SIGN UP Notice of Collection",
+      "categories": [
+        "Restaurant"
+      ],
+      "published_iso": null,
+      "classification_hint": "opening_from_html_listing",
+      "source": {
+        "name": "Phoenix New Times \u2014 Restaurants",
+        "url": "https://www.phoenixnewtimes.com/restaurants"
+      }
+    },
+    {
+      "name": "Black",
+      "url": "https://www.phoenixnewtimes.com/restaurants",
+      "summary": "g food at these 43 Black-owned restaurants in Phoenix By New Times Staff Bars & Breweries Controversial Mesa brewery closes, teases new concept By Sara Crocker Bars & Breweries Scottsdale couple aims to open second Valley women\u2019s sports bar By Sara Crocker Shops & Markets A guide to Buc-ee\u2019s opening day in Goodyear By Tirion Boan Restaurants Celebrate Juneteenth at these Valley food and drinks eve",
+      "categories": [
+        "Bar & Cocktails"
+      ],
+      "published_iso": null,
+      "classification_hint": "opening_from_html_listing",
+      "source": {
+        "name": "Phoenix New Times \u2014 Restaurants",
+        "url": "https://www.phoenixnewtimes.com/restaurants"
+      }
+    },
+    {
+      "name": "Mesa",
+      "url": "https://www.phoenixnewtimes.com/restaurants",
+      "summary": "troversial Mesa brewery closes, teases new concept By Sara Crocker Bars & Breweries Scottsdale couple aims to open second Valley women\u2019s sports bar By Sara Crocker Shops & Markets A guide to Buc-ee\u2019s opening day in Goodyear By Tirion Boan Restaurants Celebrate Juneteenth at these Valley food and drinks events By Tirion Boan Restaurants Scottsdale restaurant owners fire back in dispute over Liquor ",
+      "categories": [
+        "Bar & Cocktails"
+      ],
+      "published_iso": null,
+      "classification_hint": "opening_from_html_listing",
+      "source": {
+        "name": "Phoenix New Times \u2014 Restaurants",
+        "url": "https://www.phoenixnewtimes.com/restaurants"
+      }
+    },
+    {
+      "name": "Phoenix",
+      "url": "https://www.phoenixnewtimes.com/restaurants",
+      "summary": "taurants 11 Phoenix restaurants to treat dad on Father\u2019s Day By Tirion Boan Restaurants Arizona workers no longer have to pay taxes on tips By Sara Crocker Restaurants Affordable, Americana-style bar opens downtown. Take a peek inside By Sara Crocker Bars & Breweries Maynard James Keenan sued by business partner over Arizona gin venture By Margaret Attridge | Courthouse News Service advertisement ",
+      "categories": [
+        "Bar & Cocktails"
+      ],
+      "published_iso": null,
+      "classification_hint": "opening_from_html_listing",
+      "source": {
+        "name": "Phoenix New Times \u2014 Restaurants",
+        "url": "https://www.phoenixnewtimes.com/restaurants"
+      }
+    }
+  ],
+  "events_calendar": [
+    {
+      "name": "Bob Dylan",
+      "url": "https://www.phoenixnewtimes.com/calendar",
+      "summary": "$41.19 \u2013 $41.19 Bob Dylan Tue., Jun 23, 7:00 pm Arizona Financial Theatre",
+      "category": "Theater & Performance",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Phoenix New Times \u2014 Events",
+        "url": "https://www.phoenixnewtimes.com/calendar"
+      }
+    },
+    {
+      "name": "Tue., Jun 23, 7:00 pm",
+      "url": "https://www.phoenixnewtimes.com/calendar",
+      "summary": "Bob Dylan Tue., Jun 23, 7:00 pm Arizona Financial Theatre , 400 W. Washington St.",
+      "category": "Theater & Performance",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Phoenix New Times \u2014 Events",
+        "url": "https://www.phoenixnewtimes.com/calendar"
+      }
+    },
+    {
+      "name": "Arizona Financial Theatre",
+      "url": "https://www.phoenixnewtimes.com/calendar",
+      "summary": "Tue., Jun 23, 7:00 pm Arizona Financial Theatre , 400 W. Washington St. Neighborhood:",
+      "category": "Theater & Performance",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Phoenix New Times \u2014 Events",
+        "url": "https://www.phoenixnewtimes.com/calendar"
+      }
+    },
+    {
+      "name": "JON ANDERSON & THE BAND GEEKS",
+      "url": "https://www.phoenixnewtimes.com/calendar",
+      "summary": "$28.83 \u2013 $28.83 JON ANDERSON & THE BAND GEEKS Tue., Jun 23, 7:30 pm Celebrity Theatre",
+      "category": "Music",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Phoenix New Times \u2014 Events",
+        "url": "https://www.phoenixnewtimes.com/calendar"
+      }
+    },
+    {
+      "name": "Tue., Jun 23, 7:30 pm",
+      "url": "https://www.phoenixnewtimes.com/calendar",
+      "summary": "JON ANDERSON & THE BAND GEEKS Tue., Jun 23, 7:30 pm Celebrity Theatre , 440 N. 32nd St.",
+      "category": "Music",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Phoenix New Times \u2014 Events",
+        "url": "https://www.phoenixnewtimes.com/calendar"
+      }
+    },
+    {
+      "name": "Celebrity Theatre",
+      "url": "https://www.phoenixnewtimes.com/calendar",
+      "summary": "Tue., Jun 23, 7:30 pm Celebrity Theatre , 440 N. 32nd St. Neighborhood:",
+      "category": "Theater & Performance",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Phoenix New Times \u2014 Events",
+        "url": "https://www.phoenixnewtimes.com/calendar"
+      }
+    },
+    {
+      "name": "East Phoenix",
+      "url": "https://www.phoenixnewtimes.com/calendar",
+      "summary": "Neighborhood: East Phoenix Karaoke Tuesdays Tue., Jun 23, 8:00 pm",
+      "category": "Other",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Phoenix New Times \u2014 Events",
+        "url": "https://www.phoenixnewtimes.com/calendar"
+      }
+    },
+    {
+      "name": "Karaoke Tuesdays",
+      "url": "https://www.phoenixnewtimes.com/calendar",
+      "summary": "East Phoenix Karaoke Tuesdays Tue., Jun 23, 8:00 pm Thunderbird Lounge",
+      "category": "Other",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Phoenix New Times \u2014 Events",
+        "url": "https://www.phoenixnewtimes.com/calendar"
+      }
+    },
+    {
+      "name": "Tue., Jun 23, 8:00 pm",
+      "url": "https://www.phoenixnewtimes.com/calendar",
+      "summary": "Karaoke Tuesdays Tue., Jun 23, 8:00 pm Thunderbird Lounge , 710 W Montecito Ave",
+      "category": "Other",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Phoenix New Times \u2014 Events",
+        "url": "https://www.phoenixnewtimes.com/calendar"
+      }
+    },
+    {
+      "name": "advertisement",
+      "url": "https://www.phoenixnewtimes.com/calendar",
+      "summary": ", 710 W Montecito Ave advertisement A$AP Rocky \u2013 Don\u2019t Be Dumb World Tour Tue., Jun 23, 8:30 pm",
+      "category": "Other",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Phoenix New Times \u2014 Events",
+        "url": "https://www.phoenixnewtimes.com/calendar"
+      }
+    },
+    {
+      "name": "A$AP Rocky \u2013 Don\u2019t Be Dumb World Tour",
+      "url": "https://www.phoenixnewtimes.com/calendar",
+      "summary": "advertisement A$AP Rocky \u2013 Don\u2019t Be Dumb World Tour Tue., Jun 23, 8:30 pm Mortgage Matchup Center",
+      "category": "Sports",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Phoenix New Times \u2014 Events",
+        "url": "https://www.phoenixnewtimes.com/calendar"
+      }
+    },
+    {
+      "name": "Tue., Jun 23, 8:30 pm",
+      "url": "https://www.phoenixnewtimes.com/calendar",
+      "summary": "A$AP Rocky \u2013 Don\u2019t Be Dumb World Tour Tue., Jun 23, 8:30 pm Mortgage Matchup Center , 201 E. Jefferson St.",
+      "category": "Sports",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Phoenix New Times \u2014 Events",
+        "url": "https://www.phoenixnewtimes.com/calendar"
+      }
+    },
+    {
+      "name": "July 3, 2026",
+      "url": "https://www.visitphoenix.com/events/",
+      "summary": "Artlink's First Fridays Art Walk July 3, 2026 Downtown Phoenix Buy Tickets",
+      "category": "Art & Exhibits",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Visit Phoenix \u2014 Events",
+        "url": "https://www.visitphoenix.com/events/"
+      }
+    },
+    {
+      "name": "Downtown Phoenix",
+      "url": "https://www.visitphoenix.com/events/",
+      "summary": "July 3, 2026 Downtown Phoenix Buy Tickets Chasing Waterfalls 2.5 Hour Guided Kayak and/or Paddle Board Tour",
+      "category": "Other",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Visit Phoenix \u2014 Events",
+        "url": "https://www.visitphoenix.com/events/"
+      }
+    },
+    {
+      "name": "Buy Tickets",
+      "url": "https://www.visitphoenix.com/events/",
+      "summary": "Downtown Phoenix Buy Tickets Chasing Waterfalls 2.5 Hour Guided Kayak and/or Paddle Board Tour June 23, 2026",
+      "category": "Other",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Visit Phoenix \u2014 Events",
+        "url": "https://www.visitphoenix.com/events/"
+      }
+    },
+    {
+      "name": "Chasing Waterfalls 2.5 Hour Guided Kayak and/or Paddle Board Tour",
+      "url": "https://www.visitphoenix.com/events/",
+      "summary": "Buy Tickets Chasing Waterfalls 2.5 Hour Guided Kayak and/or Paddle Board Tour June 23, 2026 Yak N Sup",
+      "category": "Other",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Visit Phoenix \u2014 Events",
+        "url": "https://www.visitphoenix.com/events/"
+      }
+    },
+    {
+      "name": "June 23, 2026",
+      "url": "https://www.visitphoenix.com/events/",
+      "summary": "Chasing Waterfalls 2.5 Hour Guided Kayak and/or Paddle Board Tour June 23, 2026 Yak N Sup Buy Tickets",
+      "category": "Other",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Visit Phoenix \u2014 Events",
+        "url": "https://www.visitphoenix.com/events/"
+      }
+    },
+    {
+      "name": "Yak N Sup",
+      "url": "https://www.visitphoenix.com/events/",
+      "summary": "June 23, 2026 Yak N Sup Buy Tickets CaveScape at Arizona Science Center",
+      "category": "Other",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Visit Phoenix \u2014 Events",
+        "url": "https://www.visitphoenix.com/events/"
+      }
+    },
+    {
+      "name": "CaveScape at Arizona Science Center",
+      "url": "https://www.visitphoenix.com/events/",
+      "summary": "Buy Tickets CaveScape at Arizona Science Center June 23, 2026 - August 2, 2026 Arizona Science Center",
+      "category": "Other",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Visit Phoenix \u2014 Events",
+        "url": "https://www.visitphoenix.com/events/"
+      }
+    },
+    {
+      "name": "June 23, 2026 - August 2, 2026",
+      "url": "https://www.visitphoenix.com/events/",
+      "summary": "CaveScape at Arizona Science Center June 23, 2026 - August 2, 2026 Arizona Science Center Buy Tickets",
+      "category": "Other",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Visit Phoenix \u2014 Events",
+        "url": "https://www.visitphoenix.com/events/"
+      }
+    },
+    {
+      "name": "Arizona Science Center",
+      "url": "https://www.visitphoenix.com/events/",
+      "summary": "June 23, 2026 - August 2, 2026 Arizona Science Center Buy Tickets Molly of Denali: An Alaskan Adventure",
+      "category": "Other",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Visit Phoenix \u2014 Events",
+        "url": "https://www.visitphoenix.com/events/"
+      }
+    },
+    {
+      "name": "Molly of Denali: An Alaskan Adventure",
+      "url": "https://www.visitphoenix.com/events/",
+      "summary": "Buy Tickets Molly of Denali: An Alaskan Adventure June 23, 2026 - August 30, 2026 Heard Museum",
+      "category": "Other",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Visit Phoenix \u2014 Events",
+        "url": "https://www.visitphoenix.com/events/"
+      }
+    },
+    {
+      "name": "June 23, 2026 - August 30, 2026",
+      "url": "https://www.visitphoenix.com/events/",
+      "summary": "Molly of Denali: An Alaskan Adventure June 23, 2026 - August 30, 2026 Heard Museum Buy Tickets",
+      "category": "Other",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Visit Phoenix \u2014 Events",
+        "url": "https://www.visitphoenix.com/events/"
+      }
+    },
+    {
+      "name": "Heard Museum",
+      "url": "https://www.visitphoenix.com/events/",
+      "summary": "June 23, 2026 - August 30, 2026 Heard Museum Buy Tickets Sponsored",
+      "category": "Other",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Visit Phoenix \u2014 Events",
+        "url": "https://www.visitphoenix.com/events/"
+      }
+    }
+  ]
+}

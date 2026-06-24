@@ -1,0 +1,382 @@
+{
+  "title": "New York \u2014 Restaurant Openings & Events",
+  "generated": "2026-06-24T02:02:28Z",
+  "city": "New York",
+  "tier": "east_coast_mega",
+  "population_m": 19.5,
+  "extraction_method": "rss_first_with_deterministic_classifier_v1",
+  "totals": {
+    "restaurant_openings": 7,
+    "events_calendar": 20
+  },
+  "sources_used": {
+    "restaurant_openings": [
+      "Eater NY",
+      "NYT Food"
+    ],
+    "events_calendar": []
+  },
+  "sources_failed": [
+    {
+      "name": "The Infatuation NYC \u2014 Openings",
+      "url": "https://www.theinfatuation.com/new-york/guides/new-restaurants-nyc",
+      "content_type": "restaurant_openings",
+      "error": "HTTP 404"
+    }
+  ],
+  "raw_html_pages_available": {
+    "restaurant_openings": [],
+    "events_calendar": [
+      "Time Out NY \u2014 Events Calendar",
+      "NYC.com Events"
+    ]
+  },
+  "restaurant_openings": [
+    {
+      "name": "A New Izakaya From Kiko Lands in Soho",
+      "url": "https://ny.eater.com/restaurant-openings/412310/noury-kiko-soho-opening-lina-goujjane-alex-chang",
+      "summary": "After earning two stars from the New York Times for the Asian American fare at Kiko, husband-wife team Lina Goujjane and Alex Chang are opening a second restaurant nearby. Noury is their new Japanese-leaning wine and sake bar opening in Soho at 137 Sullivan Street, at Prince Street, on Thursday, June 25. The restaurant takes [\u2026]",
+      "categories": [
+        "Bar & Cocktails",
+        "Japanese"
+      ],
+      "published_iso": "2026-06-23",
+      "classification_hint": "opening",
+      "source": {
+        "name": "Eater NY",
+        "url": "https://ny.eater.com"
+      }
+    },
+    {
+      "name": "This New West Village Seafood Tavern Debuts With a Caviar Sandwich",
+      "url": "https://ny.eater.com/news/412271/capitaine-west-village-opening-libertine-cody-pruitt-jacob-cohen",
+      "summary": "Capitaine, the new restaurant and bar from the duo behind Chateau Royale, opens in the West Village at 684 Greenwich Street, at Christopher Street, Friday, June 19. Cody Pruitt and Jacob Cohen swapped their prior restaurant, Libertine, with a seafood tavern, in a shift away from Libertine\u2019s French bistro fare. The change tracks with Pruitt\u2019s [\u2026]",
+      "categories": [
+        "Bar & Cocktails",
+        "French",
+        "Seafood"
+      ],
+      "published_iso": "2026-06-19",
+      "classification_hint": "opening",
+      "source": {
+        "name": "Eater NY",
+        "url": "https://ny.eater.com"
+      }
+    },
+    {
+      "name": "The $9 Martini Spot Has Opened in Nolita",
+      "url": "https://ny.eater.com/news/411872/nyc-new-restaurant-openings-june-2026",
+      "summary": "This is Eater\u2019s guide to all the new restaurants, bars, and cafes that have opened this week in June 2026. Throughout the month, we\u2019ll update the list weekly (see: May, April, March, February, January). When we\u2019ve been to a place, we will then include a few openings on our heatmaps (Manhattan, Brooklyn, Queens, cocktail bars) [\u2026]",
+      "categories": [
+        "Bar & Cocktails",
+        "Caf\u00e9 & Coffee"
+      ],
+      "published_iso": "2026-06-18",
+      "classification_hint": "opening",
+      "source": {
+        "name": "Eater NY",
+        "url": "https://ny.eater.com"
+      }
+    },
+    {
+      "name": "Two NYC Powerhouses Team Up for Mexican Food and Drinks in Dumbo",
+      "url": "https://ny.eater.com/news/412206/titan-nyc-mexican-restaurant-bar-open-alan-delgado-ivy-mix-dumbo",
+      "summary": "What happens when two New York City powerhouses \u2014 one who runs Los Burritos Ju\u00e1rez, one of the hottest North Mexican-style burrito joints in Brooklyn, and the other a James Beard Awards finalist behind Whoopsie Daisy \u2014 team up as co-partners to open a new restaurant and bar exploring Northern Mexican cuisines and drinks? You [\u2026]",
+      "categories": [
+        "Bar & Cocktails",
+        "Mexican"
+      ],
+      "published_iso": "2026-06-17",
+      "classification_hint": "opening",
+      "source": {
+        "name": "Eater NY",
+        "url": "https://ny.eater.com"
+      }
+    },
+    {
+      "name": "A Massive Korean Barbecue Restaurant Opens on the Williamsburg Waterfront",
+      "url": "https://ny.eater.com/news/412196/lalaon-korean-restaurant-opens-williamsburg-waterfront-brooklyn",
+      "summary": "Williamsburg has its share of Korean fried chicken counters and casual comfort food spots, but it hasn\u2019t had a sleek destination with outsized ambition \u2014 until now. Lalaon opens on Wednesday, June 17, at 22 North Sixth Street, at Kent Avenue, bringing more than 300 seats to the Williamsburg waterfront. Owners Ju Young Oh and [\u2026]",
+      "categories": [
+        "Korean"
+      ],
+      "published_iso": "2026-06-17",
+      "classification_hint": "opening",
+      "source": {
+        "name": "Eater NY",
+        "url": "https://ny.eater.com"
+      }
+    },
+    {
+      "name": "Eddie Huang\u2019s Fiction Debut Is a Rom-Com About Two People Who Are Bad at Love",
+      "url": "https://ny.eater.com/news/412181/eddie-huang-baohaus-fiction-book-debut-come-undone",
+      "summary": "Eddie Huang has a lot going on. This past spring, he reopened Baohaus on St. Marks Place, and it subsequently became an unofficial Knicks playoff headquarters. He has a podcast, Canal Street Dreams, and a Substack. And today, Tuesday, June 16, Come Undone, his fiction book debut, publishes. He wrote the final version of the [\u2026]",
+      "categories": [
+        "Restaurant"
+      ],
+      "published_iso": "2026-06-16",
+      "classification_hint": "opening",
+      "source": {
+        "name": "Eater NY",
+        "url": "https://ny.eater.com"
+      }
+    },
+    {
+      "name": "Claudette\u2019s Second Act",
+      "url": "https://www.nytimes.com/2026/06/16/dining/nyc-restaurant-openings-claudette.html",
+      "summary": "The chef Igor Almeida Cabral breathes new life into this bistro, a very large venue for Korean barbecue opens in Williamsburg, Brooklyn, and more restaurant news.",
+      "categories": [
+        "Korean",
+        "French"
+      ],
+      "published_iso": "2026-06-16",
+      "classification_hint": "opening",
+      "source": {
+        "name": "NYT Food",
+        "url": "https://www.nytimes.com/section/food"
+      }
+    }
+  ],
+  "events_calendar": [
+    {
+      "name": "Metropolitan Opera",
+      "url": "https://www.nyc.com/events/",
+      "summary": "From $42 Metropolitan Opera American Ballet Theatre: Don Quixote 6/29 7:30PM",
+      "category": "Music",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "NYC.com Events",
+        "url": "https://www.nyc.com/events/"
+      }
+    },
+    {
+      "name": "American Ballet Theatre: Don Quixote",
+      "url": "https://www.nyc.com/events/",
+      "summary": "Metropolitan Opera American Ballet Theatre: Don Quixote 6/29 7:30PM From $42",
+      "category": "Music",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "NYC.com Events",
+        "url": "https://www.nyc.com/events/"
+      }
+    },
+    {
+      "name": "/29 7:30PM",
+      "url": "https://www.nyc.com/events/",
+      "summary": "American Ballet Theatre: Don Quixote 6/29 7:30PM From $42 Metropolitan Opera",
+      "category": "Music",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "NYC.com Events",
+        "url": "https://www.nyc.com/events/"
+      }
+    },
+    {
+      "name": "From $42",
+      "url": "https://www.nyc.com/events/",
+      "summary": "6/29 7:30PM From $42 Metropolitan Opera American Ballet Theatre: Don Quixote",
+      "category": "Music",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "NYC.com Events",
+        "url": "https://www.nyc.com/events/"
+      }
+    },
+    {
+      "name": "/30 7:30PM",
+      "url": "https://www.nyc.com/events/",
+      "summary": "American Ballet Theatre: Don Quixote 6/30 7:30PM From $42 Metropolitan Opera",
+      "category": "Music",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "NYC.com Events",
+        "url": "https://www.nyc.com/events/"
+      }
+    },
+    {
+      "name": "/1 7:30PM",
+      "url": "https://www.nyc.com/events/",
+      "summary": "American Ballet Theatre: Don Quixote 7/1 7:30PM From $42 Metropolitan Opera",
+      "category": "Music",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "NYC.com Events",
+        "url": "https://www.nyc.com/events/"
+      }
+    },
+    {
+      "name": "/2 7:30PM",
+      "url": "https://www.nyc.com/events/",
+      "summary": "American Ballet Theatre: Don Quixote 7/2 7:30PM From $42 Metropolitan Opera",
+      "category": "Music",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "NYC.com Events",
+        "url": "https://www.nyc.com/events/"
+      }
+    },
+    {
+      "name": "/3 7:30PM",
+      "url": "https://www.nyc.com/events/",
+      "summary": "American Ballet Theatre: Don Quixote 7/3 7:30PM From $42 Metropolitan Opera",
+      "category": "Music",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "NYC.com Events",
+        "url": "https://www.nyc.com/events/"
+      }
+    },
+    {
+      "name": "/6 7:30PM",
+      "url": "https://www.nyc.com/events/",
+      "summary": "American Ballet Theatre: Don Quixote 7/6 7:30PM From $42 Metropolitan Opera",
+      "category": "Music",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "NYC.com Events",
+        "url": "https://www.nyc.com/events/"
+      }
+    },
+    {
+      "name": "/7 7:30PM",
+      "url": "https://www.nyc.com/events/",
+      "summary": "American Ballet Theatre: Don Quixote 7/7 7:30PM From $42 Metropolitan Opera",
+      "category": "Music",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "NYC.com Events",
+        "url": "https://www.nyc.com/events/"
+      }
+    },
+    {
+      "name": "Butoh: Into the Depth",
+      "url": "https://www.nyc.com/events/",
+      "summary": "Metropolitan Opera Butoh: Into the Depth 7/8 6PM From $150",
+      "category": "Music",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "NYC.com Events",
+        "url": "https://www.nyc.com/events/"
+      }
+    },
+    {
+      "name": "From $150",
+      "url": "https://www.nyc.com/events/",
+      "summary": "7/8 6PM From $150 Vangeline Theater American Ballet Theatre: Sylvia",
+      "category": "Theater & Performance",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "NYC.com Events",
+        "url": "https://www.nyc.com/events/"
+      }
+    },
+    {
+      "name": "Vangeline Theater",
+      "url": "https://www.nyc.com/events/",
+      "summary": "From $150 Vangeline Theater American Ballet Theatre: Sylvia 7/9 7:30PM",
+      "category": "Theater & Performance",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "NYC.com Events",
+        "url": "https://www.nyc.com/events/"
+      }
+    },
+    {
+      "name": "American Ballet Theatre: Sylvia",
+      "url": "https://www.nyc.com/events/",
+      "summary": "Vangeline Theater American Ballet Theatre: Sylvia 7/9 7:30PM From $42",
+      "category": "Theater & Performance",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "NYC.com Events",
+        "url": "https://www.nyc.com/events/"
+      }
+    },
+    {
+      "name": "/9 7:30PM",
+      "url": "https://www.nyc.com/events/",
+      "summary": "American Ballet Theatre: Sylvia 7/9 7:30PM From $42 Metropolitan Opera",
+      "category": "Music",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "NYC.com Events",
+        "url": "https://www.nyc.com/events/"
+      }
+    },
+    {
+      "name": "/10 2PM",
+      "url": "https://www.nyc.com/events/",
+      "summary": "American Ballet Theatre: Sylvia 7/10 2PM From $42 Metropolitan Opera",
+      "category": "Music",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "NYC.com Events",
+        "url": "https://www.nyc.com/events/"
+      }
+    },
+    {
+      "name": "/10 7:30PM",
+      "url": "https://www.nyc.com/events/",
+      "summary": "American Ballet Theatre: Sylvia 7/10 7:30PM From $42 Metropolitan Opera",
+      "category": "Music",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "NYC.com Events",
+        "url": "https://www.nyc.com/events/"
+      }
+    },
+    {
+      "name": "From Stressed to Restored: The Meditation Workshop",
+      "url": "https://www.nyc.com/events/",
+      "summary": "Metropolitan Opera From Stressed to Restored: The Meditation Workshop 7/11 11AM From $34",
+      "category": "Music",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "NYC.com Events",
+        "url": "https://www.nyc.com/events/"
+      }
+    },
+    {
+      "name": "/11 11AM",
+      "url": "https://www.nyc.com/events/",
+      "summary": "From Stressed to Restored: The Meditation Workshop 7/11 11AM From $34 American Ballet Theatre: Sylvia",
+      "category": "Theater & Performance",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "NYC.com Events",
+        "url": "https://www.nyc.com/events/"
+      }
+    },
+    {
+      "name": "From $34",
+      "url": "https://www.nyc.com/events/",
+      "summary": "7/11 11AM From $34 American Ballet Theatre: Sylvia 7/11 2PM",
+      "category": "Theater & Performance",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "NYC.com Events",
+        "url": "https://www.nyc.com/events/"
+      }
+    }
+  ]
+}

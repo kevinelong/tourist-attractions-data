@@ -1,0 +1,146 @@
+{
+  "title": "Los Angeles \u2014 Restaurant Openings & Events",
+  "generated": "2026-06-24T02:02:28Z",
+  "city": "Los Angeles",
+  "tier": "west_coast_mega",
+  "population_m": 12.81,
+  "extraction_method": "rss_first_with_deterministic_classifier_v1",
+  "totals": {
+    "restaurant_openings": 4,
+    "events_calendar": 3
+  },
+  "sources_used": {
+    "restaurant_openings": [
+      "Eater LA"
+    ],
+    "events_calendar": [
+      "LAist Events",
+      "We Like LA Events"
+    ]
+  },
+  "sources_failed": [
+    {
+      "name": "Discover Los Angeles \u2014 Events",
+      "url": "https://www.discoverlosangeles.com/events",
+      "content_type": "events_calendar",
+      "error": "HTTP 403"
+    },
+    {
+      "name": "Eater LA \u2014 Openings",
+      "url": "https://la.eater.com/maps/best-new-la-restaurant-openings",
+      "content_type": "restaurant_openings",
+      "error": "HTTP 404"
+    },
+    {
+      "name": "The Infatuation LA \u2014 Openings",
+      "url": "https://www.theinfatuation.com/los-angeles/guides/new-restaurant-openings-los-angeles",
+      "content_type": "restaurant_openings",
+      "error": "HTTP 404"
+    }
+  ],
+  "raw_html_pages_available": {
+    "restaurant_openings": [
+      "LA Times Food"
+    ],
+    "events_calendar": [
+      "Time Out Los Angeles"
+    ]
+  },
+  "restaurant_openings": [
+    {
+      "name": "Chef Joshua Gil, a Pioneer of Los Angeles\u2019s Alta California Movement, Dies at 50",
+      "url": "https://la.eater.com/restaurant-news/304301/chef-joshua-gil-dies-obituary-mirate-mirame-tacos-punta-cabras-maison-kasai",
+      "summary": "On June 22, chef Joshua Misael Gil, a pioneering chef of Alta California cuisine who was known in Los Angeles as a founder of the Supper Liberation Front, Tacos Punta Cabras, M\u00edrame, and M\u00edrate, passed away after a nearly four-year battle with cancer. Gil was 50 years old. The chef maintained a deep passion for [\u2026]",
+      "categories": [
+        "Mexican"
+      ],
+      "published_iso": "2026-06-22",
+      "classification_hint": "opening",
+      "source": {
+        "name": "Eater LA",
+        "url": "https://la.eater.com"
+      }
+    },
+    {
+      "name": "A \u2018Teenage Mutant Ninja Turtles\u2019 Pizzeria Skates Into Santa Monica With $54 Pies",
+      "url": "https://la.eater.com/restaurant-openings/304268/teenage-mutant-ninja-turtles-pizzeria-opening-santa-monica",
+      "summary": "The first official Teenage Mutant Ninja Turtles pizzeria just skated onto Santa Monica\u2019s Third Street Promenade with a neon-drenched retro dining room, full bar, and New York\u2013style slices. The pizzeria, which held its grand opening on Saturday, June 20, offers a menu from veteran pizzaiolo Angelo Womack, who previously owned Oak & Rye in San [\u2026]",
+      "categories": [
+        "Bar & Cocktails",
+        "Pizza"
+      ],
+      "published_iso": "2026-06-22",
+      "classification_hint": "opening",
+      "source": {
+        "name": "Eater LA",
+        "url": "https://la.eater.com"
+      }
+    },
+    {
+      "name": "All the New Restaurant Openings to Know in Los Angeles",
+      "url": "https://la.eater.com/maps/new-restaurant-openings-los-angeles",
+      "summary": "Los Angeles is no stranger to restaurant openings, whether debuts in iconic buildings helmed by big-name chefs, humble neighborhood haunts, or pop-ups leaping into permanent spaces. The city\u2019s dining scene continues to grow even as operators face stunning challenges related to ongoing impacts from the 2020 coronavirus pandemic, the 2023 Hollywood labor strikes, the 2025 Palisades and [\u2026]",
+      "categories": [
+        "Restaurant"
+      ],
+      "published_iso": "2026-06-22",
+      "classification_hint": "opening",
+      "source": {
+        "name": "Eater LA",
+        "url": "https://la.eater.com"
+      }
+    },
+    {
+      "name": "Olvera Street",
+      "url": "https://www.latimes.com/food",
+      "summary": "Olvera Street.\u2019 Historic L.A. restaurants on brink of closure As Boyle Heights fire still burns, restaurants depend on which way the wind blows Tiki kitsch, rooftop views and amaro cocktails, L.A.\u2019s new bar scene has it all For Subscribers Food is L.A.\u2019s love language. Here are the 50 dining experiences that define living here For Subscribers 7 new rooftops for soaking up the L.A. sun this summer ",
+      "categories": [
+        "Bar & Cocktails"
+      ],
+      "published_iso": null,
+      "classification_hint": "opening_from_html_listing",
+      "source": {
+        "name": "LA Times Food",
+        "url": "https://www.latimes.com/food"
+      }
+    }
+  ],
+  "events_calendar": [
+    {
+      "name": "10 Things To Do For This Saturday in L.A. [6-20-2026]",
+      "url": "https://www.welikela.com/10-things-to-do-for-this-saturday-in-l-a-6-20-2026/",
+      "summary": "Saturday in Los Angeles? Let\u2019s party! In the queue for today in L.A. you\u2019ll find the LACMA Art Parade & The post 10 Things To Do For This Saturday in L.A. [6-20-2026] appeared first on WE LIKE L.A. .",
+      "category": "Art & Exhibits",
+      "published_iso": "2026-06-20",
+      "classification_hint": "event",
+      "source": {
+        "name": "We Like LA Events",
+        "url": "https://www.welikela.com/category/events/"
+      }
+    },
+    {
+      "name": "Best things to do this weekend in LA and SoCal: June 19-21",
+      "url": "https://laist.com/news/arts-and-entertainment/best-things-to-do/music-arts-events-weekend-los-angeles-june-19-21",
+      "summary": "Juneteenth events, Father\u2019s Day treats, LACMA\u2019s Art Parade, River Solstice Festival and more of the best things to do this weekend.",
+      "category": "Music",
+      "published_iso": "2026-06-18",
+      "classification_hint": "event",
+      "source": {
+        "name": "LAist Events",
+        "url": "https://laist.com/events"
+      }
+    },
+    {
+      "name": "Things To Do This Week in Los Angeles [6-8-2026 to 6-12-2026]",
+      "url": "https://www.welikela.com/things-to-do-this-week-in-los-angeles-6-8-2026-to-6-12-2026/",
+      "summary": "Brace for impact. World Cup fever is coming to Los Angeles. As the beautiful game\u2019s biggest tournament enters the frame, The post Things To Do This Week in Los Angeles [6-8-2026 to 6-12-2026] appeared first on WE LIKE L.A. .",
+      "category": "Sports",
+      "published_iso": "2026-06-08",
+      "classification_hint": "event_no_date",
+      "source": {
+        "name": "We Like LA Events",
+        "url": "https://www.welikela.com/category/events/"
+      }
+    }
+  ]
+}

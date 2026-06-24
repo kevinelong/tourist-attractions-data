@@ -1,0 +1,207 @@
+{
+  "title": "Miami \u2014 Restaurant Openings & Events",
+  "generated": "2026-06-24T02:02:28Z",
+  "city": "Miami",
+  "tier": "east_coast_mega",
+  "population_m": 6.18,
+  "extraction_method": "rss_first_with_deterministic_classifier_v1",
+  "totals": {
+    "restaurant_openings": 3,
+    "events_calendar": 11
+  },
+  "sources_used": {
+    "restaurant_openings": [
+      "Eater Miami"
+    ],
+    "events_calendar": []
+  },
+  "sources_failed": [],
+  "raw_html_pages_available": {
+    "restaurant_openings": [
+      "Miami New Times \u2014 Restaurants"
+    ],
+    "events_calendar": [
+      "Miami New Times \u2014 Events Calendar",
+      "Greater Miami CVB \u2014 Events",
+      "Time Out Miami"
+    ]
+  },
+  "restaurant_openings": [
+    {
+      "name": "Bayside\nWhere",
+      "url": "https://www.miaminewtimes.com/restaurants",
+      "summary": "after 33 years at Bayside Where to find Scotland\u2019s Tartan Army in Miami No Scotland, no fiesta: Inside the Tartan Army takeover of Miami Where to watch the 2026 World Cup in Miami This grocery store opening in Wynwood has nothing you can eat advertisement Bars & Breweries Where to find Scotland\u2019s Tartan Army in Miami By Nicole Lopez-Alvar Bars & Breweries No Scotland, no fiesta: Inside the Tartan ",
+      "categories": [
+        "Restaurant"
+      ],
+      "published_iso": null,
+      "classification_hint": "opening_from_html_listing",
+      "source": {
+        "name": "Miami New Times \u2014 Restaurants",
+        "url": "https://www.miaminewtimes.com/restaurants"
+      }
+    },
+    {
+      "name": "Privacy\nThanks",
+      "url": "https://www.miaminewtimes.com/restaurants",
+      "summary": "Privacy Thanks for Joining! Here is another newsletter you might like: ICYMI: Today\u2019s Top Stories SUBSCRIBE NO THANKS THANK YOU! You\u2019re all set. CLOSE advertisement Shops & Markets This grocery store opening in Wynwood has nothing you can eat By Jose D. Duran Restaurants Iconic Milan caf\u00e9 plans two Miami locations before opening its first By Olee Fowler Restaurants Beloved Miami waterfront spot fa",
+      "categories": [
+        "Caf\u00e9 & Coffee"
+      ],
+      "published_iso": null,
+      "classification_hint": "opening_from_html_listing",
+      "source": {
+        "name": "Miami New Times \u2014 Restaurants",
+        "url": "https://www.miaminewtimes.com/restaurants"
+      }
+    },
+    {
+      "name": "Earth\nBy Olee Fowler\nRestaurants",
+      "url": "https://www.miaminewtimes.com/restaurants",
+      "summary": "bles restaurant named one of the most beautiful on Earth By Olee Fowler Restaurants Miami Father\u2019s Day brunch and dinner specials 2026 By Olee Fowler Restaurants 7 hottest Fort Lauderdale restaurants opening this summer By Nicole Lopez-Alvar Restaurants Century-old Miami River landmark to become new surf and turf spot By Olee Fowler and Others Restaurants 12 best boozy brunches in Miami By Nicole ",
+      "categories": [
+        "Restaurant"
+      ],
+      "published_iso": null,
+      "classification_hint": "opening_from_html_listing",
+      "source": {
+        "name": "Miami New Times \u2014 Restaurants",
+        "url": "https://www.miaminewtimes.com/restaurants"
+      }
+    }
+  ],
+  "events_calendar": [
+    {
+      "name": "Sporting Events",
+      "url": "https://www.miamiandbeaches.com/events",
+      "summary": "Seasonal Events Sporting Events Added to your favorites FIFA Fan Festival\u2122 | June 13-July 5",
+      "category": "Music",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Greater Miami CVB \u2014 Events",
+        "url": "https://www.miamiandbeaches.com/events"
+      }
+    },
+    {
+      "name": "Added to your favorites",
+      "url": "https://www.miamiandbeaches.com/events",
+      "summary": "Sporting Events Added to your favorites FIFA Fan Festival\u2122 | June 13-July 5 Added to your favorites",
+      "category": "Music",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Greater Miami CVB \u2014 Events",
+        "url": "https://www.miamiandbeaches.com/events"
+      }
+    },
+    {
+      "name": "FIFA Fan Festival\u2122 | June 13-July 5",
+      "url": "https://www.miamiandbeaches.com/events",
+      "summary": "Added to your favorites FIFA Fan Festival\u2122 | June 13-July 5 Added to your favorites Freedom Plane National Tour | Through July 5",
+      "category": "Music",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Greater Miami CVB \u2014 Events",
+        "url": "https://www.miamiandbeaches.com/events"
+      }
+    },
+    {
+      "name": "Freedom Plane National Tour | Through July 5",
+      "url": "https://www.miamiandbeaches.com/events",
+      "summary": "Added to your favorites Freedom Plane National Tour | Through July 5 Added to your favorites Florida Supercon | July 10-12",
+      "category": "Other",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Greater Miami CVB \u2014 Events",
+        "url": "https://www.miamiandbeaches.com/events"
+      }
+    },
+    {
+      "name": "June 11-July 19, 2026",
+      "url": "https://www.miamiandbeaches.com/events",
+      "summary": "FIFA World Cup 2026\u2122 June 11-July 19, 2026 Greater Miami and Miami Beach will take center stage during FIFA World Cup 26\u2122 as the world's biggest sporting event comes to Hard Rock Stadium. Experience the excitement of world-class matches and join fans from around the globe for soccer's biggest celebration.",
+      "category": "Sports",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Greater Miami CVB \u2014 Events",
+        "url": "https://www.miamiandbeaches.com/events"
+      }
+    },
+    {
+      "name": "Greater Miami and Miami Beach will take center stage during FIFA World Cup 26\u2122 as the world's biggest sporting event comes to Hard Rock Stadium.",
+      "url": "https://www.miamiandbeaches.com/events",
+      "summary": "June 11-July 19, 2026 Greater Miami and Miami Beach will take center stage during FIFA World Cup 26\u2122 as the world's biggest sporting event comes to Hard Rock Stadium. Experience the excitement of world-class matches and join fans from around the globe for soccer's biggest celebration. Let's Go",
+      "category": "Sports",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Greater Miami CVB \u2014 Events",
+        "url": "https://www.miamiandbeaches.com/events"
+      }
+    },
+    {
+      "name": "From Formula 1 and the Miami Open to the Heat, Dolphins, Marlins and Inter Miami CF, catch world-class sports action in Miami.",
+      "url": "https://www.miamiandbeaches.com/events",
+      "summary": "Sporting Events From Formula 1 and the Miami Open to the Heat, Dolphins, Marlins and Inter Miami CF, catch world-class sports action in Miami. Freedom Plane National Tour June 20 - July 5",
+      "category": "Sports",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Greater Miami CVB \u2014 Events",
+        "url": "https://www.miamiandbeaches.com/events"
+      }
+    },
+    {
+      "name": "Freedom Plane National Tour",
+      "url": "https://www.miamiandbeaches.com/events",
+      "summary": "From Formula 1 and the Miami Open to the Heat, Dolphins, Marlins and Inter Miami CF, catch world-class sports action in Miami. Freedom Plane National Tour June 20 - July 5 Step inside history as this traveling exhibition brings rare founding-era documents to Miami.",
+      "category": "Art & Exhibits",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Greater Miami CVB \u2014 Events",
+        "url": "https://www.miamiandbeaches.com/events"
+      }
+    },
+    {
+      "name": "June 20 - July 5",
+      "url": "https://www.miamiandbeaches.com/events",
+      "summary": "Freedom Plane National Tour June 20 - July 5 Step inside history as this traveling exhibition brings rare founding-era documents to Miami. Discover the Legacy",
+      "category": "Art & Exhibits",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Greater Miami CVB \u2014 Events",
+        "url": "https://www.miamiandbeaches.com/events"
+      }
+    },
+    {
+      "name": "Step inside history as this traveling exhibition brings rare founding-era documents to Miami.",
+      "url": "https://www.miamiandbeaches.com/events",
+      "summary": "June 20 - July 5 Step inside history as this traveling exhibition brings rare founding-era documents to Miami. Discover the Legacy Summer in Miami",
+      "category": "Art & Exhibits",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Greater Miami CVB \u2014 Events",
+        "url": "https://www.miamiandbeaches.com/events"
+      }
+    },
+    {
+      "name": "Discover the Legacy",
+      "url": "https://www.miamiandbeaches.com/events",
+      "summary": "Step inside history as this traveling exhibition brings rare founding-era documents to Miami. Discover the Legacy Summer in Miami June 21 - Sep 22, 2026",
+      "category": "Art & Exhibits",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Greater Miami CVB \u2014 Events",
+        "url": "https://www.miamiandbeaches.com/events"
+      }
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "title": "Seattle \u2014 Restaurant Openings & Events",
+  "generated": "2026-06-24T02:02:28Z",
+  "city": "Seattle",
+  "tier": "west_coast_mega",
+  "population_m": 4.1,
+  "extraction_method": "rss_first_with_deterministic_classifier_v1",
+  "totals": {
+    "restaurant_openings": 1,
+    "events_calendar": 8
+  },
+  "sources_used": {
+    "restaurant_openings": [
+      "Eater Seattle",
+      "Seattle Times \u2014 Food"
+    ],
+    "events_calendar": [
+      "Seattle Met \u2014 Things to Do",
+      "The Stranger \u2014 Things to Do",
+      "Visit Seattle \u2014 Events"
+    ]
+  },
+  "sources_failed": [
+    {
+      "name": "The Infatuation Seattle \u2014 Openings",
+      "url": "https://www.theinfatuation.com/seattle/guides/new-restaurants-seattle",
+      "content_type": "restaurant_openings",
+      "error": "HTTP 404"
+    }
+  ],
+  "raw_html_pages_available": {
+    "restaurant_openings": [],
+    "events_calendar": [
+      "Seattle Refined \u2014 Events"
+    ]
+  },
+  "restaurant_openings": [
+    {
+      "name": "Here Are Seattle\u2019s 2026 James Beard Restaurant and Chef Award Nominees",
+      "url": "https://seattle.eater.com/restaurant-news/90357/seattle-2026-james-beard-award-restaurant-chef-nominees",
+      "summary": "The James Beard Awards Foundation announced its official 2026 slate of award nominees on Tuesday, March 31, and two Seattle names are among them. Johnny Courtney of the classic-feeling Atoma and Aaron Tekulve of the celebratory Surrell were among the whittled-down names of nominees, each in the Best Chef: Northwest and Pacific category. The news [\u2026]",
+      "categories": [
+        "Restaurant"
+      ],
+      "published_iso": "2026-03-31",
+      "classification_hint": "opening",
+      "source": {
+        "name": "Eater Seattle",
+        "url": "https://seattle.eater.com"
+      }
+    }
+  ],
+  "events_calendar": [
+    {
+      "name": "Slog AM: Round One of Peace Talks Is Done, the USMNT Could Play in Seattle Again, and Jonathan Choe Is Still the Worst",
+      "url": "https://www.thestranger.com/slog-am/slog-am-round-one-of-peace-talks-is-done-the-usmnt-could-play-in-seattle-again-and-jonathan-choe-is-still-the-worst/",
+      "summary": "Good Morning! The Summer Solstice passed this weekend, and man, did the weather get the memo. We\u2019re on day one of a three-day heat wave this morning, so we\u2019ll have highs in the mid-80s through Wednesday. After that, though, we get a dramatic break: three days of clouds, rain, and temps in the 60s. Whichever [\u2026] The post Slog AM: Round One of Peace Talks Is Done, the USMNT Could Play in Seattle Again, and Jonathan Choe Is Still the Worst appeared first on The Stranger .",
+      "category": "Theater & Performance",
+      "published_iso": "2026-06-22",
+      "classification_hint": "event",
+      "source": {
+        "name": "The Stranger \u2014 Things to Do",
+        "url": "https://www.thestranger.com/events"
+      }
+    },
+    {
+      "name": "A Queer Summer Reading List",
+      "url": "https://www.thestranger.com/arts/a-queer-summer-reading-list/",
+      "summary": "This story was originally published in The Stranger\u2019s 2026 Queer Issue. In honor of Pride month\u2014and in honor of highly complex queer dynamics that are at least one thing we can count on, from our relationships with each other to our relationships with this country\u2014I\u2019m bringing you a queer summer reading list which I hope [\u2026] The post A Queer Summer Reading List appeared first on The Stranger .",
+      "category": "Workshops & Talks",
+      "published_iso": "2026-06-19",
+      "classification_hint": "event_no_date",
+      "source": {
+        "name": "The Stranger \u2014 Things to Do",
+        "url": "https://www.thestranger.com/events"
+      }
+    },
+    {
+      "name": "The Best Bang for Your Buck Events in Seattle This Weekend: June 19\u201321, 2026",
+      "url": "https://www.thestranger.com/everout/the-best-bang-for-your-buck-events-in-seattle-this-weekend-june-19-21-2026/",
+      "summary": "Happy summer solstice and Juneteenth, Seattle! We hope you make it out to a celebration or two between other weekend events from the Fremont Fair and Solstice Parade to the Belltown Mural Festival Block Party and from Karaoke in the Park: A Capitol Hill Mutual Aid Fundraiser to the West Seattle Tour de Pints. For [\u2026] The post The Best Bang for Your Buck Events in Seattle This Weekend: June 19\u201321, 2026 appeared first on The Stranger .",
+      "category": "Music",
+      "published_iso": "2026-06-19",
+      "classification_hint": "event",
+      "source": {
+        "name": "The Stranger \u2014 Things to Do",
+        "url": "https://www.thestranger.com/events"
+      }
+    },
+    {
+      "name": "World Cup Strikers",
+      "url": "https://www.thestranger.com/news/world-cup-strikers/",
+      "summary": "To everyone visiting Seattle for Friday\u2019s World Cup match between the United States and Australia: welcome, can we interest you in some labor unrest? On Thursday, employees at a pair of unrelated, big-name hospitality businesses went on strike. Workers at the Hilton Embassy Suites, a hotel at Pioneer Square, began their strike at 6:30 a.m. [\u2026] The post World Cup Strikers appeared first on The Stranger .",
+      "category": "Sports",
+      "published_iso": "2026-06-19",
+      "classification_hint": "event",
+      "source": {
+        "name": "The Stranger \u2014 Things to Do",
+        "url": "https://www.thestranger.com/events"
+      }
+    },
+    {
+      "name": "Smoke Show",
+      "url": "https://www.thestranger.com/i-anonymous/smoke-show/",
+      "summary": "Dear Ballard neighbors, Please retire your meat smokers. As the Pacific Northwest gets smacked in the face by global warming, it\u2019s relentlessly cruel and unusual to steal the joy of fresh air from your neighbors. The sick, saccharine smell of your hobby not only ruins the fun of flinging open a window with reckless abandon, [\u2026] The post Smoke Show appeared first on The Stranger .",
+      "category": "Music",
+      "published_iso": "2026-06-19",
+      "classification_hint": "event_no_date",
+      "source": {
+        "name": "The Stranger \u2014 Things to Do",
+        "url": "https://www.thestranger.com/events"
+      }
+    },
+    {
+      "name": "Ticket Alert: Judah & the Lion, Letterkenny Live, and More Seattle Events Going On Sale This Week",
+      "url": "https://www.thestranger.com/everout/ticket-alert-judah-the-lion-letterkenny-live-and-more-seattle-events-going-on-sale-this-week/",
+      "summary": "Ready for your weekly ticket download? Synthy folk-pop duo Judah & the Lion has announced a new record and upcoming tour, stopping in Seattle for the first time in four years. Letterkenny Live brings the characters you know and love from the Canadian sitcom to the stage for a night of hilarious antics. Plus, queer [\u2026] The post Ticket Alert: Judah & the Lion, Letterkenny Live, and More Seattle Events Going On Sale This Week appeared first on The Stranger .",
+      "category": "Other",
+      "published_iso": "2026-06-19",
+      "classification_hint": "event",
+      "source": {
+        "name": "The Stranger \u2014 Things to Do",
+        "url": "https://www.thestranger.com/events"
+      }
+    },
+    {
+      "name": "Seattle Outdoor Concert Guide 2026",
+      "url": "https://www.seattlemet.com/arts-and-culture/seattle-washington-state-live-music-outdoor-concerts",
+      "summary": "The tunes are under the blue skies and bright stars this season.",
+      "category": "Music",
+      "published_iso": "2026-04-30",
+      "classification_hint": "event_no_date",
+      "source": {
+        "name": "Seattle Met \u2014 Things to Do",
+        "url": "https://www.seattlemet.com/arts-and-culture"
+      }
+    },
+    {
+      "name": "What to Do in Washington State in May",
+      "url": "https://www.seattlemet.com/travel-and-outdoors/what-to-do-in-washington-state-in-may",
+      "summary": "It's a month for Vikings, art, and one weird festival in Sequim.",
+      "category": "Music",
+      "published_iso": "2026-04-29",
+      "classification_hint": "event_no_date",
+      "source": {
+        "name": "Seattle Met \u2014 Things to Do",
+        "url": "https://www.seattlemet.com/arts-and-culture"
+      }
+    }
+  ]
+}

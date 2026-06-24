@@ -1,0 +1,324 @@
+{
+  "title": "Austin \u2014 Restaurant Openings & Events",
+  "generated": "2026-06-24T02:02:28Z",
+  "city": "Austin",
+  "tier": "in_between_mega",
+  "population_m": 2.55,
+  "extraction_method": "rss_first_with_deterministic_classifier_v1",
+  "totals": {
+    "restaurant_openings": 2,
+    "events_calendar": 22
+  },
+  "sources_used": {
+    "restaurant_openings": [
+      "Austin Chronicle \u2014 Food",
+      "Austin Monthly \u2014 Food",
+      "Eater Austin"
+    ],
+    "events_calendar": []
+  },
+  "sources_failed": [],
+  "raw_html_pages_available": {
+    "restaurant_openings": [],
+    "events_calendar": [
+      "Austin Chronicle \u2014 Events",
+      "Visit Austin \u2014 Events"
+    ]
+  },
+  "restaurant_openings": [
+    {
+      "name": "Levitation Announces Sleep as Secret Sunday Headliner",
+      "url": "https://www.austinchronicle.com/music/levitation-announces-sleep-as-secret-sunday-headliner/",
+      "summary": "Talk about the Sunday Scaries. Levitation has announced that foundational stoner/doom metal band Sleep will close out the psych rock-and-beyond music festival, performing September 13 at Radio/East. Reunited sludge metal quartet Kylesa, new-gen shoegazers Her New Knife, and locally launched power trio the Well have also joined the event lineup. Kylesa plays their first Austin [\u2026] The post Levitation Announces Sleep as Secret Sunday Headliner appeared first on The Austin Chronicle .",
+      "categories": [
+        "Restaurant"
+      ],
+      "published_iso": "2026-06-18",
+      "classification_hint": "opening",
+      "source": {
+        "name": "Austin Chronicle \u2014 Food",
+        "url": "https://www.austinchronicle.com/food/"
+      }
+    },
+    {
+      "name": "United States Makes Early World Cup Statement",
+      "url": "https://www.austinchronicle.com/sports/the-verde-report/united-states-makes-early-world-cup-statement/",
+      "summary": "The first week of the 2026 World Cup delivered just about everything you could want from a tournament\u2019s opening stanza. FIFA\u2019s \u201csupersize me\u201d World Cup has already treated us hypnotized viewers with a gluttonous feast of stunning results, star-making (and star-affirming) performances, and enough narrative threads to weave a small blanket. Of the 40 (out [\u2026] The post United States Makes Early World Cup Statement appeared first on The Austin Chronicle .",
+      "categories": [
+        "Restaurant"
+      ],
+      "published_iso": "2026-06-18",
+      "classification_hint": "opening",
+      "source": {
+        "name": "Austin Chronicle \u2014 Food",
+        "url": "https://www.austinchronicle.com/food/"
+      }
+    }
+  ],
+  "events_calendar": [
+    {
+      "name": "Spend your summer evenings at the LBJ Library.",
+      "url": "https://www.austinchronicle.com/events/",
+      "summary": "Family Spend your summer evenings at the LBJ Library. From May 27 through September 2, the LBJ Library will stay open until 9 PM every Wednesday (last visitor admitted at 8 PM), giving you extra time to explore history after hours. Explore immersive exhibits, uncover iconic moments from American history, and see the museum in a whole new light, including: Even better, on June 17, July 15, and Augu",
+      "category": "Art & Exhibits",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Austin Chronicle \u2014 Events",
+        "url": "https://www.austinchronicle.com/events/"
+      }
+    },
+    {
+      "name": "Even better, on June 17, July 15, and August 12, beginning at 5 PM, local visitors can enjoy a special discounted admission rate. Adults living in zip codes beginning with 787, 786, or 789 can receive",
+      "url": "https://www.austinchronicle.com/events/",
+      "summary": "From May 27 through September 2, the LBJ Library will stay open until 9 PM every Wednesday (last visitor admitted at 8 PM), giving you extra time to explore history after hours. Explore immersive exhibits, uncover iconic moments from American history, and see the museum in a whole new light, including: Even better, on June 17, July 15, and August 12, beginning at 5 PM, local visitors can enjoy a s",
+      "category": "Art & Exhibits",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Austin Chronicle \u2014 Events",
+        "url": "https://www.austinchronicle.com/events/"
+      }
+    },
+    {
+      "name": "/721-0177",
+      "url": "https://www.austinchronicle.com/events/",
+      "summary": "Even better, on June 17, July 15, and August 12, beginning at 5 PM, local visitors can enjoy a special discounted admission rate. Adults living in zip codes beginning with 787, 786, or 789 can receive $12 admission. 512/721-0177 Interior Systems Carpentry Combine Sat., June 27, 7:30 a.m.-3 p.m.",
+      "category": "Other",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Austin Chronicle \u2014 Events",
+        "url": "https://www.austinchronicle.com/events/"
+      }
+    },
+    {
+      "name": "Free (Registration Required)",
+      "url": "https://www.austinchronicle.com/events/",
+      "summary": "Get Tickets Free (Registration Required) Community Join us June 27, 2026 in Austin, TX for a hands-on skills showcase and recruitment event, with on site interviews and the opportunity to walk away with employment.",
+      "category": "Other",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Austin Chronicle \u2014 Events",
+        "url": "https://www.austinchronicle.com/events/"
+      }
+    },
+    {
+      "name": "Community",
+      "url": "https://www.austinchronicle.com/events/",
+      "summary": "Free (Registration Required) Community Join us June 27, 2026 in Austin, TX for a hands-on skills showcase and recruitment event, with on site interviews and the opportunity to walk away with employment. This event is for those looking to start a career in the construction industry. Please arrive with a long-sleeved shirt, pants, and work boots. Each session runs about an hour. Register today to co",
+      "category": "Art & Exhibits",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Austin Chronicle \u2014 Events",
+        "url": "https://www.austinchronicle.com/events/"
+      }
+    },
+    {
+      "name": "Join us June 27, 2026 in Austin, TX for a hands-on skills showcase and recruitment event, with on site interviews and the opportunity to walk away with employment.",
+      "url": "https://www.austinchronicle.com/events/",
+      "summary": "Community Join us June 27, 2026 in Austin, TX for a hands-on skills showcase and recruitment event, with on site interviews and the opportunity to walk away with employment. This event is for those looking to start a career in the construction industry. Please arrive with a long-sleeved shirt, pants, and work boots. Each session runs about an hour. Register today to confirm your preferred time slo",
+      "category": "Art & Exhibits",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Austin Chronicle \u2014 Events",
+        "url": "https://www.austinchronicle.com/events/"
+      }
+    },
+    {
+      "name": "The Muppet Movie",
+      "url": "https://www.austinchronicle.com/events/",
+      "summary": "Stock up on milk and ice cream ahead of this capsaicin celebration as your very own Chronicle rounds up the best and spiciest sauces to tantalize your tastebuds. Your ears get in on the tingling action, too, as fire live music makes this the hottest happenin\u2019 in town. The Muppet Movie Tue., June 23 Flix Brewhouse Round Rock",
+      "category": "Music",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Austin Chronicle \u2014 Events",
+        "url": "https://www.austinchronicle.com/events/"
+      }
+    },
+    {
+      "name": "/974-9900",
+      "url": "https://www.austinchronicle.com/events/",
+      "summary": "The web\u2019s more dangerous than ever, with social-media megafreaks trying to suck up your data and AI dorks begging for your GPU power like the dogs they are. Maybe it\u2019s time we went back to a better era, when the worst you had to fear was Jonny Lee Miller hacking your mainframe as Zero Cool. Screening at Austin Public Library\u2019s Hampton branch for Pride Month, this super Nineties flick features cost",
+      "category": "Music",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Austin Chronicle \u2014 Events",
+        "url": "https://www.austinchronicle.com/events/"
+      }
+    },
+    {
+      "name": "/322-0145",
+      "url": "https://www.austinchronicle.com/events/",
+      "summary": "There is no worse itch to scratch than ambiguity. In his breakout second feature, director Bong Joon-ho refused to give a salve to his home nation of South Korea with this fictional crime drama based on the real-life and then-unsolved Hwaseong Murders, in which 15 women were murdered and an unknown number assaulted. Adapting Kim Kwang-lim\u2019s 1996 play, Come to See Me, it\u2019s a relentless exploration ",
+      "category": "Theater & Performance",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Austin Chronicle \u2014 Events",
+        "url": "https://www.austinchronicle.com/events/"
+      }
+    },
+    {
+      "name": "/474-1221",
+      "url": "https://www.austinchronicle.com/events/",
+      "summary": "Austin movie lovers\u2019 favorite rite of summer \u2013 over 50 years running \u2013 will look a little different this year once the Paramount\u2019s long-awaited renovation project kicks off mid-June. Never fear: They\u2019ll still be screening classic films, only at other venues, like the State Theatre and Hyperreal Film Club. 512/474-1221 Diana Greenberg: \u201cExpanding Line\u201d Through June 28",
+      "category": "Theater & Performance",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Austin Chronicle \u2014 Events",
+        "url": "https://www.austinchronicle.com/events/"
+      }
+    },
+    {
+      "name": "/471-5482",
+      "url": "https://www.austinchronicle.com/events/",
+      "summary": "Scenes of urban loneliness and pastoral stoicism, colorful snippets of joyous living, and form-defying illustrations of social structures are a few expressive artworks on display in this much-anticipated exhibit \u2013 to say nothing of the bright mosaic-inspired paintings of Alma Thomas and the enveloping nature depictions of Georgia O\u2019Keeffe. On the collection\u2019s first public tour, H-E-B heir Charles ",
+      "category": "Art & Exhibits",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Austin Chronicle \u2014 Events",
+        "url": "https://www.austinchronicle.com/events/"
+      }
+    },
+    {
+      "name": "Lower East",
+      "url": "https://www.austinchronicle.com/events/",
+      "summary": "1311 E. Cesar Chavez, Austin Lower East Visual Arts We\u2019re flush with showcases for many formats here in artsy Austin, but in this latest group exhibition from Women & Their Work, the focus is on just one: drawing. Yes, every artist displayed in this show kicking off on Saturday, May 16, offers their take on the line-based technique from traditional to experimental. \u201cEach piece,\u201d writes W&TW, \u201cexem",
+      "category": "Art & Exhibits",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Austin Chronicle \u2014 Events",
+        "url": "https://www.austinchronicle.com/events/"
+      }
+    },
+    {
+      "name": "Visual Arts",
+      "url": "https://www.austinchronicle.com/events/",
+      "summary": "Lower East Visual Arts We\u2019re flush with showcases for many formats here in artsy Austin, but in this latest group exhibition from Women & Their Work, the focus is on just one: drawing. Yes, every artist displayed in this show kicking off on Saturday, May 16, offers their take on the line-based technique from traditional to experimental. \u201cEach piece,\u201d writes W&TW, \u201cexemplifies drawing as both pract",
+      "category": "Art & Exhibits",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Austin Chronicle \u2014 Events",
+        "url": "https://www.austinchronicle.com/events/"
+      }
+    },
+    {
+      "name": "/477-1064",
+      "url": "https://www.austinchronicle.com/events/",
+      "summary": "We\u2019re flush with showcases for many formats here in artsy Austin, but in this latest group exhibition from Women & Their Work, the focus is on just one: drawing. Yes, every artist displayed in this show kicking off on Saturday, May 16, offers their take on the line-based technique from traditional to experimental. \u201cEach piece,\u201d writes W&TW, \u201cexemplifies drawing as both practice and possibility.\u201d F",
+      "category": "Art & Exhibits",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Austin Chronicle \u2014 Events",
+        "url": "https://www.austinchronicle.com/events/"
+      }
+    },
+    {
+      "name": "/936-4629",
+      "url": "https://www.austinchronicle.com/events/",
+      "summary": "Everything, for the most part, is bigger in Texas \u2013 and that includes the community celebrations. Kicking off this Saturday, April 25, and running until late September is the Bob Bullock Museum\u2019s tribute to the festivals of the Lone Star State. Showcasing 27 Texan fests, the exhibition\u2019s three sections explores these festive affairs through iconic artifacts, a short documentary, and several intera",
+      "category": "Music",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Austin Chronicle \u2014 Events",
+        "url": "https://www.austinchronicle.com/events/"
+      }
+    },
+    {
+      "name": "/974-7400",
+      "url": "https://www.austinchronicle.com/events/",
+      "summary": "One of the most deeply felt and honest portrayals of the transgender experience comes from the fantastical bildungsroman where young Lucille must travel from Girl Island to Boy Island through a treacherous sea. Also, there\u2019s Jounce \u2013 a blue creature who is the Spirit of Perversion. You WILL love Jounce! (This is a command.) 512/974-7400 Live Music on The Patio at Jack Allen's Oak Hill Tuesdays, 5-",
+      "category": "Music",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Austin Chronicle \u2014 Events",
+        "url": "https://www.austinchronicle.com/events/"
+      }
+    },
+    {
+      "name": "Live Music on The Patio at Jack Allen's Oak Hill",
+      "url": "https://www.austinchronicle.com/events/",
+      "summary": "512/974-7400 Live Music on The Patio at Jack Allen's Oak Hill Tuesdays, 5-7 p.m. Continues through June 30 Jack Allen's Kitchen",
+      "category": "Music",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Austin Chronicle \u2014 Events",
+        "url": "https://www.austinchronicle.com/events/"
+      }
+    },
+    {
+      "name": "Tuesdays, 5-7 p.m. Continues through June 30",
+      "url": "https://www.austinchronicle.com/events/",
+      "summary": "Live Music on The Patio at Jack Allen's Oak Hill Tuesdays, 5-7 p.m. Continues through June 30 Jack Allen's Kitchen 7720 Hwy. 71 W., Austin",
+      "category": "Music",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Austin Chronicle \u2014 Events",
+        "url": "https://www.austinchronicle.com/events/"
+      }
+    },
+    {
+      "name": "Oak Hill, who\u2019s ready for Live Music on the Patio? \ud83c\udfb6\u2600\ufe0f",
+      "url": "https://www.austinchronicle.com/events/",
+      "summary": "Music Oak Hill, who\u2019s ready for Live Music on the Patio? \ud83c\udfb6\u2600\ufe0f Join us every Tuesday in June from 5\u20137 PM for an evening of live music by local artists, plus some tasty patio features: \ud83c\udf7a $4 Fireman\u2019s #4 Blonde Ale",
+      "category": "Music",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Austin Chronicle \u2014 Events",
+        "url": "https://www.austinchronicle.com/events/"
+      }
+    },
+    {
+      "name": "Join us every Tuesday in June from 5\u20137 PM for an evening of live music by local artists, plus some tasty patio features:",
+      "url": "https://www.austinchronicle.com/events/",
+      "summary": "Oak Hill, who\u2019s ready for Live Music on the Patio? \ud83c\udfb6\u2600\ufe0f Join us every Tuesday in June from 5\u20137 PM for an evening of live music by local artists, plus some tasty patio features: \ud83c\udf7a $4 Fireman\u2019s #4 Blonde Ale \ud83c\udf54 $4 Pulled Pork Sliders",
+      "category": "Music",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Austin Chronicle \u2014 Events",
+        "url": "https://www.austinchronicle.com/events/"
+      }
+    },
+    {
+      "name": "Austin Asian American Film Festival",
+      "url": "https://www.austintexas.org/events/",
+      "summary": "23 Austin Asian American Film Festival Jun 24",
+      "category": "Music",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Visit Austin \u2014 Events",
+        "url": "https://www.austintexas.org/events/"
+      }
+    },
+    {
+      "name": "The Drop-In Free Summer Concert Series",
+      "url": "https://www.austintexas.org/events/",
+      "summary": "24 The Drop-In Free Summer Concert Series Jun 25",
+      "category": "Music",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Visit Austin \u2014 Events",
+        "url": "https://www.austintexas.org/events/"
+      }
+    }
+  ]
+}

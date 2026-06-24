@@ -1,0 +1,43 @@
+{
+  "title": "San Diego \u2014 Restaurant Openings & Events",
+  "generated": "2026-06-24T02:02:28Z",
+  "city": "San Diego",
+  "tier": "west_coast_mega",
+  "population_m": 3.3,
+  "extraction_method": "rss_first_with_deterministic_classifier_v1",
+  "totals": {
+    "restaurant_openings": 1,
+    "events_calendar": 0
+  },
+  "sources_used": {
+    "restaurant_openings": [
+      "Eater San Diego",
+      "San Diego Magazine \u2014 Food News"
+    ],
+    "events_calendar": []
+  },
+  "sources_failed": [],
+  "raw_html_pages_available": {
+    "restaurant_openings": [],
+    "events_calendar": [
+      "Time Out San Diego"
+    ]
+  },
+  "restaurant_openings": [
+    {
+      "name": "The Japanese Curry Taking Over Petco Park Is Coming to Hillcrest",
+      "url": "https://sandiegomagazine.com/food-drink/food-news/the-japanese-curry-taking-over-petco-park-is-coming-to-hillcrest/",
+      "summary": "CoCo Ichibanya's wildly popular katsu curry has become a ballpark favorite\u2014and now the chain is opening a second San Diego location The post The Japanese Curry Taking Over Petco Park Is Coming to Hillcrest appeared first on San Diego Magazine .",
+      "categories": [
+        "Japanese"
+      ],
+      "published_iso": "2026-06-23",
+      "classification_hint": "opening",
+      "source": {
+        "name": "San Diego Magazine \u2014 Food News",
+        "url": "https://www.sandiegomagazine.com/food-drink/"
+      }
+    }
+  ],
+  "events_calendar": []
+}

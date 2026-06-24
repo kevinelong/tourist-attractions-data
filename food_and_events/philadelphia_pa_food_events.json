@@ -1,0 +1,240 @@
+{
+  "title": "Philadelphia \u2014 Restaurant Openings & Events",
+  "generated": "2026-06-24T02:02:28Z",
+  "city": "Philadelphia",
+  "tier": "east_coast_mega",
+  "population_m": 6.25,
+  "extraction_method": "rss_first_with_deterministic_classifier_v1",
+  "totals": {
+    "restaurant_openings": 10,
+    "events_calendar": 5
+  },
+  "sources_used": {
+    "restaurant_openings": [
+      "Eater Philly",
+      "Philadelphia Magazine \u2014 Foobooz"
+    ],
+    "events_calendar": [
+      "Philly Weekly \u2014 Events"
+    ]
+  },
+  "sources_failed": [],
+  "raw_html_pages_available": {
+    "restaurant_openings": [
+      "Philadelphia Inquirer \u2014 Restaurants"
+    ],
+    "events_calendar": [
+      "Visit Philadelphia \u2014 Events"
+    ]
+  },
+  "restaurant_openings": [
+    {
+      "name": "Here Are the James Beard Award Winners From Philadelphia",
+      "url": "https://philly.eater.com/restaurant-news/54537/philadelphia-james-beard-award-winners-2026",
+      "summary": "In a star-studded ceremony at Lyric Opera in Chicago, the James Beard Foundation announced this year\u2019s two big winners from Philadelphia, among a tight yet intriguing list of Pennsylvania finalists. Kalaya\u2019s Outstanding Restaurant nod is the biggest deal of the night. Thai chef Chutatip \u201cNok\u201d Suntaranon\u2019s South Philly restaurant opened in 2019, relocated in 2022, [\u2026]",
+      "categories": [
+        "Asian & World Cuisine"
+      ],
+      "published_iso": "2026-06-15",
+      "classification_hint": "opening",
+      "source": {
+        "name": "Eater Philly",
+        "url": "https://philly.eater.com"
+      }
+    },
+    {
+      "name": "It\u2019s Endless Summer at the Cool New Philly Surf Club",
+      "url": "https://philly.eater.com/openings/54528/philly-surf-club-cocktail-bar-north-broad-philly-openings",
+      "summary": "Philly Surf Club\u2019s tropical cocktails drew hundreds to its outdoor pop-ups last summer. As of Thursday, June 11, the roving bar drops anchor in Philly, planting permanent roots at its first fixed address in the historic Divine Lorraine building (699 N. Broad Street), with an opening menu of playful tropical drinks that take technique seriously. [\u2026]",
+      "categories": [
+        "Bar & Cocktails"
+      ],
+      "published_iso": "2026-06-12",
+      "classification_hint": "opening",
+      "source": {
+        "name": "Eater Philly",
+        "url": "https://philly.eater.com"
+      }
+    },
+    {
+      "name": "Michael Klein\nThe Buttery\u2019s",
+      "url": "https://www.inquirer.com/food/restaurants/",
+      "summary": "as a summer pop-up amid uncertainty over the landmark restaurant\u2019s future Michael Klein The Buttery\u2019s newest outpost is officially open in Bryn Mawr Denali Sagner Angelo\u2019s Pizzeria builds toward its opening in South Jersey as its bakery in Montco plans to sell rolls wholesale Michael Klein Advertisement Philly really cooks at the Beard Awards | Let\u2019s Eat We explore two restaurant mysteries, dive i",
+      "categories": [
+        "Pizza",
+        "Bakery"
+      ],
+      "published_iso": null,
+      "classification_hint": "opening_from_html_listing",
+      "source": {
+        "name": "Philadelphia Inquirer \u2014 Restaurants",
+        "url": "https://www.inquirer.com/food/restaurants/"
+      }
+    },
+    {
+      "name": "Michael Klein\nAdvertisement\nPhilly",
+      "url": "https://www.inquirer.com/food/restaurants/",
+      "summary": "ns to sell rolls wholesale Michael Klein Advertisement Philly really cooks at the Beard Awards | Let\u2019s Eat We explore two restaurant mysteries, dive into the great Chartreuse shortage, and give you a first look at an ambitious new restaurant in Chestnut Hill. Michael Klein The Blue Warbler helps breathe fresh life into the Chestnut Hill dining scene The Blue Warbler, joining a nascent restaurant e",
+      "categories": [
+        "Restaurant"
+      ],
+      "published_iso": null,
+      "classification_hint": "opening_from_html_listing",
+      "source": {
+        "name": "Philadelphia Inquirer \u2014 Restaurants",
+        "url": "https://www.inquirer.com/food/restaurants/"
+      }
+    },
+    {
+      "name": "Chestnut Hill",
+      "url": "https://www.inquirer.com/food/restaurants/",
+      "summary": "r, joining a nascent restaurant expansion in Chestnut Hill, blends Mediterranean, Jewish, Persian, Balkan, and American flavors and a soundtrack to match. And it's open all day. Michael Klein Roxanne reopens, this time with a food license and lunch menu The Michelin-recommended Queen Village restaurant was shut down for 10 weeks over licensing issues. Now, it's back as a BYOB. Beatrice Forman Phil",
+      "categories": [
+        "Restaurant"
+      ],
+      "published_iso": null,
+      "classification_hint": "opening_from_html_listing",
+      "source": {
+        "name": "Philadelphia Inquirer \u2014 Restaurants",
+        "url": "https://www.inquirer.com/food/restaurants/"
+      }
+    },
+    {
+      "name": "Beard Awards",
+      "url": "https://www.inquirer.com/food/restaurants/",
+      "summary": "oming back, get set for the 2026 Beard Awards, and we'll show you where to watch the FIFA games in Philly. Michael Klein Mixteca, a Mexican agave bar from a James Beard Award-winning duo, is planning to open in Philadelphia Mixteca, which debuted last summer in New York City, is being readied for a July opening at the former Martha space in East Kensington. Michael Klein Nick Jonas\u2019 plans were der",
+      "categories": [
+        "Bar & Cocktails",
+        "Mexican"
+      ],
+      "published_iso": null,
+      "classification_hint": "opening_from_html_listing",
+      "source": {
+        "name": "Philadelphia Inquirer \u2014 Restaurants",
+        "url": "https://www.inquirer.com/food/restaurants/"
+      }
+    },
+    {
+      "name": "Awards",
+      "url": "https://www.inquirer.com/food/restaurants/",
+      "summary": "Awards, and we'll show you where to watch the FIFA games in Philly. Michael Klein Mixteca, a Mexican agave bar from a James Beard Award-winning duo, is planning to open in Philadelphia Mixteca, which debuted last summer in New York City, is being readied for a July opening at the former Martha space in East Kensington. Michael Klein Nick Jonas\u2019 plans were derailed by Amtrak, so he stopped for a Cr",
+      "categories": [
+        "Bar & Cocktails",
+        "Mexican"
+      ],
+      "published_iso": null,
+      "classification_hint": "opening_from_html_listing",
+      "source": {
+        "name": "Philadelphia Inquirer \u2014 Restaurants",
+        "url": "https://www.inquirer.com/food/restaurants/"
+      }
+    },
+    {
+      "name": "Michael Klein\nMixteca",
+      "url": "https://www.inquirer.com/food/restaurants/",
+      "summary": ". Michael Klein Mixteca, a Mexican agave bar from a James Beard Award-winning duo, is planning to open in Philadelphia Mixteca, which debuted last summer in New York City, is being readied for a July opening at the former Martha space in East Kensington. Michael Klein Nick Jonas\u2019 plans were derailed by Amtrak, so he stopped for a Craig LaBan-approved dinner in Wilmington The singer-actor Googled h",
+      "categories": [
+        "Bar & Cocktails",
+        "Mexican"
+      ],
+      "published_iso": null,
+      "classification_hint": "opening_from_html_listing",
+      "source": {
+        "name": "Philadelphia Inquirer \u2014 Restaurants",
+        "url": "https://www.inquirer.com/food/restaurants/"
+      }
+    },
+    {
+      "name": "Old City",
+      "url": "https://www.inquirer.com/food/restaurants/",
+      "summary": "classic Old City restaurant, celebrating its golden anniversary this year, is the last of a generation of white tablecloth Italian restaurants. Craig LaBan | Columnist An all-chocolate tasting course debuts at one of Philly\u2019s premier vegan restaurants The Affordable Care Act architect Zeke Emanuel pitched the idea for a course highlighting single origin dark chocolate to Vedge co-owners Rich Landa",
+      "categories": [
+        "Italian",
+        "Vegan & Vegetarian"
+      ],
+      "published_iso": null,
+      "classification_hint": "opening_from_html_listing",
+      "source": {
+        "name": "Philadelphia Inquirer \u2014 Restaurants",
+        "url": "https://www.inquirer.com/food/restaurants/"
+      }
+    },
+    {
+      "name": "June\u2019s",
+      "url": "https://www.inquirer.com/food/restaurants/",
+      "summary": "r round-up of June\u2019s new restaurants, a look at two transformed corner bars, and what does Craig LaBan think of Mi Vida? Michael Klein Tropical drinks, Panini, blintzes, and more: All the restaurants opening in June 2026 A throwback Korean bar in Center City, a Jewish eatery, and Viet-Cajun food are among the new restaurants on the way to Philadelphia. Michael Klein See more stories Advertisement ",
+      "categories": [
+        "Bar & Cocktails",
+        "Korean"
+      ],
+      "published_iso": null,
+      "classification_hint": "opening_from_html_listing",
+      "source": {
+        "name": "Philadelphia Inquirer \u2014 Restaurants",
+        "url": "https://www.inquirer.com/food/restaurants/"
+      }
+    }
+  ],
+  "events_calendar": [
+    {
+      "name": "Song of herself: Patti Smith opens and closes a month dedicated to the life of Philly\u2019s greatest poet",
+      "url": "https://philadelphiaweekly.com/song-of-herself-patti-smith-opens-and-closes-a-month-dedicated-to-the-life-of-phillys-greatest-poet/",
+      "summary": "One could argue that the last time punk poet Patti Smith played with any connection to her hero \u2013 fellow South Jersey native Walt Whitman \u2013 was during her 1997 reading-rocking event at Whitman\u2019s Center for the Arts and Humanities in Camden. The post Song of herself: Patti Smith opens and closes a month dedicated to the life of Philly\u2019s greatest poet appeared first on Philadelphia Weekly .",
+      "category": "Theater & Performance",
+      "published_iso": "2025-10-28",
+      "classification_hint": "event_no_date",
+      "source": {
+        "name": "Philly Weekly \u2014 Events",
+        "url": "https://philadelphiaweekly.com"
+      }
+    },
+    {
+      "name": "Newspaper Media Group (NMG) acquires Hudson Reporter Assoc. LP, a group of 8 weekly local newspapers",
+      "url": "https://philadelphiaweekly.com/news/newspaper-media-group-nmg-acquires-hudson-reporter-assoc-lp-a/",
+      "summary": "Hudson Reporter \u2013 Publishers Lucha Malato and David Unger have announced the sale of their company, Hudson Reporter Assoc. LP, to the Newspaper Media Group (NMG) of Cherry Hill. NMG is the publisher of over 50 weekly, community newspapers in Southern and Central New Jersey, as well as in the Greater Philadelphia market. In addition, [\u2026] The post Newspaper Media Group (NMG) acquires Hudson Reporter Assoc. LP, a group of 8 weekly local newspapers appeared first on Philadelphia Weekly .",
+      "category": "Community & Outdoor",
+      "published_iso": "2025-10-28",
+      "classification_hint": "event_no_date",
+      "source": {
+        "name": "Philly Weekly \u2014 Events",
+        "url": "https://philadelphiaweekly.com"
+      }
+    },
+    {
+      "name": "+ Free Concerts in Philly This June & July",
+      "url": "https://www.visitphilly.com/events/",
+      "summary": "Event 20+ Free Concerts in Philly This June & July Article A Guide to the 2026 July 4th Concert & Fireworks on the Parkway",
+      "category": "Music",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Visit Philadelphia \u2014 Events",
+        "url": "https://www.visitphilly.com/events/"
+      }
+    },
+    {
+      "name": "Philadelphia Chinese Lantern Festival: 5 Experiences...",
+      "url": "https://www.visitphilly.com/events/",
+      "summary": "2026 Philadelphia Chinese Lantern Festival: 5... 2026 Philadelphia Chinese Lantern Festival: 5 Experiences... Event Wawa Welcome America: 16 Days of July 4th Fireworks & Festivities for America\u2019s 250th Birthday",
+      "category": "Music",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Visit Philadelphia \u2014 Events",
+        "url": "https://www.visitphilly.com/events/"
+      }
+    },
+    {
+      "name": "Philadelphia Chinese Lantern Festival: 5 Experiences You Can't Miss",
+      "url": "https://www.visitphilly.com/events/",
+      "summary": "2026 Philadelphia Chinese Lantern Festival: 5 Experiences You Can't Miss 2026 Philadelphia Chinese Lantern Festival: 5 Experiences You Can't Miss Event Wawa Welcome America: 16 Days of July 4th Fireworks & Festivities for America\u2019s 250th Birthday",
+      "category": "Music",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Visit Philadelphia \u2014 Events",
+        "url": "https://www.visitphilly.com/events/"
+      }
+    }
+  ]
+}

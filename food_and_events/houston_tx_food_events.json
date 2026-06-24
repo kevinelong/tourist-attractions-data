@@ -1,0 +1,116 @@
+{
+  "title": "Houston \u2014 Restaurant Openings & Events",
+  "generated": "2026-06-24T02:02:28Z",
+  "city": "Houston",
+  "tier": "in_between_mega",
+  "population_m": 7.51,
+  "extraction_method": "rss_first_with_deterministic_classifier_v1",
+  "totals": {
+    "restaurant_openings": 0,
+    "events_calendar": 7
+  },
+  "sources_used": {
+    "restaurant_openings": [
+      "Eater Houston",
+      "Houston Press \u2014 Restaurants"
+    ],
+    "events_calendar": [
+      "365 Things to Do in Houston",
+      "Houston Press \u2014 Events"
+    ]
+  },
+  "sources_failed": [],
+  "raw_html_pages_available": {
+    "restaurant_openings": [],
+    "events_calendar": [
+      "Visit Houston \u2014 Events"
+    ]
+  },
+  "restaurant_openings": [],
+  "events_calendar": [
+    {
+      "name": "Spamilton Roasts Hamilton in a Funny But Loving Way at Stages",
+      "url": "https://www.houstonpress.com/arts/spamilton-roasts-hamilton-in-a-funny-but-loving-way-at-stages/",
+      "summary": "Spamilton: An American Parody, tells the story of how Lin-Manuel Miranda decides to save Broadway theater by coming up with a new form of musical theater. The spoof by Tony Award-winner Gerard Alessandrini (Forbidden Broadway), uses the characters of Hamilton to take apart any number of Broadway\u2019s treasured tropes and musical stylings. The production, now [\u2026] The post <i>Spamilton</i> Roasts <i>Hamilton</i> in a Funny But Loving Way at Stages appeared first on Houston Press .",
+      "category": "Art & Exhibits",
+      "published_iso": "2026-06-23",
+      "classification_hint": "event_no_date",
+      "source": {
+        "name": "Houston Press \u2014 Events",
+        "url": "https://www.houstonpress.com/calendar"
+      }
+    },
+    {
+      "name": "A$AP Rocky Brings His Don\u2019t Be Dumb Tour to Houston",
+      "url": "https://www.houstonpress.com/music/aap-rocky-brings-his-dont-be-dumb-tour-to-houston/",
+      "summary": "Running through almost 40 songs, Harlem-born rapper A$AP Rocky brought his Don\u2019t Be Dumb tour to Houston Saturday night in a two-hour, action-packed tour de force. He filled the Toyota Center with flying helicopter props and used a megaphone for a microphone. Don\u2019t Be Dumb marks A$AP\u2019s return to the center stage of hip hop [\u2026] The post A$AP Rocky Brings His Don\u2019t Be Dumb Tour to Houston appeared first on Houston Press .",
+      "category": "Other",
+      "published_iso": "2026-06-21",
+      "classification_hint": "event",
+      "source": {
+        "name": "Houston Press \u2014 Events",
+        "url": "https://www.houstonpress.com/calendar"
+      }
+    },
+    {
+      "name": "The Hunchback of Notre Dame is Musical Theater at its Best",
+      "url": "https://www.houstonpress.com/arts/the-hunchback-of-notre-dame-is-musical-theater-at-its-best/",
+      "summary": "Wherever Houston Broadway Theatre appears, it should erect a lighting rod on the roof because its fiery productions set the space ablaze. The Hobby\u2019s Zilkha Hall is still smoldering after HBT\u2019s searing premiere Next to Normal (2024). Its cult hit American Psycho (2025) almost burned the place down. Now the Wortham\u2019s Cullen Theater should boost [\u2026] The post <i>The Hunchback of Notre Dame </i> is Musical Theater at its Best appeared first on Houston Press .",
+      "category": "Theater & Performance",
+      "published_iso": "2026-06-20",
+      "classification_hint": "event_no_date",
+      "source": {
+        "name": "Houston Press \u2014 Events",
+        "url": "https://www.houstonpress.com/calendar"
+      }
+    },
+    {
+      "name": "Greezy Wheels Keep Turning",
+      "url": "https://www.houstonpress.com/music/greezy-wheels-keep-turning/",
+      "summary": "The famous Armadillo World Headquarters made Austin\u2019s music scene a beacon for musicians and fans. In just a ten-year span from 1970 to 1980, the venue helped create the cosmic country movement and cemented Austin\u2019s place in music history. No one embodies this spirit more than Greezy Wheels. The band famously set the stage for Willie Nelson to have his first performance at [\u2026] The post Greezy Wheels Keep Turning appeared first on Houston Press .",
+      "category": "Music",
+      "published_iso": "2026-06-18",
+      "classification_hint": "event_no_date",
+      "source": {
+        "name": "Houston Press \u2014 Events",
+        "url": "https://www.houstonpress.com/calendar"
+      }
+    },
+    {
+      "name": "Houston Concert Watch 6/17: Todd Rundgren, Khalid and More",
+      "url": "https://www.houstonpress.com/music/houston-concert-watch-6-17-todd-rundgren-khalid-and-more/",
+      "summary": "Todd Rundgren can\u2019t win. He can play his hits and please the more casual fans or he can play deep cuts, satisfying the \u201cHot Toddies.\u201d The post Houston Concert Watch 6/17: Todd Rundgren, Khalid and More appeared first on Houston Press .",
+      "category": "Music",
+      "published_iso": "2026-06-17",
+      "classification_hint": "event",
+      "source": {
+        "name": "Houston Press \u2014 Events",
+        "url": "https://www.houstonpress.com/calendar"
+      }
+    },
+    {
+      "name": "Top Live Theater & Performing Arts in Houston This Week: June 15 to 21, 2026",
+      "url": "https://365thingsinhouston.com/top-live-theater-performing-arts-in-houston-this-week-june-15-21-2026/",
+      "summary": "The post Top Live Theater & Performing Arts in Houston This Week: June 15 to 21, 2026 appeared first on 365 Things to Do in Houston . See the latest performing arts productions and theater happenings opening across Houston from Monday, June 15 to Sunday, June 21, 2026. It\u2019s the most wonderful time of the year in [\u2026] 365 Things to Do in Houston - Fun and exciting things to do in the Bayou City",
+      "category": "Theater & Performance",
+      "published_iso": "2026-06-15",
+      "classification_hint": "event",
+      "source": {
+        "name": "365 Things to Do in Houston",
+        "url": "https://365thingsinhouston.com"
+      }
+    },
+    {
+      "name": "Hone your photo skills & save big at Precision Camera\u2019s Summer Expo in The Woodlands",
+      "url": "https://365thingsinhouston.com/summer-expo-2026-precision-camera-the-woodlands/",
+      "summary": "The post Hone your photo skills & save big at Precision Camera\u2019s Summer Expo in The Woodlands appeared first on 365 Things to Do in Houston . Save the tax on cameras and lenses, learn from expert photographers, and score great deals at the free, two-day Summer Expo at Precision Camera in The Woodlands on Friday, June [\u2026] 365 Things to Do in Houston - Fun and exciting things to do in the Bayou City",
+      "category": "Other",
+      "published_iso": "2026-06-11",
+      "classification_hint": "event",
+      "source": {
+        "name": "365 Things to Do in Houston",
+        "url": "https://365thingsinhouston.com"
+      }
+    }
+  ]
+}

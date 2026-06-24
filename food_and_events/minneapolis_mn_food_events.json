@@ -1,0 +1,171 @@
+{
+  "title": "Minneapolis \u2014 Restaurant Openings & Events",
+  "generated": "2026-06-24T02:02:28Z",
+  "city": "Minneapolis",
+  "tier": "in_between_mega",
+  "population_m": 3.71,
+  "extraction_method": "rss_first_with_deterministic_classifier_v1",
+  "totals": {
+    "restaurant_openings": 3,
+    "events_calendar": 7
+  },
+  "sources_used": {
+    "restaurant_openings": [
+      "Eater Twin Cities"
+    ],
+    "events_calendar": [
+      "City Pages / Racket MN"
+    ]
+  },
+  "sources_failed": [
+    {
+      "name": "Minnesota Monthly \u2014 Food",
+      "url": "https://www.minnesotamonthly.com/category/eats-and-drinks/",
+      "content_type": "restaurant_openings",
+      "error": "HTTP 429"
+    },
+    {
+      "name": "Mpls.St.Paul Magazine \u2014 Food",
+      "url": "https://mspmag.com/category/eat-and-drink/",
+      "content_type": "restaurant_openings",
+      "error": "HTTP 404"
+    }
+  ],
+  "raw_html_pages_available": {
+    "restaurant_openings": [],
+    "events_calendar": [
+      "Meet Minneapolis \u2014 Events"
+    ]
+  },
+  "restaurant_openings": [
+    {
+      "name": "The Twin Cities\u2019 Most Anticipated Restaurant Openings in 2026",
+      "url": "https://twincities.eater.com/restaurant-news/37865/minneapolis-st-paul-restaurant-bar-openings-2026",
+      "summary": "From the jump, 2026 has been a brutal year for the Twin Cities, with the Trump Administration\u2019s violent crackdown on immigration upending the lives of neighbors. With that, residents have demonstrated spectacular solidarity in defense of their communities. Restaurants, such as those along the Eat Street corridor, have borne a substantial cost amid the invasion [\u2026]",
+      "categories": [
+        "Restaurant"
+      ],
+      "published_iso": "2026-03-09",
+      "classification_hint": "opening",
+      "source": {
+        "name": "Eater Twin Cities",
+        "url": "https://twincities.eater.com"
+      }
+    },
+    {
+      "name": "These Are Minnesota\u2019s 2026 James Beard Award Semifinalists",
+      "url": "https://twincities.eater.com/restaurant-news/37805/minnesota-james-beard-award-semifinalists-chefs-restaurants",
+      "summary": "The Twin Cities hospitality industry is unmatched. Not only are restaurants and professionals in this region setting new standards for food culture, but they\u2019re also acting in the best interests of their communities, moving to protect their workers in the face of a federal government siege on the region. Within the context of the truly [\u2026]",
+      "categories": [
+        "Restaurant"
+      ],
+      "published_iso": "2026-01-21",
+      "classification_hint": "opening",
+      "source": {
+        "name": "Eater Twin Cities",
+        "url": "https://twincities.eater.com"
+      }
+    },
+    {
+      "name": "8 Recent Twin Cities Restaurant and Bar Openings to Know in December",
+      "url": "https://twincities.eater.com/restaurant-news/37665/twin-cities-restaurant-and-bar-openings-december-2025",
+      "summary": "Welcome to the Opening Report, a curated roundup of recent restaurant openings big and small across the Twin Cities. Did we miss a spot? Drop a note at the tipline or email twincities@eater.com and we\u2019ll consider it for the next update. ARMITAGE \u2014 Pop-up-turned-restaurant Saturday Dumpling Co. has replaced Cafe Ceres in Armitage, according to [\u2026]",
+      "categories": [
+        "Bar & Cocktails",
+        "Caf\u00e9 & Coffee"
+      ],
+      "published_iso": "2025-12-15",
+      "classification_hint": "opening",
+      "source": {
+        "name": "Eater Twin Cities",
+        "url": "https://twincities.eater.com"
+      }
+    }
+  ],
+  "events_calendar": [
+    {
+      "name": "Pride and Much More (But Mostly Pride) in Your Complete Concert Calendar: June 23-29",
+      "url": "https://racketmn.com/pride-and-much-more-but-mostly-pride-in-your-complete-concert-calendar-june-23-29",
+      "summary": "Pretty much all the music you can catch in the Twin Cities this week.",
+      "category": "Music",
+      "published_iso": "2026-06-23",
+      "classification_hint": "event",
+      "source": {
+        "name": "City Pages / Racket MN",
+        "url": "https://racketmn.com"
+      }
+    },
+    {
+      "name": "Pride Parties, Cat Touring, and a Sex Expo: This Week\u2019s Best Events",
+      "url": "https://racketmn.com/pride-parties-cat-touring-and-a-sex-expo-this-weeks-best-events",
+      "summary": "Plus Soul Food Fest, Kim Gordon, and last call for Bauhaus Brew Labs.",
+      "category": "Other",
+      "published_iso": "2026-06-22",
+      "classification_hint": "event_no_date",
+      "source": {
+        "name": "City Pages / Racket MN",
+        "url": "https://racketmn.com"
+      }
+    },
+    {
+      "name": "Exhibition: Kilnforming in the Upper Midwest",
+      "url": "https://www.minneapolis.org/calendar/",
+      "summary": "Map Exhibition: Kilnforming in the Upper Midwest Jun 23",
+      "category": "Art & Exhibits",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Meet Minneapolis \u2014 Events",
+        "url": "https://www.minneapolis.org/calendar/"
+      }
+    },
+    {
+      "name": "This event is currently underway",
+      "url": "https://www.minneapolis.org/calendar/",
+      "summary": "22 This event is currently underway Kilnforming in the Upper Midwest Exhibition on view: May 22-July 22, 2026 Exhibition Reception: Saturday May 30, 2026 1-3 pm Foci Minnesota Center for Glass Arts www.mnglassart.org 2213 Snelling Ave, Minneapolis, MN\u2026 Arts & Theater",
+      "category": "Art & Exhibits",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Meet Minneapolis \u2014 Events",
+        "url": "https://www.minneapolis.org/calendar/"
+      }
+    },
+    {
+      "name": "Kilnforming in the Upper Midwest Exhibition on view: May 22-July 22, 2026 Exhibition Reception: Saturday May 30, 2026 1-3 pm Foci Minnesota Center for Glass Arts www.mnglassart.org 2213 Snelling Ave, ",
+      "url": "https://www.minneapolis.org/calendar/",
+      "summary": "This event is currently underway Kilnforming in the Upper Midwest Exhibition on view: May 22-July 22, 2026 Exhibition Reception: Saturday May 30, 2026 1-3 pm Foci Minnesota Center for Glass Arts www.mnglassart.org 2213 Snelling Ave, Minneapolis, MN\u2026 Arts & Theater Details",
+      "category": "Art & Exhibits",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Meet Minneapolis \u2014 Events",
+        "url": "https://www.minneapolis.org/calendar/"
+      }
+    },
+    {
+      "name": "Arts & Theater",
+      "url": "https://www.minneapolis.org/calendar/",
+      "summary": "Kilnforming in the Upper Midwest Exhibition on view: May 22-July 22, 2026 Exhibition Reception: Saturday May 30, 2026 1-3 pm Foci Minnesota Center for Glass Arts www.mnglassart.org 2213 Snelling Ave, Minneapolis, MN\u2026 Arts & Theater Details Exhibition: Kilnforming in the Upper Midwest",
+      "category": "Art & Exhibits",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Meet Minneapolis \u2014 Events",
+        "url": "https://www.minneapolis.org/calendar/"
+      }
+    },
+    {
+      "name": "At 9:26 a.m. on September 11, 2001, the Federal Aviation Administration shuts down U.S. airspace in response to terrorist attacks, forcing all inbound planes to find alternate destinations. In total, ",
+      "url": "https://www.minneapolis.org/calendar/",
+      "summary": "This event is currently underway At 9:26 a.m. on September 11, 2001, the Federal Aviation Administration shuts down U.S. airspace in response to terrorist attacks, forcing all inbound planes to find alternate destinations. In total, 38 planes\u2026 Arts & Theater Details",
+      "category": "Theater & Performance",
+      "published_iso": null,
+      "classification_hint": "event_from_html_listing",
+      "source": {
+        "name": "Meet Minneapolis \u2014 Events",
+        "url": "https://www.minneapolis.org/calendar/"
+      }
+    }
+  ]
+}

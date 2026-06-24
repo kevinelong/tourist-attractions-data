@@ -1,0 +1,40 @@
+{
+  "title": "Atlanta \u2014 Restaurant Openings & Events",
+  "generated": "2026-06-24T02:02:28Z",
+  "city": "Atlanta",
+  "tier": "east_coast_mega",
+  "population_m": 6.31,
+  "extraction_method": "rss_first_with_deterministic_classifier_v1",
+  "totals": {
+    "restaurant_openings": 0,
+    "events_calendar": 0
+  },
+  "sources_used": {
+    "restaurant_openings": [
+      "Eater Atlanta"
+    ],
+    "events_calendar": []
+  },
+  "sources_failed": [
+    {
+      "name": "Atlanta Magazine \u2014 Dining",
+      "url": "https://www.atlantamagazine.com/dining/",
+      "content_type": "restaurant_openings",
+      "error": "HTTP 429"
+    },
+    {
+      "name": "Atlanta Magazine \u2014 Events",
+      "url": "https://www.atlantamagazine.com/atlanta-events/",
+      "content_type": "events_calendar",
+      "error": "HTTP 429"
+    }
+  ],
+  "raw_html_pages_available": {
+    "restaurant_openings": [],
+    "events_calendar": [
+      "Creative Loafing Atlanta"
+    ]
+  },
+  "restaurant_openings": [],
+  "events_calendar": []
+}
